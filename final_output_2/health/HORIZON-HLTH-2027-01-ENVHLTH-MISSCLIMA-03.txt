@@ -1,0 +1,131 @@
+HORIZON-HLTH-2027-01-ENVHLTH-MISSCLIMA-03: Tools and technologies to 
+support health adaptation to climate change 
+Call: Cluster 1 - Health (Single stage - 2027/1) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+4.00 and 5.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 20.00 million. 
+Type of Action Pre-commercial Procurement 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in 
+the United States of America is eligible to receive Union funding. 
+If projects use satellite-based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The specific conditions for actions with PCP/PPI procurements in 
+section H of the General Annexes apply to grants funded under this 
+topic. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Beneficiaries must ensure that the subcontracted work is performed in 
+the EU and Associated Countries - unless otherwise approved by the 
+granting authority. 
+Grants award under this topic will have to submit the following 
+deliverable: To stimulate dialogue with the supply side, procurers are 
+required to organise an open market consultation before launching the 
+procurement and deliver a report on the outcomes of this consultation. 
+Beneficiaries will be subject to the following additional dissemination 
+ 
+obligations: Procurers are required to promote the call for tenders 
+widely across the EU and Associated Countries to potentially 
+interested suppliers. 
+Beneficiaries may provide financial support to third parties to ensure 
+the deployment and impact of the project outcomes. The support to 
+third parties can only be provided in the form of grants. The maximum 
+amount to be granted to each third party is EUR 60 000. 
+The specific conditions are described in General Annex H. 
+PCP procurement costs are eligible. 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Living and working in a health -promoting 
+environment” and the EU Mission on Adaptation to Climate Change. To that end, proposals 
+under this topic should aim to deliver results that are directed at, tailored towards and 
+contributing to most of the following expected outcomes: 
+• Populations, public authorities and healthcare systems benefit from innovative solutions 
+and technologies to increase surveillance and prevention and reduce climatic and 
+environmental health risks. 
+• Policymakers and public authorities develop and implement environment, climate 
+change and health policies and interventions supported by nearly fit -for-use solutions 
+that can be further upscaled and deployed.  
+Scope: Enhancing the adaptive capacity and resilience of healthcare systems and communities 
+is crucial to prevent and reduce the health impacts of climate change. However, many of the 
+urgently needed technologies, tools, systems and solutions are still at an early developmental 
+stage, relying on further support for development and testing. Proposals under this topic are 
+expected to close this gap and build on innovations being developed in the field, supported 
+through, among others, EU Research and Innovation (R&I) funding. In this context, Pre -
+commercial Procurement (PCP) projects can drive innovation and speed up the development 
+of technologies for health adaptation to climate change by supporting the research and 
+development of solutions to increase the resilience and preparedness of healthcare systems, 
+communities and individuals against climate change. By focusing on early -stage solutions, 
+PCP fosters collaboration between public sector buyers (e.g. public authorities, local 
+authorities, health organisations) and private developers to create climate adaptation 
+technologies, systems and solutions in the context of human health. These solutions will 
+accelerate the transition to more climate-resilient healthcare systems and societies. 
+PCP actions target consortia of procurers with similar needs that want to jointly procure the 
+development of innovative solutions for supporting adaptation efforts. This topic does not 
+provide direct funding to developers, industry or research organisations to perform Research 
+and Development (R&D). They will be able to respond to the call for tenders launched by 
+consortia of procurers funded under this topic. 
+Proposals under this topic should support the development of innovative solutions, tools and 
+models to enhance surveillance, prediction, prevention, risk management and diagnosis (e.g. 
+testing), supporting the adaptation, resilience, and preparedness of healthcare systems and 
+populations to climatic and climate-related environmental health risks. 
+More specifically proposals can support any of the areas listed below: 
+• Geospatial technologies and decision -support frameworks that help local authorities and 
+healthcare providers track at “high resolution” and better manage direct and indirect 
+health risks related to climate change. 
+• Real-time risk surveillance and early -warning technologies and monitoring tools that 
+provide critical information for timely decision -making and responses related to the 
+health risks of climate change. 
+• Technologies and solutions that facilitate the transition to climate -resilient healthcare 
+facilities and services. Activities targeting the general infrastructure (e.g. ventilation, 
+construction or refurbishment) are out of scope. 
+• Technologies, tools, procedures and solutions for health risk management, prevention 
+and resilience, enhancing strategies and interventions for health adaptation to climate 
+change in communities and occupational settings. 
+• Innovative tools reducing risk and exposure to climate related environmental factors that 
+exacerbate health risks.  
+This topic considers tools and technologies that could be developed and tested to support 
+adaptation at both the community and healthcare system levels 116 . This approach would 
+comprehensively address the needs of health authorities and those of local authorities and 
+public organisations involved in risk management. Consortium composition could include 
+diverse stakeholders such as hospitals, primary healthcare providers, domestic care services, 
+municipalities, civil protection entities and government agencies. The focus can extend 
+beyond climate variables to include other related environmental and ecological factors (for 
+example air pollution) that interact with climate change and impact public health. 
+Proposals are encouraged to consider, where relevant, the data, expertise and services offered 
+by European research infrastructures117 in the environment, climate and health domain. 
+ 
+Continuous dialogue between demand and supply side is required for the success of PCPs, 
+therefore the effective involvement of end users should be considered in the proposal. 
+Involvement of procurement decision makers is needed to ensure that end solution(s) are 
+adopted by healthcare systems and/or local authorities and public organisations increasing the 
+societal impact of the related research activities. Therefore, procurers should declare in the 
+proposal their interest to purchase at least one solution resulting from the PCP in case the PCP 
+delivers successful solutions and indicate whether they will i) procure the solution(s) as part 
+of the PCP or ii) in a separate follow-up procurement after the PCP. In the first case, procurers 
+can implement the project as a fast -track PCP (see section H of the General Annexes of this 
+Work Programme for further details) and foresee the budget to purchase at least one solution 
+during the PCP. In the second case, the procurers should include in the proposal a deliverable 
+that prepares the follow-up procurement to purchase successful solution(s) after the PCP. 
+This topic is co-financed by the EU Mission on Adaptation to climate change 118 and supports 
+the follow up to the 2023 Communication on the Missions 119. Projects are encouraged to 
+channel their activities through the Mission Implementation Platform 120 and the Mission’s 
+Community of Practice121. 
+ 

@@ -1,0 +1,124 @@
+HORIZON-HLTH-2026-01-DISEASE-11: Understanding of sex and/or gender -specific 
+mechanisms of cardiovascular diseases: determinants, risk factors and pathways 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+6.00 and 7.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 39.30 million. 
+Type of Action Research and Innovation Actions 
+Eligibility The conditions are described in General Annex B. The following 
+ 
+conditions exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 
+4 (Implementation). The cumulative threshold will be 12. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 182. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Tackling diseases and reducing disease 
+burden”. To that end, proposals under this topic should aim to deliver results that are directed 
+at, tailored towards and contributing to all the following expected outcomes: 
+• Researchers, developers of medical interventions, and healthcare professionals have a 
+better understanding of biological sex and/or gender -specific health determinants, risk 
+factors and pathways for cardiovascular diseases. 
+• Researchers, developers of medical interventions, and healthcare professionals have 
+access and use sex and/or gender -specific or tailored risk models for better prevention, 
+detection and diagnostic and treatment strategies. 
+ 
+• Healthcare systems benefit from novel sex and/or gender -specific strategies for 
+prevention, detection, diagnosis and treatment options, resulting in reduced burden of 
+cardiovascular diseases.  
+Scope: Cardiovascular diseases (CVDs) are the leading cause of premature deaths in the EU 
+and account for 32% of all deaths in 2021 (over 1.7 million deaths)183. 
+Biological sex and gender play a specific role both in the incidence and the prevalence of 
+certain diseases, including CVDs. Sex and gender disparities in CVDs are influenced by 
+biological, behavioural, and sociocultural factors, affecting symptoms, prevalence, treatment, 
+and outcomes. Hormonal influences, genetic predispositions, and/or physiological differences 
+contribute to variations in how CVD presents and progresses in men and women. Risk factors 
+such as diabetes, cholesterol, smoking, and age have different impacts across genders, 
+highlighting the need for customised treatment strategies. Unique gender -specific conditions 
+in women, such as menopause, pregnancy complications like preeclampsia and certain 
+autoimmune diseases, also increase the risk for CVDs184. 
+Mainstreaming a gender perspective into the research, prevention and control of CVDs is thus 
+crucial to understanding and addressing the health risks and needs of women and men of all 
+ages185. 
+Although the significant progress has been done in investigating sex and/or gender -specific 
+pathophysiological mechanisms of cardiovascular diseases, more research is needed to 
+translate basic discoveries into the development of innovative prevention, detection, 
+diagnosis, and treatment options. 
+Proposals should address most of the following aspects: 
+• Contribute to further the understanding on the structural, hormonal, and/or biological 
+distinctions between sexes/genders to improve diagnostics and therapeutics for CVDs. 
+• Develop sex and/or gender -specific tailored risk models in a view of better prevention, 
+detection and diagnostic, and treatment strategies. 
+• Identify and/or validate novel or existing sex and/or gender -specific health determinants, 
+risk factors and pathways for cardiovascular disease(s) through the generation, 
+integration and validation of data derived from relevant disciplines (e.g. molecular 
+biology, behavioural science, nutrition, clinical, social and environmental epidemiology; 
+exposure sciences; genetics and epigenetics, etc.). 
+ 
+• Make use of existing health data, including registries or cohorts, and/or assess the 
+necessity to establish new ones, as well as, where relevant, exploit the knowledge gained 
+from population -based biobanks. In case of the generation of new data, it should be 
+managed in line with the FAIR186 principles, when relevant.  
+Proposals are encouraged to consider, where relevant, the data, expertise and services offered 
+by European research infrastructures187 in the health domain. 
+The use and/or development of new technologies, including digital ones (e.g. (generative) 
+Artificial Intelligence) that support research under this topic is encouraged. 
+Disease progression and overall health status at different life stages, as well as hormonal 
+influences, genetic factors, etc. and psychosocial, socioeconomic, cultural and behavioural 
+factors should be considered in the proposed research. Other intersecting factors such as racial 
+or ethnic origin 188 , often amplify existing inequalities in health access and outcomes. 
+Proposals should, where relevant, consider these to design effective and inclusive 
+interventions. 
+In the context of gender -specific research, this topic requires the effective contribution of 
+social sciences and humanities (SSH) disciplines and the involvement of SSH experts, 
+institutions as well as the inclusion of relevant SSH expertise, in order to produce meaningful 
+and significant effects enhancing the societal impact of the related research activities. 
+The participation of start -ups, micro, small and medium -sized enterprises (SMEs) 189  is 
+encouraged with the aim of strengthening their scientific and technological foundations, 
+enhancing their innovation potential, and exploring possibilities for commercial exploitation. 
+All projects funded under this topic are encouraged to participate in networking and joint 
+activities, as appropriate. Proposals should include a budget for the attendance to regular joint 
+meetings and may consider covering the costs of any other potential joint activities without 
+the prerequisite to detail concrete joint activities at this stage. The details of these joint 
+activities will be defined during the grant agreement preparation phase. All projects funded 
+under this topic are also encouraged to explore complementarities and exploit potential 
+synergies with the projects funded under topic HORIZON -CL6-2026-02-FARM2FORK-10: 
+“Sustainable and healthy diets based on health status and socio -economic risk factors of 
+ageing population”, once information on the funded projects is available. 
+All projects funded under this topic are encouraged to explore potential synergies with 
+projects to be funded under the EU4Health Work Programme 2026 related to the gender and 
+CVDs. 
+ 
+Applicants envisaging to include clinical studies 190 should provide details of their clinical 
+studies in the dedicated annex using the template provided in the submission system.

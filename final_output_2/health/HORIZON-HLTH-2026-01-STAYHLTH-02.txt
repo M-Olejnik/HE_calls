@@ -1,0 +1,104 @@
+HORIZON-HLTH-2026-01-STAYHLTH-02: Behavioural interventions as primary 
+prevention for Non-Communicable Diseases (NCDs) among young people 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU The Commission estimates that an EU contribution of between EUR 
+ 
+contribution per 
+project 
+9.00 and 10.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 20.60 million. 
+Type of Action Research and Innovation Actions 
+Eligibility conditions The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in 
+the United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, 
+navigation and/or related timing data and services, beneficiaries must 
+make use of Copernicus and/or Galileo/EGNOS (other data and 
+services may additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) 
+and 4 (Implementation). The cumulative threshold will be 12. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Staying healthy in a rapidly changing 
+society”. To that end, proposals under this topic should aim to deliver results that are directed 
+at, tailored towards and contributing to most of the following expected outcomes: 
+• Healthcare professionals have access to behavioural interventions that can be used to 
+establish and reinforce healthy habits and sustain behavioural changes. 
+• Health professionals and educators have access to evidence -based strategies to mitigate 
+risks of Non -Communicable Diseases (NCDs) for youth, with clear metrics that can be 
+used to assess health outcomes. 
+• Youth have increased individual responsibility through targeted education, digital 
+services, including easily accessible tools for self -monitoring, and community -based 
+support, stemming from increased collaboration between healthcare professionals, 
+educators and families. 
+• Researchers have access to Real -World Data (RWD) 59 , existing health data 
+infrastructure and digital tools, including Artificial Intelligence (AI), which can 
+contribute to the sustained success of behavioural health interventions. 
+• Policymakers at local, regional, national and EU levels have new knowledge on 
+behavioural interventions on NCDs among youth, which they can use to improve 
+interventions in diverse European contexts.  
+Scope: The topic is focused on behavioural interventions for youth, defined as 12 to 25 years 
+old, for the primary prevention of the top NCDs later in life, where “top NCDs” refers to the 
+most prevalent NCDs60. For the purpose of this call, NCDs explicitly exclude cancer. 
+Implementation research should be conducted to implement existing behavioural 
+interventions. These interventions should be evidence -based and have an emphasis on 
+empowerment and self-management (e.g. health literacy, health education, health promotion). 
+As self-monitoring is an essential element of self-management, proposals should include user-
+friendly hardware and software for efficient self -monitoring (i.e. wearables and point -of-care 
+devices for measuring various physiological parameters and other predictors and other 
+biomarkers and the corresponding apps for easy readout and tracking, possibly also including 
+gamification elements). Hardware and software should be interoperable in line with 
+internationally accepted standards in order to avoid lock-in effects and assure scalability. 
+Proposals should also include most of the following aspects: 
+• Ensure that gender -sensitive and intersectional approaches are integrated, addressing 
+potential gender-specific barriers for groups at risk of discrimination, as well as cultural 
+and socioeconomic backgrounds, and should also outline how digital tools, including AI 
+and RWD and biomarkers (e.g. genomic data, wearables, etc.) or existing relevant 
+administrative dataset, will be integrated to enhance the scalability, personalisation, and 
+effectiveness of interventions in the long-term. 
+• Present a clear, evidence -based strategy showing how the interventions will be tailored, 
+deployed, and assessed at individual, family, community, and societal levels, while 
+considering social inequalities and lifestyle factors (i.e. nutrition, sleep rhythm) and 
+ensuring a robust methodological framework for evaluating the effectiveness of 
+interventions (e.g. randomised controlled trails, quasi -experimental designs, etc.), with 
+clearly defined indicators of success of the intervention (e.g. biometric markers, 
+psychosocial wellbeing metrics, physical activity change, etc.). Applicants should 
+evaluate unintended consequences for all interventions. 
+ 
+• Include formats that will increase collaboration between healthcare professionals, 
+educators, families, and policymakers in promoting preventive health and should include 
+plans for longer -term follow -up to estimate health impact and cost savings over time. 
+Related to this, applicants should outline how policy changes related to the intervention 
+(e.g. school meal programmes, safe urban infrastructure for exercise, digital literacy 
+campaigns, circadian alignment, stress reduction strategies) can reinforce and scale up 
+successful behavioural interventions, whilst taking into account how they can be 
+replicated or adapted to different cultural, geographic and socio -economic contexts. As 
+such, active involvement of key stakeholders throughout the study is strongly 
+encouraged.  
+This topic requires the effective contribution of social sciences and humanities (SSH) 
+disciplines and the involvement of SSH experts, organisations as well as the inclusion of 
+relevant SSH expertise, in order to produce meaningful and significant effects enhancing the 
+societal impact of the related research activities. 
+The proposals should adhere to the FAIR 61 data principles, adopt data quality standards, data 
+integration operating procedures and GDPR 62 compliant data sharing/access good practices 
+developed by the European research infrastructures, where relevant. 
+Applicants should provide details of their clinical studies 63 in the dedicated annex using the 
+template provided in the submission system. As proposals under this topic are expected to 
+include clinical studies, the use of the template is strongly encouraged.

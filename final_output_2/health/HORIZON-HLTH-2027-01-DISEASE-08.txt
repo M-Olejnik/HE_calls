@@ -1,0 +1,114 @@
+HORIZON-HLTH-2027-01-DISEASE-08: Development of innovative antimicrobials 
+against pathogens resistant to antimicrobials 
+Call: Cluster 1 - Health (Single stage - 2027/1) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+8.00 and 10.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 44.20 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+ 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 
+4 (Implementation). The cumulative threshold will be 12. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+To ensure a balanced project portfolio covering the pathogens targeted 
+in this topic 265 , grants will be awarded (within available budget) to 
+proposals not only in order of ranking but at least also to those proposals 
+that are the highest ranked within different pathogens targeted, provided 
+that the proposals attain all thresholds. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Tackling diseases and reducing disease 
+burden”. To that end, proposals under this topic should aim to deliver results that are directed 
+at, tailored towards and contributing to all the following expected outcomes: 
+• The scientific and clinical communities have a better understanding of and access to new 
+and innovative products for the treatment of antimicrobial resistant bacteria and fungi, as 
+well as for further clinical investigation. 
+• Candidate therapies are available to treat patients for antimicrobial resistant bacteria and 
+fungi, increasing therapeutic options for clinical deployment in the fight against 
+Antimicrobial Resistance (AMR).  
+Scope: The rapid rise of AMR presents a formidable threat to public health, challenging our 
+ability to treat infections that were once easily managed with standard antimicrobials. As 
+pathogens continually adapt and develop resistance to existing drugs, the efficacy of these 
+treatments diminishes, leading to more severe and prolonged illnesses, increased healthcare 
+costs and productivity losses, and higher mortality rates. This escalating crisis underscores an 
+urgent need for viable therapeutic alternatives required to reduce the burden of diseases 
+caused by antibiotic resistance. Innovative solutions are crucial to maintaining effective 
+disease management and safeguarding public health. 
+Proposals should pursue the development of innovative and effective antibacterial and 
+antifungal agents, including antibody -based therapies, which meet at least one of the four 
+ 
+World Health Organization (WHO) innovation criteria 266, namely: i) new chemical class, ii) 
+new target, iii) new mode of action and iv) no evidence of cross-resistance. 
+This topic contributes to strengthening the Research and Innovation ecosystem within the EU 
+and supports the implementation of the European Medical Countermeasures Strategy 267 and 
+the forthcoming Critical Medicines Act268. 
+Proposals under this topic should not pursue the development of phage-therapies. 
+Applicants should explicitly state in their proposal which of the following pathogens is 
+targeted and the proposed work should address only this specific pathogen. The proposed 
+work should pursue the development of existing therapeutic candidates targeting exclusively 
+one of the following pathogens:   
+i. Carbapenem resistant Acinetobacter baumanii (CRAB) 
+ii. Carbapenem-resistant Enterobacterales (CRE) and third -generation cephalosporin -
+resistant Enterobacterales (C3GRE) 
+iii. Carbapenem resistant Pseudomonas aeruginosa 
+iv. Methicillin-Resistant Staphylococcus aureus (MRSA) 
+v. (Drug)-resistant Aspergillus fumigatus 
+vi. (Drug)-resistant Candida spp  
+Identifying a specific pathogen does not preclude the exploration of these candidates' effects 
+on other bacteria or fungi. Proposals should thus aim to accelerate testing of novel candidates 
+in human trials, diversify and accelerate the global prophylactic and therapeutic research and 
+development portfolio for AMR bacterial and fungal infections, and to strengthen the leading 
+role of the EU in prophylactic and therapeutic research and development. 
+Proposals should address all the following areas: 
+• If necessary, finalisation of in -vivo tests in at least one animal model or, if available in 
+humanised immune system animal models, to demonstrate the protective function of the 
+therapeutics deemed sufficient for moving to first clinical trials. 
+• If requested by regulators as pre -requisite for clinical studies, in -vivo tests in a non -
+human primate model. 
+• Production of batches of the most promising antimicrobials candidates according to the 
+Good Manufacturing Practices (GMP)269. 
+ 
+• In human clinical safety and efficacy studies, demonstrating a clear regulatory pathway 
+for market authorisation. Attention should be paid to critical biological and social factors 
+such as sex, age, ethnicity, disability and vulnerability.  
+Participation of third countries where AMR bacteria and fungi in the proposal are endemic or 
+where outbreaks have occurred or are ongoing is encouraged. 
+The participation of start -ups, micro, small and medium -sized enterprises (SMEs) 270  is 
+encouraged with the aim of strengthening their scientific and technological foundations, 
+enhancing their innovation potential, and exploring possibilities for commercial exploitation. 
+All projects funded under this topic are expected to engage with regulatory bodies in a timely 
+manner to ensure adequacy of the actions from a regulatory point of view. 
+Proposals should advance research by leveraging already existing and emerging state -of-the-
+art research initiatives such as the co -funded European Partnership on One Health Anti -
+Microbial Resistance (EUP OHAMR)271. 
+Applicants should provide details of their clinical studies 272 in the dedicated annex using the 
+template provided in the submission system. As proposals under this topic are expected to 
+include clinical studies, the use of the template is strongly encouraged.

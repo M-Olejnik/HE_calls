@@ -1,0 +1,121 @@
+HORIZON-HLTH-2026-01-TOOL-06: Support to European Research Area (ERA) 
+action on accelerating New Approach Methodologies (NAMs) to advance biomedical 
+research and testing of medicinal products and medical devices 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 2.90 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 2.90 million. 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+ 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, legal entities established in the 
+United States of America may exceptionally participate as a beneficiary 
+or affiliated entity, and are eligible to receive Union funding. 
+Coordinators of projects must be legal entities established in an EU 
+Member State or Associated Country. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 
+4 (Implementation). The cumulative threshold will be 12. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 371. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Developing and using new tools, 
+technologies and digital solutions for a healthy society”. To that end, proposals under this 
+topic should aim to deliver results that are directed at, tailored towards and contributing to all 
+the following expected outcomes: 
+• Member States and relevant stakeholders identify priority areas where New Approach 
+Methodologies (NAMs) and infrastructures are most needed and expected to have the 
+highest short- to medium-term impact. 
+ 
+• Member States and other stakeholders jointly support the validation and qualification of 
+a limited set of NAMs that are intended to be accepted and implemented in regulatory 
+testing of medicinal products and medical devices. 
+• Member States and other stakeholders develop common education and training 
+programmes based on best practices identified in European and non -European countries 
+to better inform researchers and regulators on NAMs and on the application of the 3Rs 
+principles372. 
+• Member States and other stakeholders implement a harmonised NAM openness and 
+awareness programme that improves open access to NAMs protocols and results of 
+animal experiments. It also provides guidance to harmonise the awareness of NAMs for 
+ethical committee members, reviewers, and regulators, based on best practices in the 
+participating Member States. The programme should propose concrete actions to 
+increase the confidence of regulators in NAMs including a better understanding of the 
+potential and limitations of NAMs.  
+Scope: This topic aims to coordinate and develop the new European Research Area (ERA) 
+policy action to accelerate, through an aligned and coordinated approach across Member 
+States and Associated Countries, the development, validation/qualification, acceptance, and 
+uptake of NAMs in biomedical research and regulatory testing of medicinal products and 
+medical devices as part of the ERA Policy Agenda 2025-2027373. 
+The ERA action should establish an EU -wide forum that brings together relevant ministries, 
+regulatory agencies, research funding organisations, academia, industry (pharmaceutical and 
+medical technology), Contract Research Organisations (CROs), small and medium -sized 
+enterprises (SMEs) 374 , and startups to harmonise policies and strategies for NAMs 
+development and implementation. 
+The selected proposal should be coordinated by any active participant to the ERA action to 
+ensure consistency with ERA action policy objectives. It should contribute to the 
+implementation of the following themes of the four thematic Working Groups (WGs) of the 
+ERA action: 
+WG1: Development of NAMs and common European infrastructures. This WG identifies 
+opportunities for the development and integration of NAMs and the establishment of 
+supporting infrastructures. Its focus spans specific disease or biological areas and safety, 
+quality, and efficacy assessment endpoints for medicinal products and medical devices. The 
+WG provides insight and suggests priorities to governments and industry for the further 
+coordinated efforts to leverage promising development of NAMs, taking into consideration 
+ 
+the complementarity of scientific strengths, funding priorities and available expertise in the 
+different Member States and regions. 
+WG2: Validation, acceptance, and uptake of NAMs. The WG defines optimal criteria for 
+NAMs to facilitate their uptake in the contexts of basic and applied biomedical research, and 
+their acceptance for the regulatory assessment and eventual approval of medicinal products 
+and medical devices within defined contexts of use. It proposes priorities for the validation 
+and qualification of NAMs. Member States and pharma/MedTech industry take the decision 
+to jointly support the validation/qualification of certain NAMs that are sufficiently mature for 
+acceptance and uptake in regulatory testing of medicinal products and medical devices. 
+WG3: Education and training. The WG maps existing education and training programmes on 
+NAMs and the 3Rs principles and assesses their quality and outreach. The WG makes 
+suggestions to Member States based on the best practices identified for the joint development 
+of high -quality education and training modules on NAMs and the application of the 3Rs 
+principles in close partnership with education directors at knowledge institutes. 
+WG4: Openness and awareness. The WG develops common policies to improve the openness 
+and quality of research, including open access to available protocols on NAMs, and 
+facilitating the publication of results from NAMs and animal experiments, even if these are 
+negative or neutral (or historic, if feasible and appropriate), to avoid unnecessary duplication 
+of animal testing or development of non -valid NAMs. It considers strategies for sharing best 
+practices to make sure that different ethical committees, funding assessment committees, 
+reviewers, and regulators have a similar level of awareness regarding the latest scientific 
+advancements in available NAMs. It proposes actions to enhance the confidence of regulators 
+in validated and qualified NAMs. The WG also identifies opportunities for raising awareness 
+among civil society and patients regarding the biomedical research, drug discovery and 
+development process. 
+The European Commission's Joint Research Centre (JRC) may contribute to the proposal 
+selected for funding, particularly with activities on innovative in vitro biotechnologies.

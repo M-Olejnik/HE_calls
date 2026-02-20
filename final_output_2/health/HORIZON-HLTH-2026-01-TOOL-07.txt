@@ -1,0 +1,139 @@
+HORIZON-HLTH-2026-01-TOOL-07: Establishing a European network of Centres of 
+Excellence (CoEs) for Advanced Therapies Medicinal Products (ATMPs) 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 3.90 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 3.90 million. 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, legal entities established in the 
+United States of America may exceptionally participate as a beneficiary 
+or affiliated entity, and are eligible to receive Union funding. 
+Coordinators of projects must be legal entities established in an EU 
+Member State or Associated Country. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 
+4 (Implementation). The cumulative threshold will be 12. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+Eligible proposals submitted under this topic and exceeding all the 
+evaluation thresholds will be awarded a STEP Seal 375. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 376. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Developing and using new tools, 
+ 
+technologies and digital solutions for a healthy society”. To that end, proposals under this 
+topic should aim to deliver results that are directed at, tailored towards and contributing to all 
+the following expected outcomes: 
+• In line with the objectives of the “Strategy for European Life Sciences” 377, the EU 
+successfully translates a strategic priority into an implementable action plan for building 
+technological and innovation leadership on a global stage. 
+• Europe, including regions, profits from an increased capacity, accessibility, coordination 
+of its Advanced Therapies Medicinal Products (ATMP) infrastructures. 
+• The European economy benefits from more ATMP innovations being developed and 
+commercialised in the EU. 
+• Patients across the EU gain faster access to innovative ATMPs thanks to increased and 
+focused public Research and Development (R&D) investment, harmonised policies and 
+strategies for ATMP development and uptake in healthcare systems.  
+Scope: ATMPs represent a frontier in medicine, offering groundbreaking treatments such as 
+gene therapies, cell therapies, and tissue -engineered products that hold the promise of 
+addressing complex and previously untreatable conditions. The European ATMP landscape is 
+dynamic and promising, with 28 products having received marketing authorisation and many 
+more in the pipeline 378. The development of specialised infrastructures in Europe for these 
+cutting-edge therapies is crucial for fostering innovation and ensuring fast and efficient 
+delivery to patients in an equitable way. The report by Mario Draghi 379  on EU 
+competitiveness, highlights that the EU’s share of the fast -growing global ATMP market is 
+small, suggesting that to remain competitive, increased and focused public R&D investment is 
+needed to complement ongoing efforts to streamline regulations and ensure faster pricing and 
+reimbursement. The report recommends building on existing innovation hubs and expanding 
+the capacity of the EU to conduct ATMPs R&D by the consolidation of EU public funds. By 
+strengthening this budding innovation ecosystem, Europe can position itself as a leader in the 
+ATMP sector, ultimately improving patient access to life -saving treatments and stimulating 
+economic growth. 
+The EU has several scattered ATMP centres with divergent capacities and capabilities 380, 
+limiting its attractiveness for scaling up R&D in the field, calling for a coherent and 
+coordinated approach. The aim of this topic is to establish a European network of Centres of 
+Excellence (CoEs) for ATMPs, building on existing centres and coordinating their further 
+ 
+development in synergy with national strategies. The creation of such a Network is key for 
+strengthening the EU’s capacity to develop, scale up and deploy ATMPs across Europe, 
+increasing Europe’s attractiveness for clinical research in the field and supporting the 
+implementation of the “Strategy for European Life Sciences”. The CoEs should directly 
+support the development and manufacturing capacity of ATMP -related biotechnologies, such 
+as cell and gene therapy platforms, manufacturing infrastructure, and scale-up processes. 
+Each potential CoE should be an existing centre embedded within a vibrant biocluster (i.e. 
+within proximity to pharmaceutical companies and research institutes) and should already 
+benefit from critical infrastructure and services necessary to advance from lab to patient such 
+as knowledge transfer support, state -of-the-art GMP 381  and clinical trials facilities. In 
+addition, the centre should be performing the full spectrum of life sciences research, from 
+discovery to clinical trials and should have demonstrated leadership in the field through a 
+stand-alone research programme. Each CoE is expected to become world -class by further 
+embedding itself in the full value chain and seeking additional political and financial support 
+at regional, national and European level. The network should be limited to no more than 10 
+CoEs across the EU, with complementary expertise in the various ATMP technologies. 
+The proposed European network of CoEs for ATMPs should include multiple stakeholders 
+beyond the research community and/or established academic centres, including Member State 
+ministries, regional representatives, funders, regulators and healthcare payers, industry actors, 
+patient organisations and policymakers. The European Commission's Joint Research Centre 
+(JRC) may participate as a member of the consortium selected for funding, bringing its 
+expertise in pre -normative research, standardisation, regulatory advice and access to its 
+research infrastructure. 
+To align with STEP eligibility, activities supported under this topic should demonstrate how 
+they contribute to either: i) bringing innovative, cutting -edge technologies with strong 
+economic potential to the internal market, or ii) reducing or preventing the Union’s strategic 
+dependencies in the field of advanced therapies. 
+Proposals should be of limited duration (2027 -2030) and cover at a minimum the following 
+activities: 
+• Identify common needs and challenges related to ATMP R&D, as well as develop 
+relevant policy recommendations related to clinical trials, manufacturing, logistics, 
+regulatory (including harmonisation of market access authorisation and reimbursement 
+procedures), public acceptance, policies for transnational care, and coordination with 
+national/regional healthcare systems etc. 
+• Develop a roadmap to ensure that Europe becomes the global leader for ATMP R&I by 
+2035, with clearly defined milestones, targets and Key Performance Indicators (KPIs). 
+The roadmap should align with national R&D plans and include a long -term funding 
+ 
+strategy. Appropriate measures should be considered to expand or widen the network 
+during the roadmap’s implementation. 
+• Create an advisory board with diverse stakeholders, as a forum to provide guidance and 
+advice for ensuring maximum utility of the generated outputs. 
+• Develop common education and training programmes for the next generation of 
+scientists including outreach activities to better inform i) the public and patients on the 
+benefits of ATMPs and ii) the stakeholders about access to the CoEs facilities and 
+support.  
+Proposals should build on the experiences and outcomes of previous or ongoing actions such 
+as RESTORE 382, Join4ATMP 383, PRECISEEU 384 and T2EVOLVE 385, and liaise with the 
+relevant partnerships such as the co-funded European Partnership on Rare Diseases386, the co-
+funded European Partnership for Personalised Medicine 387  and the Innovative Health 
+Initiative Joint Undertaking (IHI-JU)388 as appropriate.

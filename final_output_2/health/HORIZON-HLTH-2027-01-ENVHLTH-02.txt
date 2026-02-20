@@ -1,0 +1,162 @@
+HORIZON-HLTH-2027-01-ENVHLTH-02: Integrating climate -related exposures into 
+the human exposome and characterising its changes in response to climate change 
+Call: Cluster 1 - Health (Single stage - 2027/1) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+10.00 and 11.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 45.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation and 
+submission of the proposal - see General Annex B. 
+Award criteria The criteria are described in General Annex D. The following exceptions 
+apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 4 
+(Implementation). The cumulative threshold will be 12. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Beneficiaries will be subject to the following additional dissemination 
+obligations: Proposals should ensure that chemical monitoring and 
+human biomonitoring data are shared in the Common Data Platform for 
+Chemicals and its services such as the Information Platform for 
+Chemical Monitoring - IPCHEM 101  (through involvement with the 
+European Commission's Joint Research Centre - JRC) and the 
+environmental sustainability database. 
+In order to maximise synergies and increase the impact of the projects, 
+all proposals selected for funding from this topic will form a cluster and 
+be required to participate in common networking and joint activities (and 
+in determining modalities for their implementation and the specific 
+responsibilities of projects). These activities will be included in a 
+dedicated work package, having sufficient budget allocated to it (around 
+2% of the total requested budget). Depending on the scope of proposals 
+selected for funding, these activities may include: 
+• Attendance of regular joint meetings (e.g. common kick -off 
+meeting and annual meetings). 
+• Periodic report of joint activities (delivered at each reporting 
+period). 
+ 
+• Common dissemination and communication activities (which may 
+include, for example: a common dissemination and 
+communication strategy, web portal and visual identity, brochure, 
+newsletters). 
+• Common Data Management Strategy and Common Policy 
+Strategy (including joint policy briefs). 
+• Thematic workshops/trainings on issues of common interest. 
+• Working groups on topics of common interest (e.g. data 
+management and exchange, communication and dissemination, 
+science-policy link, scientific synergies). 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Living and working in a health -promoting 
+environment”. To that end, proposals under this topic should aim to deliver results that are 
+directed at, tailored towards and contributing to most of the following expected outcomes: 
+• Researchers, policymakers, healthcare practitioners and the public have a more 
+comprehensive understanding of the human exposome and the interactions between 
+climatic, environmental and socio -behavioural factors, supported by FAIR 102  data 
+linking these exposures to disease and health outcomes. 
+• Researchers, governments, policymakers, social care services and healthcare 
+practitioners have improved knowledge on the links between the climatic, social, 
+lifestyle and environmental factors of the exposome and global health burden, supporting 
+their efforts to adopt the exposome approach to identify and address relevant health 
+impacts. 
+• The public has access to the latest information on the influence of global environmental 
+exposures on health, enabling the adoption of health -promoting, climate -resilient and 
+nature-positive behaviours.  
+Scope: The exposome is the totality of exposures (and their interactions) experienced by an 
+individual throughout their lifetime, including chemical, physical, biological, nutritional and 
+psychosocial factors, from conception onwards. Many of these factors originate in the 
+environment, including climate -related exposures such as extreme heat, heightened air 
+pollution or drought. Climate change may amplify or interact synergistically with other better-
+established exposures, dynamically altering the human exposome and its health implications. 
+Despite this, climate factors remain underrepresented in large-scale human exposome studies. 
+ 
+Research activities under this topic should strengthen the use of the exposome approach to 
+study global exposures and generate evidence on their health implications. Proposals should 
+focus on integrating climate -related factors into exposome research and understanding how 
+the exposome changes in response to direct and indirect climate exposures. Moreover, 
+research activities should be multiscale and multidisciplinary and account for the complexity 
+and multifactorial nature of health determinants and the most pressing unmet medical needs in 
+relation to environmental degradation and disrupted ecosystems. Proposals should include 
+climate-relevant social determinants of health as part of their proposed activities. 
+More specifically, research actions under this topic should include all the following activities: 
+• Incorporate multiple climate exposures into exposomics studies and provide insights on 
+their influence on disease burden, through interactions with other exposome factors. 
+• Predict, identify and monitor changes in the exposome (including environmental, social 
+and occupational exposures) resulting from climate -related pressures and study their 
+health implications to identify emerging health risks and potential benefits of climate 
+change. 
+• Advance data generation, analysis, integration and interpretation in human exposomics, 
+developing methodologies and integrating novel approaches (e.g. AI technologies and 
+machine learning) for advanced data analytics, including for Real-World Data (RWD)103.  
+In addition, research actions should include several of the following targeted activities: 
+• Establish and investigate the biological pathways and mechanisms by which the 
+exposome drives health impacts, jointly considering climate-related and other exposures. 
+Build upon (when relevant) and study existing and/or newly generated longitudinal 
+cohorts that combine individual exposome data with the corresponding medical, omics 
+and biological data. 
+• Identify exposome-relevant indicators and biomarkers for exposome -related health risks 
+and potential benefits using comprehensive exposome studies that combine climate, 
+environmental, behavioural and social exposures. Account for disparities in individual 
+trajectories and exposure patterns where relevant. 
+• Report on health-relevant exposome findings using, where possible, standardised metrics 
+to ensure harmonised reporting of exposome -driven disease burden across regions and 
+sectors. Build on existing exposome toolboxes and increase their robustness and 
+coverage by integrating climate related exposures. 
+• Study the role of socioeconomic (e.g. income, energy poverty, occupation), demographic 
+(e.g. gender, racial or ethnic origin 104 , age) and behavioural (e.g. public trust, risk 
+ 
+perception) factors in determining patterns of exposure, using the exposome approach to 
+generate knowledge on intersectional vulnerability and resilience to exposome -driven 
+(including climate -driven) health impacts. Identify disproportionately affected 
+populations and develop interventions to reduce disparities.  
+When handling vulnerability data and indicators, sex -, gender -, racial or ethnic origin 105-
+disaggregated data should be collected and analysed, incorporating intersectional factors 
+where feasible and relevant. 
+International cooperation is encouraged, in particular with regions that are under -represented 
+in human exposome research. 
+Projects should leverage the knowledge, data and tools already generated under past 
+initiatives such as EHEN 106 and ongoing initiatives such as IHEN 107 , ICOS ERIC 108  and 
+EIRENE RI109. 
+Proposals are encouraged to consider, where relevant, the data, expertise and services offered 
+by European research infrastructures 110  in the environment, climate and health domain. 
+Projects should make the tools developed as part of their research available on the IHEN 
+Exposome Toolbox111 and upload their data sets in the IHEN Data Catalogue112. 
+In order to maximise synergies and increase the impact of the projects, all proposals selected 
+for funding from this topic will form a cluster and be required to participate in common 
+networking and joint activities. Guidance on the potential activities to be developed can be 
+obtained by consulting the ongoing clusters of projects under the Environment, Climate and 
+Health research portfolio113. 
+Proposals should make sure that relevant activities, outcomes and outputs are shared with the 
+European Climate and Health Observatory 114 through the cluster that will be formed after the 
+approval of the proposals. 
+This topic requires the effective contribution of social sciences and humanities (SSH) 
+disciplines and the involvement of SSH experts, institutions as well as the inclusion of 
+relevant SSH expertise, in order to produce meaningful and significant effects enhancing the 
+societal impact of the related research activities. 
+ 
+Applicants envisaging to include clinical studies 115 should provide details of their clinical 
+studies in the dedicated annex using the template provided in the submission system.

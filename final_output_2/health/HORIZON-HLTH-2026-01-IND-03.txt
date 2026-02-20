@@ -1,0 +1,138 @@
+HORIZON-HLTH-2026-01-IND-03: Regulatory science to support translational 
+development of patient-centred health technologies 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+4.00 and 6.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 19.60 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+ 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 
+4 (Implementation). The cumulative threshold will be 12. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 436. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Maintaining an innovative, sustainable, and 
+competitive EU health industry”. To that end, proposals under this topic should aim to deliver 
+results that are directed at, tailored towards and contributing to several of the following 
+expected outcomes: 
+• Policymakers and regulators will get accelerated access to improved evidence driven 
+methodologies to evaluate the impact and efficiency of novel health technologies, 
+facilitating decision-making for their use in humans and uptake in clinical practice. 
+• Patients and the health systems will benefit from the more targeted and efficient uptake 
+of safe and effective health innovations in clinical practice, supporting more personalised 
+approaches and improved care and public health.  
+ 
+Scope: The development, uptake and impact of health technologies typically results from a 
+long product development process that is based on a 'life cycle approach' which typically 
+involves several iterations of defined stages, i.e. from development, assessment to post-market 
+surveillance and post-market clinical follow-up. 
+While health technologies are governed by comprehensive legal frameworks aiming to ensure 
+that health technologies are safe and effective, the regulatory science underlying these legal 
+frameworks needs to be updated. This concerns inter alia  i) more precise delineation of 
+specific requirements (e.g. closing existing gaps concerning sufficiency of clinical evidence) 
+and ii) the consideration of novel biomedical approaches, data and digital solutions (e.g. 
+artificial intelligence - AI, virtual human twin, new approach methodologies as well as 
+methods that cut through these domains) which model and predict relevant biological 
+parameters and exploit relevant end -points and novel (bio)markers for clinical diagnostic and 
+prognostic predictions. Such update of the regulatory science of health technologies should 
+aim at supporting an effective adoption and uptake into routine use by health systems and 
+end-users (healthcare providers, citizens), while maintaining guardrails to ensure that 
+innovative health technologies are backed up by evidence of sufficient quality and relevance 
+to the human situation. 
+Proposals can cover all types of health technologies, aiming to define improved and novel 
+sources of evidence with proven relevance for regulatory decision -making with a focus on 
+safety and performance throughout their lifecycle, i.e. throughout the continuous process of 
+clinical evaluation. To this end, proposals should address either, or a combination of the 
+following: i) the improvement of existing methodologies and their fitness to specific types or 
+classes of health technologies, including methodology for regulatory assessment and ii) 
+explore and examine to which extent novel information sources as indicated above can be 
+considered as evidence that is satisfactory in view of regulatory needs concerning safety and 
+performance. 
+Proposals should support the update and refinement of regulatory science on health 
+technologies and contribute actionable information that can be used for improved or novel 
+regulatory policies, rules, guidance documents and other tools with a view to ensuring that 
+European patients and healthcare professionals have access to safe and effective innovative 
+health technologies. Proposals should ultimately contribute to a regulatory environment that 
+makes use of the full spectrum of novel biomedical and bio -digital approaches for clinical 
+investigation and evaluation, while promoting a patient-centred approach to health technology 
+innovation, facilitating the timely entry to market of performant and effective innovations and 
+support their uptake in the health systems and clinical workflows without compromising 
+patient safety. 
+Applicant consortia should reflect a broad representation of stakeholders, notably clinical 
+societies, academia, notified bodies, industry, patients and regulators and the proposed work 
+should address one or more of the following elements: 
+• Data and analyses on how existing approaches in regulatory science can be refined and 
+improved in view of closing existing gaps of clarity, sufficiency of clinical evidence, 
+generated on the basis of clinical studies and clinical investigations. 
+• Data and analyses on whether and to which extent novel information sources from 
+biomedicine including new approach methods and digital and AI -enabled models and 
+approaches can contribute to the clinical evaluation of innovative health technologies, 
+e.g.:        
+ By providing information on relevant biophysical, anatomical, physiological and 
+other disease-relevant aspects.    
+ By supporting information integration through the use and aggregation of already 
+existing data, including clinical ones, from similar types or groups of technologies 
+(e.g. retrospective information in registries, data collections, including Real -World 
+Data (RWD)437 from using technologies that have characteristics that are relevant 
+for innovative technologies).    
+ By supporting improved planning and design of first -in-man clinical studies, with a 
+view of enhancing the effectiveness and the safety of such studies and rationalising 
+the use of resources of all involved actors by focusing the generation and 
+assessment of clinical data on health technologies for which those data are 
+indispensable.   
+• Data and analyses that examine to which extent the above -mentioned points can support 
+the development and uptake of innovative technologies for unmet medical needs and for 
+special patient populations (e.g. paediatric and rare conditions) via dedicated regulatory 
+pathways and/or within a structured framework enabling their development and testing 
+in a real-world environment under regulatory supervision (“regulatory sandbox”).  
+The actual conduct of clinical studies438 is not in scope of this topic. 
+The activities should cover and draw on all the relevant healthcare innovation related 
+frameworks other than pharmaceutical products, i.e. medical devices, in -vitro diagnostics, AI, 
+and Substances of Human Origin (SoHO). 
+The starting point is a good understanding of the innovative technology and of its inherent 
+risks, so that appropriate safety and quality requirements can be applied for monitoring the 
+outcome in the relevant healthcare setting. As the number of hybrid or combinations of health 
+technologies increases and technology integration becomes rather the norm than an exception 
+in health innovation, the current segregated, technology-specific, frameworks may not provide 
+a clear path forward for the health technology that is targeted. To that end, when considering 
+ 
+an innovation, it is important to consider all relevant legislative frameworks including 
+MDR439 and IVDR440, the proposed SoHO-Regulation441, and AI Act442 among others. 
+Proposals are encouraged to consider, where relevant, the data, expertise and services offered 
+by European research infrastructures especially those active in the health domain, such as 
+EATRIS ERIC443, and also the findings of previous EU-projects (e.g.: CORE-MD444).

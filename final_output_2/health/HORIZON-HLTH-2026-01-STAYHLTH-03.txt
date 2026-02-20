@@ -1,0 +1,136 @@
+HORIZON-HLTH-2026-01-STAYHLTH-03: Building public trust and outreach in the 
+life sciences 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+1.50 and 1.90 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 1.90 million. 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+ 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, legal entities established in the 
+United States of America may exceptionally participate as a beneficiary 
+or affiliated entity, and are eligible to receive Union funding. 
+Coordinators of projects must be legal entities established in an EU 
+Member State or Associated Country. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 
+4 (Implementation). The cumulative threshold will be 12. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 64. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Staying healthy in a rapidly changing 
+society”. To that end, proposals under this topic should aim to deliver results that are directed 
+at, tailored towards and contributing to all the following expected outcomes: 
+• Strengthened capacity of life sciences actors in science communication, risk 
+communication, public outreach, and citizen engagement. 
+• Strengthened awareness of risks and benefits of life sciences by the public, by 
+showcasing the latest Research and Innovation (R&I) developments in the life sciences, 
+and their societal impact. 
+ 
+• New and innovative approaches developed to engage the public in R&I activities in the 
+life sciences, with an emphasis on inclusive and participatory approaches, involving 
+relevant stakeholders (e.g. researchers, research funders, policymakers, publishers, civil 
+society organisations, business, and citizens).  
+Scope: Life science innovations significantly contribute to peoples’ daily life and to 
+individual and social well -being. To foster public trust, people must understand how life 
+sciences work and how these technologies may impact people’s lives. 
+This trust is not guaranteed. It is increasingly threatened by the rapid spread of mis - and 
+disinformation and by insufficient outreach to and involvement of people to address their 
+concerns and expectations. To maintain and deepen trust, especially among young people, 
+R&I policymakers, researchers and industry players must be better equipped to engage with 
+the public and to pursue responsible research and innovation. 
+Citizen engagement is particularly critical in areas like agriculture and food technology, 
+where innovation intersects with health and sustainability considerations and values. 
+Furthermore, citizen participation is key to build trust in the life sciences and ensure that they 
+meet societal needs. By engaging citizens early on, we can ensure that research and 
+innovation align with their values, concerns and expectations. This involves designing 
+research and innovation processes that incorporate citizen input, such as setting research 
+priorities, and create outcomes that are responsive to their needs. 
+To this end, proposals should address all the following activities: 
+• Provide advisory support and training to life science stakeholders, in order to upskill 
+them in science communication and risk communication. 
+• Produce, publish and advertise to the relevant actors, guidance to engage citizens 
+upstream in the development, co-production, and co-design of life sciences innovation. 
+• Produce, publish, and advertise to the relevant public an accessible repository of tools 
+for life science stakeholders on risk communication. 
+• Design and run community engagement activities in the life sciences, in partnership with 
+relevant local actors, such as science museums, R&I organisations, and/or community 
+organisations.  
+Regarding advisory support and training, proposals should present how they will engage 
+bilaterally with life science stakeholders to advise them and train them on science 
+communication and risk communication in the life sciences. The proposal selected for funding 
+should also establish links with the European Competence Centre for Science 
+Communication65 currently being created by the COALESCE 66 project and expected to be 
+launched in 202767. 
+Regarding engagement of citizens in the development, co -production and co -design of life 
+sciences innovations, proposals should focus on advising and training life science actors in 
+deliberative citizen participation and co -design with citizens, including tools that allow 
+discussions about values and ethical considerations of innovations in this sector. Proposals 
+should set out the ways in which they will support life science actors to involve citizens in co -
+design, and also set out how they will evaluate the impact of the citizen engagement activities 
+that they have supported. The consortium selected for funding is encouraged to use the tools 
+and methods developed under previous research and tailor them to the life sciences. 
+Regarding the repository of tools and support for risk communication, such tools already exist 
+and have been developed, notably the EU funded projects listed in the CORDIS Results Pack 
+“Science communication: Empowering citizens in the public discussion of science” 68, the 
+CORDIS Results Pack “Ethics and integrity: Building bridges for trust and excellence in 
+research and innovation” 69  and the World Health Organization (WHO) guidelines for 
+emergency risk communication 70. Proposals should present what tools they will gather, how 
+they will publish them, and what publicity and outreach they will conduct to raise awareness 
+of this repository among the relevant life science actors (policymakers, researchers, industry, 
+civil society organisations), tailoring tools and trainings to the life sciences. Proposals should 
+present a long -term strategy for how the repository of tools will continue to be accessible 
+beyond the lifecycle of this Coordination and Support Action (CSA). 
+Regarding community engagement activities, proposals should experiment with new and 
+engaging formats across the programmed activities. Proposals should promote both science 
+education, and multiple forms of public engagement with science, focusing on the life 
+sciences. Proposals should focus on any areas within the life sciences, but at least one 
+community engagement activity should focus on agriculture and food technology. The 
+consortium selected for funding is encouraged to make use of findings and tools for 
+stakeholder engagement developed by other Horizon Europe projects, including projects 
+funded under topic HORIZON -CL6-2023-GOVERNANCE-01-6: “Co -creation and trust -
+building measures for biotechnology and bio -based innovation systems”. The consortium 
+selected for funding is also encouraged to establish links with the projects funded under topic 
+HORIZON-WIDERA-2026-07-ERA-05: “Pillar III: Fostering citizen engagement for more 
+responsible and democratic R&I”, that will develop tools and guidelines on public 
+engagement in R&I, and to tailor these tools and guidelines to applications in the life sciences. 
+ 
+Proposals should explain how they will partner with relevant local actors, such as science 
+museums, R&I organisations, and/or community organisations, to run innovative community 
+engagement activities on the life sciences. 
+Proposals may consider involving the European Commission's Joint Research Centre (JRC) to 
+participate in the advisory board of the consortium selected for funding, notably to benefit 
+from the expertise of the JRC's Competence Centre on Participatory and Deliberative 
+Democracy71, regarding the engagement of citizens in the design of life sciences innovations 
+and community engagement activities. Any such collaboration should be established after the 
+proposal’s approval.

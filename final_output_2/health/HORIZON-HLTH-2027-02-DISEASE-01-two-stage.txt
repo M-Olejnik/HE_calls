@@ -1,0 +1,146 @@
+HORIZON-HLTH-2027-02-DISEASE-01-two-stage: Innovative healthcare 
+interventions for non-communicable diseases 
+Call: Cluster 1 - Health (Two stage - 2027) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+7.00 and 8.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+ 
+Indicative budget The total indicative budget for the topic is EUR 63.80 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their first -
+stage application (see General Annex E). 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+For the first stage, the thresholds for each criterion will be 4  
+(Excellence) and 4 (Impact). The overall threshold applying to the sum 
+of the two individual scores will be set at a level that ensures the total 
+requested budget of proposals admitted to stage 2 is as close as possible 
+to three times the available budget, and not less than two and a half 
+times the available budget. 
+For the second stage, the thresholds for each criterion will be 4 
+(Excellence), 4 (Impact) and 4 (Implementation). The cumulative 
+threshold will be 12. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+The first-stage proposals of this topic will be evaluated blindly. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 227. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Tackling diseases and reducing disease 
+burden”. To that end, proposals under this topic should aim to deliver results that are directed 
+at, tailored towards and contributing to all the following expected outcomes: 
+• Researchers, developers and clinical practitioners have access to state -of-the-art 
+knowledge, data, technologies, tools, methods, best practices, and trainings to develop 
+innovative healthcare interventions aimed at reducing burden of the following specific 
+Non-Communicable Diseases (NCDs): cardiovascular diseases, diabetes, chronic 
+respiratory diseases or chronic kidney diseases. 
+• Scientific and clinical communities can use innovative healthcare interventions to 
+generate meaningful advances in clinical practice and care for patients with NCDs 
+following validation in late-stage clinical trials. 
+• Scientific and clinical communities make wide use of relevant databases and/or integrate 
+them with existing infrastructures for storage and sharing of collected data according to 
+FAIR228 principles, thereby encouraging further use of the data. 
+• Policymakers, scientific and clinical communities, developers, patient organisations, 
+regulators, and other relevant bodies are informed of the research advances made and the 
+requirements for a widespread implementation of the innovative therapeutic 
+interventions and complementary approaches. 
+• Patients and caregivers are constructively engaged with the research, ensuring that their 
+needs are catered for, with the aim of tangibly benefitting from the interventions.  
+Scope: NCDs represent over 80% of the disease burden in Europe and the leading cause of 
+avoidable premature deaths. Innovative and effective healthcare interventions are required to 
+provide treatment and disease management solutions and assure best quality of care for 
+patients suffering from NCDs when prevention strategies have failed. 
+Proposals should address all the following aspects: 
+ 
+• Perform rigorous early stage 229 clinical trial(s) to validate novel or refined healthcare 
+interventions230 for treatment and/or disease management solutions for patients suffering 
+from the following specific NCDs: cardiovascular diseases, diabetes, chronic respiratory 
+diseases or chronic kidney diseases 231 . Whenever relevant, existing co - and 
+multimorbidities should be addressed in the trial design. 
+• Clinical trial(s) should be supported by completed proof -of-concept232 of clinical safety 
+and efficacy. 
+• Both preclinical research and the draft clinical trial protocol should be completed at the 
+time of submission of the proposal. Proposals should also demonstrate evidence of 
+preliminary consultations with ethics and regulatory authorities at the time of 
+submission. 
+• A sound feasibility assessment, including an appropriate patient selection and realistic 
+recruitment plans, justified by publications or preliminary results should be provided. 
+• Take into account sex and gender differences in all relevant aspects throughout the 
+research process, and consider stratification criteria such as age, disability, racial or 
+ethnic origin 233, socio -economic status, genetic and epigenetic variations, etc., where 
+relevant. 
+• Use and/or develop technologies, including digital ones (e.g. (generative) Artificial 
+Intelligence, wearable technologies) to help implement and monitor the long -term 
+efficacy of the intervention(s), as well as manage the disease and/or monitor their 
+progression (e.g. with unobtrusive technologies suitable for patient monitoring at home 
+and in real -world conditions), whilst also ensuring they are bias -free, inclusive, and 
+ethically sound. Hardware and software should be interoperable in line with 
+internationally accepted standards 234. The use of virtual human twins 235 could also be 
+considered, where relevant. 
+• Exploit existing data, health data infrastructures 236, biobanks, registries and/or cohorts, 
+together with the generation of new data that should be managed in line with the FAIR 
+ 
+principles and contribute to emerging research infrastructures established in the 
+framework of the European Health Data Space (EHDS)237, when relevant. 
+• Advance research by leveraging already existing and emerging state -of-the-art research 
+infrastructures as well as results stemming from EU -supported research projects, where 
+applicable. 
+• Engage all relevant stakeholders (especially patients and patients’ representatives, 
+caregivers, clinicians, counsellors, regulators, etc.) to design end -user optimised 
+interventions. 
+• Engage with national public health authorities and regulators to ensure a robust 
+development pathway and further uptake of the intervention. 
+• Present a thorough health-economic assessment and Real-World Data (RWD)238 analysis 
+to enhance sustainability and scalability of novel interventions.  
+The participation of start -ups, micro, small and medium -sized enterprises (SMEs) 239  is 
+encouraged with the aim of strengthening their scientific and technological foundations, 
+enhancing their innovation potential, and exploring possibilities for commercial exploitation. 
+This topic requires the effective contribution of social sciences and humanities (SSH) 
+disciplines and the involvement of SSH experts, institutions as well as the inclusion of 
+relevant SSH expertise, in order to produce meaningful and significant effects enhancing the 
+societal impact of the related research activities. 
+All projects funded under this topic are encouraged to participate in networking and joint 
+activities, as appropriate 240 and explore potential synergies with projects funded under the 
+EU4Health Programme (2021-2027)241 in the area of NCDs. 
+Applicants invited to the second stage should provide details of their clinical studies 242 in the 
+dedicated annex using the template provided in the submission system. As proposals under 
+this topic are expected to include clinical studies, the use of the template is strongly 
+encouraged. 
+ 

@@ -1,0 +1,155 @@
+HORIZON-HLTH-2026-01-TOOL-03: Integrating New Approach Methodologies 
+(NAMs) to advance biomedical research and regulatory testing 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+5.00 and 8.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 49.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation and 
+submission of the proposal - see General Annex B. 
+Subject to restrictions for the protection of European communication 
+networks. 
+Award criteria The criteria are described in General Annex D. The following exceptions 
+apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 4 
+(Implementation). The cumulative threshold will be 12. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+In order to maximise synergies and increase the impact of the projects, 
+all proposals selected for funding from this topic will form a cluster and 
+be required to participate in common networking and joint activities (and 
+in determining modalities for their implementation and the specific 
+responsibilities of projects). These activities will be included in a 
+dedicated work package, having sufficient budget allocated to it (around 
+2% of the total requested budget). Depending on the scope of proposals 
+selected for funding, these activities may include: 
+• Attendance of regular joint meetings (e.g. common kick -off 
+meeting and annual meetings). 
+• Periodic report of joint activities (delivered at each reporting 
+period). 
+• Common dissemination and communication activities (which may 
+include, for example: a common dissemination and 
+communication strategy, web portal and visual identity, brochure, 
+newsletters). 
+• Common Data Management Strategy and Common Policy 
+Strategy (including joint policy briefs). 
+• Thematic workshops/trainings on issues of common interest. 
+• Working groups on topics of common interest (e.g. data 
+management and exchange, communication and dissemination, 
+science-policy link, scientific synergies). 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 359. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Developing and using new tools, 
+technologies and digital solutions for a healthy society”. To that end, proposals under this 
+topic should aim to deliver results that are directed at, tailored towards and contributing to 
+several of the following expected outcomes: 
+• Researchers are in possession of improved human -relevant New Approach 
+Methodologies (NAMs) platforms that capture the genetic, phenotypic, age -related, 
+immune, microbiome, and environmental exposure variability of the human population. 
+ 
+These innovations support more equitable healthcare solutions and personalised 
+treatment strategies across diverse life stages. 
+• Industry gets access to platforms that allow a faster pace of innovation for the 
+development of more cost -effective targeted therapeutic interventions and improvement 
+of the safety assessment of chemicals, other medicinal products, and medical devices. 
+• Patients benefit from innovative platforms and strategies that improve prediction, 
+prevention and treatment of diseases, in particular through enhanced understanding of 
+disease pathways and mechanisms. 
+• The general population is better protected through a safer environment, as these 
+platforms enhance the detection and mitigation of risks posed by chemicals and other 
+potentially harmful substances. 
+• Regulatory bodies gain confidence and trust in NAMs, supporting their integration into 
+product development, risk assessment, and approval processes. 
+• Fewer live animals are used in biomedical research and regulatory testing.  
+Scope: This topic aims to support the ongoing paradigm shift in biomedical research and 
+safety assessment of chemical compounds by fully integrating NAMs across the entire 
+research and regulatory spectrum, from basic discovery phase to clinical application, and 
+regulatory testing of medicinal products and medical devices, and/or industrial and 
+environmental chemicals. 
+NAMs include a wide range of innovative and human -relevant technologies such as in -vitro 
+or human ex -vivo assays, organoids, Organ -on-Chip (OoC) systems, human tissue models, 
+induced Pluripotent Stem Cell (iPSC) applications, virtual twin tools, in -silico methods, and 
+Artificial Intelligence (AI)-driven modelling. 
+Although the Commission and several Member States have supported the development of 
+NAMs for over two decades, primarily in the context of chemical risk assessment, regulatory 
+uptake remains limited. There is a need to address this situation by delivering validated 
+NAMs solutions that can be adopted by industry and accepted by the regulators for the safety 
+assessment of chemicals. In parallel, there is a growing readiness to expand the development 
+and application of NAMs across the entire biomedical research spectrum, from early 
+discovery through to clinical translation and regulatory testing of medicinal products and 
+medical devices. 
+Proposals should bring together stakeholders from academia, health -related infrastructures, 
+SMEs360, industry, and regulators to develop new NAMs platforms or improve existing ones 
+that could be used for biomedical applications and/or regulatory testing. For biomedical 
+applications, these platforms should enhance disease modelling precision, especially in areas 
+where current animal models are of limited human relevance, and where NAMs could 
+ 
+effectively complement or replace animal studies. For proposals addressing regulatory use, in 
+particular the safety assessment of chemicals, other medicinal products and medical devices, 
+the intended context(s) of use should be clearly defined, with validation strategies and 
+methodologies aligned with current OECD and/or European Medicines Agency (EMA) 
+guidance. Early, proactive, and sustained engagement with regulators should also be 
+demonstrated. 
+Proposals should develop or optimise scalable and reproducible platforms based on one or 
+more of the following: 
+• Advanced in-vitro assays. 
+• iPSC-based models, organoid or complex OoC systems derived from patients and/or 
+healthy donors. 
+• Human tissues that closely replicate physiological and pathological conditions.  
+In order to enable real -time monitoring of physiological responses, proposals should consider 
+integration of embedded sensors. They should also address biological diversity, reflecting 
+variations in genetics, phenotype, age, immune status, and microbiome across the population. 
+Moreover, proposals may incorporate one or both of the following complementary approaches 
+to enhance predictive power and clinical relevance: 
+• AI-driven predictive modelling trained on high -quality, curated, bias-minimised datasets 
+to predict outcomes of biomedical interventions, or risk assessment. 
+• Virtual twin technology to simulate disease progression, responses to interventions, and 
+support the optimisation of clinical trials.  
+To maximise scientific impact, interoperability, and reuse, all data generated should comply 
+with FAIR 361 principles. Proposals should describe how data will be curated, standardised, 
+and shared within or linked to the European Health Data Space (EHDS) 362  or other 
+repositories, and/or relevant ESFRI363 research infrastructures. 
+In order to optimise synergies and increase the impact of the projects, all proposals selected 
+for funding from this topic will form a cluster and be required to participate in common 
+networking and joint activities. 
+Proposals should consider involving the European Commission's Joint Research Centre 
+(JRC), including its EU Reference Laboratory for alternatives to animal testing (EURL 
+ 
+ECVAM)364, to take advantage of its expertise and relevant activities in bridging research and 
+application communities and facilitating uptake of NAMs in biomedical research and 
+regulatory testing. In that respect, the JRC should collaborate with any successful proposal 
+and this collaboration should be established after the proposal’s approval. 
+Applicants envisaging to include clinical studies 365 should provide details of their clinical 
+studies in the dedicated annex using the template provided in the submission system.

@@ -1,0 +1,135 @@
+HORIZON-HLTH-2027-02-IND-02-two-stage: Portable and versatile Point -of-care 
+diagnostics 
+Call: Cluster 1 - Health (Two stage - 2027) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+5.00 and 7.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 39.30 million. 
+Type of Action Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their first -
+stage application (see General Annex E). 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+For the first stage, the thresholds for each criterion will be 4 
+(Excellence) and 4 (Impact). The overall threshold applying to the sum 
+of the two individual scores will be set at a level that ensures the total 
+requested budget of proposals admitted to stage 2 is as close as possible 
+to four times the available budget, and not less than three and a half 
+times the available budget. 
+For the second stage, the thresholds for each criterion will be 4 
+(Excellence), 4 (Impact) and 4 (Implementation). The cumulative 
+threshold will be 12. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+The first-stage proposals of this topic will be evaluated blindly. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 448. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Maintaining an innovative, sustainable, and 
+competitive EU health industry”. To that end, proposals under this topic should aim to deliver 
+results that are directed at, tailored towards and contributing to all the following expected 
+outcomes: 
+• Healthcare professionals dispose of diagnostic tools at the point of care that accelerate 
+therapeutic decision making. 
+• Patients benefit from fast and accurate diagnosis leading to improved health outcomes. 
+• Thanks to more efficient diagnosis, health systems will get better evidence for disease 
+control and prevention strategies.  
+Scope: Point-of-Care (PoC) medical testing has made great technical progress (e.g. improved 
+extraction, microfluidics, miniaturisation, and data processing techniques) with PoC test 
+accuracies nearly matching those of lab -based tests. PoC tests may thus be an alternative to 
+laboratory testing methods, enabling faster diagnostic results and therapeutic decision making. 
+ 
+However, PoC testing is not always achieving a completely accurate diagnosis and one of the 
+major issues with PoC diagnostics is the occurrence of false results during testing, another one 
+is the often -cumbersome sample preparation. Hence there is a need for PoC diagnostics that 
+are more sensitive, selective and easy-to-use allowing for improved clinical practice. 
+The World Health Organization (WHO) has defined a set of criteria for PoC diagnostics in 
+primary care which, in the advent of digital technologies, has been completed with two 
+additional features and is represented by the acronym REASSURED: Real-time connectivity, 
+Ease of specimen collection and environmental friendliness, Affordable, Sensitive, Specific, 
+User-friendly, Rapid and robust, Equipment-free (or equipment -modest) and Deliverable to 
+end users. To these criteria adds the feature of “sample -to-answer” (sometimes also called 
+“sample-to-result”) and more challenges like: Miniaturisation, power supply, versatility 
+(nature and origin of the human sample), biocompatibility of the used materials and their 
+suitability for mass production, readiness for high -throughput testing, quality control, 
+regulatory compliance, environmental footprint and, last but not least, cost, which is of 
+particular concern in resource-limited settings. All these challenges are not only valid for PoC 
+diagnostics developed for infectious diseases, they equally apply to those that are designed to 
+detect non-communicable diseases as well as their continuous monitoring on patients. Mobile 
+technologies are playing an important role, especially since around 70% of the globally 7.4 
+billion cell phone users live in developing countries, which are the areas in direct need of 
+advanced and more accessible PoC diagnostics (lower density of relevant health 
+infrastructure, e.g. hospitals and laboratory medicine testing facilities). Mobile phones have 
+not only been proposed and tested for data acquisition and readout of assays, images and other 
+results but also for sample processing (e.g. for heating step), as have been Machine -
+Learning/Artificial Intelligence (ML/AI) powered algorithms that are integrated in the 
+diagnostic devices to analyse complex biological data and detect patterns that might be missed 
+by human analysis. 
+The selection of the PoC device to be developed or optimised should be based on an 
+objectively conducted clinical needs assessment, which includes -next to clinicians’ 
+perspectives- the complete care pathway and system -level needs. Moreover, a value -based 
+concept should be applied in the choice and development of the PoC device, taking into 
+account its Health Technology Assessment (HTA) by the relevant HTA bodies, in order to 
+facilitate their decisions for adoption. 
+Proposals should be driven by a clear clinical need, integrate a value -based concept and 
+include all the following activities: 
+• The optimisation of (the) targeted PoC diagnostic device(s) that take(s) the above -
+mentioned criteria, challenges and aspects into consideration. 
+• The elaboration of a comparative study clearly demonstrating the added value and 
+improved performance of the optimised PoC diagnostic device(s) as compared to the 
+current state of the art for the targeted diagnostic application. 
+• The conduct of clinical studies of (the) optimised PoC diagnostic medical device(s) as a 
+preferred information source for their clinical validation; subsequent conformity 
+assessment in agreement with requisite EU’s In -Vitro Medical Device (IVDR) or 
+Medical Device (MDR) regulatory requirements.  
+In general, priority should be given to approaches that are suitable for resource -limited 
+settings. In case of targeting infectious diseases, priority should be given to approaches 
+enabling the distinction between viral, bacterial or fungal infections. In case of targeting non -
+communicable diseases, priority should be given to approaches that are used in emergency 
+cases where decisions can have life-saving character. 
+Applicants invited to the second stage and envisaging to include clinical studies 449 should 
+provide details of their clinical studies in the dedicated annex using the template provided in 
+the submission system. 
+ 

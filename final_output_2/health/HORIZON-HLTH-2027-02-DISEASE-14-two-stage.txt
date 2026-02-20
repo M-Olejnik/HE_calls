@@ -1,0 +1,137 @@
+HORIZON-HLTH-2027-02-DISEASE-14-two-stage: Clinical trials for advancing 
+innovative interventions for neurodegenerative diseases 
+Call: Cluster 1 - Health (Two stage - 2027) 
+Specific conditions 
+Expected EU 
+contribution per 
+The Commission estimates that an EU contribution of around EUR 
+10.00 million would allow these outcomes to be addressed 
+ 
+project appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 39.30 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their first -
+stage application (see General Annex E). 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+For the first stage, the thresholds for each criterion will be 4 
+(Excellence) and 4 (Impact). The overall threshold applying to the sum 
+of the two individual scores will be set at a level that ensures the total 
+requested budget of proposals admitted to stage 2 is as close as possible 
+to four times the available budget, and not less than three and a half 
+times the available budget. 
+For the second stage, the thresholds for each criterion will be 4 
+(Excellence), 4 (Impact) and 4 (Implementation). The cumulative 
+threshold will be 12. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+The first-stage proposals of this topic will be evaluated blindly. 
+Legal and financial 
+set-up of the Grant 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Agreements The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Tackling diseases and reducing disease 
+burden”. To that end, proposals under this topic should aim to deliver results that are directed 
+at, tailored towards and contributing to all the following expected outcomes: 
+• The scientific and clinical communities make effective use of state-of-the-art knowledge, 
+data, technologies, tools, methods, best practices, and trainings to underpin and 
+complement the development of innovative interventions aimed at more effective 
+treatments for neurodegenerative diseases. 
+• The scientific and clinical communities benefit from the exchange of data, knowledge 
+and best practices, thereby strengthening their collaboration in the EU, the Associated 
+Countries and beyond. 
+• The scientific and clinical communities make wide use of relevant databases and/or 
+integrate them with existing infrastructures for storage and sharing of collected data 
+according to FAIR286 principles, thereby encouraging further use of the data. 
+• Policymakers, funders, scientific and clinical communities, patient organisations, 
+regulators, and other relevant bodies are informed of the research advances made and the 
+requirements for a widespread implementation of the innovative therapeutic 
+interventions and complementary approaches. 
+• Patients and caregivers are constructively engaged with the research, ensuring that their 
+needs are catered for, with the aim of tangibly benefitting from the interventions.  
+Scope: Neurodegenerative diseases are a high burden for patients, caregivers, health systems 
+and society. Given the limitations with current therapeutic solutions, including that they 
+primarily address symptoms rather than underlying causes and can have serious side effects, 
+together with the increasing prevalence of neurodegenerative diseases in an aging population, 
+there is a huge need to develop more innovative, safer and more effective therapeutic 
+solutions for these diseases. To further enhance their safety and effectiveness, the therapeutic 
+solution based on an active substance should be combined/complemented with another 
+multidisciplinary approach (e.g. lifestyle changes, cognitive training, rehabilitation therapies). 
+Together this innovative intervention should lead to an improved quality of life and reduce the 
+societal impact of these diseases. 
+Rare neurodegenerative diseases are excluded287. 
+ 
+Proposals should address most of the following aspects: 
+• Perform rigorous early -stage 288  clinical trials into the safety and efficacy of the 
+innovative interventions and their mode of administration, ensuring adequate 
+cohorts/sample sizes with adequate representation of the patient population, including in 
+terms of age, sex and ethnicity. 
+• Through the clinical trials and to the extent possible of additional studies, gain further 
+insight into the potentially novel mechanism(s) of action of the innovative therapies and 
+complementary approaches. This could entail analyses of imaging (e.g. MRI, ultrasound, 
+nuclear imaging), as well as physiological, molecular, biochemical or omics signatures 
+revealing potential perturbations prior to the intervention and recovery/improvement 
+thereafter, and it could lead to the development of surrogate endpoints. This insight 
+should open the path to more personalised interventions and approaches. 
+• Use and/or develop technologies, including digital ones (e.g. (generative) Artificial 
+Intelligence - AI289, wearable technologies) to help implement and monitor the long-term 
+efficacy of the intervention(s), as well as manage the disorder and/or monitor their 
+progression (e.g. with unobtrusive technologies suitable for patient monitoring at home 
+and in real -world conditions), whilst also ensuring they are bias -free, inclusive, and 
+ethically sound. 
+• Utilise existing data, biobanks, registries and/or cohorts, together with the generation of 
+new data that should be managed in line with the FAIR principles. 
+• Engage all relevant stakeholders (especially patients and patients’ representatives for the 
+disease, caregivers, clinicians, counsellors, regulators, etc.) to design end -user optimised 
+interventions, applying gender-sensitive and intersectional approaches. 
+• Advance research by leveraging already existing and emerging state -of-the-art research 
+infrastructures (e.g. EuroBioImaging 290 , European Genomic Data Infrastructure 291 , 
+ECRIN292, EATRIS293, EBRAINS294, BBMRI295, etc.), as well as results stemming from 
+EU-supported research projects, where applicable296. 
+ 
+• Engage with national public health authorities and regulators to ensure a robust 
+development pathway and further uptake of the intervention.  
+The participation of start -ups, micro, small and medium -sized enterprises (SMEs) 297  is 
+encouraged with the aim of strengthening their scientific and technological foundations, 
+enhancing their innovation potential, and exploring possibilities for commercial exploitation. 
+Funded projects should liaise with the future co -funded European Partnership for Brain 
+Health298 (covered by topic HORIZON-HLTH-2025-02-DISEASE-01: “European Partnership 
+for Brain Health”) once launched. 
+The topic requires the effective contribution of social sciences and humanities (SSH) 
+disciplines and the involvement of SSH experts, institutions as well as the inclusion of 
+relevant SSH expertise, in order to produce meaningful and significant effects enhancing the 
+societal impact of the related research activities. 
+All projects funded under this topic are strongly encouraged to participate in networking and 
+joint activities, as appropriate. Therefore, proposals should include a budget for the attendance 
+to regular joint meetings and may consider covering the costs of any other potential joint 
+activities without the prerequisite to detail concrete joint activities at this stage. The details of 
+these joint activities will be defined during the grant agreement preparation phase. 
+Applicants should provide details of their clinical studies 299 in the dedicated annex using the 
+template provided in the submission system. As proposals under this topic are expected to 
+include clinical studies, the use of the template is strongly encouraged. 
+ 

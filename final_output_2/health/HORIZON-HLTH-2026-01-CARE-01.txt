@@ -1,0 +1,140 @@
+HORIZON-HLTH-2026-01-CARE-01: Public procurement of innovative solutions for 
+improving citizens' access to healthcare through integrated or personalised approaches 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+3.00 and 8.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 24.50 million. 
+Type of Action Public Procurement of Innovative Solutions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in 
+the United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, 
+navigation and/or related timing data and services, beneficiaries must 
+make use of Copernicus and/or Galileo/EGNOS (other data and 
+services may additionally be used). 
+The specific conditions for actions with PCP/PPI procurements in 
+section H of the General Annexes apply to grants funded under this 
+ 
+topic. 
+Subject to restrictions for the protection of European communication 
+networks. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Beneficiaries may provide financial support to third parties to ensure 
+the deployment and impact of the project outcomes. The support to 
+third parties can only be provided in the form of grants. The maximum 
+amount to be granted to each third party is EUR 60 000. 
+The specific conditions are described in General Annex H. 
+PPI procurement costs are eligible. 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Ensuring equal access to innovative, 
+sustainable, and high -quality healthcare”. To that end, proposals under this topic should aim 
+to deliver results that are directed at, tailored towards and contributing to several of the 
+following expected outcomes: 
+• Patients and their carers, health authorities and health professionals will benefit from the 
+deployment of innovative solutions, designed around actual clinical needs, that facilitate 
+identification, integration or coordination of care, allowing for personalised, more 
+accessible, inclusive and higher quality of health and care. 
+• Patients will benefit from personalised approaches, improved care experiences and 
+health outcomes or are more engaged in their care and better equipped to make informed 
+decisions on their health, in collaboration with health professionals. 
+• Health professionals will be better equipped with, and thus benefit from, improved 
+means for diagnosis, care delivery and/or coordination, with multi -disciplinary 
+approaches and closer patient engagement, thanks to new technologies. 
+• Health systems will improve their accessibility, coordination mechanisms, effectiveness, 
+inclusivity and resilience, thanks to innovative solutions, with a better use of resources, 
+thus stimulating organisational innovation, cultural transformation within hospitals, and 
+European-level collaboration.  
+Scope: Public Procurement of Innovative Solutions (PPI) 315  can boost the wider market 
+uptake of high impact innovations in health systems, while enhancing the tools available to 
+ 
+providers and improving access to healthcare for citizens. This supports enhancement of 
+social rights 316  and the European economic competitiveness by providing business 
+opportunities and thus incentives to innovate. By acting as early adopters of innovative 
+solutions, procurers can open up new growth markets for the European industry and small and 
+medium-sized enterprises (SMEs) 317. Joint/collaborative demand -driven initiatives can help 
+create economies of scale and facilitate the wider adoption of innovations in the health sector 
+for the benefits of patients in need. 
+PPI actions target consortia of procurers with a similar need that want to procure together the 
+deployment of innovative solutions for supporting integration of care or diagnostics for 
+personalised medicine. This topic does not provide direct funding to developers, industry or 
+research organisations to perform research and development. They will be able to respond to 
+the call for tenders launched by consortia of procurers funded under this topic. 
+Proposals should specify which segment of the patient population they target, the specific 
+organisational and/or technological innovations to be procured, and why the proposed 
+innovative solutions would be fit for purpose adhering, when relevant, to the principles of 
+integrated care318 or personalised medicine319. 
+Examples of target groups that could be covered by this action are: patients at risk of 
+vulnerability such as children and older/frail people with complex needs for health and social 
+care; people with multi -morbidities or non -communicable diseases of high burden; people 
+with both physical and mental health conditions; people living with rare diseases or cancer; 
+persons with disabilities; other groups of patients in need of highly integrated and coordinated 
+care. Proposals should pay attention to how gender and intersectional factors (e.g. caregiving 
+responsibilities, work-related health disparities etc.) affect healthcare access and outcomes. 
+Proposals should demonstrate, with qualitative and quantitative indicators, how they 
+contribute to the above expected outcomes, clearly describe the application of the principles 
+of integrated care and personalised medicine in the deployed solutions, when relevant. This 
+would also include embedding the innovation in the existing health systems, addressing gaps 
+and avoiding overlaps, while fostering change management across organisations, professions 
+and sectors. 
+ 
+pcp-and-ppi_en For PPI executed by a group of procurers, the lead procurer should coordinate the 
+preparation and implementation of one joint or several coordinated public procurements of innovative 
+solutions, based on common specifications defined jointly by the buyers’ group. Each PPI should focus 
+on one concrete need identified as a common challenge that requires the deployment of innovative 
+solutions. Projects that aim to implement a PPI should contain a preparation and execution stage.  
+Solutions envisaged within this action are for example digital solutions 320, including Artificial 
+Intelligence (AI) elements, to facilitate delivery of integrated care across hospitals, primary 
+care, Long -Term Care (LTC) facilities and home settings, or technologies that improve 
+routine diagnosis and lead to personalised medicine approach with the health and care setting. 
+The actions should target first deployment of innovative solutions across different health and 
+care jurisdictions in Europe by engaging public and/or private procurers from each 
+participating country (at national, regional or local level) that have deployment 
+responsibilities and budget control in the provision of health and care services. Procurers will 
+specify, purchase and deploy solutions addressing their relevant and shared unmet needs, 
+while engaging together in a supply and demand side dialogue. Proposals should be based on 
+clearly identified user needs and well -structured deployment plans, explaining how the 
+procurement of the innovative solutions will contribute to the expected outcomes and improve 
+current practice. In addition, cost -effectiveness analyses as well as estimates of the wider 
+economic impact are highly desirable. 
+Activities covered should include cooperation with policymakers to reinforce 
+national/regional policy frameworks and policies, to raise awareness, for technical assistance 
+and/or capacity building beyond the project, to mainstream PPI implementation and remove 
+obstacles to introduce innovative solutions to the market. 
+A wide variety of settings are potentially relevant for the implementation of such innovative 
+solutions, for example primary healthcare settings, hospitals, specialised centres, long -term 
+care facilities and home settings. The involvement of end -users (including for analysing the 
+impact of the deployed solutions on health professionals and patients across the care 
+continuum) and the use of cross -sectorial approaches are necessary. When relevant, linkage 
+with ongoing work at national level for the implementation of the European Health Data 
+Space (EHDS) 321 is encouraged. Proposals are encouraged to consider, where relevant, the 
+data, expertise and services offered by European research infrastructures 322  in the health 
+domain. 
+Transfer and adaptation of solutions and/or interventions from other sectors to healthcare is 
+possible. The topic is open both to innovations bringing improvements mainly based on one 
+specific solution/technology field, as well as to innovations delivering end -to-end solutions 
+that need combinations of different types of innovative elements. Proposals are strongly 
+encouraged to build upon past work and build synergies with ongoing EU -funded initiatives, 
+for example the Joint Actions JADECARE 323  and Xt -EHR 324 , the project 
+ 
+MyHealth@Myhands325  and the three co -funded European Partnerships on Transforming 
+Health and Care Systems 326, on Personalised Medicine 327 and on Rare Diseases 328, as well as 
+with actions supported under the Technical Support Instrument and the Cohesion Policy 
+Funds.

@@ -1,0 +1,130 @@
+HORIZON-HLTH-2026-01-DISEASE-15: Scaling up innovation in cardiovascular 
+health 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 1.90 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 1.90 million. 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, legal entities established in the 
+United States of America may exceptionally participate as a beneficiary 
+or affiliated entity, and are eligible to receive Union funding. 
+Coordinators of projects must be legal entities established in an EU 
+Member State or Associated Country. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 
+4 (Implementation). The cumulative threshold will be 12. 
+Legal and 
+financial set-up of 
+the Grant 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+ 
+Agreements Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 217. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Tackling diseases and reducing disease 
+burden”. To that end, proposals under this topic should aim to deliver results that are directed 
+at, tailored towards and contributing to all the following expected outcomes: 
+• Healthcare providers, policymakers and researchers benefit from an improved 
+knowledge base and collaboration on the key challenges and gaps on cardiovascular 
+health research and a conceptual framework to develop a roadmap for research and 
+innovation is established. 
+• Health systems gain improved and standardised evidence to better prevent, diagnose or 
+treat cardiovascular diseases (CVDs) and associated comorbidities, based on the research 
+results on prediction, early detection, screening practices and diagnostic methods and 
+tools, including via personalised and digital approaches. 
+• Medical and non -medical health professionals and technology developers have an 
+increased knowledge, awareness and capacity to uptake and deliver effective and 
+innovative approaches for risk prediction, early detection, screening and health 
+management strategies, such as Virtual Human Twins (VHT) 218 or Artificial Intelligence 
+(AI)-based applications. This involves supporting, strategic foresight, improving health 
+literacy and cross-sectoral knowledge exchange and collaboration to drive innovation in 
+personalised prevention and cardiovascular risk prediction. 
+• Healthcare providers and policymakers have an improved knowledge base to inform 
+future strategies for early detection and prevention of CVDs, with specific attention to 
+women and vulnerable groups, through research on personalised risk prediction 
+approaches that consider multiple and interacting risk factors (e.g. genetic 
+predisposition, environmental pollutants, diet, lifestyle habits, multimorbidity, sex and 
+gender).  
+Scope: CVDs are the main cause of death in the EU, with over 1.7 million deaths annually, 
+costing about EUR 282 billion, or 11% of the healthcare budget 219. With projections showing 
+ 
+a rise in CVD prevalence and mortality by 2050 due to an aging population, the Commission 
+is preparing a comprehensive EU Cardiovascular Health (CVH) plan 220 to support Member 
+States in their efforts to reduce the burden of CVDs. The proposal is expected to support 
+prevention, early detection, including via digital and personalised approaches. 
+Applicants should take stock of research and innovation results to identify gaps and set up a 
+plan for a Strategic Research and Innovation Agenda (SRIA) on CVDs, with the final aim of 
+leveraging research and innovation results to improve risk prediction, early detection and 
+screening practices for CVDs and associated comorbidities, especially obesity and diabetes, 
+across the EU and Associated Countries. This initiative addresses the pressing need to 
+translate existing innovations and promising research results into implementable protocols 
+that enhance prevention, diagnosis, and health outcomes for diverse populations. By fostering 
+collaboration and integrating digital tools and methods, proposals will support the future EU 
+CVH plan, building and aligning with future and ongoing activities, including the European 
+VHT Initiative, the 1+Million Genomes Initiative 221 , Tech Foresight/Horizon scanning 
+activities222  and actions funded under the EU4Health Programme (2021 -2027)223  and the 
+Digital Europe Programme224. 
+Proposals should include all the following activities: 
+• Conduct a comprehensive review at national, EU, and international levels of existing 
+cardiovascular research and innovative healthcare solutions, potentially linked with 
+associated comorbidities, to identify gaps and areas where future integration into health 
+systems can have the greatest impact. The mapping should build upon existing EU -level 
+reviews and pay particular attention to sex - and gender -related gaps, including under -
+representation in studies and differences in risk, diagnosis, and treatment. Such insights 
+will inform subsequent policy actions and implementation initiatives under other funding 
+programmes. 
+• Create a detailed report outlining the barriers to effective personalised prediction, 
+screening and prevention in cardiovascular health, providing recommendations to 
+overcome these challenges. 
+• Develop a SRIA on CVDs and associated comorbidities aiming to improve personalised 
+prevention, prediction and screening and to inform research funders and stakeholders, 
+including relevant EU and national initiatives. The agenda will include stakeholder 
+validation and adoption pathways. Support the development of personalised prevention 
+and care pathways and the role of digital interventions, based on genomics, VHTs and 
+ 
+AI-driven methods in line with the European Health Data Space (EHDS) 225 Regulation, 
+to enhance precision in early detection and health management. Where applicable, the 
+mapping of existing practices such as biomarkers for diagnosis, monitoring in patients, 
+and stratification of patient groups should be considered. 
+• Integrate sex and gender -related variables, age, racial or ethnic origin 226 , socio -
+economic, lifestyle and behavioural factors, genetic predisposition into research design, 
+data collection and analysis, to ensure inclusive and generalisable findings enhancing the 
+effectiveness of screening, diagnostic, and prevention strategies across diverse 
+population groups. 
+• Organise high-impact, targeted events with clear objectives to promote a multi -sectorial 
+approach, fostering collaboration among healthcare providers, researchers, civil society, 
+patients' organisations, and policymakers 
+• Work with health experts to develop the capacities for implementing standardised 
+screening protocols and methods. 
+• Develop a comprehensive dissemination strategy and stakeholder engagement plan to 
+share findings and promote the results, utilising online platforms and social media to 
+reach a broad audience. Complement with long -term engagement mechanisms such as 
+policy briefings or partnerships with EU-level dissemination networks.  
+The applicants should ensure adequate involvement across the project lifespan of all relevant 
+stakeholders and value chain actors including industry, healthcare professionals, scientists, 
+patients’ associations to ensure performance and sustainability and maximise the final impact. 
+This topic requires the effective contribution of social sciences and humanities (SSH) 
+disciplines and the involvement of SSH experts and institutions, in order to meaningfully 
+enhance the societal impact of the related research activities.

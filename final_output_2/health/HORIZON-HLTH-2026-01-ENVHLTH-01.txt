@@ -1,0 +1,178 @@
+HORIZON-HLTH-2026-01-ENVHLTH-01: Towards a better understanding and 
+anticipation of the impacts of climate change on health 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+7.00 and 8.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 55.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Award criteria The criteria are described in General Annex D. The following exceptions 
+apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 4 
+(Implementation). The cumulative threshold will be 12. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+To ensure a balanced project portfolio covering the broad focus areas 
+targeted in this topic 83, grants will be awarded (within available budget) 
+to proposals not only in order of ranking but at least also to those 
+proposals that are the highest ranked within different broad focus areas 
+targeted, provided that the proposals attain all thresholds. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+In order to maximise synergies and increase the impact of the projects, 
+all proposals selected for funding from this topic will form a cluster and 
+be required to participate in common networking and joint activities (and 
+ 
+in determining modalities for their implementation and the specific 
+responsibilities of projects). These activities will be included in a 
+dedicated work package, having sufficient budget allocated to it (around 
+2% of the total requested budget). Depending on the scope of proposals 
+selected for funding, these activities may include: 
+• Attendance of regular joint meetings (e.g. common kick -off 
+meeting and annual meetings). 
+• Periodic report of joint activities (delivered at each reporting 
+period). 
+• Common dissemination and communication activities (which may 
+include, for example: a common dissemination and 
+communication strategy, web portal and visual identity, brochure, 
+newsletters). 
+• Common Data Management Strategy and Common Policy 
+Strategy (including joint policy briefs). 
+• Thematic workshops/trainings on issues of common interest. 
+• Working groups on topics of common interest (e.g. data 
+management and exchange, communication and dissemination, 
+science-policy link, scientific synergies). 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 84. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Living and working in a health -promoting 
+environment”. To that end, proposals under this topic should aim to deliver results that are 
+directed at, tailored towards and contributing to most of the following expected outcomes: 
+• Citizens, patients, public authorities, social care services, healthcare practitioners and 
+policymakers have a better understanding of the climatic health risks and determinants of 
+ 
+disease and are better equipped to address health outcomes through enhanced and 
+inclusive prevention, resilience, adaptation, preparedness and response, including better 
+diagnosis and treatment. 
+• Governments, public health authorities, researchers and civil society organisations are 
+supported to tackle societal challenges linked to the health impacts of climatic factors. 
+• Public authorities, organisations and the research community can rely on data collection 
+and sharing according to FAIR 85  principles and leveraging of data availability and 
+quality. 
+• Policymakers and public authorities develop evidence -based climate change and health 
+policies and interventions that are nature positive, inclusive and responsive to diverse 
+population needs.  
+Scope: The climate crisis poses an existential challenge to planetary and human health with 
+larger effects on populations, groups and regions in a vulnerable situation. Climate change 
+increases the incidence of non -communicable diseases and the prevalence of mental health 
+conditions and facilitates the emergence and spread of infectious diseases. Climate change can 
+act as a risk multiplier and exacerbates existing health conditions and vulnerabilities. 
+Applicants should explicitly state in their proposal which of the following broad focus areas is 
+targeted and the proposed work should address only this specific broad focus area:   
+i. Non-Communicable Diseases (NCDs) and/or individual safety (e.g. injuries or fatalities), 
+excluding mental health aspects: proposals should explore evidence on the complex 
+interactions between climate change (e.g. changes in the frequency and intensity of 
+extreme weather events) and NCDs and individual safety, which often involve multiple 
+climate exposure pathways and compound and cascading climatic events. 
+ii. Mental health, considering interactions with brain health if relevant: in the broad focus 
+area of mental health and psychosocial well -being, proposals should increase the 
+evidence on the acute and long-term impacts of climate change and the understanding of 
+new syndromes related to climate stress. 
+iii. Infectious diseases, including vector -borne and non -vector-borne: proposals should 
+increase the understanding of the factors driving climate -related burden from infectious 
+diseases.  
+In general, proposals should develop approaches to prevent and reduce the impacts of climate 
+factors in the studied health outcomes and increase population and workforce resilience. A 
+One Health approach should also be applied where relevant. 
+More specifically, research actions under this topic should include several of the following 
+activities, depending on the relevance of each group of activities to the broad focus area 
+targeted in the proposal: 
+ 
+• Increase the understanding of correlations, causal pathways and mechanistic effects 
+between climate change and disease/health outcomes, developing unified and standard 
+methodologies and metrics to assess short - and long-term positive and negative impacts 
+of climate change with an adequate level of granularity. Consider individual and/or 
+cascading climatic events and exposure patterns, and risks and drivers of vulnerability 
+and inequality. 
+• Develop longitudinal studies to better ascertain differential effects of climatic stressors 
+on health including multiple scales of impacts, ranging from the molecular level to 
+population health outcomes. Consider variability across populations, generations and life 
+phases, regions and occupations, and collect real -world exposure and health data in 
+living and occupational settings, considering the use of emerging ecosystems such as the 
+European Health Data Space (EHDS) 86  and the European Open Science Cloud 
+(EOSC)87. 
+• Study differential acute and long -term health impacts of climate (including a wide range 
+of factors and cumulative effects) on vulnerable, sensitive or exposed population groups. 
+Consider also differences in geographical vulnerabilities including, when relevant, 
+geographical settings outside of urban areas, in overseas regions and in low - and middle-
+income countries (LMICs) 88 . Understand the role of inequalities and societal 
+vulnerability in determining climate-related health impacts and adaptive capacity. 
+• Advance the knowledge on the climate, ecological and environmental drivers of 
+pathogen abundance, including mechanisms and determinants of distribution, life -cycle 
+patterns, transmission, virulence and survival. Consider climate change drivers of 
+disease severity. Study host/pathogen and vector/host interactions clarifying the role of 
+secondary reservoir hosts such as sylvatic, wildlife and livestock in the maintenance of 
+pathogen life cycle. Assess the efficacy, cost -effectiveness and impact of control 
+measures. 
+• Explore the role of climate -driven human and wildlife mobility (e.g. bird migration 
+patterns, human migration) in enhancing the global spread of pathogens and creating 
+opportunities for their local establishment. Collect better field data and develop tools for 
+disease modelling, risk and scenario projections that encourage interoperable data 
+systems and cross border collaboration. 
+• Increase the availability, accessibility, quality and standardisation of diagnostic testing 
+for early diagnosis of infections and determining immune responses and vaccine 
+efficacy. Increase the capacity for pathogen subtyping, and genomic surveillance for 
+early warning and investigations of climate -related outbreaks. Develop rapid, portable, 
+and affordable standardised diagnostic tools that can withstand climate extremes. 
+ 
+• Increase the understanding of the factors that strengthen health resilience to climate 
+change at the individual, local and societal levels. Investigate the role of individual 
+mechanisms, community resilience and local solutions in mitigating the health impacts 
+of climate change and related environmental degradation.  
+International cooperation, in particular with LMICs, is strongly encouraged. 
+In order to maximise synergies and increase the impact of the projects, all proposals selected 
+for funding from this topic will form a cluster and be required to participate in common 
+networking and joint activities. Guidance on the potential activities to be developed can be 
+obtained by consulting the clusters of projects ongoing under the Environment, Climate and 
+Health research portfolio89. 
+Proposals should make sure that relevant activities, outcomes and outputs are shared with the 
+European Climate and Health Observatory 90 through the cluster that will be formed after the 
+approval of the proposals. Actions’ results should also contribute to future European Climate 
+Risk Assessments. When relevant proposals should build on the outcomes of the projects that 
+are part of the European Climate-Health Cluster91. 
+Proposals are encouraged to consider, where relevant, the data, expertise and services offered 
+by European research infrastructures92 in the environment, climate and health domain. 
+This topic requires the effective contribution of social sciences and humanities (SSH) 
+disciplines and the involvement of SSH experts, institutions as well as the inclusion of 
+relevant SSH expertise, in order to produce meaningful and significant effects enhancing the 
+societal impact of the related research activities. 
+Applicants envisaging to include clinical studies 93 should provide details of their clinical 
+studies in the dedicated annex using the template provided in the submission system.

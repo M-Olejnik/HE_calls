@@ -1,0 +1,118 @@
+HORIZON-HLTH-2026-01-DISEASE-04: Development of novel vaccines for viral 
+pathogens with epidemic potential 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+9.00 and 11.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 44.20 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or 
+as an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+ 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 
+4 (Implementation). The cumulative threshold will be 12. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+To ensure a balanced project portfolio covering the viruses targeted in 
+this topic 162 , grants will be awarded (within available budget) to 
+proposals not only in order of ranking but at least also to those 
+proposals that are the highest ranked within different viruses targeted, 
+provided that the proposals attain all thresholds. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Tackling diseases and reducing disease 
+burden”. To that end, proposals under this topic should aim to deliver results that are directed 
+at, tailored towards and contributing to all the following expected outcomes: 
+• The scientific and clinical communities have a better understanding of and access to 
+experimental vaccines for the prevention and treatment of emerging or re -emerging viral 
+infections, as well as for further clinical investigation, including better understanding of 
+biological sex and social determinants that influence immune response, vaccine efficacy, 
+safety, and uptake. 
+• Candidate vaccines are available for emerging and re -emerging viral infections, 
+increasing therapeutic options for clinical deployment in case of an epidemic or 
+pandemic.  
+Scope: Infectious diseases remain a major threat to health and health security in the EU and 
+globally. Viral disease emergence is already being accelerated by climate change, and thus a 
+proactive approach to the development of vaccine -based antiviral prophylactics and 
+therapeutics in preparedness for future infectious disease outbreaks is needed. The availability 
+of vaccines that can be adjusted to variants would provide a critical preparedness measure 
+against future health threats, due to infectious disease epidemics or pandemics. 
+This topic contributes to strengthening the Research and Innovation ecosystem within the EU 
+and supports the implementation of the European Medical Countermeasures Strategy163. 
+ 
+Applicants should explicitly state in their proposal which of the following viruses is targeted 
+and the proposed work should address only this specific virus. The proposed work should aim 
+to advance the development of existing prophylactic and therapeutic vaccine candidates 
+targeting exclusively one of the following viruses:   
+i. Junin mammarenavirus 
+ii. Lassa mammarenavirus 
+iii. Andes virus, 
+iv. Hantaan virus 
+v. Sin Nombre virus 
+vi. Hendra virus 
+vii. Enterovirus D68 
+viii. Venezuelan equine encephalitis virus  
+Proposals should thus aim to diversify and accelerate the global prophylactic and therapeutic 
+research and development portfolio for emerging and re -emerging viral infections, and to 
+strengthen the leading role of the EU in prophylactic and therapeutic research and 
+development. 
+Proposals should address all the following research areas: 
+• If necessary, finalisation of the in -vitro characterisation of existing vaccine candidates 
+with regard to target specificity, epitope recognised, and their ability to impair or 
+inactivate viral functions. 
+• In-vivo tests in at least one animal model or, if available in humanised immune system 
+animal models, to demonstrate the protective function of the vaccine candidates deemed 
+sufficient for moving to first clinical trials. 
+• If requested by regulators as pre -requisite for clinical studies, in -vivo tests in a non -
+human primate model. 
+• Production of batches of the most promising vaccine candidates according to the Good 
+Manufacturing Practices (GMP)164. 
+• First in human clinical safety studies demonstrating a clear regulatory pathway for 
+market authorisation. Attention should be paid to critical biological and social factors 
+such as sex, age, ethnicity and disability.  
+Participation of third countries where viruses addressed in the proposal are endemic or where 
+outbreaks have occurred or are ongoing is encouraged. 
+ 
+The European Commission's Joint Research Centre (JRC) may contribute to the proposals 
+selected for funding with work on strategic technologies for economic security and innovative 
+industrial ecosystems, particularly activities on innovation in vitro biotechnologies. 
+The participation of start -ups, micro, small and medium -sized enterprises (SMEs) 165  is 
+encouraged with the aim of strengthening their scientific and technological foundations, 
+enhancing their innovation potential, and exploring possibilities for commercial exploitation. 
+All projects funded under this topic are expected to engage with regulatory bodies in a timely 
+manner to ensure adequacy of the actions from a regulatory point of view. 
+Proposals should advance research by leveraging already existing and emerging state -of-the-
+art research infrastructures 166  such as those having contributed to the services developed 
+under the ISIDORe project167. 
+Applicants should provide details of their clinical studies 168 in the dedicated annex using the 
+template provided in the submission system. As proposals under this topic are expected to 
+include clinical studies, the use of the template is strongly encouraged.

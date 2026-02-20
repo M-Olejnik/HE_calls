@@ -1,0 +1,129 @@
+HORIZON-HLTH-2026-01-CARE-03: Identifying and addressing low -value care in 
+health and care systems 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+10.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 38.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility conditions The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in 
+the United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, 
+navigation and/or related timing data and services, beneficiaries must 
+make use of Copernicus and/or Galileo/EGNOS (other data and 
+services may additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) 
+and 4 (Implementation). The cumulative threshold will be 12. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following 
+exceptions apply: 
+The granting authority may, up to 4 years after the end of the action, 
+ 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Ensuring equal access to innovative, 
+sustainable, and high -quality healthcare”. To that end, proposals under this topic should aim 
+to deliver results that are directed at, tailored towards and contributing to all the following 
+expected outcomes: 
+• Healthcare providers and policymakers make use of evidence -based indicators and 
+methodologies to identify low -value care 329  practices, as well as opportunities for 
+improvement and tools to monitor such improvements. 
+• Healthcare professionals are equipped with the knowledge and tools to implement 
+guidelines for reducing or discontinuing low -value care activities and maintaining 
+effective and patient-centred practices that ensure quality of care. 
+• Patients and citizens benefit from more effective healthcare, by understanding and 
+endorsing measures that reduce low -value care, recognising the potential to achieve 
+higher-quality healthcare and better health outcomes overall. 
+• Health and care systems benefit from a reduction of low -value care practices, which 
+enables enhanced patient safety and quality of care, while contributing to their efficiency 
+as well as fiscal and environmental sustainability. 
+• Healthcare organisations can, by identifying low-value care practices, reallocate valuable 
+healthcare resources to other areas of need.  
+Scope: Low-value care, as defined in the footnote, can have widespread negative 
+consequences for patients, caregivers, healthcare professionals, the health and care system, 
+and the broader environment. A 2017 OECD report 330 estimated that “wasteful healthcare 
+spending is common” and that “up to one -fifth of healthcare spending could be redirected 
+towards better uses”. Low-value care represents a significant challenge, contributing to waste, 
+costs, misuse of resources, and inefficiencies. Addressing low -value care can free up and 
+allow reallocation of valuable healthcare resources to other areas of need, thereby maximising 
+health outcomes, improving health and care systems resilience, and reducing their 
+environmental impact. In this context, a recent report 331  by the Expert Group on Health 
+ 
+Systems Performance Assessment (HSPA)332 establishes the methodological basis and metrics 
+to identify, measure and reduce low-value care. 
+Research activities under this topic should adopt a patient -centred approach that considers the 
+needs and preferences of patients and citizens. They should promote socially acceptable 
+solutions, taking into account relevant ethical, social and legal aspects and foster dialogue and 
+collaboration between policymakers, healthcare providers, healthcare professionals, and 
+patients/citizens. Proposals should engage citizens and civil society organisations in the 
+development of their actions to ensure acceptability of solutions. By doing so the projects will 
+contribute to better use of healthcare resources -including time and personnel - in ways that 
+significantly improve patient outcomes and alleviate the increasing burden on healthcare 
+professionals and health systems. Implementation research and multidisciplinary approaches 
+should be considered to foster adoption and ensure effective interventions and long -term 
+sustainability. 
+Proposed activities may 333 include clinical studies 334 to provide evidence on the value of any 
+interventions or processes and, therefore, facilitate justified removal of any type of low value 
+care. Proposed activities may also include data models, digital and artificial intelligence-based 
+analysis, models and/or tools to identify and/or address low -value care. Proposed activities 
+may examine the design and impact of healthcare payment systems, that could unintentionally 
+incentivise low -value care and evaluate alternative financing models that better align 
+incentives with patient outcomes and high -value care. Proposed activities may also facilitate 
+or implement collaboration among registries (disease registries such as cancer registries, 
+primary healthcare visits registries, prescription and drug purchase registries, reimbursement 
+and medical devices registries, screening databases, socio -economic and census databases, 
+etc.) across regions or countries, to enable or improve the assessment and comparison of 
+different levels of care and their value to patients. Additionally, activities that facilitate 
+learning and best practice transfers between countries or regions may also be considered as 
+element of the proposal (for instance, to leverage best practice -sharing initiatives from 
+international platforms such as the Knowledge Hub of the co -funded European Partnership on 
+Transforming Health and Care Systems 335  or any other relevant European or global 
+initiatives). Additionally, proposals may include or support international comparisons of low -
+value care practices and strategies for their reduction across countries, if and where deemed 
+valuable. 
+Research actions should address all the following objectives: 
+• Develop a deeper understanding of how low -value care can be identified and measured 
+throughout the healthcare process, including testing related indicators and producing 
+ 
+https://health.ec.europa.eu/publications/identifying-measuring-and-reducing-low-value-care-context-
+health-system-performance-assessment_en 
+evidence-based methodologies that enable the pursuit of improved efficiency and quality 
+of care. 
+• Identify instances of overuse, misuse, underuse and unwarranted variation in specific 
+healthcare contexts across different stages of the healthcare process. This analysis should 
+provide actionable insights for policymakers, healthcare providers and healthcare 
+professionals to evaluate the potential of possible strategies for reducing low -value care, 
+allowing for more informed decision-making and improved care practices. 
+• Develop and/or pilot innovative strategies for effective reduction of low -value care in 
+specific settings across the care pathway. These pilots should demonstrate scalability and 
+transferability across diverse health and care systems in Europe.  
+Proposals should consider how gender norms and roles influence utilisation patterns, ensuring 
+that strategies to reduce low -value care do not inadvertently exacerbate existing gender and 
+social inequalities in healthcare access and outcomes. In addition, attention should be paid to 
+intersectional factors that may further affect healthcare access and outcomes. If handling data 
+and indicators, sex - and gender -disaggregated data should be collected and analysed, 
+incorporating intersectional factors where feasible. 
+Proposals should consider the work and output of any EU level initiatives (e.g. the Expert 
+Group on Health Systems Performance Assessment, the co -funded European Partnership on 
+Transforming Health and Care Systems, relevant projects or Joint Actions funded under the 
+EU4Health Programme (2021 -2027)336  and under EU Research & Innovation Framework 
+Programmes, etc.) or other international initiatives (e.g. the 2017 OECD report mentioned 
+above) in this area. 
+Applicants envisaging337 to include clinical studies 338 should provide details of their clinical 
+studies in the dedicated annex using the template provided in the submission system.

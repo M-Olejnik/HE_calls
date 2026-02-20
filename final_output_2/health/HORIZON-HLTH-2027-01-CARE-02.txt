@@ -1,0 +1,132 @@
+HORIZON-HLTH-2027-01-CARE-02: Personalised approaches to reduce risks from 
+Adverse Drug Reactions due to administration of multiple medications 
+Call: Cluster 1 - Health (Single stage - 2027/1) 
+Specific conditions 
+Expected EU 
+contribution per 
+The Commission estimates that an EU contribution of between EUR 
+8.00 and 10.00 million would allow these outcomes to be addressed 
+project appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 38.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility conditions The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in 
+the United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, 
+navigation and/or related timing data and services, beneficiaries must 
+make use of Copernicus and/or Galileo/EGNOS (other data and 
+services may additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) 
+and 4 (Implementation). The cumulative threshold will be 12. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Ensuring equal access to innovative, 
+sustainable, and high -quality healthcare”. To that end, proposals under this topic should aim 
+to deliver results that are directed at, tailored towards and contributing to all the following 
+expected outcomes: 
+• Patients benefit from decreased incidence of Adverse Drug Reactions (ADRs) caused by 
+the administration of multiple medications (three or more medicinal products 340) and 
+enhanced health outcomes by ensuring safer and more effective use of medication. 
+• Healthcare professionals can adopt adverse drug reactions prevention and reduction 
+strategies to integrate genetic and other biomarker information into clinical decision -
+making to optimise the use of medication, especially in situations of comorbidities. 
+ 
+• Healthcare systems benefit from cost savings thanks to reduced hospital admissions and 
+other costs associated with ADRs related to the intake of multiple medicines. 
+• Clinical and regulatory guidelines and policies for medication management in case of 
+multiple medications can be revised supported by robust evidence. 
+• Educational programs for healthcare providers and patients benefit from improved 
+awareness and management of polypharmacy and ADRs.  
+Scope: While medicinal products contribute considerably to the health of EU citizens, they 
+can also have adverse reactions. It is estimated that around 5% of all hospital deaths are due to 
+an adverse drug reaction. On average, 16% of hospitalised older 341  patients experience 
+significant ADRs, varying in severity and mostly preventable, with commonly prescribed 
+drug classes (such as diuretics, anti -bacterials, antithrombotic agents, analgesics, 
+antineoplastics, etc.) accounting for most ADRs 342 . Overall, ADRs increase morbidity, 
+mortality, hospitalisations, and healthcare costs. 
+ADRs from multiple medications contribute significantly to healthcare costs due to increased 
+hospitalisations and treatments, making this an area of focus to achieve cost efficiency. 
+Initial failure to recognise ADRs can generate inappropriate prescription cascades, in which 
+the side effects of drugs are misdiagnosed as symptoms of new problems, resulting in further 
+prescriptions and further side effects that tend to accumulate, confusing and complicating the 
+diagnostic while aggravating the evolution. Therefore, there is a distinct need for research to 
+help identify and prevent such prescription cascades, possibly by maximising the use of 
+technology, as well as to improve multiple drug management in order to reduce patient harm. 
+Furthermore, it is also possible that aside from the ADRs specific to individual drugs taken in 
+combination, new ADRs can emerge as results from the drug combinations themselves. 
+Research activities under this topic should make use of the constantly improving health 
+technologies and data analytics that provide new opportunities to address these issues more 
+effectively, by better integrating medication management into healthcare practices, including 
+into Electronic Health Records (EHR) and decision support systems. 
+Identifying and validating relevant biomarkers for better patient stratification can contribute to 
+significantly decreasing the risk of adverse drug reactions. Biomarkers can also help to detect 
+adverse drug reactions early before occurrence of clinical symptoms and enable early 
+countermeasures. Generating knowledge on the interaction and complexity of biochemical 
+pathways can improve the understanding of patients' response to ADRs and thus provide 
+better tailored treatments and early responses to adverse reactions. 
+For this purpose, any biomedical strategy that allows a better stratification of patients to 
+identify drug response patterns in well -defined patient groups could be used, including in -
+ 
+vitro or in -silico models for adverse drug reactions, imaging biomarkers, drug -drug/drug-
+gene/drug-food interactions, therapeutic dose reduction and pharmaco -exposomics, nutrition 
+and beverage interference, smoking, vaping, pollution etc. De -escalation studies in view of 
+improving multiple drug management can be also considered. Proposals should be sufficiently 
+robust to examine differences across various populations, and also consider sex difference in 
+drug reactions. 
+The further use of results generated by the projects funded under this topic should be ensured 
+through data sharing with the relevant stakeholders and the European Medicines Agency 
+(EMA), in view of possible adoption of deprescribing or adjusted -prescribing guidelines by 
+relevant authorities at EU and national levels. 
+Where applicable, applicants are strongly encouraged to follow all relevant guidelines in the 
+relevant scientific fields, including but not limited to: 
+• Joint EMA/Heads of Medicines Agencies (HMA)/EC Workshop recommendations on 
+pharmacogenomics in medicines regulation and on implementation into clinical 
+practice343. 
+• Pharmaceutical development of medicines for use in the older population, Scientific 
+guideline from the EMA344. 
+• Guidelines from the Clinical Pharmacogenetics Implementation Consortium (‘CPIC 
+guidelines’)345.  
+Proposals funded under this topic should address all the following aspects: 
+• Leverage the role of pharmacogenomics, pharmacokinetics and pharmacodynamics in 
+predicting and preventing adverse drug reactions in situations of multiple medications 
+(three or more drugs administered concomitantly), and propose personalised medicine 
+approaches, such as targeted therapies and biomarker -driven treatment strategies, to 
+reduce the rate of adverse drug reactions and limit multiple medications. 
+• Maximise the use of technology, such as electronic health records, artificial intelligence 
+and clinical decision support systems, to support safe medication use and prevent 
+adverse drug reactions. 
+• Address the ethical, regulatory, and implementation challenges associated with 
+integrating personalised medicine into clinical practice to address adverse drug reactions 
+due to the administration of multiple medications. 
+ 
+• Generate evidence on the clinical utility and cost -effectiveness of treatment guided by 
+pharmacogenomics and other relevant biomarkers -based approach, for single drugs and 
+for combinations of drugs. 
+• Develop and implement strategies, including regulatory science approaches, for efficient 
+integration of project results into daily healthcare. 
+• Align with similar work in other EU -funded projects or partnerships, such as the co -
+funded European Partnership for Personalised Medicine 346 , the co -funded European 
+Partnership on Transforming Health and Care System 347  etc. while avoiding any 
+potential overlaps.  
+The participation of start -ups, micro, small and medium -sized enterprises (SMEs) 348  is 
+encouraged with the aim of strengthening their scientific and technological foundations, 
+enhancing their innovation potential, and exploring possibilities for commercial exploitation. 
+Applicants should provide details of their clinical studies 349 in the dedicated annex using the 
+template provided in the submission system. As proposals under this topic are expected to 
+include clinical studies, the use of the template is strongly encouraged. 
+ 

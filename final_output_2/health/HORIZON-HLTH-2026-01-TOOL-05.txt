@@ -1,0 +1,128 @@
+HORIZON-HLTH-2026-01-TOOL-05: Pilot actions for follow -on funding: Leveraging 
+EU-funded collaborative research in regenerative medicine 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+6.00 and 8.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 29.50 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The proposals must be based on results generated within a prior multi -
+beneficiary project funded under Horizon 2020 or Horizon Europe 
+Framework Programme. This project must have been completed 
+maximum 3 years before the submission deadline. 
+Applicants must explicitly state in their proposal the prior multi -
+beneficiary project concerned. Projects funded under Marie 
+Sklodowska-Curie Actions are not considered eligible. Projects funded 
+under co -funded European Partnerships or ERANETs are considered 
+eligible. Ongoing projects366 are not considered eligible. 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+ 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 
+4 (Implementation). The cumulative threshold will be 12. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 367. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Developing and using new tools, 
+technologies and digital solutions for a healthy society”. To that end, proposals under this 
+topic should aim to deliver results that are directed at, tailored towards and contributing to all 
+the following expected outcomes: 
+• The overall competitiveness of the EU biotechnology sector is strengthened through the 
+further development of closer-to-deployment health innovations. 
+• The EU benefits from greater impact of the EU’s Research and Innovation (R&I) 
+Framework Programmes through successful leveraging of previous EU funding in the 
+field of regenerative medicine. 
+• EU innovators secure further funding to finalise the last stages of development. 
+• Patients benefit faster from solutions that improve their health and wellbeing.  
+ 
+Scope: R&I is essential for economic growth and boosting the competitiveness of the EU's 
+life sciences sector. Through the Horizon 2020 and Horizon Europe Framework Programmes, 
+the EU has supported projects that significantly impact our health by fostering scientific 
+discoveries and developing new solutions. Transformational health innovations, such as 
+mRNA vaccines, highlight the importance of collaboration among businesses, research 
+institutions, and healthcare providers. Furthermore, sustained funding throughout the entire 
+value chain is crucial for maximising impact and ensuring more products reach patients faster. 
+The main aim of this topic is to pilot a follow -on funding mechanism, supporting the stepwise 
+development of biotech innovations through collaboration, resulting from previously 
+supported EU R&I actions in the field of health. This topic contributes to strengthening the 
+R&I ecosystem within the EU and supports the implementation of the “Strategy for European 
+Life Sciences”368. Given the importance of biotechnology as a critical technology369, this topic 
+aims to ensure that promising research results are efficiently taken further along the value 
+chain, speeding the time to market or patient through stepwise funding and increasing the 
+EU’s competitiveness. The chosen area of focus is regenerative medicine as it has the 
+potential to heal or replace tissues and organs damaged by age, disease, or trauma, as well as 
+to normalise congenital defects. Proposals should focus on prototyping, demonstrating and 
+validating health innovations from TRL 5, moving beyond early -stage research to clinical 
+development, testing, or eventual large -scale manufacturing. The previously funded EU 
+research on which the proposal is build should be applicable to the field of regenerative 
+medicine and should have clear exploitation potential and/or socio -economic benefits for the 
+patients. 
+Applicants are expected to: 
+• Demonstrate in their proposal that the health product, therapy or service, has been 
+successfully validated at preclinical level in the prior EU funded project and provide 
+justification of the innovation potential with qualitative and quantitative data (e.g. 
+publications, patent/trademark/design applications, spin -out/start-up track record, 
+regulatory procedures, venture capital pitches, funds raised etc). 
+• Justify the proposed composition of the consortium and explain how this differs from the 
+previous grant, and demonstrate how the health product, therapy or service to be 
+developed further qualifies as regenerative medicine. 
+• Demonstrate adequate protection of the idea or Intellectual Property Rights or ensure 
+freedom to operate until full deployment. 
+• Have a clear vision on the intended pathway to patients and/or route to market, including 
+regulatory compliance. This includes defining specific milestones together with concrete 
+ 
+and verifiable Key Performance Indicators (KPIs) to assess progress towards the market 
+or healthcare settings. 
+• Identify the target patient group(s) (how many patients to be treated during the project 
+and the potential patient population that could benefit) and product development 
+milestones including a financial plan (for each milestone).  
+In the case of innovations with commercial potential, proposals should present the investor 
+and market readiness towards commercialisation and deployment (market research, value 
+proposition, business case and business model, prospects for growth, intellectual property 
+protection, competitor analysis etc.) as well as aspects of regulation, certification and 
+standardisation and reimbursement. 
+In the case of innovations with evidenced limited commercial potential but high patient 
+benefit, proposals should contain a deployment and sustainability plan including aspects 
+related to regulations, certification and standardisation and patient access through healthcare 
+providers. 
+Proposals should take into account sex, gender, age and other relevant socio -demographic 
+variables to ensure the scientific robustness, clinical value and applicability of the targeted 
+regenerative medicine innovation. 
+Applicants should provide details of their clinical studies 370 in the dedicated annex using the 
+template provided in the submission system. As proposals under this topic are expected to 
+include clinical studies, the use of the template is strongly encouraged.

@@ -1,0 +1,117 @@
+HORIZON-HLTH-2027-01-DISEASE-05: Development of novel small molecule 
+antiviral therapeutics for pathogens with epidemic potential 
+Call: Cluster 1 - Health (Single stage - 2027/1) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+9.00 and 11.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 44.20 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 
+4 (Implementation). The cumulative threshold will be 12. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+To ensure a balanced project portfolio covering the viruses/groups of 
+viruses targeted in this topic243, grants will be awarded (within available 
+budget) to proposals not only in order of ranking but at least also to 
+those proposals that are the highest ranked within different 
+viruses/groups of viruses targeted, provided that the proposals attain all 
+thresholds. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+ 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Tackling diseases and reducing disease 
+burden”. To that end, proposals under this topic should aim to deliver results that are directed 
+at, tailored towards and contributing to all the following expected outcomes: 
+• The scientific and clinical communities have a better understanding of and access to 
+experimental antivirals for the prevention and treatment of emerging or re -emerging 
+viral infections, as well as for further clinical investigation. 
+• Candidate antiviral therapies are available to treat patients for emerging and re -emerging 
+viral infections, increasing therapeutic options for clinical deployment in case of an 
+epidemic or pandemic.  
+Scope: Infectious diseases remain a major threat to health and health security in the EU and 
+globally. Viral disease emergence is already being accelerated by climate change, and thus a 
+proactive approach to the development of antiviral prophylactics and therapeutics in 
+preparedness for future infectious disease outbreaks is needed. The availability of antivirals 
+targeting conserved viral or host mechanisms would provide a critical preparedness measure 
+against future health threats caused by (re)emerging infectious disease epidemics or 
+pandemics, due to infectious disease epidemics or pandemics. 
+This topic contributes to strengthening the Research and Innovation ecosystem within the EU 
+and supports the implementation of the European Medical Countermeasures Strategy244. 
+Antibodies and antibody derived proteins are excluded from the scope of this topic. 
+Applicants should explicitly state in their proposal which of the following viruses/groups of 
+viruses is targeted and the proposed work should address only this specific virus/group of 
+viruses. The proposed work should aim to advance the development of novel or existing 
+antiviral candidates targeting exclusively one of the following viruses/groups of viruses:   
+i. Junin mammarenavirus and/or Lassa mammarenavirus 
+ii. Tick-borne encephalitis virus and/or Japanese encephalitis virus 
+iii. Andes virus and/or Hantaan virus and/or Sin Nombre virus 
+iv. Hendra virus 
+v. Enterovirus D68 
+vi. Venezuelan equine encephalitis virus  
+ 
+Identifying a specific virus/group of viruses does not preclude the exploration of these 
+antiviral candidates' effects on other viruses/groups of viruses. Proposals should thus aim to 
+diversify and accelerate the global prophylactic and therapeutic research and development 
+portfolio for emerging and re -emerging viral infections, and to strengthen the leading role of 
+the EU in prophylactic and therapeutic research and development. 
+Proposals should address some of the following research areas: 
+• Discovery and selection of candidate antivirals with consideration for intra-family and/or 
+variant-transcending potential. 
+• Optimisation of selected candidates to improve potency, selectivity, pharmacokinetics, 
+and developability, using Structure -Activity Relationship (SAR) studies or equivalent 
+methodologies. 
+• In-vitro characterisation of antiviral activity, mechanism of action, and, where 
+appropriate, resistance potential across multiple viruses or strains. 
+• In-vivo tests in at least one animal model or, if available in human organoid or 
+organotypic models, to demonstrate the protective function of the antiviral candidates 
+and deemed sufficient for moving to first clinical trials. 
+• If requested by regulators as pre -requisite for clinical studies, in -vivo tests in a non -
+human primate model. 
+• Production of batches of the most promising antiviral candidates according to the Good 
+Manufacturing Practices (GMP)245 of the most promising therapeutics solution. 
+• First in human clinical safety studies demonstrating a clear regulatory pathway for 
+market authorisation. Attention should be paid to critical biological and social factors 
+such as sex, age, ethnicity and disability.  
+Participation of third countries where viruses addressed in the proposal are endemic or where 
+outbreaks have occurred or are ongoing is encouraged. 
+The participation of start -ups, micro, small and medium -sized enterprises (SMEs) 246  is 
+encouraged with the aim of strengthening their scientific and technological foundations, 
+enhancing their innovation potential, and exploring possibilities for commercial exploitation. 
+All projects funded under this topic are expected to engage with regulatory bodies in a timely 
+manner to ensure adequacy of the actions from a regulatory point of view. 
+Proposals should advance research by leveraging already existing and emerging state -of-the-
+art research infrastructures 247  such as those having contributed to the services developed 
+under the ISIDORe project248. 
+ 
+The projects funded under this topic should synergise with projects funded by the co -funded 
+European Partnership for Pandemic Preparedness249. 
+Applicants should provide details of their clinical studies 250 in the dedicated annex using the 
+template provided in the submission system. As proposals under this topic are expected to 
+include clinical studies, the use of the template is strongly encouraged.

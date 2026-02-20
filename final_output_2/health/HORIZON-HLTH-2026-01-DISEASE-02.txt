@@ -1,0 +1,125 @@
+HORIZON-HLTH-2026-01-DISEASE-02: Innovative interventions to prevent the 
+harmful effects of using digital technologies on the mental health of children and young 
+adults 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+8.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 44.20 million. 
+Type of Action Research and Innovation Actions 
+Eligibility conditions The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in 
+the United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, 
+navigation and/or related timing data and services, beneficiaries must 
+make use of Copernicus and/or Galileo/EGNOS (other data and 
+services may additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) 
+and 4 (Implementation). The cumulative threshold will be 12. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following 
+exceptions apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Tackling diseases and reducing disease 
+burden”. To that end, proposals under this topic should aim to deliver results that are directed 
+at, tailored towards and contributing to all the following expected outcomes: 
+• Researchers and healthcare professionals have an improved understanding of the neuro -
+biological and cognitive/behavioural evidence base on the correlation and impact of 
+digital technologies on mental health, including brain development. 
+• Policymakers and digital technology and content developers are provided with a robust 
+evidence base on the impact (positive or negative) of digital technologies on mental 
+health in children and young adults138. 
+• Policymakers, digital technology developers, and educational institutions amongst others 
+make use (e.g. developing guidelines) of the evidence base and widely implement the 
+newly developed interventions aimed at promoting children and young adults’ mental 
+health while mitigating any negative impacts of digital technology use. 
+• Children, young adults, families, guardians, educators, and carers have access to the 
+newly developed interventions designed to prevent harm and promote the positive use of 
+digital technologies. 
+• Children and young adults are empowered and develop resilience, including digital 
+literacy, enabling them to engage in a healthy and positive way with digital technologies.  
+Scope: Already before the COVID -19 pandemic, 1 in 6 people in the EU suffered from 
+mental health issues. The economic costs of it are estimated at 4% of the Gross Domestic 
+Product (GDP) 139 and since then these figures worsened 140 in particular among vulnerable 
+groups such as children and adolescents or those at risk of discrimination. Digital 
+technologies have the potential to enhance mental health for instance by providing access to 
+information, support networks and therapy services141. However, there are indications that the 
+excessive or misguided use of digital technologies, particularly among children and young 
+adults, can negatively affect mental health and exacerbate mental disorders. There is an urgent 
+need for more robust data to foster a safer, responsible and healthier use of digital 
+technologies among children and young adults, prioritising the protection of their mental 
+health. 
+Therefore, proposals should aim at generating robust scientific evidence on the impact of 
+digital technologies, as well as developing and testing context -specific digital interventions 
+that promote the positive and responsible use of them to improve mental health, avoiding the 
+development or exacerbation of mental disorders. These innovative digital interventions 
+should leverage multi -source data (e.g. sleep patterns, heart rate, stress levels, screen -time 
+analytics, social media use, biological data, clinical data), and could include the use of 
+Artificial Intelligence (AI). When handling data and indicators, sex and gender identity -
+ 
+disaggregated data should be collected and analysed, incorporating intersectional factors 
+where feasible. 
+The applicants should address all the following aspects: 
+• Generate the neuro -biological and cognitive/behavioural evidence base on the 
+correlation and impact of digital technologies on mental health, including brain 
+development (both positive and negative). 
+• Develop and test innovative digital interventions aiming for example at: counteracting 
+addictive design patterns (e.g. on social media and gaming platforms), gaining insights 
+into risk patterns and enabling early risk detection (e.g. detecting early warning signs of 
+mental disorders or digital addiction), redirecting users towards healthy use and positive 
+engagement with digital technologies, and/or reducing exposure to harmful content. 
+• Assess the changes in behaviour in children and young adults of the newly developed 
+interventions, aiming at fostering their resilience and promoting responsible use and 
+healthy digital habits.  
+The topic is open to address any mental disorder 142 caused or aggravated by the use of digital 
+technologies such as addiction, self -harm behaviour, increased anxiety or decreased self -
+esteem, sleeping-disorders, post-traumatic stress disorders. 
+Cohort studies and clinical studies are in the scope for this topic. Applicants envisaging to 
+include longitudinal cohort studies are invited to indicate a sustainability plan on how those 
+cohorts are maintained over an extended period beyond the end period of the project for a 
+long-term follow -up. They should make use of existing cohorts data when available. 
+Applicants are welcome to consider recruiting participants transnationally and from diverse 
+settings in the clinical study design to ensure generalizability of findings. In addition, it 
+should be detailed in the proposal how the proposed intervention(s) could be scaled -up and 
+transferred to other settings. Applicants should also consider the inclusion of end -users in the 
+codesign of the interventions, for example for the young age groups, this includes the 
+involvement of families, carers, educators. Applicants should access and make best -use of 
+already existing European Research Infrastructures relevant for brain -research (e.g. 
+EBRAINS143, Euro-BioImaging144). 
+All projects funded under this topic should liaise with relevant European projects on mental 
+health145 and the future co -funded European Partnership for Brain Health 146. They are also 
+encouraged to explore potential synergies with projects to be funded under the EU4Health 
+ 
+Work Programme 2026 related to the harmful effects of using digital technologies on the 
+mental health of children and young adults. 
+The participation of start -ups and/or micro, small and medium -sized enterprises (SMEs) 147 is 
+encouraged with the aim to strengthen their scientific and technological basis and valorise 
+their innovations and to advance commercial exploitation. 
+Proposals should adhere to the FAIR 148  data principles, adopt wherever relevant, data 
+standards and data sharing/access good practices, and apply good practices for GDPR 149 
+compliant personal data protection. 
+The topic requires the effective contribution of social sciences and humanities (SSH) 
+disciplines and the involvement of SSH experts, institutions as well as the inclusion of 
+relevant SSH expertise, in order to produce meaningful and significant effects enhancing the 
+societal impact of the related research activities. The support and involvement of citizens and 
+civil society should be considered. 
+Applicants should provide details of their clinical studies 150 in the dedicated annex using the 
+template provided in the submission system. As proposals under this topic are expected to 
+include clinical studies, the use of the template is strongly encouraged.

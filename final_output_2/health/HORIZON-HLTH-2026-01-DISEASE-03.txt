@@ -1,0 +1,131 @@
+HORIZON-HLTH-2026-01-DISEASE-03: Advancing research on the prevention, 
+diagnosis, and management of post-infection long-term conditions 
+Call: Cluster 1 - Health (Single stage - 2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+6.00 and 8.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 39.30 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in the 
+ 
+United States of America is eligible to receive Union funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 
+4 (Implementation). The cumulative threshold will be 12. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 151. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Tackling diseases and reducing disease 
+burden”. To that end, proposals under this topic should aim to deliver results that are directed 
+at, tailored towards and contributing to all the following expected outcomes: 
+• All players along the healthcare value chain have access to evidence-based treatment and 
+management strategies for post -infection conditions and improve patient recovery and 
+quality of life across diverse populations. 
+• Public health authorities and healthcare practitioners have access to effective prevention, 
+diagnostic and treatment tools, ensuring better allocation of healthcare resources. 
+• Healthcare systems improve their efficiency and reduce long -term economic burdens by 
+streamlining post-infectious disease care and addressing disparities in healthcare access. 
+ 
+• Public health authorities have access to evidence -based information to integrate research 
+findings into policy for improved public health preparedness and resilience, including 
+training of healthcare staff and enhanced long-term disease management guidelines.  
+Scope: Microbial infections can lead to long -lasting consequences on patients’ quality of life, 
+leading to long-term conditions characterised by persistent inflammation, organ damage, and 
+impaired functional capacity, which pose a growing public health and economic challenge. 
+These conditions are insufficiently understood, underdiagnosed, and lack effective treatments. 
+Advancing research into their prevention, treatment and management is essential to improving 
+patient outcomes, reducing healthcare burdens, and strengthening workforce productivity. 
+The topic is open to long -term conditions resulting from infections by any type of 
+microorganism (including viruses, bacteria, parasites, and fungi), which persist after the initial 
+infection has been resolved. Research linked to cancer is excluded as it will be covered by the 
+Cancer Mission. 
+Proposals should aim to develop innovative approaches for the prevention, diagnosis, and 
+management of post -infection conditions. Proposals should address most of the following 
+research areas: 
+• Identify protective and risk factors associated with the development of post -infection 
+conditions to inform targeted prevention strategies, by integrating relevant information 
+such as genetics, epigenetics, immune or inflammatory responses, and/or other relevant 
+factors. 
+• Increase understanding of the pathophysiology of post -infection conditions (including 
+inflammatory aspects) to identify biomarkers and develop clinically validated diagnostic 
+approaches for early detection, disease progression and/or treatment optimisation. 
+• Develop and validate preventive and/or therapeutic interventions, including targeted 
+pharmacological treatments, repurposing of existing drugs or precision medicine 
+approaches, through early -stage clinical trials 152  that demonstrate clinical safety and 
+efficacy. 
+• Identify effective supportive rehabilitation approaches, including physical therapy, 
+cognitive interventions, and psychological support, to enhance patient recovery, mental 
+health and quality of life and evaluate their effectiveness. 
+• Examine best practices for integrating post -infectious disease management into primary 
+and specialised healthcare settings, improving coordination among healthcare 
+professionals.  
+Specific attention should be given to sex and gender, as women often experience post -
+infectious diseases differently due to hormonal and other biological, as well as social factors, 
+which can affect their diagnosis, treatment, and recovery. Moreover, age, disability, racial or 
+ 
+ethnic origin153, socio-economic, lifestyle and behavioural factors should also be considered. 
+Particular emphasis should be placed on populations in a vulnerable situation and groups with 
+pre-existing conditions to ensure equitable and inclusive healthcare solutions. 
+A multidisciplinary, cross-sectoral approach is encouraged, involving all relevant stakeholders 
+(medical and non -medical), including patients, researchers, healthcare professionals, and 
+policymakers. 
+Proposals should develop a harmonised approach to collection, storage, sharing and analysis 
+of FAIR154 data, leveraging existing European (research) infrastructures, including biobanks 
+or cohorts’ data 155  where relevant and contribute to emerging research infrastructures, 
+established in the framework of the European Health Data Space (EHDS)156 and the European 
+Open Science Cloud (EOSC)157. 
+Proposals should demonstrate complementarity with ongoing EU initiatives, including 
+projects funded under relevant topics 158, and outline plans for collaboration where applicable, 
+to maximise synergies and avoid duplication of research efforts. 
+All projects funded under this topic are expected to participate in networking and joint 
+activities159. They are also expected to engage early on with the European Medicines Agency 
+(EMA) to ensure adequacy of the actions from a regulatory point of view. Where relevant, a 
+Health Technology Assessment (HTA) should be conducted to evaluate the clinical, 
+economic, and social implications of interventions. 
+If applicable, applicants are encouraged to incorporate artificial intelligence (AI) tools and 
+advanced computational modelling/Virtual Human Twin (VHT) -powered tools to predict 
+disease risk and progression, ensuring these tools are developed and tested for diverse 
+populations to minimise bias. Hardware and software should be interoperable in line with 
+internationally accepted standard. 
+This topic requires the effective contribution of social sciences and humanities (SSH) 
+disciplines and the involvement of SSH experts, institutions as well as the inclusion of 
+ 
+relevant SSH expertise, in order to produce meaningful and significant effects enhancing the 
+societal impact of the related research activities. 
+Participation of start -ups, micro, small and medium -sized enterprises (SMEs) 160  is also 
+encouraged to strengthen their scientific and technological foundations and enhance their 
+innovation potential. 
+Applicants should provide details of their clinical studies 161 in the dedicated annex using the 
+template provided in the submission system. As proposals under this topic are expected to 
+include clinical studies, the use of the template is strongly encouraged.

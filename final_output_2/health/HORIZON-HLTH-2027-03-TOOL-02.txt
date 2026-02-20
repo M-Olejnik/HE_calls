@@ -1,0 +1,119 @@
+HORIZON-HLTH-2027-03-TOOL-02: Advancing bio -printing of living cells for 
+regenerative medicine 
+Call: Cluster 1 - Health (Single stage - 2027/2) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+7.00 and 10.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 39.30 million. 
+ 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In recognition of the opening of the US National Institutes of Health’s 
+programmes to European researchers, any legal entity established in 
+the United States of America is eligible to receive Union funding. 
+If projects use satellite-based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or 
+as an associated partner. The JRC will not participate in the 
+preparation and submission of the proposal - see General Annex B. 
+Award criteria The criteria are described in General Annex D. The following 
+exceptions apply: 
+The thresholds for each criterion will be 4 (Excellence), 4 (Impact) and 
+4 (Implementation). The cumulative threshold will be 12. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This topic aims at supporting activities that are enabling or contributing 
+to one or several expected impacts of destination “Developing and using new tools, 
+technologies and digital solutions for a healthy society”. To that end, proposals under this 
+topic should aim to deliver results that are directed at, tailored towards and contributing to 
+most of the following expected outcomes: 
+• Biomedical scientists from academia and industry will gain access to entire bio -printing 
+units designed to regenerate human tissue. 
+• Healthcare professionals acquire information on the safe and effective use of equipment 
+enabling advanced therapies with bio-printed human tissue. 
+• Healthcare providers dispose of tools enabling them to treat conditions of unmet medical 
+need. 
+• Individual patients will benefit from a personalised approach to their respective medical 
+condition thanks to the bio-printed regenerative medicine solution.  
+Scope: Tissue-specific functional 3D bio-printing of living cells has made significant progress 
+as a new approach for transplantation applications in regenerative medicine. There are 
+currently several types of bio -printing technologies under development for the repair of 
+different targeted tissues or organs. To fully unleash the potential of bio -printed cell 
+constructs for regenerative medicine several bottlenecks still need to be overcome. Various 
+studies in pre-clinical models have shown that bio-printed cell constructs or tissues hold great 
+promise for regenerative medicine, by allowing autologous tissue grafts being printed thus 
+avoiding adverse graft -host reactions. However, translation of such approaches into clinical 
+settings (i.e. humans) and their application to internal organs still needs to be investigated and 
+demonstrated. Dependant on the actual target site (i.e. the defect tissue or organ in the human 
+body) different bio -printing approaches may be preferable. For printing complex tissues and 
+especially entire organs an in-vitro approach followed by transplantation is the preferred way. 
+“In-situ” bio-printing, sometimes also referred to as “in -vivo”, or as “intraoperative”, reflects 
+a bioprinting process performed on a live subject in a surgical setting and has in certain 
+instances (e.g. tissue repair) advantages over an in -vitro bio-printing technique followed by 
+transplantation. In -situ bio -printing involves direct patterning of bio -inks onto a patient’s 
+body at the target site, allowing for precise construction of a site -matching tissue -structure 
+within the actual physiological location where regeneration or repair is needed. As such, in -
+situ bio -printing allows for high adaptability, reduced risk of contamination, improved cell 
+viability, function and host integration. The high cell densities present in the human vital 
+organs underscore the importance of bio -inks which contain less additional biomaterials as 
+matrix. Hence the bio-printing of cell constructs that comprise native tissue -like cell densities 
+may facilitate repair and/or regeneration of defective complex tissues or internal organs. For 
+such approaches meticulous engineering of the bio-printing equipment is necessary, involving 
+sophisticated micro-surgical instrumentation and medical imaging platforms. To achieve the 
+desired function and to mimic the natural cues in native tissues for in -vitro printed bio -
+constructs, the use of additional stimuli is needed, whereas in -situ approaches normally rely 
+on the body as natural bioreactor providing the necessary extracellular cues. Recently, 
+combinations of in -situ bio -printing with real -time stimuli have been investigated, even for 
+the repair of internal organs. However, there remain bottlenecks that need to be overcome, 
+like the integration with existing imaging modalities and surgical procedures or the long -time 
+stability and functionality of the created bio-constructs. 
+To address these challenges, researchers should work in multidisciplinary teams with 
+engineers, biomedical scientists, cell biologists and medical doctors. Proposals should be 
+based on the use of human cells and address all the following activities: 
+• Develop or improve existing bioprinting equipment that comprises all steps of the bio -
+printing suite to print bio -constructs with high cell -density for improved vascularisation 
+and faster repair of the defect in the body. 
+• Scale-up the chosen bio -printing technology to a Good Manufacturing Practices 
+(GMP)398 conform/compliant manufacturing process. 
+• Perform all necessary regulatory work enabling the conduct of clinical studies and assess 
+the clinical value of the developed bio-printing technology in first in-human studies.  
+Priority should be given to bio -printing approaches that either target vital internal organs 
+followed by surgical grafting or employ in -situ approaches depositing the cell -laden bioink 
+directly from the printhead or endoscope on the defect target site in the body. 
+Regulatory knowledge of the field is desired and should be documented through contacts with 
+relevant national or international European regulatory authorities. A good understanding of 
+the different steps involved and the inherent risks in each of these steps will be a basis to 
+identify appropriate safety and quality requirements. Requirements from the different 
+established EU frameworks on Substances of Human Origin (SoHO), medical devices and 
+pharmaceuticals including Advanced Therapy Medicinal Products (ATMPs) should be 
+considered for manufacturing/preparation as well as for clinical outcome monitoring. A 
+combination of requirements from different frameworks might be most appropriate to allow 
+for responsible and fast uptake. 
+Proposals under this topic may address any therapeutic area, i.e. any disease, dysfunction or 
+defect. Sex differences at the cellular level should be taken into consideration. 
+Preclinical stage and clinical development are eligible. The involvement of small and 
+medium-sized enterprises (SMEs)399 is encouraged. 
+The European Commission's Joint Research Centre (JRC) may contribute to the proposals 
+selected for funding with work on strategic technologies for economic security and innovative 
+industrial ecosystems, particularly activities on innovation in vitro biotechnologies. 
+Applicants should provide details of their clinical studies 400 in the dedicated annex using the 
+template provided in the submission system. As proposals under this topic are expected to 
+include clinical studies, the use of the template is strongly encouraged.
