@@ -28,7 +28,7 @@ LABEL_COLS = ["NLP", "WUDAP", "ETHICS", "ENVIRO", "OPERATIONS", "none"]
 
 def get_user_csv_path(username):
     """Get user-specific CSV path"""
-    return os.path.join(ROOT, f"final_labels_{username}.csv")
+    return os.path.join(ROOT, f"labels_{username}.csv")
 
 
 def load_labels(csv_path):
@@ -133,7 +133,7 @@ def main():
     
     csv_path = get_user_csv_path(username)
 
-    #st.title("Final Output Labeler")
+    st.title("Final Output Labeler")
 
     # Initialize session state
     if "labels_dict" not in st.session_state:
@@ -275,3 +275,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
