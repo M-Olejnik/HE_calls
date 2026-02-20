@@ -1,12 +1,10 @@
 """
-app.py (updated)
+app.py (updated for Streamlit Cloud with GitHub persistence)
 
 Streamlit app for labeling files from final_output_2.
-Files are organized by cluster and can be labeled with multiple categories.
+Labels are persisted to GitHub using the GitHub API.
 
-Labels: nlp, wudap, ethics, enviro, operations
-
-CSV output has columns: CallID, nlp, wudap, ethics, enviro, operations
+Each user gets their own label file: final_labels_{username}.csv
 
 Usage:
     streamlit run app.py
@@ -17,6 +15,8 @@ import os
 import glob
 import re
 import pandas as pd
+import base64
+import requests
 
 st.set_page_config(layout="wide", page_title="Final Output Labeler")
 
@@ -26,27 +26,35 @@ CLUSTERS = ["health", "civil", "climate", "culture", "digital", "food"]
 LABEL_COLS = ["NLP", "WUDAP", "ETHICS", "ENVIRO", "OPERATIONS", "none"]
 
 
-def get_user_csv_path(username):
-    """Get user-specific CSV path"""
-    return os.path.join(ROOT, f"final_labels_{username}.csv")
-
-
-def load_labels(csv_path):
-    """Load existing labels from CSV"""
-    if os.path.exists(csv_path):
-        df = pd.read_csv(csv_path)
-        # Create dict with CallID as key and dict of labels as value
-        result = {}
-        for _, row in df.iterrows():
-            call_id = row.get("CallID")
-            if call_id:
-                result[call_id] = {col: row.get(col, "") for col in LABEL_COLS}
-        return result
+def load_labels_from_github(github_token, github_repo, username, branch="main"):
+    """Load labels from GitHub repository"""
+    csv_filename = f"final_labels_{username}.csv"
+    url = f"https://api.github.com/repos/{github_repo}/contents/{csv_filename}?ref={branch}"
+    
+    headers = {"Authorization": f"token {github_token}", "Accept": "application/vnd.github.v3.raw"}
+    
+    try:
+        response = requests.get(url, headers=headers)
+        if response.status_code == 200:
+            # Parse CSV from response
+            df = pd.read_csv(pd.io.common.StringIO(response.text))
+            result = {}
+            for _, row in df.iterrows():
+                call_id = row.get("CallID")
+                if call_id:
+                    result[call_id] = {col: row.get(col, "") for col in LABEL_COLS}
+            return result
+    except Exception as e:
+        st.warning(f"Could not load from GitHub: {e}")
+    
     return {}
 
 
-def save_labels(csv_path, labels_dict):
-    """Save labels to CSV"""
+def save_labels_to_github(github_token, github_repo, username, labels_dict, branch="main"):
+    """Save labels to GitHub repository"""
+    csv_filename = f"final_labels_{username}.csv"
+    
+    # Prepare CSV content
     rows = []
     for call_id, label_dict in sorted(labels_dict.items()):
         row = {"CallID": call_id}
@@ -55,7 +63,40 @@ def save_labels(csv_path, labels_dict):
         rows.append(row)
     
     df = pd.DataFrame(rows)
-    df.to_csv(csv_path, index=False)
+    csv_content = df.to_csv(index=False)
+    
+    # Encode content in base64
+    encoded_content = base64.b64encode(csv_content.encode()).decode()
+    
+    url = f"https://api.github.com/repos/{github_repo}/contents/{csv_filename}"
+    headers = {"Authorization": f"token {github_token}", "Accept": "application/vnd.github.v3+json"}
+    
+    # Get current file SHA (needed for updates)
+    try:
+        get_response = requests.get(url, headers=headers, params={"ref": branch})
+        sha = get_response.json().get("sha") if get_response.status_code == 200 else None
+    except:
+        sha = None
+    
+    # Prepare commit data
+    data = {
+        "message": f"Update labels for {username}",
+        "content": encoded_content,
+        "branch": branch
+    }
+    if sha:
+        data["sha"] = sha
+    
+    try:
+        response = requests.put(url, json=data, headers=headers)
+        if response.status_code in [201, 200]:
+            return True
+        else:
+            st.error(f"GitHub save failed: {response.status_code}")
+            return False
+    except Exception as e:
+        st.error(f"Error saving to GitHub: {e}")
+        return False
 
 
 def extract_page_number(divide_file_path, call_id):
@@ -125,19 +166,44 @@ def main():
         st.error(f"final_output_2 directory not found at {FINAL_OUTPUT_DIR}")
         st.stop()
 
-    # Username input at the top
+    # GitHub configuration (use Streamlit secrets if available)
+    github_token = st.secrets.get("github_token", "") if hasattr(st, "secrets") else ""
+    github_repo = st.secrets.get("github_repo", "") if hasattr(st, "secrets") else ""
+    
+    # If not in secrets, ask user (for local testing)
+    if not github_token:
+        st.sidebar.header("GitHub Configuration")
+        github_token = st.sidebar.text_input("GitHub Personal Access Token:", type="password")
+        github_repo = st.sidebar.text_input("GitHub Repo (owner/repo):", "")
+        
+        if not github_token or not github_repo:
+            st.warning("⚠️ Please configure GitHub credentials in sidebar (or add to Streamlit secrets)")
+            st.info("""
+            **To set up GitHub persistence:**
+            1. Create a GitHub Personal Access Token (Settings → Developer → Personal Access Tokens)
+            2. Give it `repo` scope permission
+            3. Add to Streamlit secrets:
+               - In `.streamlit/secrets.toml`: `github_token = "your_token"` and `github_repo = "owner/repo"`
+               - Or in Streamlit Cloud settings
+            """)
+            st.stop()
+    
+    # Username input
     username = st.text_input("Enter your username:", "")
     if not username:
         st.warning("Please enter a username to get started")
         st.stop()
-    
-    csv_path = get_user_csv_path(username)
 
-    #st.title("Final Output Labeler")
+    st.title("Final Output Labeler")
+
+    # Store GitHub credentials in session state for access in button callbacks
+    st.session_state.github_token = github_token
+    st.session_state.github_repo = github_repo
+    st.session_state.username = username
 
     # Initialize session state
     if "labels_dict" not in st.session_state:
-        st.session_state.labels_dict = load_labels(csv_path)
+        st.session_state.labels_dict = load_labels_from_github(github_token, github_repo, username)
     if "viewed_calls" not in st.session_state:
         st.session_state.viewed_calls = set()
     if "last_call_id" not in st.session_state:
@@ -204,7 +270,8 @@ def main():
                 prev_labels = {col: "" for col in LABEL_COLS}
                 prev_labels["none"] = "yes"
                 st.session_state.labels_dict[st.session_state.last_call_id] = prev_labels
-                save_labels(csv_path, st.session_state.labels_dict)
+                save_labels_to_github(st.session_state.github_token, st.session_state.github_repo, 
+                                     st.session_state.username, st.session_state.labels_dict)
 
     # Mark this call as viewed
     st.session_state.viewed_calls.add(call_id)
@@ -261,7 +328,8 @@ def main():
             
             # Auto-save
             st.session_state.labels_dict[call_id] = current_labels
-            save_labels(csv_path, st.session_state.labels_dict)
+            save_labels_to_github(st.session_state.github_token, st.session_state.github_repo, 
+                                 st.session_state.username, st.session_state.labels_dict)
             st.rerun()
 
     # Display current labels
