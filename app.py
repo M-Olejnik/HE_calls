@@ -1,10 +1,12 @@
 """
-app.py (updated for Streamlit Cloud with GitHub persistence)
+app.py (updated)
 
 Streamlit app for labeling files from final_output_2.
-Labels are persisted to GitHub using the GitHub API.
+Files are organized by cluster and can be labeled with multiple categories.
 
-Each user gets their own label file: final_labels_{username}.csv
+Labels: nlp, wudap, ethics, enviro, operations
+
+CSV output has columns: CallID, nlp, wudap, ethics, enviro, operations
 
 Usage:
     streamlit run app.py
@@ -24,27 +26,27 @@ CLUSTERS = ["health", "civil", "climate", "culture", "digital", "food"]
 LABEL_COLS = ["NLP", "WUDAP", "ETHICS", "ENVIRO", "OPERATIONS", "none"]
 
 
+def get_user_csv_path(username):
+    """Get user-specific CSV path"""
+    return os.path.join(ROOT, f"final_labels_{username}.csv")
+
+
 def load_labels(csv_path):
     """Load existing labels from CSV"""
     if os.path.exists(csv_path):
-        try:
-            df = pd.read_csv(csv_path)
-            result = {}
-            for _, row in df.iterrows():
-                call_id = row.get("CallID")
-                if call_id:
-                    result[call_id] = {col: row.get(col, "") for col in LABEL_COLS}
-            return result
-        except Exception as e:
-            st.warning(f"Could not load labels: {e}")
+        df = pd.read_csv(csv_path)
+        # Create dict with CallID as key and dict of labels as value
+        result = {}
+        for _, row in df.iterrows():
+            call_id = row.get("CallID")
+            if call_id:
+                result[call_id] = {col: row.get(col, "") for col in LABEL_COLS}
+        return result
     return {}
 
 
 def save_labels(csv_path, labels_dict):
     """Save labels to CSV"""
-    # Ensure directory exists
-    os.makedirs(os.path.dirname(csv_path) if os.path.dirname(csv_path) else ".", exist_ok=True)
-    
     rows = []
     for call_id, label_dict in sorted(labels_dict.items()):
         row = {"CallID": call_id}
@@ -54,7 +56,6 @@ def save_labels(csv_path, labels_dict):
     
     df = pd.DataFrame(rows)
     df.to_csv(csv_path, index=False)
-    st.success(f"✅ Saved to {csv_path}")
 
 
 def extract_page_number(divide_file_path, call_id):
@@ -124,35 +125,15 @@ def main():
         st.error(f"final_output_2 directory not found at {FINAL_OUTPUT_DIR}")
         st.stop()
 
-    # Sidebar: Folder selection for saving labels
-    st.sidebar.header("⚙️ Settings")
-    save_folder = st.sidebar.text_input(
-        "📁 Enter folder path to save labels:",
-        value=ROOT,
-        help="The CSV files will be saved here. Default is current directory."
-    )
-    
-    if not os.path.isdir(save_folder):
-        st.sidebar.warning(f"⚠️ Folder not found: {save_folder}")
-        save_folder = ROOT
-        st.sidebar.info(f"Using default: {ROOT}")
-    
-    # Username input
+    # Username input at the top
     username = st.text_input("Enter your username:", "")
     if not username:
         st.warning("Please enter a username to get started")
         st.stop()
+    
+    csv_path = get_user_csv_path(username)
 
-    # Create CSV path in selected folder
-    csv_filename = f"final_labels_{username}.csv"
-    csv_path = os.path.join(save_folder, csv_filename)
-
-    st.title("Final Output Labeler")
-
-    # Store settings in session state
-    st.session_state.csv_path = csv_path
-    st.session_state.username = username
-    st.session_state.save_folder = save_folder
+    #st.title("Final Output Labeler")
 
     # Initialize session state
     if "labels_dict" not in st.session_state:
@@ -206,12 +187,6 @@ def main():
     st.sidebar.divider()
     st.sidebar.write(f"**Progress:** {st.session_state.cluster_index + 1} / {num_files}")
     st.sidebar.write(f"**Cluster:** {selected_cluster}")
-    st.sidebar.divider()
-    st.sidebar.write("**📁 Save Location:**")
-    st.sidebar.code(csv_path, language="text")
-    if st.sidebar.button("💾 Save Now"):
-        save_labels(csv_path, st.session_state.labels_dict)
-        st.balloons()
 
     # Current file
     current_path = txt_files[st.session_state.cluster_index]
@@ -229,7 +204,7 @@ def main():
                 prev_labels = {col: "" for col in LABEL_COLS}
                 prev_labels["none"] = "yes"
                 st.session_state.labels_dict[st.session_state.last_call_id] = prev_labels
-                save_labels(st.session_state.csv_path, st.session_state.labels_dict)
+                save_labels(csv_path, st.session_state.labels_dict)
 
     # Mark this call as viewed
     st.session_state.viewed_calls.add(call_id)
@@ -286,7 +261,7 @@ def main():
             
             # Auto-save
             st.session_state.labels_dict[call_id] = current_labels
-            save_labels(st.session_state.csv_path, st.session_state.labels_dict)
+            save_labels(csv_path, st.session_state.labels_dict)
             st.rerun()
 
     # Display current labels
@@ -300,4 +275,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
