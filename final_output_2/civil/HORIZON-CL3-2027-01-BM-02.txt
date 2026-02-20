@@ -1,0 +1,104 @@
+HORIZON-CL3-2027-01-BM-02: Trusted, secure, quality future digital travel 
+credentials 
+Call: Civil Security for Society 2027 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 4.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 8.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 2 
+Border or Coast Guard Authorities from at least 2 different EU Member 
+States or Associated Countries. For these participants, applicants must 
+fill in the table “Information about security practitioners” in the 
+application form with all the requested information, following the 
+template provided in the submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 4 -5 by the end of the project – 
+see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 79. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Development, testing and integration of issuance, validation and sharing capabilities for 
+possible future types (beyond Type 1) of Digital Travel Credentials (DTC); 
+• Integration of innovative, on -the-move, biometrics and remote biometric acquisition 
+modalities to support the use of DTCs; 
+• Improved secure connectivity and interoperability for future DTCs; 
+• Improved capability of issuance of emergency travel documents and/or emergency 
+DTCs.  
+Scope: Issuance, verification and management of digital travel credentials (DTCs) is relevant 
+for border management, immigration and visa management. Furthermore, it could also be 
+relevant to combat illicit activities such as terrorism, crime or frauds. This topic aims at 
+supporting research and innovation that explore, develop and test enhanced capabilities for 
+securely issuing, verify and manage (including sharing) possible future types of digital travel 
+credentials (DTCs) for travel across the external borders of the EU. 
+The proposed solutions must be compatible with current, planned or foreseeable EU DTCs 
+formats, and with applicable International Civil Aviation Organisation (ICAO) schemes, but 
+they should also push forward to possible further types of DTCs (“Type 2” and “Type 3”). 
+Additionally, the funded actions should also work on the integration of current and new 
+biometrics, and/or new biometric acquisition modality, in support of DTCs. This includes but 
+does not limit to biometrics such as fingermark, palmprint, palmmark, rolled fingerprint, 
+contactless fingerphotos, and biometric acquisition modalities such as remote and on -the-
+move, including those modalities developed by previous projects funded by this Destination 
+of Horizon Europe Cluster 3. The project should develop and/or contribute to reference 
+biometric sample quality assessments standards for these biometric modalities included in the 
+DTCs, compatibly with existing relevant tools such as the Open Source Face Image Quality 
+ 
+(OFIQ), or improving forward -looking interoperability, for example between contact and 
+contactless fingerprint data. 
+The funded research project(s) can also address the use case of verification, issuance or re -
+issuance of (emergency) DTCs in cases of emergencies (including evacuations of EU 
+citizens). 
+Funded research can additionally address the security of breeder documents, which risk to be 
+“weak links” when they are used to obtain genuine, secure travel credentials. 
+Proposals submitted under this topic are expected to address the priorities of the European 
+Border and Coast Guard and of its Agency (Frontex) and of the European Union Agency for 
+the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and 
+Justice (eu-LISA). This should start from the definition of requirements and the design phase 
+of their work, including basing on the EBCG Capability Roadmap; and on the engagement 
+with the Agencies during the implementation of the project. At the stage of proposal 
+preparation, Frontex and eu-LISA will not provide any guidance on, or otherwise be involved 
+in the preparation of, project proposals. Proposals should consider and foresee that Frontex 
+and eu-LISA may observe pilots and demonstrations when the project will be implemented, 
+with the aim of facilitating future uptake of innovations for the border and coast guard 
+community. 
+To ensure the active involvement of and timely feedback from relevant security practitioners, 
+proposals should plan a mid -term deliverable consisting in the assessment of the project’s 
+mid-term outcomes, performed by the practitioners involved in the project.

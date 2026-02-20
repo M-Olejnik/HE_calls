@@ -1,0 +1,115 @@
+HORIZON-CL3-2026-01-DRS-04: Open topic on driving innovation uptake of disaster 
+risk solutions 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 3.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 6.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+ 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 3 
+first responders or authorities in charge of disaster risk 126 from at least 3 
+different EU Member States or Associated Countries. 
+For these participants, applicants must fill in the table “Information 
+about security practitioners” in the application form with all the 
+requested information, following the template provided in the 
+submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 8 by the end of the project – see 
+General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 127. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+ 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Accelerated adoption of high -TRL (Technology Readiness Level) disaster risk solutions 
+across diverse sectors; 
+• Facilitated integration of innovative technologies into existing disaster prevention, 
+preparedness, response, and recovery frameworks; 
+• Promoted collaboration among stakeholders to scale proven solutions and enhance 
+resilience; 
+• Addressed barriers to deployment, ensuring accessibility and usability of advanced DRS 
+technologies; 
+• Strengthened evidence-based decision-making through demonstration and validation of 
+high-TRL solutions in real-world scenarios;  
+• Promoted visibility of civil security research results.   
+Scope: This topic aims to foster the widespread adoption and integration of high -TRL 
+(Technology Readiness Level) disaster risk solutions (DRS) across multiple sectors, 
+enhancing societal resilience to various hazards, including climate. The focus is on 
+overcoming barriers to deployment, ensuring accessibility, and strengthening collaboration 
+among stakeholders to drive innovation uptake. Projects should promote the adoption of high -
+TRL solutions by public and private sector organizations involved in disaster risk 
+management, developing strategies for scaling and commercializing innovative DRS 
+technologies to ensure they reach end -users efficiently. They should also demonstrate how 
+these technologies can complement or replace existing disaster preparedness, response, and 
+recovery frameworks by developing integrated governance and coordination models across 
+sectors and levels for disaster preparedness, response, and recovery in multi -hazard and 
+cascading risk scenario interoperability standards, and guidelines for integrating new solutions 
+into national and European civil protection systems. The project should especially liaise and 
+support other disaster resilience projects in driving their uptake as well as examine how to 
+build synergy pathways with other preparedness grants, such as Knowledge for Action in 
+Prevention & Preparedness (KAPP) funding call of the Union Civil Protection Mechanism 
+(UCPM). 
+Addressing deployment barriers is crucial, including identifying and mitigating technical, 
+regulatory, financial, and social obstacles hindering the uptake of advanced solutions, while 
+ensuring accessibility and usability for diverse stakeholders such as first responders, local 
+authorities, and communities and individuals in a vulnerable situation. Projects should also 
+demonstrate the real -world effectiveness of high -TRL solutions through large -scale pilot 
+projects and demonstrations, generating robust evid ence to support data -driven decision -
+making and optimize disaster risk reduction strategies. Initiatives should consider the capacity 
+gaps of the UCPM 128, align with EU disaster resilience objectives and build on existing 
+programs, ensuring synergies with relevant policies, funding mechanisms, and technological 
+ecosystems. The private -public cooperation chapter of the Preparedness Union Strategy 
+should especially be a guiding document. Proposals are encouraged to incorporate digital 
+tools, AI-driven analytics, digital twins such as Destination Earth, IoT applications, and other 
+emerging technologies to enhance disaster preparedness and response. 
+Proposals should have a strategy to promote the visibility of the project and the results to the 
+broader public in order to show the potential of European civil security research (political 
+sphere, private sector, citizens). This could entail the European Civil Protection Forum and 
+the European Commission Disaster Risk Management Knowledge Centre platform as 
+examples. 
+In this topic the integration of the gender dimension (sex and gender analysis) in research and 
+innovation content should be addressed only if relevant in relation to the objectives of the 
+research effort.

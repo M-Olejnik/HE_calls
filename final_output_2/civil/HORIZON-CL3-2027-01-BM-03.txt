@@ -1,0 +1,165 @@
+HORIZON-CL3-2027-01-BM-03: Detection and characterisation of threats or illegal/ 
+smuggled goods in cargo 
+Call: Civil Security for Society 2027 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 3.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 14.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 2 
+Customs Authorities from at least 2 different EU Member States or 
+Associated Countries. For these participants, applicants must fill in the 
+table “Information about security practitioners” in the application form 
+with all the requested information, following the template provided in 
+the submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 4 -5 by the end of the project – 
+see General Annex B. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+To ensure a balanced portfolio, grants will be awarded to applications 
+not only in order of ranking but at least also to one proposal that is the 
+highest ranked within each of the two options: Option a, and Option b; 
+provided that the applications attain all thresholds 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 80. 
+Beneficiaries must provide financial support to third parties. The 
+support to third parties can only be provided in the form of grants. The 
+maximum amount to be granted to each third party is EUR 100 000 to 
+support the expected outcomes of the topic and effective collaboration 
+and/or coordination with additional relevant national Customs 
+Authorities, including testing and validation activities within the 
+ 
+projects; the organisation of testing and validation activities also 
+justifies the maximum amount to be granted to each third party 
+indicated above. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Increased security of air, maritime, land, or postal transport, cargo and supply chain; 
+• Address accidental or intentional explosions, fires, noxious chemicals, material 
+degradation, or autonomous threats in cargo; 
+• Enhanced capabilities to detect, characterise, track and trace, and seize dangerous, 
+regulated, illicit devices, goods, or material; 
+• Increased mobility of the customs authorities’ resources and equipment and improved 
+agility for a faster and more coordinated response; 
+• Interoperability of customs control equipment and interconnectivity with other systems, 
+including integration of logistical operations, and/or increased inter -agency and cross 
+border collaboration.   
+Scope: Today’s global economy and high -volume trade flows require much and fast transport 
+to deliver products worldwide. Traders and consumers expect quick and easy transactions, 
+while customs administrations face the challenge of controlling the goods without disrupting 
+their flow. This is exploited by organised crime and terrorist organisations, which take 
+advantage of the large amount of goods to conceal threats or illegal and/or dangerous 
+materials in legal commercial cargo, with the aim of causing damage, disruption, or of it 
+illegally crossing borders unnoticed. 
+Customs authorities must ensure a high level of compliance with both security and revenue 
+objectives: trafficked materials may represent a threat, and undetected smuggled licit 
+materials entering the EU deprive the Member States of the revenue due if the material had 
+been legally traded. In addition, illegal trafficking can have an impact in the environment 
+(such as biodiversity loss or deforestation) or for the EU citizens’ safety and health. 
+The air and maritime cargo contexts present security challenges as well as high potential 
+consequences of threats, primarily but not limited to explosives and incendiary devices. Air 
+cargo can represent continuity assurances to cope, at least in the short term and for critical 
+lines, with supply chain and/or distribution crises; while maritime cargo remains the most 
+common transport mode in global trade. The risk for well -concealed materials not being 
+detected during screening, or the risk of concealment during the supply chain is pressing. 
+Logistical hubs also need to strengthen their capabilities to adapt to sudden changes, and 
+customs authorities need to mobilise their available resources to ensure efficient and fast 
+controls. The need for better mobility and improved agility for customs is accompanied by the 
+need to deploy scalable solutions, that are interoperable with other systems to facilitate co -
+sharing of equipment between BCPs and between Member States. 
+Innovation actions funded under this topic should develop and test solutions for cargo 
+security, relevant to one or more transport modes (maritime, air, postal, road, or rail); and 
+usable at one (or more) crucial point(s) of the supply chain. Innovation can also develop 
+enhanced capabilities for customs to detect illicit, regulated and / or dangerous goods and 
+transactions, and to be able to effectively characterise them in a timely manner. Improved 
+tracking and tracing capabilities will facilitate the seizing of the materials while contributing 
+to collecting data and evidence to further support investigations and prosecutions. 
+Proposals are expected to address one of the following options that should be explicitly 
+selected: 
+Option a: security of cargo 
+Option b: detection of smuggled and trafficked goods/materials in cargo 
+Detection capabilities should target one or more type(s) of dangerous, illicit and/or illegal 
+goods or materials, including: explosive or incendiary devices; illicit drugs and their 
+precursors; illegally traded species, including covered by the Convention on International 
+Trade in Endangered Species of Wild Fauna and Flora (CITES) and considering the 
+Regulation on Deforestation -free Products 81; illegally traded cultural property; contraband; 
+trafficked weapons; chemical, biological, radiological, nuclear and explosive (CBRN -E) 
+material or precursors; F -gases; and/or various modi operandi related to cross -border 
+trafficking, including involving cargo. 
+Where the identification of illegal goods cannot be achieved without opening containers (for 
+example, in the case of species or their parts), and where imagery, chemical, or molecular 
+tests are required, appropriate measures should be established to reduce the response time 
+between sampling and expert assessment, thereby minimizing disruption to the flow of goods. 
+Examples of technologies and approaches that can be explored by the research actions include 
+(non-prescriptive and non -exhaustive): smart active defuse systems, sensors, artificial 
+intelligence, tracking and tracing systems, distributed ledger technologies, non -intrusive 
+inspection, automated threat recognition systems, and screening and scanning systems. 
+Equipment and technologies enabling increased security of cargo should contribute to cost 
+and energy efficiency, limit their environmental impact and being more sustainable when they 
+will be taken up in the future. An increased security of air cargo, furthermore, should not be 
+regarded as an incentive to use air transport when this has a higher environmental and 
+emissions impact, but prioritised on critical supply lines and/or situations. 
+ 
+Proposals received under this topic should demonstrate how the project would integrate the 
+perspective for the whole supply chain, from load to delivery. Proposed solutions should be 
+interoperable with the different relevant equipment and systems deployed by the customs 
+authorities. Proposals should demonstrate how their solutions would align with existing 
+interoperability standards (if any), and consider issues of cybersecurity and EU technological 
+sovereignty and strategic autonomy. Proposals submitted under this topic are expected to 
+align with the customs reform (if adopted) and customs policy priorities, and the projects 
+should, once started, align with the policy priorities of the proposed EU Customs Authority 
+and its Data Hub (if established). 
+Coordination among the successful proposals from this topic should be envisaged to avoid 
+duplication and to exploit complementarities as well as opportunities for increased impact. To 
+ensure the active involvement of and timely feedback from relevant security practitioners, 
+proposals should plan a mid -term deliverable consisting in the assessment of the project’s 
+mid-term outcomes, performed by the practitioners involved in the project. 
+Research projects should consider, build on (if appropriate) and not duplicate previous 
+research, including but not limited to research by other relevant EU Framework Programmes 
+projects on security research. 
+Proposals should delineate the plans for further development to subsequent TRLs as well as 
+uptake (industrialisation, commercialisation, acquisition and/or deployment) at national and 
+EU level, should the research deliver on its goals. The results of the research should be taken 
+up by EU customs authorities with the support of the Customs Control Equipment Instrument 
+(CCEI) and/or subsequent funding opportunities, or the proposed EU Customs Authority and 
+its Data Hub (once established). 
+Synergies within civil security can be an asset, for example with Better protect the EU and its 
+citizens against Crime and Terrorism and Resilient Infrastructure. 

@@ -1,0 +1,102 @@
+HORIZON-CL3-2026-01-FCT-02: Open topic on preventing and countering the misuse 
+of emerging technologies for criminal purposes, including issues related to lawful access 
+to data 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 4.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 9.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 2 
+Police Authorities 37  from at least 2 different EU Member States or 
+Associated Countries. For these participants, applicants must fill in the 
+table “Information about security practitioners” in the application form 
+with all the requested information, following the template provided in 
+the submission IT tool. 
+Subject to restrictions for the protection of European communication 
+networks. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 5 by the end of the project – see 
+General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 38. 
+Security Sensitive Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+ 
+Topics SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Police Authorities in Europe are empowered with modern, accessible and validated 
+tools, methodologies and training curricula to anticipate and cope with the misuse of new 
+and emerging technologies for criminal purposes, with the aim to facilitate prevention, 
+detection, efficient data access and investigation of criminal offences in a lawful manner 
+and with full respect of fundamental rights, including the right to protection of personal 
+data and to privacy; 
+• Reinforced interdisciplinary collaboration at the European level through the 
+establishment of partnerships among technologists, policymakers and Police Authorities, 
+resulting in a holistic understanding of the challenges posed by emerging technologies 
+and in sharing of best practices; 
+• Clear guidelines and frameworks are created, including on procedures and rules, that 
+ensure lawful access to data, balancing the needs of security with respect for privacy and 
+that foster a European approach to the related challenges for the police and the judiciary.   
+Scope: New and emerging technologies (e.g., new communication technologies, quantum 
+technologies, new biometrics and identification technologies, cloud computing technologies, 
+generative AI etc.) bring many benefits but also pose a number of new challenges for the 
+police and the judiciary. Therefore, there is a strong need to adequately tackle challenges for 
+Police Authorities stemming from all these new and emerging developments as well as to 
+make sure that the lawful access to data keeps track with these evolutions, respecting 
+applicable legislation and fundamental rights such as personal data protection and privacy. 
+Under the Open topic, proposals are welcome to address new and emerging technologies that 
+are not covered by the other projects of the previous Horizon Europe Calls Fighting Crime 
+and Terrorism, as well as of the current Call Fighting Crime and Terrorism 2026 -2027. 
+Proposals should emphasize adaptive methodologies and frameworks that can evolve in 
+response to new threats and challenges, empowering Police Authorities to act effectively 
+while ensuring adherence to legal standards regarding data access. Thus, research activities 
+proposed within this topic should, in a balanced way, 1) develop modern tools, methodologies 
+and training material for police to tackle the problem of misuse for criminal purposes of the 
+new and emerging technologies under consideration, and 2) address issues related to lawful 
+access to data in this context. 
+In this topic the integration of the gender and intersectional dimension (sex and gender 
+analysis) in research and innovation content is not a mandatory requirement. Coordination 
+among the successful proposals from this topic should be envisaged to avoid duplication and 
+to exploit complementarities as well as opportunities for increased impact. 
+The proposals funded under this topic that concern issues which are within the mandate of 
+Europol39 are expected to engage with the Europol Innovation Lab during the lifetime of the 
+project, including validating the outcomes, with the aim of facilitating future uptake of 
+innovations for the law enforcement community. Similarly, if the proposals concern drug -
+related issues, they are expected to engage with the EU Drugs Agency during the lifetime of 
+the project, including validating the outcomes. For Police Authorities’ training -related 
+aspects, cooperation of successful proposals with CEPOL is expected, provided that the 
+Agency opts out from applying for funding. 
+Finally, proposals are expected to address all applicable considerations expressed in the 
+Introduction of the Fighting Crime and Terrorism Destination.

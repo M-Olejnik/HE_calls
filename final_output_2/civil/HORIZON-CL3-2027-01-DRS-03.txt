@@ -1,0 +1,119 @@
+HORIZON-CL3-2027-01-DRS-03: Enhancing decision support system for disaster 
+crises: leveraging emerging technologies for improved civil preparedness and crisis 
+management 
+Call: Civil Security for Society 2027 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 3.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 9.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 2 
+authorities in charge of disaster risk or crisis communication 144 and 2 
+representatives of local or regional authorities in charge of disaster 
+response, from at least 3 different EU Member States or Associated 
+Countries. For these participants, applicants must fill in the table 
+“Information about security practitioners” in the application form with 
+all the requested information, following the template provided in the 
+ 
+submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 7 -8 by the end of the project – 
+see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 145. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Development of decision support systems for disaster crises, utilizing near real -time data 
+from the ground to enhance situational awareness and response; 
+• Creation of systems designed to bolster civil preparedness, that enhance operational 
+efficiency and response times, ensuring timely and effective management of various 
+disaster scenarios including from early warning to early action 
+• Integration of advanced data analysis and decision -making tools to support authorities 
+and first responders in disaster situations.  
+Scope: This topic focuses on enhancing existing decision support systems for disaster crises 
+by integrating emerging technologies to improve civil preparedness and crisis management. 
+ 
+The objective is to advance the capabilities of existing systems, making them more reliable, 
+adaptable, and efficient through the incorporation of trustworthy AI technologies that ensure 
+transparency, accountability, and ethical decision -making processes. Projects should aim to 
+enable quicker and more informed responses during disaster scenarios. 
+Proposals should focus on creating advanced systems designed to strengthen civil 
+preparedness, helping authorities and responders manage various disaster situations in a 
+timely and effective manner. These systems should leverage cutting -edge AI-driven tools to 
+process large volumes of data, providing actionable insights that improve decision -making 
+during critical moments, such as from early warning to early action. Emphasis should be 
+placed on integrating advanced data analysis and predictive modelling to anticipate disaster 
+developments and guide interventions, while ensuring that the systems are transparent, 
+explainable, and built on principles of trustworthiness, inclusive and gender sensitive and 
+ethical AI use and on secure AI deployments. 
+Projects should conduct a stakeholder or market analysis and a roadmap or plan for uptake of 
+the developed methodologies, findings, and technologies to the industry, the research and 
+innovation community, and/or the relevant authorities. 
+Additionally, test centres should play a key role in this research by increasing their capacity to 
+trial and validate emerging technologies, supporting more effective civil preparedness and 
+crisis response capabilities. 
+The expected outcome is to create systems that not only enhance operational efficiency and 
+response times but also foster better collaboration among stakeholders, including local 
+authorities, emergency services, and other relevant actors. This includes integrating drones 
+with state emergency vehicles, smart traffic systems, and law enforcement to enhance data 
+driven disaster preparedness and emergency response, ensuring effective coordination and 
+faster decision-making for local authorities. 
+Projects should also contribute to improving the usability and accessibility of decision-support 
+systems for diverse users, ensuring they are easily integrated into disaster management 
+frameworks and can be used effectively in different crisis situations. The solutions should 
+align with EU guidelines on AI ethics 146 and resilience-building, ensuring they complement 
+existing civil protection and crisis management initiatives while driving innovation in disaster 
+risk reduction. The Preparedness Union Strategy is a key document in this regard. Analysing 
+the capacity gaps of the UCPM147 and finding synergies with projects from operational grants, 
+such as the Knowledge for Action in Prevention & Preparedness (KAPP)148, is recommended. 
+ 
+In this topic the integration of the gender dimension (sex and gender analysis) in research and 
+innovation content should be addressed only if relevant in relation to the objectives of the 
+research effort. 
+Where applicable, proposals should leverage the data and services available through European 
+Research Infrastructures federated under the European Open Science Cloud, Copernicus, 
+Destination Earth as well as data from relevant Data Spaces. Particular efforts should be made 
+to ensure that the data produced in the context of this topic is FAIR (Findable, Accessible, 
+Interoperable and Re-usable).

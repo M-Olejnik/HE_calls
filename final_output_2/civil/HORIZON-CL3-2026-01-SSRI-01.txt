@@ -1,0 +1,94 @@
+HORIZON-CL3-2026-01-SSRI-01: Open topic on supporting disruptive technological 
+innovations for civil security 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 1.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 3.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 2 
+relevant practitioners and 1 Research and Technology Organisation 
+(RTO). For participants with practitioner status, applicants must fill in 
+the table “Information about security practitioners” in the application 
+form with all the requested information, following the template 
+provided in the submission IT tool. 
+ 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 4 -5 by the end of the project – 
+see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 159. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Improved preparedness, evidence -based approaches and response capabilities, along 
+with a strengthened ability to mitigate risks from diverse threats, by integrating validated 
+disruptive technologies into real-world operations; 
+• Accelerated adoption of innovative solutions by reducing barriers through rigorous 
+testing and validation, fostering collaboration among public authorities, industry, and 
+researchers to align technologies with real-world needs.   
+Scope: This topic aims to support the integration of disruptive technological innovations 160 
+into civil security by strengthening research and innovation activities that enhance 
+preparedness, response capabilities, and risk mitigation. A key focus is bridging the gap 
+ 
+between early-stage, low Technology Readiness Level (TRL) research and applied security 
+solutions, ensuring that emerging technologies are effectively transitioned into operational 
+use. 
+Proposals should prioritize disruptive solutions that address diverse security threats while 
+improving the efficiency and effectiveness of civil security operations. Emphasis should be 
+placed on ensuring that these technologies are robust, reliable, scalable, and aligned with the 
+needs of security practitioners. This includes fostering a structured pathway for transitioning 
+low TRL innovations into practical applications, ensuring rigorous testing and validation 
+processes for safety, performance, and interoperability. 
+To achieve this, proposals should promote strong collaboration between researchers, public 
+authorities, industry partners, and end -users. Such partnerships will help align technological 
+advancements with real-world security needs, facilitating the co-development of solutions that 
+are both innovative and operationally relevant. Ensuring that emerging technologies are 
+ethically sound, transparent, and accessible will also be crucial to their successful adoption. 
+The expected outcomes of this topic include improved preparedness through the adoption of 
+cutting-edge technologies tailored to emerging security challenges, enhanced risk mitigation 
+capabilities, and the accelerated integration of disruptive innovations into civil security 
+frameworks. By fostering a collaborative ecosystem, projects should ensure that promising 
+research transitions effectively into practical security applications, contributing to a more 
+resilient and adaptive civil security landscape across Europe. 
+To ensure that the proposed research and innovation activities are aligned to EU long -term 
+strategic priorities, proposers are encouraged to consult relevant technology foresight 
+exercises161. 
+Finally, proposals are expected to address all applicable considerations expressed in the 
+Introduction of the Strengthened Security Research and Innovation Destination.

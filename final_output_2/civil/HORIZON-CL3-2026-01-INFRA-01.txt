@@ -1,0 +1,122 @@
+HORIZON-CL3-2026-01-INFRA-01: Tools and processes to support stress tests of 
+critical infrastructure 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+4.835 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 9.67 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+ 
+and submission of the proposal - see General Annex B. 
+The following additional eligibility conditions apply: 
+This topic requires involvement as beneficiaries of at least 3 relevant 
+practitioners from EU Member States or Associated Countries. 
+Depending on the specific proposal submitted, these practitioners should 
+represent one or several of the following portfolios: 
+• critical infrastructure operator, 
+• authority responsible for critical infrastructure resilience, 
+• civil protection authority, 
+• law enforcement or private companies providing security for 
+critical infrastructure. 
+For these participants, applicants must fill in the table “Information 
+about security practitioners” in the application form with all the 
+requested information, following the template provided in the 
+submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 101. 
+Security Sensitive Some activities resulting from this topic may involve using classified 
+ 
+Topics background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all of the following 
+outcomes: 
+• Critical infrastructure operators and authorities have access to efficient, adaptable, 
+resilient and reliable tools and processes enabling or improving virtual and physical 
+stress tests of their respective assets/ and operations; 
+• Critical entities have broader and deeper understanding of their technical and operational 
+vulnerabilities and adaptive capabilities, improving the scenario building and stress tests 
+exercises; 
+• Systems allowing notification and collaboration under stress conditions are available for 
+relevant stakeholders; 
+• Critical entities are better equipped for post -incident investigations, including data 
+collection, analysis and improved learning, management and sharing in a secure manner; 
+• Improved operational procedures including incidents management and training curricula 
+are developed.   
+Scope: The resilience of critical entities is of paramount importance as disruptions to these 
+systems can have significant consequences for the whole economy, public health, security or 
+safety. These systems, responsible for providing essential services for modern society, are 
+increasingly complex and interconnected, making them vulnerable to a range of threats, 
+including cyber-attacks, physical attacks, malfunctions, human-induced or natural disasters. 
+The objective of this topic is to facilitate the stress testing of critical infrastructure by 
+providing specialized tools and methodologies and support validation. This will enable the 
+identification and testing of technical and operational vulnerabilities, inform of effective 
+solutions to mitigate these risks, and facilitate the collection and analysis of data to enhance 
+resilience plans that shall be established by each critical entity. Building on the insights 
+gained from previous exercises, the ultimate goal is to establish more robust and 
+comprehensive stress testing protocols, thereby ensuring the reliability and integrity of critical 
+infrastructure. 
+The proposed solutions may, among others, support simulation and modelling, multi -hazard 
+and multi -threat scenario building, data analytics, including geospatial information, Digital 
+Twins, assessment of risks and adaptive capabilities, as well as impact of human factors. 
+These solutions should be designed to be inclusive and accessible, considering the needs of 
+diverse users and stakeholders. Solutions should allow flexible configuration taking into 
+account the evolving nature of threats and hazards. If feasible they should also be adaptable to 
+different sectors and should support stress testing under diverse environmental and 
+geographical conditions, including operation in harsh and remote environments. Moreover, 
+they should comply with the relevant legislative frameworks and allow application of the 
+developed tools under the current regime taking into account the sensitivity and 
+confidentiality of the processed information. 
+Coordination among the successful proposals from this topic and projects funded under 
+HORIZON-CL3-2025-01-INFRA-01: Open topic for improved preparedness for, response to 
+and recovery from large -scale disruptions of critical infrastructures  and HORIZON -CL3-
+2025-01-INFRA-02: Open topic for role of the human factor for resilience of European 
+critical entities, should be envisaged in order to avoid duplication, share resources and exploit 
+complementarities and opportunities for increased impact. 
+In this topic the integration of the gender dimension (sex and gender analysis) in research and 
+innovation content should be addressed only if relevant in relation to the objectives of the 
+research effort. 
+Where relevant, funded projects are encouraged to liaise with the European Commission's 
+Joint Research Centre, for complementary real-scale testing at the Reaction Wall and HopLab 
+of the European Laboratory for Structural Assessment (ELSA).

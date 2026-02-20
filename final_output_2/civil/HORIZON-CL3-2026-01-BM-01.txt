@@ -1,0 +1,123 @@
+HORIZON-CL3-2026-01-BM-01: Advanced border surveillance and situational 
+awareness 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+ 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 2 
+Border or Coast Guard Authorities from at least 2 different EU Member 
+States or Associated countries. For these participants, applicants must 
+fill in the table “Eligibility information about practitioners” in the 
+application form with all the requested information, following the 
+template provided in the submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 72. 
+ 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Improved detection, localization, characterization and, when applicable, neutralisation, 
+of unmanned vehicles alone or in swarms, involved in trafficking or smuggling activities 
+across external borders, while complying with legal and ethical guidelines; 
+• Improved border situational awareness, especially in the context of large -scale 
+movements of people across borders, including from potential instrumentalisation of 
+irregular migration, conflicts, social, economic, environmental and climate stress; 
+• Better safeguard and promotion of fundamental rights thanks to enhanced situational 
+awareness; 
+• Reliable, redundant detection and reaction capacities without putting staff and society at 
+risk.   
+Scope: Capabilities for situational awareness and surveillance of land and sea borders need 
+improvement, in consideration of potential future challenges that may require updated 
+capabilities. These challenges may include potential future large -scale movements of people 
+across external borders, resulting from future attempts to instrumentalisation of irregular 
+migration, but also from conflicts, social, economic, environmental and climate stress in the 
+European neighbourhood; as well as increasing availability and capability of unmanned aerial, 
+surface, and underwater vehicles with increased payload capacity and range that make it 
+easier to transport goods and, possibly, persons, including in connection will illicit or illegal 
+activities such as trafficking of goods and smuggling of people across external EU borders. 
+These challenges will be particularly relevant in regions close to the European 
+neighbourhood. 
+This may be particularly relevant for unsupervised and difficult -to-control land and sea 
+borders of the Union and the Schengen area. 
+Research funded under this topic should develop solutions that, through better awareness, 
+improve efficiency and reaction time of detection, search, rescue, and recovery operations 
+near land and sea borders, in diverse geographical and meteorological conditions, taking into 
+account the different and diverse needs. Research funded under this topic can also promote 
+cross-border cooperation at European regional level around innovative border management 
+solutions demonstration testbeds. 
+Actions funded under this topic should develop solutions that go beyond state -of-the-art in 
+clearly demonstrable ways, including measurable improvements in detection range, accuracy, 
+response time, automation, and system resilience. 
+Improved border surveillance and situational awareness must better safeguard and promote 
+fundamental rights and EU values, with a particular regard to human rights, using an inclusive 
+approach that addresses diverse needs. Solutions should also provide reliable and redundant 
+capacities, while ensuring the safety of staff, users, and persons who may be victim of illicit 
+activities across external borders. 
+The EBCG Capability Roadmap recognises that future capabilities that help detect cross -
+border irregularities and cases requiring Search and Rescue activities are essential. Solutions 
+should be modular and scalable to cater to the regional and challenges specificities. 
+Compatibility and integration with the European Border Surveillance System (EUROSUR) is 
+essential, and compatibility and/or exploitation of other European information -sharing 
+environments, like the Common Information Sharing Environment (CISE), would be an 
+additional asset. 
+Proposals should demonstrate that the proposed equipment and technologies contribute to cost 
+reduction and energy efficiency of border surveillance and situational awareness operations. 
+Proposals submitted under this topic are expected to address the priorities of the European 
+Border and Coast Guard (ECBG) and of its Agency (Frontex). This should start from the 
+definition of requirements and the design phase, including alignment with the EBCG 
+Capability Roadmap and on the engagement with the Agency during the project 
+implementation. At the proposal preparation stage, Frontex will not provide guidance on or 
+otherwise be involved in the preparation of project proposals. However, proposals should 
+consider and anticipate that Frontex may observe pilots and demonstrations during project 
+implementation to facilitate the future uptake of innovations within the border and coast guard 
+community. 
+To ensure active involvement and timely feedback from relevant security practitioners, 
+proposals should include a mid -term deliverable consisting of an assessment of the project’s 
+mid-term outcomes, conducted by the practitioners involved in the project.

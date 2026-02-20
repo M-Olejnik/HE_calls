@@ -1,0 +1,126 @@
+HORIZON-CL3-2026-01-DRS-03: Development of innovative tools, processes, 
+equipment and technologies through responses to disasters and emergencies for search 
+and rescue in hazardous conditions 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 4.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 8.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+ 
+Due to the scope of this topic, relevant international organisations with 
+headquarters in a Member State or Horizon Europe Associated Country 
+are exceptionally eligible for funding. 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 2 
+practitioner organisations (first responders) and 2 medical emergency 
+authorities from at least 3 different EU Member States or Associated 
+Countries. 
+For these participants, applicants must fill in the table “Information 
+about security practitioners” in the application form with all the 
+requested information, following the template provided in the 
+submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 7 -8 by the end of the project – 
+see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 121. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+ 
+• Creation of cutting -edge tools, processes, equipment and technologies to enhance 
+disaster and emergency response capabilities for various practitioners as well as for 
+assets, such as vehicles, aircraft, and heavy equipment; 
+• Taking into consideration existing technologies, development of autonomous drones, 
+robotics, and other technologies specifically designed for emergency medical response 
+and search and rescue operations in hazardous conditions such as wildfires, earthquakes 
+and large-scale events; 
+• Improvement of response efficiency and safety for survivors and emergency 
+practitioners through the adoption of advanced, technology -driven solutions in disaster 
+scenarios; 
+• Consider needs of existing EU -level capacities, emergency reserves, and stockpiling in 
+the deployment of the assets and being able to move them.  
+Scope: The scope of this topic is the development of innovative tools, equipment, and 
+technologies to enhance the capabilities of emergency responders operating in complex and 
+hazardous disaster environments. By leveraging advancements in smart protective equipment, 
+in robotics, autonomous systems, remote sensing, communication and human sensor 
+technologies, the aim is to improve the efficiency, safety, and effectiveness of emergency 
+medical response and search and rescue operations, particularly in high-risk scenarios, such as 
+wildfires, earthquakes and large-scale trauma events. 
+Proposals should explore the design, testing, and validation of innovative solutions capable of 
+performing critical tasks in disaster -stricken areas. These technologies should be tailored to 
+operate in extreme conditions, including high temperatures, unstable terrains, and low -
+visibility environments and beneficial to all individuals regardless of their age, gender or 
+ability. Research should address challenges related to autonomous navigation, AI -driven 
+decision-making, real -time situational awareness, and seamless integration with existing 
+command-and-control systems used by disaster management. Collaboration of different 
+practitioners should be supported to support proper market uptake. 
+Efforts should be made to enhance interoperability and data -sharing capabilities between 
+various platforms, emergency response teams, and crisis management systems. A key aspect 
+of this research should be the practical deployment and validation of these technologies 
+through field exercises and simulations in real -world disaster scenarios. User -driven design 
+approaches, prioritising inclusivity and accessibilities should ensure that developed solutions 
+align with the operational needs of responders in disasters., Proposals should develop a 
+command-and-control solution that allows organisation of all activities, ensuring a swift, 
+coordinated, and effective response to any disaster with clear plan for uptake after the project. 
+Projects should conduct a stakeholder or market analysis and a roadmap or plan for uptake of 
+the developed methodologies, findings, and technologies to the industry, the research and 
+innovation community, and the relevant authorities. The current response capacities of the 
+European Civil Protection Pool 122 its capacity gaps 123, and the rescEU strategic reserve 124 as 
+well as the EU Stockpiling Strategy should be taken into account in the roadmap to ensure 
+needs-based approach. Thus, the proposals could consider innovation for heavier assets, such 
+as flood containment and high -capacity pumping, transport or response aircraft, shelters and 
+power generators, ground firefighting vehicles and aerial firefighting helicopters. 
+Furthermore, proposals should consider ethical, legal, and social implications associated with 
+the deployment of autonomous technologies in emergency response. Issues such as data 
+privacy, cybersecurity, human- and animal life protection, public acceptance, and compliance 
+with regulatory frameworks should be addressed to facilitate the responsible and effective use 
+of these innovations. 
+Projects should contribute to strengthening Europe’s disaster response capacity by equipping 
+practitioners with state -of-the-art technological solutions that enhance their ability to operate 
+safely and efficiently in life -threatening environments. Alignment with EU policies and 
+international best practices should be ensured to maximize the scalability and real -world 
+applicability of the developed solutions. The Preparedness Union Strategy is a key document 
+in this regard. Finding synergies with projects from operational grants, such as the Knowledge 
+for Action in Prevention & Preparedness (KAPP)125, is recommended.

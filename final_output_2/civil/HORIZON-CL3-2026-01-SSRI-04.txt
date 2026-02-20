@@ -1,0 +1,101 @@
+HORIZON-CL3-2026-01-SSRI-04: Development of ecosystem and next -generation 
+capabilities for a secured European Critical Communication System in civil security 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 3.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+ 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 3.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 3 
+first responders’ organisations. For these participants, applicants must 
+fill in the table “Information about security practitioners” in the 
+application form with all the requested information, following the 
+template provided in the submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 169. 
+ 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Creation of an integrated ecosystem for secure and resilient communication systems to 
+support civil security operations across Europe; 
+• Advancement of next -generation capabilities, ensuring robust, scalable, and 
+interoperable communication systems for critical civil security functions relevant for the 
+future EU Critical Communication System (EUCCS).   
+Scope: The European Union Critical Communication System (EUCCS) is a flagship initiative 
+aiming at gradual development of a unified, secure, and interoperable communication 
+infrastructure to support critical public safety and civil security operations across Europe. 
+Aims to provide law enforcement, first responders, emergency services, and other critical 
+sectors with reliable, real -time communication capabilities, even in challenging or high -risk 
+environments. This topic aims to streamline the creation of an integrated ecosystem for secure 
+and resilient communication systems that support civil security operations across Europe. It 
+aims to advance next -generation capabilities, ensuring robust, scalable, and interoperable 
+communication systems tailored to the critical civil security functions that will be required for 
+the future EUCCS, taking into consideration the ongoing migration of the EU towards post -
+quantum cryptography. 
+The action funded under this topic will develop secure communication devices and 
+applications that meet the unique needs of practitioners across various disciplines. These 
+solutions will go beyond current technologies, enabling specialized, ruggedized devices that 
+support hands-free capabilities, including wearable sensors, haptics, and augmented reality to 
+enhance situational awareness. Devices will be designed to ensure communication in 
+environments lacking cellular infrastructure and will be built with high standards of security, 
+including addressing cryptographic security via post -quantum cryptography, and 
+trustworthiness while also ensuring an inclusive and gender -sensitive approach to meet the 
+diverse needs of all users. The action funded under this topic should support relevant 
+standardisation processes where possible. 
+The solutions should be mission -critical, offering high availability, resilience, data exchange 
+and authentication both secured via state -of-the-art post -quantum cryptographic protocols, 
+even in areas with limited or no commercial network coverage. They must be fully compatible 
+with the EUCCS, leveraging 3GPP Mission Critical Services (MCX) and open APIs to create 
+a versatile and interoperable ecosystem. By working closely with first responders and utilizing 
+
+open platforms, the project will ensure that the developed solutions address the specific 
+operational needs of responders, facilitating effective cross -agency and pan -European 
+collaboration. 
+Finally, proposals are expected to address all applicable considerations expressed in the 
+Introduction of the Strengthened Security Research and Innovation Destination.

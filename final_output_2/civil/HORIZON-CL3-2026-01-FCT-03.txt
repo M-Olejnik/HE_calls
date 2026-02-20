@@ -1,0 +1,120 @@
+HORIZON-CL3-2026-01-FCT-03: Missing persons: prevention and investigation 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 5.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 3 
+Police Authorities40 and at least 2 Civil Society Organisations (or Non -
+Governmental Organisations) from at least 3 different EU Member 
+States or Associated Countries. For these participants, applicants must 
+fill in the table “Information about security practitioners” in the 
+application form with all the requested information, following the 
+ 
+template provided in the submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 41. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Improved skills, tools and training curricula for Police Authorities in Europe and Civil 
+Society Organisations (or Non-Governmental Organisations) to work with at-risk groups 
+to prevent persons from going missing. Those improved skills, tools and training 
+curricula are to take into account European multicultural dimension, as well as legal and 
+ethical rules of operation; 
+• Enhanced investigation tools and methodologies for Police Authorities in Europe to 
+tackle cold cases in the context of missing persons, based on modern (forensic) 
+technologies and criminology; 
+ 
+• Modern training curricula for Police Authorities, their improved cross -border 
+cooperation and enhanced tools and methodologies to tackle new cases of missing 
+persons; 
+• Enriched European common approaches applied by Police Authorities in Europe to fight 
+the issue of missing persons relying on the synergy of technology, the latest socio -
+psychological knowledge learned from cases, as well as field experience of Police 
+Authorities and entities dealing with victims, while fully respecting fundamental rights 
+such as privacy, protection of personal data and anonymity of victims.  
+Scope: The issue of missing persons is a multifaceted challenge that encompasses diverse 
+categories and is influenced by various factors. People may go missing under a variety of 
+circumstances, such as voluntary disappearances, abductions, cases related to mental health 
+crises, or because of conflict, migration, geopolitical instability, natural disasters. Groups in a 
+vulnerable situation - notably children, victims of trafficking and exploitation, persons with 
+disabilities and persons suffering from cognitive impairments - face an even greater risk of 
+going missing, often under distressing and dangerous conditions. Tackling this issue requires 
+a coordinated response from multiple stakeholders, from Police Authorities via Civil Society 
+Organisations (CSOs) or Non-Governmental Organisations (NGOs) to the involvement of the 
+overall society. 
+In an era of rapid technological advancement and societal developments, there is a pressing 
+need to improve current European approaches to fight the issue of missing persons 
+(prevention and/or investigation of cold and new cases) using innovative societal and 
+technological solutions. To this end, modernised skills, training curricula and methodologies 
+for Police Authorities, CSOs and NGOs to work with people in a vulnerable situation and 
+children are needed, such as effective awareness raising campaigns, which should be 
+accessible to persons with disabilities, that take into account European multicultural 
+dimension. When it comes to investigation, Police Authorities need efficient tools that benefit 
+from new and emerging technologies to solve cold cases while combining modern forensic 
+science (including biometrics and digital forensics) and criminology, e.g., modern tools for 
+using an old DNA, or accurate facial ageing, among others. When multiple practitioners are 
+involved in exchanging sensitive data, data sharing tools in a privacy -preserving manner 
+should be considered. Furthermore, for new cases of missing persons, apart from an improved 
+cross-border cooperation, Police Authorities also need, on the one hand, a modernised training 
+to face such situations more efficiently, improving the dialogues and interactions with 
+families, taking into account a gender sensitive and intersectional approach when relevant, 
+and on the other hand, modern technologies and forensic tools for, for example, fast and 
+reliable cross-matching of DNA samples between new and cold cases. 
+If a proposal concerns forensics, its consortium should involve forensic institutes as well. 
+Coordination among the successful proposals from this topic should be envisaged to avoid 
+duplication and to exploit complementarities as well as opportunities for increased impact. 
+Proposals funded under this topic are expected to provide ideas on how they would engage 
+with the Europol Innovation Lab during the lifetime of the project, including validating the 
+outcomes, with the aim of facilitating future uptake of innovations for the law enforcement 
+community. For aspects of training of Police Authorities, cooperation of successful proposals 
+with CEPOL is expected, provided that the Agency opts out from applying for funding. To 
+ensure the active involvement of and timely feedback from relevant security practitioners, 
+proposals should plan a mid -term deliverable consisting in the assessment of the project’s 
+mid-term outcomes, performed by the practitioners involved in the project. Finally, proposals 
+are expected to address all applicable considerations expressed in the Introduction of the 
+Fighting Crime and Terrorism Destination.

@@ -1,0 +1,133 @@
+HORIZON-CL3-2026-01-DRS-01: Designing new ways of risk awareness and enhanced 
+disaster preparedness 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 3.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 6.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+Due to the scope of this topic, relevant international organisations with 
+headquarters in a Member State or Horizon Europe Associated Country 
+are exceptionally eligible for funding. 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 3 
+organisations from at least 3 different EU Member States or Associated 
+ 
+Countries as follows: (i) at least one civil society organisation (CSO); 
+(ii) at least one authority in charge of disaster risk 115 (iii) at least one 
+organisation representing local or regional authorities. For these 
+participants, applicants must fill in the table “Information about security 
+practitioners” in the application form with all the requested information, 
+following the template provided in the submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 5 by the end of the project – see 
+General Annex B 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 116. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Development of innovative tools and methodologies to monitor and improve risk 
+awareness across society, integrating diverse community perspectives and leveraging 
+advanced technologies; 
+ 
+• Development and uptake solutions and tools for the successful increase of safety culture 
+and societal resilience of communities with concrete material, while considering also the 
+inclusion and protection of marginalized populations in disaster scenarios; 
+• Creation of comprehensive, inclusive preparedness plans that involve all societal sectors 
+and governance levels, ensuring coordinated and effective responses to disasters (such as 
+from early warning to early action), including scarcity of resources; 
+• Establishment of a resilient, adaptive response framework that enhances collaboration 
+between public authorities, communities, and private sectors, improving overall disaster 
+resilience.  
+Scope: Building on the whole -of-society and whole -of-government approach, this topic 
+should contribute to enhancing risk awareness and disaster preparedness through the 
+development of innovative tools, methodologies, and frameworks. A key focus should be on 
+integrating diverse societal and resilience perspectives considering people in a vulnerable 
+situation, ensuring inclusive participation in risk communication strategies, and leveraging 
+accessible advanced technologies and processes to improve public understanding of hazards 
+and vulnerabilities (such as gender, disabilities and others social factors. and capabilities. 
+Efforts should aim at designing and validating novel approaches to risk perception, 
+communication, including digital platforms, immersive technologies, and participatory tools 
+that foster citizen engagement and behavioural change, as well as wildlife protection. 
+Behavioural insights should inform the projects on effective methods in population’s 
+preparedness including the risk communication. Special attention should be given to 
+marginalized or vulnerable groups in a vulnerable situation ensure equitable access to risk 
+information and preparedness resources. 
+To strengthen disaster preparedness and response capabilities across Europe, there is a clear 
+need for an innovative, interoperable solution that enables the development of new strategies 
+for risk awareness and disaster management. Such a solution should facilitate seamless 
+collaboration between public authorities, civil society, local communities, and the private 
+sector. It must support the co -creation of comprehensive preparedness plans that ensure a 
+coordinated, robust, resilient, and effective response to a wide range of disaster scenarios. 
+Central to this approach should be the integration of a command -and-control system that 
+allows for centralized information management, efficient coordination among all 
+stakeholders, and rapid, data -driven decision-making in emergency situations. For example, 
+efforts to guarantee early action from early warning should be taken into account. 
+Furthermore, proposals should work towards the creation of comprehensive, multi -
+stakeholder preparedness plans that involve all levels of governance, civil society, the private 
+sector, and local communities. These plans should establish mechanisms for cross -sectoral 
+coordination, efficient resource allocation, and effective decision -making in crisis situations 
+and the development of solutions and tools to ensure a greater culture of safety and societal 
+resilience in the communities. Research should also exp lore innovative governance models 
+that enhance interoperability and cooperation between different entities. To strengthen 
+disaster resilience, proposals should develop and test adaptive response frameworks that 
+enhance collaboration between public authorities, civil society, communities, and businesses. 
+These frameworks should incorporate near real-time risk assessment tools, digital simulations, 
+and scenario-based exercises to improve the capacity to anticipate, respond to, and recover 
+from disasters. The integration of AI -driven decision -support systems, taking into account 
+existing biases, digital twin technologies (including Destination Earth), and predictive 
+analytics could further contribute to a more effective, evidence-based crisis response. 
+Projects are expected to contribute to the overall enhancement of societal resilience by 
+fostering a culture of preparedness, strengthening community -driven disaster risk reduction 
+initiatives, proactive engagement in prevention - and mitigation of disaster’s effects, and 
+ensuring that all actors within society have the necessary tools and knowledge to respond 
+effectively to future crises. 
+Where relevant, projects may take into account the assets, but also particular challenges faced 
+by the European outermost regions and may include entities from these regions in the 
+consortium’s composition. 
+Projects should conduct a stakeholder or market analysis and a roadmap or plan for uptake of 
+the developed methodologies, findings, and technologies to the industry, the research and 
+innovation community, and/or the relevant authorities. 
+International cooperation in this topic is strongly recommended. Proposals should also take 
+into account lessons learned from past disasters and align with existing EU policies, 
+frameworks, and international commitments in the field of disaster risk reduction and crisis 
+management. Especially the population preparedness chapter of the Preparedness Union 
+Strategy, such as the preparEU initiative, should be considered. Finding synergies with 
+projects from operational grants, such as the Knowledge for Action in Prevention & 
+Preparedness (KAPP)117, is recommended.

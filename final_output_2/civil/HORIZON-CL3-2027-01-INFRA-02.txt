@@ -1,0 +1,144 @@
+HORIZON-CL3-2027-01-INFRA-02: Impact of malicious use of Open -Source 
+Intelligence on critical infrastructure business continuity 
+Call: Civil Security for Society 2027 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+3.835 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 7.67 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+The following additional eligibility conditions apply: 
+This topic requires involvement as beneficiaries of at least 3 relevant 
+practitioners from EU Member States or Associated Countries. 
+Depending on the specific proposal submitted, these practitioners should 
+represent one or several of the following portfolios: 
+• critical infrastructure operator, 
+• authority responsible for critical infrastructure resilience, 
+• law enforcement or private companies providing security for 
+critical infrastructure. 
+For these participants, applicants must fill in the table “Information 
+about security practitioners” in the application form with all the 
+requested information, following the template provided in the 
+submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 8 by the end of the project – see 
+General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 106. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all of the following 
+outcomes: 
+• Critical infrastructure operators and authorities have improved awareness of Open -
+Source Intelligence (OSINT) and their potential impact on security of their operations; 
+• Toolbox for OSINT mapping, including enhanced analysis and risk flagging is 
+developed and available to relevant stakeholders; 
+• Critical infrastructure operators and authorities have improved incident response, 
+emergency plans and business continuity models; 
+ 
+• Removal of potentially harmful OSINT from the public domain in order to 
+counter/prevent preparations and attempted attacks against critical entities, including the 
+lone wolf and hybrid scenarios; 
+• Awareness campaigns and training curricula for critical entities’ employees are 
+developed.   
+Scope: The malicious use of Open -Source Intelligence (OSINT) is a known concern and 
+technique used by offenders to retrieve personal, professional, and official or technical 
+information about entities and their employees either to immediately plot illegal actions or use 
+it to access more sensitive data with social engineering techniques like tailored data phishing. 
+Although singular information may seem harmless, their critical mass coupled with reasoning 
+and automated processing of large data blocks, could reveal critical vulnerabilities and 
+possible attack vectors. This modus operandi is of special concern for critical infrastructure 
+operators and authorities, as it can be used to aggregate sensitive information, identify 
+potential protection gaps, discover the security measures, such as camera and sensor locations 
+or target individuals with special access privileges in order to orchestrate more sophisticated 
+and harmful attacks. OSINT can also be used to impede critical infrastructure operations 
+indirectly, gathering information and affecting their supply chains. 
+Proposals submitted under this topic should analyse the type, amount and accessibility of 
+publicly available information and their usefulness in planning hostile operations against 
+critical entities and their services. They should also parse the role of OSINT for identification 
+and recruitment of insiders, identity theft, impersonation, or launching psychological 
+operations such as foreign information manipulation and interference or disinformation. 
+Moreover, the implications of AI data processing to misuse OSINT potential should be 
+addressed. Any potential OSINT sources should be covered including, but not limited to 
+social media, online fora, cloud resources, public records and databases, lawfully accessible 
+deep web and dark web data, geospatial information, as well as paper archives in the public 
+domain with blueprints, emergency response plans or similar. Proposals should especially 
+consider scenarios including hybrid threats and lone wolves and develop tools and awareness 
+campaigns to mitigate such threats. 
+Proposals should build upon outcomes and tools of other relevant projects, adapting, 
+optimising and integrating them when necessary to achieve the highest possible technology 
+readiness level of the project results. The proposals funded under this topic are expected to 
+engage with the Europol Innovation Lab during the lifetime of the project, including 
+validating the outcomes, with the aim of facilitating future uptake of innovations for the law 
+enforcement community. 
+In this topic the integration of the gender dimension (sex and gender analysis) in research and 
+innovation content should be addressed only if relevant in relation to the objectives of the 
+research effort. 
+Destination - Cybersecurity 
+Cybersecurity is essential for safeguarding Europe’s digital sovereignty, resilience, and 
+technological leadership. The Horizon Europe Work Programme for Cybersecurity 2026-2027 
+builds on the broader EU strategic vision for cybersecurity as articulated in the EU 
+Cybersecurity Strategy for the Digital Decade and contributes directly to the implementation 
+of major initiatives including the Cyber Resilience Act, NIS2 Directive, Cyber Solidarity Act, 
+AI Act, and the EU Quantum Strategy. It complements the deployment -focused Digital 
+Europe Cybersecurity Programme, ensuring continuity from research and innovation to 
+operational capability across the cybersecurity ecosystem. 
+The Cybersecurity actions proposed under this destination as described in the Annexes, are 
+designed to reinforce the EU’s ability to detect, prevent, and respond to cyber threats, 
+including those targeting critical infrastructure. Furthermore, they contribute to Europe's open 
+strategic autonomy by supporting the development of trustworthy digital infrastructures, 
+emerging technologies, cybersecurity capabilities, and secure supply chains. 
+The strategic plan 2025 -2027 identifies the following impact: "Increased cybersecurity and a 
+more secure online environment by developing and using effectively EU and Member States’ 
+capabilities in digital technologies supporting protection of data and networks aspiring to 
+technological sovereignty in this field, while respecting privacy and other fundamental rights; 
+this should contribute to secure services, processes and products, as well as to robust digital 
+infrastructures capable to resist and counter cyber-attacks and hybrid threats". 
+Under this Work Programme, the Commission intends to conclude a contribution agreement 
+entrusting the European Cybersecurity Competence Centre (ECCC) with the implementation 
+of call topics related to Increased Cybersecurity. Please refer to "Indirectly managed action by 
+the ECCC" in the section "Other Actions" of this Work Programme part – including the 
+Appendix providing the call specifications for information purposes. Those specifications 
+incorporate ‘expected outcomes’ set out below. 
+Legal entities established in China are not eligible to participate in both Research and 
+Innovation Actions (RIAs) and Innovation Actions (IAs) falling under this destination. For 
+additional information please see “Restrictions on the participation of legal entities 
+established in China” found in General Annex B of the General Annexes. 

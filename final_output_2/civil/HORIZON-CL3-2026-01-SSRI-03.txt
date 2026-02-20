@@ -1,0 +1,107 @@
+HORIZON-CL3-2026-01-SSRI-03: Public procurement of innovation for security 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 2.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 2.00 million. 
+Type of Action Public Procurement of Innovative Solutions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+The following additional eligibility criteria apply: 
+This topic requires the participation 166, as beneficiaries, of at least 3 
+practitioners and 3 public procurers. These beneficiaries must be from at 
+least 3 different EU Member States or Associated Countries. One 
+organisation can have the role of practitioner and public procurer 
+simultaneously, both counting for the overall number of organisations 
+required for eligibility. Among the public procurers 167, minimum two 
+must be independent legal entities that are public procurers, each 
+established in a different Member State or Associated Country and with 
+at least one of them established in a Member State. 
+For participants with practitioner status, applicants must fill in the table 
+“Information about security practitioners” in the application form with 
+all the requested information, following the template provided in the 
+submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+ 
+additionally be used). 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+PCP/PPI procurement costs are eligible. 
+The specific conditions for actions with PCP/PPI procurements in 
+section H of the General Annexes apply to grants funded under this 
+topic. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Last mile support to previous pre-commercial procurement (PCP) actions; 
+• Development and deployment of innovative security solutions to address emerging 
+threats, including post -quantum cryptography to counter emerging quantum threats, 
+improving the effectiveness and efficiency of public security services; 
+• Implementation of pilot projects and real -world testing, ensuring scalability and 
+contributing to innovative security technologies.  
+Scope: This Public Procurement of Innovative Solutions (PPI) initiative aims to advance the 
+adoption of innovative civil security solutions. The focus is on solutions that have been 
+partially demonstrated on a small scale and are nearly or already available in small quantities 
+but have not yet been widely adopted or produced at scale. These solutions should 
+demonstrate a clear market potential and be new to the procurers, their market segment, or the 
+internal EU market, and must be relevant to procurers across EU Member States and/or 
+Associated Countries. 
+This PPI will specifically target innovative solutions that can address critical challenges in 
+civil security and that are aligned with market readiness criteria. The solutions should meet 
+requirements for sustainability (both operational and environmental), interoperability, 
+adaptability, and be commercially viable while still holding residual market risks, such as not 
+yet being produced in large quantities or at market-ready quality and pricing. 
+This initiative will focus on solutions that have already demonstrated partially successful 
+results but require scaling, refinement, or deployment in new environments to meet mass -
+market price/quality standards. This is in line with Horizon Europe’s objective of fostering the 
+early adoption of innovations that are critical to improving civil security across Europe168. 
+In compliance with the requirements of the Horizon Europe Work Programme – General 
+Annex H, this action will engage in open market consultations with potential tenderers and 
+end-users to identify gaps between perceived procurement needs and current industry 
+developments. Feedback from these consultations will inform the PPI tender specifications, 
+ensuring that the PPI emphasizes the early adoption of innovative solutions rather than the 
+procurement of fully mature or mass -market technologies. The market readiness of the 
+solutions can be verified through conformity testing, certification, or quality labelling. The 
+work will also involve establishing evaluation criteria based on best -value-for-money rather 
+than solely on the lowest price, ensuring that innovations are assessed for both their technical 
+performance and their potential to deliver long-term value. 
+The PPI contract notices will be published EU -wide, with offers evaluated on objective 
+criteria, ensuring transparency and fairness in the selection process. Functional/performance -
+based specifications will be used to define the challenges and problems to be solved, rather 
+than prescriptive solutions, and procurement will avoid any conflicts of interest. The 
+distribution of Intellectual Property Rights (IPR) will be clearly outlined in the PPI call for 
+tenders, in line with the objective of promoting fair and wide exploitation of the results. 
+The process to be followed for the preparation and publication of the open market 
+consultation and call for tender is described in General Annex H. 
+By fostering the early adoption of innovative technologies, this PPI initiative will enable the 
+European civil security sector to address emerging threats, while contributing to the EU’s 
+broader goals of technological sovereignty and market innovation. This will allow public 
+authorities to remain at the forefront of addressing evolving risks and threats. The action will 
+also catalyse innovation, drive competition, and significantly reduce the time needed to move 
+from the initial concept to market. 
+Finally, proposals are expected to address all applicable considerations expressed in the 
+Introduction of the Strengthened Security Research and Innovation Destination.

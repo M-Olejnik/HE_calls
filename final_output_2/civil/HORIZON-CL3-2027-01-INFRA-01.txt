@@ -1,0 +1,107 @@
+HORIZON-CL3-2027-01-INFRA-01: Enhancing physical protection of critical 
+infrastructures 
+Call: Civil Security for Society 2027 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+The following additional eligibility conditions apply: 
+This topic requires involvement as beneficiaries of at least 3 relevant 
+practitioners from EU Member States or Associated Countries. 
+Depending on the specific proposal submitted, these practitioners should 
+represent one or several of the following portfolios: 
+• critical infrastructure operator, 
+• authority responsible for critical infrastructure resilience, 
+• civil protection authority, 
+• law enforcement or private companies providing security for 
+critical infrastructure. 
+For these participants, applicants must fill in the table “Information 
+about security practitioners” in the application form with all the 
+requested information, following the template provided in the 
+submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 105. 
+ 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all of the following 
+outcomes: 
+• Critical infrastructure operators and authorities have improved physical risks and hazards 
+assessment capabilities; 
+• Perimeter security, access control, surveillance systems, remote sensors and other 
+systems used by or relevant to critical infrastructure operators are capable of coping with 
+threats from misuse of new and emerging technologies; 
+• Improved operational procedures, including incidents management and training 
+curricula, are developed; 
+• Innovative solutions for critical infrastructure resilience are being developed, utilising 
+recent advancements in spatial planning, security-by-design, preparedness-by-design and 
+nature-based solutions using an inclusive approach that address diverse needs.   
+Scope: Physical protection of critical infrastructure should keep up its advancement to match 
+risks and hazards stemming from malicious use of new and emerging technologies, and 
+evolving operational environment, as well as improve its safety and security measures against 
+knowns and emerging threats. Following this approach entities providing essential services 
+should reduce their vulnerability, among others, to threats from improvised explosive devices, 
+ramming attacks, sabotage, uncooperative and hostile unmanned platforms including swarm 
+robotics, penetration of access points by unauthorised individuals and vehicles, unauthorised 
+access to hazardous material storage, removal of critical components, or deterioration of 
+critical infrastructure due to age, inadequate design or changed operational conditions, 
+including climate. 
+Proposals submitted under this topic should identify and analyse possible new challenges for 
+the physical security of the critical entities and develop adequate tools, recommendations, 
+manuals and training programmes for relevant operators and authorities. Where relevant for 
+their scope proposals should utilise the nature -based solutions and respect principles of 
+biodiversity. Furthermore, solutions should take into account interdependencies in the context 
+of supply chains and their impact on physical protection. 
+Coordination among the successful proposals from this topic and projects funded under 
+HORIZON-CL3-2025-01-INFRA-01: Open topic for improved preparedness for, response to 
+and recovery from large -scale disruptions of critical infrastructures  and HORIZON -CL3-
+2025-01-INFRA-02: Open topic for role of the human factor for resilience of European 
+ 
+critical entities, should be envisaged in order to avoid duplication, share resources and exploit 
+complementarities and opportunities for increased impact. 
+In this topic the integration of the gender dimension (sex and gender analysis) in research and 
+innovation content should be addressed only if relevant in relation to the objectives of the 
+research effort.

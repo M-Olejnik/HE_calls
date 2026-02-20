@@ -1,0 +1,102 @@
+HORIZON-CL3-2027-01-FCT-01: Online harms detection and investigation tools using 
+a short development cycle model 
+Call: Civil Security for Society 2027 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+7.833 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 7.83 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The following additional eligibility conditions apply: 
+This topic requires the active involvement, as beneficiaries, of at least 3 
+Police Authorities 47  from at least 3 different EU Member States or 
+Associated Countries. For these participants, applicants must fill in the 
+table “Information about security practitioners” in the application form 
+with all the requested information, following the template provided in 
+the submission IT tool. 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 48. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+ 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to  all of the following expected 
+outcomes: 
+• Police Authorities in Europe benefit from a rapid deployment of targeted detection and 
+investigation tools and related training materials, specifically tailored to counter current, 
+foreseeable and emerging online harms at the outset of each development cycle; 
+• Police Authorities in Europe are provided with a flexible framework for adaptation via 
+creation of a modular toolset that allows for the incorporation of new functionalities and 
+updates based on the latest trends and threats in online harms; 
+• Enhanced European stakeholder collaboration through facilitation of partnerships among 
+researchers, policymakers, and Police Authorities in Europe to ensure that tools are not 
+only effective but also user-friendly, legally and ethically sound.   
+Scope: As the digital landscape continues to evolve, so too do the myriads of online harms 
+that threaten citizens’ security and well -being. To address these challenges, we invite 
+proposals for the development of detection and investigation tools that employ short 
+development cycle models. This approach emphasizes agility and responsiveness, ensuring 
+that tools can quickly adapt to emerging online threats, such as identity theft, disinformation, 
+deepfakes, spoofing, phishing, digital violence, or, e.g., tools for an early detection as well as 
+real-time monitoring and risk assessment that can identify potential fraudulent sales (“online 
+payment fraud”) before they occur. 
+This topic welcomes innovative ideas focused on creating efficient detection and investigation 
+tools to combat varying forms of online harms, which should be selected at the beginning of 
+every new development cycle, in agreement with all stakeholders involved in the consortia, 
+especially including concrete needs of Police Authorities. The emphasis on short development 
+cycles allows proposals to remain dynamic, responsive to the fast -paced nature of online 
+threats, and capable of addressing both established issues and new challenges as they arise. 
+Proposals should focus on the iterative process of tool development, integrating feedback 
+from Police Authorities to ensure continuous improvement and relevance in combating online 
+harms. Ultimately, the goal is to foster a proactive and effective response to safeguarding 
+online spaces for all users, regardless of their gender identity or expression. 
+Proposals are expected to provide ideas on how they would engage with the Europol 
+Innovation Lab during the lifetime of the project. Furthermore, if the proposals concern drug -
+related issues, they are expected to engage with the EU Drugs Agency during the lifetime of 
+the project, including validating the outcomes. For aspects of training of Police Authorities, 
+cooperation of successful proposals with CEPOL is expected, provided that the Agency opts 
+out from applying for funding. To ensure the active involve ment of and timely feedback from 
+relevant security practitioners, proposals should plan a mid -term deliverable consisting in the 
+assessment of the project’s mid-term outcomes, performed by the practitioners involved in the 
+project. Finally, proposals are expected to address all applicable considerations expressed in 
+the Introduction of the Fighting Crime and Terrorism Destination. The project should have a 
+minimum estimated duration of 48 months.

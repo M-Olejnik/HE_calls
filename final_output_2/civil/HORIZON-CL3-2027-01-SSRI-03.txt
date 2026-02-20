@@ -1,0 +1,166 @@
+HORIZON-CL3-2027-01-SSRI-03: Demand-led innovation in security 
+Call: Civil Security for Society 2027 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.83 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 5.83 million. 
+Type of Action Pre-commercial Procurement 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+The following additional eligibility conditions apply: 
+This topic requires the participation 176, as beneficiaries, of at least 3 
+practitioners and 3 public procurers. These beneficiaries must be from at 
+least 3 different EU Member States or Associated Countries. One 
+organisation can have the role of practitioner and public procurer 
+simultaneously, both counting for the overall number of organisations 
+required for eligibility. Among the public procurers 177, minimum two 
+must be independent legal entities that are public procurers, each 
+established in a different Member State or Associated Country and with 
+ 
+at least one of them established in a Member State. 
+For participants with practitioner status, applicants must fill in the table 
+“Information about security practitioners” in the application form with 
+all the requested information, following the template provided in the 
+submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Beneficiaries may provide financial support to third parties. The support 
+to third parties can only be provided in the form of grants / prizes. The 
+maximum amount to be granted to each third party is EUR 100 000 to 
+provide financial incentives to final end -users that are not part of the 
+consortium (e.g., citizens) to adopt the solutions, including costly 
+hardware components. 
+PCP/PPI procurement costs are eligible. 
+The specific conditions for actions with PCP/PPI procurements in 
+section H of the General Annexes apply to grants funded under this 
+topic. 
+Beneficiaries must ensure that the subcontracted work is performed in at 
+least 3 Member States — unless otherwise approved by the granting 
+authority. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• A community of EU civil security practitioners with common user/functional needs for 
+innovative technology solutions is identified, supported by an industrial base, in 
+particular SMEs and Startups, to access the public procurement market and scale up their 
+business;
+• Procurers facilitate the commercialisation of the innovative solutions developed by their 
+successful suppliers by providing them with first customer references for the validation 
+and first pilot deployment;  
+• Tested and validated capacity of EU technology and industrial base to develop and 
+produce technology prototypes that are accessible and meet the diverse needs of the EU 
+user community, regardless of their gender, age and ability; 
+• Improved delineation of the EU market (including demand and supply) for innovative 
+civil security systems that can articulate alternative options for uptake in function of 
+different industrialisation needs, commercialisation needs, acquisition needs, deployment 
+needs and additional funding needs (beyond R&I funding).  
+Scope: As past experience shows that pre -commercial procurement opens up the procurement 
+market for startups and enables the public sector to address societal challenges more 
+effectively, public procurers should make more strategic use of PCP. Applicants are invited to 
+submit proposals for PCP action to acquire Research and Development (R&D) services and 
+innovative civil security technology solutions. 
+Proposals should demonstrate interest from a broader community of potential buyers, beyond 
+the direct beneficiaries, who share similar needs and are open to jointly adopting the solutions 
+developed, provided they are proven mature and operationally viable. The proposals are 
+expected to include an analysis of the state of the art and market landscape, aligning research 
+activities with identified needs and presenting a range of technical alternatives to address the 
+challenge. Furthermore, to stimulate dialogue with the supply side, public procurers are 
+required to organise proposals that should demonstrate sustainability of the action beyond the 
+life of the project. 
+The proposals should build on the outcomes of CSA projects funded under previous Horizon 
+Europe work programmes aimed at creating Stronger grounds for pre -commercial 
+procurement of innovative security technologies. The proposals should provide clear evidence 
+to justify and de-risk the PCP action, demonstrating that the identified challenge is significant 
+and necessitates a PCP action to mature certain technologies and compare alternatives. It 
+should be shown that a consolidated group of practitioners and procurers with shared needs 
+and requirements is committed to the PCP process, enabling informed decisions on future 
+joint procurement of innovative solutions. Activities covered should include cooperation with 
+policymakers to reinforce the national policy frameworks and mobilise substantial additional 
+national budgets for PCP and innovation procurement in general beyond the scope of the 
+project. The tender process to be followed is described in Annex H. 
+Proposals should demonstrate commitment to exploiting project results beyond its conclusion, 
+ensuring engagement with stakeholders and implementation of strategies for future uptake. 
+Applicants should also clarify measures to ensure compliance with the principles of the EU 
+Directive on public procurement, particularly those related to PCP. The required open market 
+consultations should be completed in at least three EU Member States. Prior consultations 
+conducted under previous CSA projects should be used, provided they ensured procurement 
+viability and remain relevant to the current state of the art. 
+Involvement of procurement decision makers is recommendable to ensure that end solution(s) 
+are adopted by public buyers, increasing the societal impact of the related research activities. 
+Therefore, procurers should declare in the proposal their interest to pursue deployment of 
+solutions resulting from the PCP in case the PCP delivers successful solutions and indicate 
+whether they will: 
+• Procure successful solution(s) as part of the PCP. 
+• Launch a separate follow-up procurement after the PCP to buy such type of solutions. 
+• Adopt successful solutions without the need to procure them (e.g. in case of open -source 
+solutions). 
+• Foresee financial or regulatory incentives for others to adopt successful solutions (e.g. in 
+case the final end-users of the solutions are not the procurers but for example citizens).  
+In these four cases, the procurers can implement the project as a fast -track PCP178. In the first 
+case, the procurers should foresee the budget in the proposal to purchase at least one solution 
+during the PCP. In the second case, the procurers should include in the proposal a deliverable 
+that prepares the follow-up procurement to purchase such type of solution(s) after the PCP. In 
+the first and third case, the procurers should foresee sufficient time during the project to 
+deploy and validate that the solutions function well after installation. In the fourth case, the 
+procurers can use financial support to third parties to provide financial incentives to final end -
+users that are not part of the consortium (e.g. citizens) to adopt the solutions, including costly 
+hardware components, with a maximum budget of EUR 100.000. 
+Applicants should propose an implementation of the project that includes: 
+• A minimal preparation stage dedicated to finalising the tendering documents package for 
+a PCP call for tenders based on the technical input, and to define clear verification and 
+validation procedures, methods and tools for the evaluation of the prototypes to be 
+developed throughout the PCP phases. 
+• Moreover, to ensure the sustainability and uptake of the developed solutions, proposals 
+should outline clear plans for post -PCP activities. As outlined in the general annexes of 
+the Horizon Europe Work Programme 2026 -2027, the topic allows public buyers to use 
+the fast-track PCP option (e.g. 2 instead of 3 phases) when they commit to buying or 
+deploying the resulting solutions after the PCP. However, if such a commitment is not 
+yet in place at the proposal stage, the call expects proposers to include a deliverable 
+outlining concrete activities to prepare the ground for follow -up deployment or 
+procurement after the PCP. 
+ 
+• Launching the call for tenders for research and development services. The call for 
+tenders should envisage a competitive development composed of different phases that 
+would lead to at least 2 prototypes from 2 different providers to be validated in real 
+operational environment at the end of the PCP cycle; 
+• Conducting the competitive development of the prototypes following the PCP principles 
+including a design phase, an integration and technical verification phase and a validation 
+in real operational environment phase. In evaluating the proposals and the results of the 
+PCP phases, the applicants should consider technical merit, feasibility and commercial 
+potential of proposed research efforts. 
+• Consolidating the results of the evaluation of the developed prototypes, extracting 
+conclusions and recommendations from the validation process, and defining a strategy 
+for a potential uptake of solutions inspired in the PCP outcomes, including a complete 
+technical specification of the envisaged solutions and standardisation needs and/or 
+proposals. This strategy should consider joint -cross border procurement schemes and 
+exploit synergies with other EU and national non-research funds.  
+Applicants are expected to maximise the visibility of the project outcomes to the wide 
+community of potential EU public buyers. Liaison with other civil security communities 
+beyond those addressed by the project is encouraged in order to assess the possible reuse and 
+extensibility of the identified solutions to different domains. 
+Finally, proposals are expected to address all applicable considerations expressed in the 
+Introduction of the Strengthened Security Research and Innovation Destination. 

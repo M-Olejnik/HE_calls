@@ -1,0 +1,121 @@
+HORIZON-CL3-2026-01-INFRA-02: Security challenges of the green transition in 
+urban und peri urban areas 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 4.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 4.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The following additional eligibility criteria apply: 
+This topic requires involvement as beneficiaries of at least 3 relevant 
+practitioners from EU Member States or Associated Countries. 
+Depending on the specific focus of the proposal submitted, these 
+practitioners should represent one or several of the following portfolios: 
+• critical infrastructure operator, 
+• authority responsible for critical infrastructure resilience, 
+• civil protection authority, 
+• safety or security first responders, 
+For these participants, applicants must fill in the table “Information 
+about security practitioners” in the application form with all the 
+requested information, following the template provided in the 
+submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 5 by the end of the project – see 
+General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 102. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all of the following 
+outcomes: 
+• Identification and analysis of potential new security risks related to innovative 
+technologies being deployed in the urban and peri-urban environments; 
+ 
+• Innovative and modern tools to identify and measure changes in urban and peri -urban 
+areas caused by the green transition, insofar as they concern security and possible 
+resilience approaches; 
+• Verification of measures countering potential safety and security risks, hazards and 
+challenges arising in areas hosting green technologies; 
+• Contribution to building awareness and societal acceptance for the safety and security 
+aspects of the green transition; 
+• Impacts of incidents involving new and emerging technologies are examined, including 
+environmental and climate risks; 
+• Security, safety and resilience aspects of the supply chains of green technologies are 
+analysed, including the technological and resource dependencies, and their aligning with 
+the European strategic autonomy principle; 
+• Authorities and critical infrastructure operators are equipped with efficient evaluation 
+methodologies for safe and secure deployment and integration of new and emerging 
+technologies into urban and peri-urban areas.   
+Scope: Climate change and environmental degradation are an existential threat to the world, 
+and the green transition is a critical component of the EU's strategy to reduce and mitigate 
+their impacts, as well as to contribute to the European competitiveness. This approach is also 
+part of the effort to transform Europe into a modern, resource -efficient, resilient and 
+competitive economy. However, rapid deployment of new and emerging technologies, such 
+as, but not limited to: green and grid -interactive roofs and walls, solar power installations, 
+electric vehicle charging stations, energy storages, smart sensors and surveillance systems, 
+green transportation systems, nature -based or other sustainable or reused construction 
+materials, or specific infrastructure solutions may create security risks through new 
+interdependencies including legacy infrastructure, the accumulation of deployed solutions, or 
+otherwise create new potential risks and hazards of unknown scale and origin. 
+Proposals submitted under this topic should investigate the integration of sustainable & 
+environmentally friendly technologies into urban and peri -urban areas to identify and explore 
+physical and cyber risks and vulnerabilities resulting from this phenomenon, including, but 
+not limited to: battery fires, toxic leaks, electric shocks, structural integrity, toxic waste, data 
+privacy, land management disruptions, including potential negative impacts on the natural 
+environment, or social and community tensions. The proposals should also consider the threat 
+of malicious access, software and data manipulation and misuse of managing systems 
+potentially leading to harm to health, loss of life, environmental damage or economic damage, 
+regardless of whether the intention is criminal, vandalism, hybrid attack or other. 
+The ultimate goal of this research is to inform operators, first responders and authorities on 
+how to mitigate risks, enhance their preparedness and improve their response to potential 
+incidents. By recognizing emerging threats, it should be possible to prevent major incidents 
+from occurring, and in the event of an accident, provide effective strategies, managerial 
+advice, processes and methodologies to respond and recover. The research should provide 
+recommendations that are tailored to diverse communities and context needs such as those 
+with different socio -economic profiles, adapted to people of different ages and genders to 
+identify and mitigate physical and cyber risks and vulnerabilities. Proactively addressing 
+major safety and security risks associated with the green transition will help to future -proof 
+these technologies, build public trust, and promote their widespread acceptance, backed by 
+evidence-based safety and security policies. 
+The proposed research should provide a comprehensive understanding of adaptive 
+capabilities, the risks and vulnerabilities associated with green technologies , as well as 
+practical recommendations for mitigating these risks and ensuring their safe, resilient and 
+secure deployment while utilising the nature -based solutions and respecting principles of 
+biodiversity. By doing so, it will contribute to the development of a resilient and sustainable 
+urban environment, where the benefits of green technologies can be fully realized while 
+minimizing their potential risks and negative impacts. 
+In this topic the integration of the gender dimension (sex and gender analysis) in research and 
+innovation content should be addressed only if relevant in relation to the objectives of the 
+research effort.

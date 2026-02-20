@@ -1,0 +1,100 @@
+HORIZON-CL3-2027-01-DRS-01: Open Topic on advanced protective gear optimized 
+for CBRN-E (Chemical, Biological, Radiological, Nuclear, Explosives) environments and 
+new generation of smart protective equipment for disaster responders 
+Call: Civil Security for Society 2027 
+Specific conditions 
+ 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+3.835 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 7.67 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of: 
+• at least 2 Training Centres 135 located in EU Member States or 
+Associated Countries, and 
+• at least 2 practitioners involved in training, validation and testing 
+of CBRN -E tools and technologies from at least 2 EU Member 
+States or Associated Countries. 
+For these participants, applicants must fill in the table “Information 
+about security practitioners” in the application form with all the 
+requested information, following the template provided in the 
+submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 7 -8 by the end of the project – 
+see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+ 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 136. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Developed of advanced protective gear specifically designed for optimal performance in 
+Chemical or Biological or Radiological, and Nuclear or Explosives (CBRN -E) 
+environments; 
+• Created innovative smart protective equipment for disaster responders, incorporating 
+advanced technologies to enhance safety and operational efficiency; 
+• Improvement of protective solutions to ensure the safety and effectiveness of disaster 
+responders operating in hazardous and high-risk environments.  
+Scope: This topic aims to advance the development of protective gear specifically designed 
+for optimal performance in specificities of the Chemical, Biological, Radiological, Nuclear, 
+and Explosives (CBRN-E) environments, along with the creation of a new generation of smart 
+protective equipment for disaster responders. Projects should focus on the use of innovative 
+materials, technologies, and design features that enhance the protective capabilities of gear 
+used in high -risk, hazardous environments, ensuring the safety and well -being of disaster 
+responders with an inclusive and user -centric approach. The integration of advanced 
+technologies will be crucial to enhancing the operational efficiency and effectiveness of the 
+equipment. 
+Projects should conduct a stakeholder or market analysis and a roadmap or plan for uptake of 
+the developed methodologies, findings, and technologies to the industry, the research and 
+innovation community, and/or the relevant authorities. The current response capacities of the 
+European Civil Protection Pool 137 and the rescEU strategic reserve 138 should be taken into 
+account in the roadmap to ensure needs-based approach. 
+Proposals should build upon existing research outputs, specifically under other Horizon 
+Europe Cluster 4, and technologies to create smart, adaptive protective solutions that respond 
+dynamically to evolving threats in CBRN -E scenarios. This includes the incorporation of 
+features similar to automated hazard detection, environmental monitoring, and advanced 
+ 
+communication systems to provide real-time situational awareness. The new gear should meet 
+rigorous safety standards while improving the comfort, mobility, and usability of responders, 
+enabling better performance and faster decision-making in demanding environments. 
+Proposals should focus on providing comprehensive solutions that combine robust protection, 
+operational support, and data -driven insights, ensuring a holistic approach to safety. 
+Collaboration between research institutions, manufacturers, and end -users will be essential to 
+ensure that the resulting products meet the practical requirements of practitioners in the field. 
+The Preparedness Union Strategy is a key document in this regard. Analysing the capacity 
+gaps of the UCPM 139 as well as finding synergies with the rescEU strategic reserve and 
+projects from operational grants, such as the Knowledge for Action in Prevention & 
+Preparedness (KAPP)140, is recommended.

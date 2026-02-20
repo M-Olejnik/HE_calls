@@ -1,0 +1,144 @@
+HORIZON-CL3-2026-01-DRS-02: Multi -hazard approach and cumulative / cascading 
+impacts 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 4.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 8.00 million. 
+ 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+Due to the scope of this topic, relevant international organisations with 
+headquarters in a Member State or Horizon Europe Associated Country 
+are exceptionally eligible for funding. 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 2 
+authorities in charge of disaster risk or crisis communication 118 and 2 
+representatives of local or regional authorities in charge of disaster 
+response from at least 3 different EU Member States or Associated 
+Countries. For these participants, applicants must fill in the table 
+“Information about security practitioners” in the application form with 
+all the requested information, following the template provided in the 
+submission IT tool. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 by the end of the project – see 
+General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+ 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 119. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Integrated single-hazard systems into multi -hazard next generation predictive models to 
+assess cascading effects (e.g., heatwave, floods, droughts, landslides, heavy rain) and 
+interactions across meteorological, geophysical, and technological hazards; 
+• Enhanced hazard forecasting and response through research on model integration and 
+platform interoperability; 
+• Development of holistic risk and resilience metrics to support multi -hazard prevention 
+strategies, encompassing main physical, economic and social effects; 
+• Improvement of analysis models considering evolving vulnerability state, due to 
+cascading and cumulative effects, through numerical simulations and experimental tests, 
+possibly also supported by AI applications; 
+• Collected reliable data (same granularity and format) and ways to share and analyse it. 
+The interoperability of all kinds of systems and information sharing is crucial, based on 
+the need-to-know principle; 
+• Improved knowledge/experience -sharing from past emergencies to cope with future 
+emergencies, also strengthening trans-national knowledge and data exchange among EU 
+countries as well as from early warning to early action; 
+• Improved disaster risk and resilience management due to single/multiple threats through 
+a holistic, systemic and cross -cutting approach, also considering relevant changes such 
+as changing climate, digital transformation, environmental and socio -economic 
+conditions; 
+• Development of holistic Risk and Resilience Metrics to support multi -hazard prevention 
+strategies, encompassing main physical, economic and social effects; 
+• Solutions shall include the analysis of the physical, social and governance systems and 
+take into account the development of an EU comprehensive risks and threats assessment.  
+ 
+Scope: Advancing multi-hazard risk assessment and disaster resilience is a necessity. Building 
+on the integrated all-hazard approach, the advancement will be achieved by integrating single-
+hazard models into next -generation predictive systems capable of analysing cascading and 
+cumulative effects. A key focus should be on early and anticipatory action, improving the 
+understanding of interactions between meteorological, geophysical, and technological 
+hazards, including their compounding impacts on societies, economies, and critical 
+infrastructure. 
+Proposals should aim to develop and validate integrated forecasting models, that enhance the 
+prediction and management of multi -hazard scenarios, supports flexibility and extensibility, 
+and coordination of responses by incorporating real -time data, AI -driven analytics, and 
+remote sensing technologies. These models should facilitate improved hazard forecasting by 
+addressing challenges in platform interoperability and data exchange, ensuring that diverse 
+hazard monitoring systems at local, national, and global levels can effectively communicate 
+and operate in synergy. 
+Efforts should also explore the interoperability of regional and national hazard warning 
+systems, enhancing global forecasting capabilities for hazards such as landslides triggered by 
+extreme weather events, or cumulative damage modelling for earthquakes and their 
+aftershocks. Research should address gaps in loss estimation models by considering the 
+cascading and long-term impacts of disasters on infrastructure, the built environment, supply 
+chains, and diverse needs of communities. Furthermore, proposals should contribute to the 
+development of advanced tools and methodologies to assess the combined effects of multiple 
+hazards on critical infrastructure, ensuring that disaster risk management strategies account 
+for interdependencies across sectors This should include scenario -based stress testing, digital 
+twins for risk modelling, and AI -powered decision -support systems, taking into account 
+existing biases, to enhance resilience planning for lifeline services such as energy, water, 
+transport and telecommunications. 
+A holistic, systemic, and cross -cutting approach should be applied to disaster risk 
+management, taking into consideration climate change trends, environmental degradation, and 
+vulnerabilities such as gender, age, disabilities and others social factors. The topic should lead 
+to the creation of comprehensive Risk and Resilience Metrics, integrating physical, economic, 
+and social dimensions to support decision -makers in designing effective prevention and 
+adaptation strategies. Considering building on and leveraging from existing systems, such as 
+the Copernicus Emergency Management Service (CEMS) the Destination Earth Platform or 
+Risk Data Hub, could be beneficial. 
+Projects should conduct a stakeholder or market analysis and a roadmap or plan for uptake of 
+the developed methodologies, findings, and technologies to the industry, the research and 
+innovation community, and/or the relevant authorities. 
+Projects may take into account the assets but also particular challenges faced by the European 
+outermost regions and may include entities from these regions in the consortium’s 
+composition. 
+Projects should contribute to strengthening risk governance at multiple levels by fostering 
+collaboration between scientific communities, policymakers, emergency responders, and 
+infrastructure operators. Efforts should be made in leveraging citizens -generated content in 
+social media and decentralised digital platforms for citizen -driven early warning and 
+situational awareness. Alignment with EU policies, international risk reduction frameworks, 
+and best practices in resilience planning should be ensured, maximizing the applicability and 
+impact of the developed solutions. The Preparedness Union Strategy is a key document in this 
+regard and includes a key action on developing an EU comprehensive risks and threats 
+assessment. Finding synergies with projects from operational grants, such as the Knowledge 
+for Action in Prevention & Preparedness (KAPP)120, is recommended. 
+Where applicable, proposals should leverage the data and services available through European 
+Research Infrastructures federated under the European Open Science Cloud, as well as data 
+from relevant Data Spaces. Particular efforts should be made to ensure that the data produced 
+in the context of this topic is FAIR (Findable, Accessible, Interoperable and Re-usable).

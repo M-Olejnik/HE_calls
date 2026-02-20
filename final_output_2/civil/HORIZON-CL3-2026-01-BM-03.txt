@@ -1,0 +1,92 @@
+HORIZON-CL3-2026-01-BM-03: Reliability of age assessment methods in the context of 
+security and border management 
+Call: Civil Security for Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 1.33 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 1.33 million. 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The following additional eligibility criteria apply: 
+This topic requires the active involvement, as beneficiaries, of at least 2 
+Border or Coast Guard Authorities from at least 2 different EU Member 
+States or Associated Countries. For these participants, applicants must 
+fill in the table “Information about security practitioners” in the 
+application form with all the requested information, following the 
+template provided in the submission IT tool. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 74. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: Project results are expected to contribute to some or all  of the following 
+expected outcomes: 
+• Improved protection of minors, including by more reliable age assessments and by 
+minimising the use of intrusive age assessment methods; 
+• Improved adaptation, preparedness and cooperation of authorities in the fight against 
+human trafficking; 
+• Expanded European-based knowledge on reliability, accuracy and effectiveness of age 
+assessment methods.   
+ 
+Scope: Many unaccompanied children and young persons arriving at the external EU borders 
+and seeking asylum, lack official documents showing their identity and age. Age assessment 
+methods are important as they contribute to the determination of, for example, where an 
+individual will be initially housed and what services, supports, and legal processes they will 
+receive to ensure protection and, if applicable, child protection. 
+In other cases, minors are victim of trafficking of human beings (THB) criminal activities, 
+either across the EU external borders, or within the EU borders. In other cases again, age 
+assessment methods are necessary for law enforcement investigations on protecting children, 
+forensic investigation, and/or the identification of victims. 
+No age assessment method can offer a 100% reliability. Different approaches have different 
+sensitivity and specificity, and different sample sizes and representativeness, and some 
+approaches are based on a non -European knowledge base. Furthermore, there is considerable 
+variation in methods of age assessment. Methods may use approaches as diverse as 
+interviews, psychological assessments and other holistic approaches; medical approaches such 
+as X -rays, CT scans, DNA methylation, dental observation, or other analyses; other 
+approaches such as image analysis; and they may use or not artificial intelligence (AI) for data 
+analysis. 
+EU regulations, and guidelines by the European Union Asylum Agency (EUAA) 75, include 
+safeguards and recommendations, such as that the least invasive methods should be used, and 
+that medical methods should be used as a last resort. Further studies, reports or documents 
+have also been elaborated by the European Migration Network 76 , European networks of 
+security practitioners for innovation, as well as at national level. The action funded by this 
+topic should also consider these, as well as previous research, including but not limited to 
+research by other relevant EU Framework Programmes projects. 
+This Coordination and Support Action should not develop methods or technologies of age 
+assessment. Rather, it will analyse, including with practitioners, the current and potential 
+methods for age assessment. It should assess and compare scientific reliability, sensitivity and 
+specificity of different methods, as well as their potential risks for fundamental rights and how 
+to minimize them. 
+While the research results would not imply any legislative or policy decision on age 
+assessment methods, the research will develop evidence -based results on options for more 
+(compared to the state -of-the-art) appropriate models of age assessment methods that protect 
+fundamental rights, ensuring the use of an inclusive approach that addresses diverse needs. 
+The results of research funded by this topic will contribute to capabilities for better 
+identification of children and minors in the migratory, security, border management and other 
+ 
+contexts, following the principles of the EU Strategy on the rights of the child 77. They will 
+also contribute to the exchange of practices among European authorities. 
+Synergies with other Horizon Europe Cluster 3 Destinations, such as “Better protect the EU 
+and its citizens against Crime and Terrorism” and “Disaster -Resilient Society for Europe”, as 
+well as with Destinations of Horizon Europe Cluster 2 “Inclusive Society”.
