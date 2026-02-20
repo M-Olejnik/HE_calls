@@ -1,0 +1,55 @@
+HORIZON-CL5-2027-04-Two-Stage-D5-09: Noise reduction breakthroughs for new 
+ultraefficient aircraft 
+Call: BATTERIES and MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 2.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 5.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 254. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Airframe / cabin noise for new aircraft design; 
+• Engine noise sources and installation effects; 
+• Noise perception/annoyance and mitigation methodologies.  
+Scope: The topic aims to deliver advanced and validated numerical and experimental aero -
+acoustic methodologies for the noise prediction of new ultraefficient aircraft designs, 
+primarily for large passenger aircraft with new open fan engine architectures and ultra -high 
+by-pass ratio architectures. 
+The topic should reinforce fundamental understanding, fill gaps and propose new/updated 
+technologies towards enabling open fan designs and techno bricks for significantly reduced 
+cabin noise. Mayor emphasis is expected to be put to existing/new experimental data and 
+procedures, multi -disciplinary design and optimisation, aerodynamics, aeroacoustics and 
+noise reduction integrated metamaterials/structures. 
+In addition, the proposals may also provide even better noise footprint assessments and better 
+annoyance understanding and mitigation methodologies. 
+The topic should build upon lessons learnt and gaps identified from H2020.CS2 -LPA-01-D01 
+as well as complementing the projects resulted from HORIZON-CL5-2022-D5-01-12.

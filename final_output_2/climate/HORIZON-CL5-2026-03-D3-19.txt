@@ -1,0 +1,81 @@
+HORIZON-CL5-2026-03-D3-19: Affordable and sustainable primary equipment for 
+Future-Ready multi-terminal HVDC Systems 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+4.00 and 12.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 24.00 million. 
+ 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 199. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• The expansion of High Voltage Direct Current (HVDC) infrastructure  across 
+Europe is facilitated and supports the EU's energy transition through more performant, 
+sustainable and affordable HVDC equipment that ensure higher grid reliability and 
+stability. 
+• Enhanced affordability and interoperability of HVDC grid equipment. 
+• Enhanced reliability and stability  of HVDC Grid, through developing advanced 
+protection and control equipment. 
+• Enhanced environmental sustainability of HVDC equipment, by reducing their carbon 
+footprint and enhancing their sustainability, e.g. through the development of SF6 -free 
+alternatives.   
+ 
+Scope: As Europe progresses towards sustainable energy, high-voltage direct current (HVDC) 
+systems are vital for the efficient transmission of renewable energy. To optimize these 
+systems, challenges like component size, reliability, affordability, interoperability, supply 
+chain resilience and life -cycle environmental impact of critical HVDC equipment must be 
+addressed. 
+To ensure the developed equipment is fit for use and interoperable, the consortium must 
+include at least two equipment or system manufacturers, at least two transmission system 
+operator (TSO) and at least two research centres. 
+The range of expected EU contributions specified in the table above is broad, because the 
+types of equipment within the scope of the topic have by nature very different costs; therefore, 
+the project costs and the expected EU contribution must be justified according to the scope of 
+the project. 
+Projects must address all the following items: 
+• Investigate and develop primary equipment  suitable for multi -terminal HVDC grids, 
+that are small size, lightweight, environment -friendly (e.g. SF6 free, lead free), 
+affordable and reliable, such as mechanical or hybrid (mechanical and solid -state) circuit 
+breakers, fault current limiters, superconducting or conventional cables, conversion of 
+high voltage alternating current (HVAC) overhead lines to HVDC ... 
+• Equipment affordability and interoperability  are expected to be sought pragmatically, 
+for example through modularisation, standardisation, focus on key functionalities and 
+performances, size reduction, use of new components or new materials, … 
+• Conduct a comprehensive techno -economic assessment of the  system integration  of 
+these technologies into multi-terminal HVDC systems. 
+• Test, validate  performances in representative conditions, in relevant or operational 
+environment". 
+• Contribute to standardisation bodies.

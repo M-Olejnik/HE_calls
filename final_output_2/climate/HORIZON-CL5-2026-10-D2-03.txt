@@ -1,0 +1,119 @@
+HORIZON-CL5-2026-10-D2-03: Integrated Production and Product Development for 
+Next-Generation Lithium-based Batteries for Mobility (BATT4EU and Made in Europe 
+Partnerships) 
+Call: BATTERIES and MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+33.30 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 100.00 million. 
+Type of Action Innovation Actions 
+ 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Due to the complexity of the topic, the page limit for proposals is 
+increased to 60 pages. 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or 
+as an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B.  
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+To ensure a balanced portfolio covering different sectors, grants will be 
+awarded to proposals not only in order of ranking but at least also to 
+one proposal that is the highest ranked within the automotive sector and 
+one proposal that is the highest ranked within the aviation sector, 
+provided that the proposals attain all thresholds. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Proposals are expected to contribute to all following points: 
+• The projects must fulfil the performance targets, at the cell and system level, 
+corresponding to the specific targeted application, to be specified in the proposal. 
+Appropriate KPI must be defined for the energy density (volumetric and gravimetric), 
+Power density and C -rate, number of cycles and cost defined under operational 
+conditions. 
+• Boost EU competitiveness in next -generation battery technologies for mobility 
+applications. 
+• Develop pilot manufacturing capability for next generation lithium-based batteries. 
+• Strengthen the EU battery value chain, including new manufacturing equipment, 
+automation, and scalable production processes. 
+• Advance the understanding of next -generation battery interfaces at an industrial scale, 
+ensuring manufacturability, durability, and cost-effectiveness.  
+• In the case of aviation, the battery requirements should be compatible at minimum with 
+EASA CS.23 (level 4), CS.27 and preferably with CS.25 categories.   
+Scope: This topic will support the scaling -up of next generation (i.e., beyond generation 3) 
+lithium-based batteries (e.g., semi and all -solid state, generation5) from cell prototypes (TRL 
+4-5) to demonstration of scalable production and demonstration of cell integration into 
+module/pack level. The projects will cover pilot production, process automation, system 
+integration and demonstration, advanced cell design, and supply chain development to ensure 
+that Europe remains at the forefront of battery innovation. 
+The projects must address the needs of a single specific and strategically relevant transport 
+mode, and the targeted mode must be clearly indicated in the proposal. The following 
+transport modes are in scope: Automotive; Aviation; Rail; Waterborne. 
+The projects are expected to cover all of the following production targets: 
+• Upscaling of components production Technologies:        
+ Optimisation and pilot -scale integration methods of anode and cathode materials 
+compatible with next generation electrolytes    
+• Development of Cell Concepts, Manufacturing Equipment and Machinery        
+ Development of flexible and high -throughput processing methods for large -scale 
+cell production (e.g., laser patterning, vacuum sintering, and advanced calendaring).     
+ Development of next-generation production machinery, tailored for next generation 
+lithium-ion cell manufacturing (e.g., solid electrolyte deposition tools, high -
+precision stacking machines).    
+• Design and demonstration of module and packs into vehicles/relevant environment         
+ Develop module/pack design and relevant sensors and Battery Management 
+Systems (BMS), optimised for supporting the system, for seamless cell -to-system 
+integration, regulatory compliance, and specific end-user application requirements.     
+ Perform comprehensive validation, including performance, durability, and safety 
+testing under realistic operational conditions, addressing thermal management, 
+mechanical stress, vibration resistance, and electrical performance at relevant 
+scales.    
+The Commission initiative for Safe and Sustainable by Design135 (SSbD) sets a framework for 
+assessing the safety and sustainability of chemicals and materials which should be considered 
+as a reference for project proposals. 
+Whenever the expected exploitation of project results entails developing, creating, 
+manufacturing and marketing a product or process, or in creating and providing a service, the 
+plan for the exploitation and dissemination of results must include a strategy for such 
+exploitation. The exploitation plans are expected to include preliminary plans for scalability, 
+commercialisation, and deployment (feasibility study, business plan) indicating the possible 
+funding sources to be potentially used (in particular the Innovation Fund). 
+Proposals could consider the involvement of the European Commission's Joint Research 
+Centre (JRC) 136 whose contribution could consist of performing experimental or desk -top 
+research on battery performance or safety. For further information on the JRC’s possible 
+contribution to the projects, please, search for additional publicly available information on the 
+JRC’s website137 (EU Science Hub) on the NCP portal, or request specific information from 
+the JRC (JRC-NCP-Network@ec.europa.eu) 
+JRC will assure that all the other applicants receive the same information on the JRC’s 
+possible contribution to the project (e.g., via the topic -specific FAQs under the Funding and 
+Tenders Portal). 
+This topic implements the co -programmed European Partnership on Batteries (Batt4EU) and 
+the co-programmed Partnership on Advanced Manufacturing in Europe (Made in Europe). As 
+such, projects resulting from this topic will be expected to report on the results to the 
+European Partnership on Batteries (Batt4EU) and Made in Europe in support of the 
+monitoring of its KPIs. 
+This topic contributes to the industrial action plan for the automotive sector.

@@ -1,0 +1,122 @@
+HORIZON-CL5-2026-05-D5-12: Shipyards of the future (ZEWT Partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+10.50 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 21.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 8 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+Legal and The rules are described in General Annex G. The following exceptions 
+financial set-up of 
+the Grant 
+Agreements 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 257. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes:    
+1. A strengthened European value chain cooperation and integration between equipment 
+manufacturers and large, medium, and small -scale shipyards resulting in enhanced 
+European competitiveness.  
+2. Demonstration of improved shipyard manufacturing processes in small and medium -size 
+shipyards, capable of building waterborne vessels in the EU/EEA. 
+3. Reduced complexity to perform future retrofits of vessels and enabling the later 
+inclusion of several emissions saving technologies and solutions. 
+4. Higher capability and efficiency of European shipyards and equipment manufacturers to 
+meet the increasing need to convert the shipping fleet towards zero -emission and 
+biodiversity friendly maritime transport.  
+5. Making the shipbuilding and retrofitting industry better prepared for building and 
+replicating low-to-zero emission ships.   
+Scope: European shipbuilding industry is facing increasing pressure from international 
+players, and there is a need to improve its competitiveness through innovation and 
+technological advancements. The MARI -4YARD project together with RESURGAM, 
+FIBRE4YARDS, SMARTYards and PENELOPE developed several solutions on materials, 
+processes, AI and skills. Additionally, the project SEUS in Horizon Europe is developing an 
+integrated software platform with the ambition to save time in engineering, assembly and 
+construction at European shipyards. However, there is still a need to increase the ambition and 
+demonstrate these solutions in medium and small-size shipyards. 
+ 
+At the same time, shipyards are often located in sensitive natural areas, such as coastal regions 
+and estuaries. This provides an opportunity for shipyards to evaluate and reduce their impact 
+on the surrounding biodiversity. 
+The topic aims to improve efficiency and sustainability of European ship newbuilding and 
+retrofitting processes, to improve the use of resources and circularity, to develop necessary 
+skills and improve working conditions. This requires considering all relevant innovations such 
+as robotics, automation, digitalization and AI in the context of shipbuilding to enhance 
+EU/EEA -focused value chains. The purpose is to increase the competitiveness of the 
+European shipbuilding sector with a view to further replicating and utilizing results, including 
+in potential applications to the Innovation Fund. 
+Proposals are expected to address all the following aspects:   
+1. Deployment and integration of innovative technologies and systems in small and 
+medium-size EU and EEA shipyards to enhance the competitiveness and sustainability 
+of newbuild, repair and retrofit processes and process chains. 
+2. Pilot applications should consider all aspects of the shipbuilding process (including 
+technological, business-related and organizational aspects), equipment, and ship design, 
+potentially including: a) automation and robotics in shipbuilding processes; b) advanced 
+digitalization in design and production; c) innovations in retrofitting and predictive 
+maintenance of shipbuilding assets; circular economy in all relevant processes 
+(construction, repairs, retrofitting and dismantling). 
+3. Pilot applications should also consider systems interoperability and integration with 
+existing shipyard infrastructure, tools and equipment. 
+4. Explore advanced ways of digital collaboration (co -simulation, sharing digital data) 
+while considering cyber security, to improve synergies within value chains, including 
+equipment manufacturers, shipyards, ship designers and shipowners. 
+5. Testing and physical demonstration of the developed technologies in real life shipyard 
+ecosystem and as much as possible in relation with full scale ship building, including 
+benchmarking of existing practices and consideration of environmental impacts and 
+potential safety improvements for workers. Demonstrations should take place in at least 
+three EU/EEA shipyards. 
+6. Develop biodiversity friendly strategies, integrating nature -based solutions on site, 
+promoting circularity and sustainability of processes. 
+7. Additionally, a strategy for skills development should be presented, associating social 
+partners and civil society where relevant. 
+8. Propose measures to solidify the current strengths of smaller and medium -sized 
+shipyards across Europe, with a focus on increasing competitiveness and growth, 
+reinforcing and growing European shipyards and improving environmental performance. 
+9. For exploitation purposes, proposals should: a) develop business plans and rollout 
+strategies, including measures to reduce knowledge and technology leakage outside of 
+Europe; b) identify clear target groups (vessel types, segments and processes) and their 
+current state, deficiencies and improvement needs, and make a clear exploitation strategy 
+on how to roll out the results to end-users.   
+Proposals are expected to explain the contribution of their objectives, results, IP management 
+and exploitation strategy to the EU added value creation and strategic autonomy throughout 
+the supply and value chain, including competitiveness of the EU waterborne industry, 
+enhancement of the EU’s R&I capacity, technological know -how capabilities and human 
+capital, and resilience of the EU industrial and manufacturing base. Proposals are encouraged 
+to include synergies with shipyards, equipment manufacturers and providers, including start -
+ups and SMEs, located and/or manufacturing in the EU and EEA. 
+This topic implements the co -programmed European Partnership on ‘Zero Emission 
+Waterborne Transport’ (ZEWT). As such, projects resulting from this topic will be expected 
+to report on results to the European Partnership ‘Zero Emission Waterborne Transport’ 
+(ZEWT) in support of the monitoring of its KPIs.

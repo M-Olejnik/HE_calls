@@ -1,0 +1,140 @@
+HORIZON-CL5-2027-06-D6-08: Enhancing Mobility for All: affordable, reliable, and 
+accessible multimodal transport for inclusive rural and urban connectivity – Societal 
+Readiness pilot 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 7.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 21.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The following additional eligibility criteria apply: 
+• Each proposal must include pilot demonstrations in at least 4 pilot 
+sites. The pilot demonstrations must cover 4 different areas across 
+the EU and Associated Countries ensuring geographical balance 
+and diversity of issues addressed (e.g. presence or not of transport 
+services such as regional trains, frequency of services, population 
+density). Each proposed issue must be addressed in at least two 
+pilots. The pilots must be community -driven, carried out under the 
+lead or with the involvement of rural/local/regional public 
+authorities/administrations and the local transport authorities, and 
+these entities must be included in the consortium as beneficiaries. 
+• If projects use satellite -based earth observation, positioning, 
+navigation and/or related timing data and services, beneficiaries 
+must make use of Copernicus and/or Galileo/EGNOS (other data 
+and services may additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 7-8 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up 
+of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the Decision 
+of 7 July 2021 authorising the use of lump sum contributions under the 
+Horizon Europe Programme – the Framework Programme for Research 
+and Innovation (2021 -2027) – and in actions under the Research and 
+Training Programme of the European Atomic Energy Community (2021 -
+2025) 308. 
+ 
+Expected Outcome: Proposals should address all of the following outcomes: 
+• Strategies, best practices and innovative solutions are made available to local authorities 
+and actors to improve the availability, accessibility, and affordability of rural -urban 
+transport and provide rural and urban populations in a vulnerable situation with better 
+access to services and opportunities; 
+• Integrated multimodal solutions, which ensure seamless transitions between rural and 
+urban transport modes improving first- and last-mile connectivity, are piloted and related 
+implementation plans are developed for/by local authorities and transport operators; 
+• Responsiveness to a deeper understanding of the needs and concerns of diverse social 
+group involved in or potentially affected by the R&I development, thereby increasing the 
+potential for beneficial societal uptake, and building trust in results and outcomes. 
+ 
+Development of options for behavioural change towards healthier, safer and more 
+sustainable mobility and lifestyles in rural and urban populations in a vulnerable 
+situation.  
+Scope: EU policies, such as the Sustainable and Smart Mobility Strategy and the European 
+Green Deal, emphasise the need for inclusive, efficient, accessible and sustainable transport 
+systems that leave no one behind. Transport poverty refers to individuals’ and households’ 
+inability or difficulty to meet the costs of private or public transport, or their lack of or limited 
+access to transport needed for their access to essential socioeconomic services and activities. 
+Considering the national and spatial context, transport poverty affects both rural and 
+underserved urban areas. Addressing this challenge requires innovative multimodal transport 
+solutions which integrate various modes efficiently, leveraging digitalisation, shared mobility, 
+and demand -responsive transport to enhance affordability, reliability, and accessibility, 
+thereby ensuring Mobility as a Right. 
+Proposals should address all the following aspects: 
+• Building on the outcome of previous calls and existing knowledge (e.g. SMARTA -
+NET309, the study on Novel policy ideas for a shift to low -carbon mobility310, the study 
+on Transport poverty: definitions, indicators, determinants, and mitigation strategies 311 
+and other relevant EU -funded projects 312), and drawing on the feedback experience of 
+existing innovative mobility solutions (e.g. SMARTA -NET Catalogue of rural shared 
+mobility solutions313), investigate strategies to enhance availability and accessibility of 
+sustainable and inclusive transport services in sparsely populated regions with limited 
+transport options. 
+• Analyse the demand for mobility services in regions and communities affected by 
+transport poverty and investigate which drivers could facilitate transport users in a 
+vulnerable situation (including consideration of gender disparities in mobility and access 
+to transport) to use public transport or other shared mobility options (including e.g. 
+underutilised regional and secondary rail lines or feeder services to main rail corridors). 
+• Develop new sustainable and inclusive integrated multimodal solutions that ensure 
+seamless transitions between rural and urban transport modes, improving first - and last-
+mile connectivity. Solutions should focus on vulnerable and low -income households 
+(including consideration of gender disparities in mobility and access to transport), and 
+should combine, in an optimal (economic, social, environmental, and operational) way, 
+the various modal transport offers to go beyond forced car ownership. Developing new 
+digital platforms is out of the scope of this topic. 
+ 
+• Each proposal must include pilot demonstrations in at least 4 pilot sites. The pilot 
+demonstrations must cover 4 different areas across the EU and Associated Countries 
+ensuring geographical balance and diversity of issues addressed (e.g. presence or not of 
+transport services such as regional trains, frequency of services, population density). 
+Each proposed issue must be addressed in at least two pilots. The pilots must be 
+community-driven, carried out under the lead or with the involvement of 
+rural/local/regional public authorities/administrations and the local transport authorities, 
+and these entities must be included in the consortium as beneficiaries. 
+• Elaborate and propose plans for a possible implementation of the developed and tested 
+solutions by local authorities and transport authorities/operators. 
+• Through the active engagement of public transport operators, local authorities, rural 
+communities, and civil society organisations, through the European Rural Mobility 
+Network (ERMN) 314 , elaborate a roadmap to implement and scaling up the tested 
+solutions, while ensuring widespread adoption across diverse regional contexts.  
+Proposals must plan for an active collaboration amongst the projects selected under this topic 
+- for dissemination, evaluation and coordination - facilitated by and within the CIVITAS 
+initiative315  through the signature of a Memorandum of Understanding. Proposals should 
+ensure that appropriate provisions for activities and resources aimed at enforcing this 
+collaboration are included in the work-plan. 
+If the proposed solutions use position, navigation, and/or timing (PNT) services or data, the 
+beneficiaries must make use of Galileo (other GNSS may additionally be used). Where 
+appropriate, Galileo services such as OSNMA (Open Service Navigation Message 
+Authentication) and HAS (High Accuracy Service) should also be utilised. 
+This topic is a Societal-Readiness pilot: 
+• Proposals should follow the instructions applying to the Societal Readiness pilot, as 
+described in the introduction of the Horizon Europe Main Work Programme 2026 -2027 
+for Climate, Energy and Mobility. They entail the use of an interdisciplinary approach to 
+deepening consideration and responsiveness of research and innovation activities to 
+societal needs and concerns. 
+• This topic requires effective contribution of the relevant SSH expertise, including the 
+involvement of SSH experts in the consortium, to meaningfully support Societal 
+Readiness. Specifically, SSH expertise is expected to facilitate the socio -technological 
+interface and enable designing inclusive transport systems that consider accessibility, 
+equity, and digital literacy. Proposals should consider citizens engagement and dialogue, 
+for seeking wider input and support.  
+ 

@@ -1,0 +1,119 @@
+HORIZON-CL5-2026-06-Two-Stage-D5-19: Non-exhaust emissions in road and railway 
+transport  
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+3.50 and 4.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 7.50 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their 
+first-stage application (see General Annex E). 
+Eligibility conditions The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, 
+navigation and/or related timing data and services, beneficiaries must 
+make use of Copernicus and/or Galileo/EGNOS (other data and 
+services may additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 5-6 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+The first-stage proposals of this topic will be evaluated blindly. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following 
+exceptions apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Methods and tools to support measurement, simulation and validation of non -exhaust 
+pollutant emissions in road and railway transport into the environment; 
+• Estimates on the impact of these pollutants on human health, terrestrial ecosystems and 
+the aquatic environment (including biodiversity in these ecosystems) with particular 
+focus on microplastics and other heavier non-airborne particles; 
+• Delivery of better emission factors for emission inventories and projections, including 
+the European Monitoring and Evaluation Programme (EMEP), also for resuspension, for 
+which little knowledge exists today; 
+• Recommendations and mitigation strategies including the determination of appropriate 
+KPIs and assessing the effectiveness of control measures with an appropriate cost -
+benefit analysis to understand the economic and practical feasibility of different 
+emission reduction strategies.  
+Scope: With continuous increase in electrification of the car fleet and railways, the share of 
+non-exhaust particulate emissions into the environment becomes increasingly important. Non-
+exhaust emissions (NEE) of particles apply to all forms of ground transport and can be 
+categorised as those coming from several sources, such as brake wear, tyre wear, pantograph -
+catenary wear, wheel-rail contact, road surface wear, as well as vehicle -induced resuspension 
+of road/track dust deposited on the surface. There may be other sources, e.g. engine belts and 
+clutch plates. Quantitative data on the magnitude of non -exhaust emissions are fragmented 
+and highly uncertain, particularly when compared to data for exhaust emissions. Emissions 
+vary widely according to brake, tyre and road surface material, and with driving style. Further 
+research efforts are necessary to increase the understanding of these particles, their creation, 
+ageing and dispersion in the environment. 
+Moreover, the health impact of NEEs is far less studied, and it remains unclear whether these 
+predominately solid/non -soluble PM may induce the same effects as combustion PM. 
+Additionally, these pollutants has been reported to adversely affect terrestrial systems and 
+aquatic environment as well as the biodiversity; however, it is not clear to what extent. 
+Research into rail particulate emissions is an equally important area due to its implications for 
+air quality, human health, and environmental impact. However, research data on the health 
+impacts of specific particulate components is limited. Furthermore, comprehensive studies on 
+the chemical composition of rail particulates are scarce. The impact of rail particulates on soil, 
+water, and ecosystems and their biodiversity is not well understood, while more data is 
+needed on how particulates disperse and deposit in different environments, especially in urban 
+versus rural areas. Addressing these research gaps would provide a more comprehensive 
+understanding of rail particulate emissions and contribute to the development of effective 
+mitigation strategies. 
+In order to address the two aforementioned areas (road and rail), R&I actions are expected to 
+address the following aspects: 
+• Methods and tools for the segregation of NEE particle sources: i) during particle 
+collection (e.g., due to high background concentrations), ii) attribution of collected 
+material to different sources. Appropriate real -world test conditions, equipment and 
+sampling methods for the evaluation of particles (e.g., separation of total and solid 
+particles) 
+• Source identification and characterization including detailed source apportionment 
+(brake wear, tyre wear, wheel -rail interaction, resuspension, etc.) and chemical 
+composition; 
+• Assessment of the influencing parameters: use cases (e.g. different vehicle types or tyre 
+types), conditions (e.g. urban, rural, motorways, tunnels), driving behaviour, state of the 
+road surface or rail tracks; attribution and distribution; 
+• Emission Measurement Techniques including but not limited to standardized 
+measurement methods and real-time monitoring;
+• Downstream assessment: analysis of the deposited material in the environment, 
+assessment of its decomposition, aggregation, dispersion and degradation; 
+• Health Impact estimates building on existing toxicology studies (or developing new ones 
+if deemed necessary) and long -term exposure effects supported by gender disaggregated 
+data collection and intersectional analysis; 
+• Estimates on the environmental impact on soil, water, and ecosystems and their 
+biodiversity as well as deposition patterns (i.e. how particulates disperse and deposit in 
+different environments, especially in urban versus rural areas.) 
+• Mitigations through focusing on State -of-the-Art systems: test systems (including the 
+vehicle e.g., vehicle -lightweight technologies) that can mitigate non -exhaust emissions 
+to reach TRL 6 or higher, innovative tyre and brake designs and materials that balance 
+durability, safety, and reduced abrasion, innovative road surfaces and texture 
+(considering the interaction between tyre and road), runoff and drainage systems. For the 
+railway sector mitigation solutions could include test systems addressing emissions from 
+key mechanical interfaces (e.g., braking and wheel –rail contact), vehicle innovations to 
+reduce wear -related emissions, and infrastructure measures such as optimized track 
+materials, surface treatments, and improved drainage and containment systems. Consider 
+life cycle assessment for the analysis of the systems 
+• Support standardization and regulation based on the recommendations in support of 
+industrial competitiveness  
+Proposals should take into consideration the results of previous or on -going EU funded 
+projects such as Leon-T, ULTRAHAS, nPETS and LIFE23-ENV-ES-LIFE NEEVE and any 
+other similar projects.

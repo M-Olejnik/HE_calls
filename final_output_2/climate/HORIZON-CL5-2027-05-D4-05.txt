@@ -1,0 +1,79 @@
+HORIZON-CL5-2027-05-D4-05: On-site robotic and automated techniques for building 
+renovation and new construction 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.75 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 20.25 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 229. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Improved resource efficiency compared to current practices; 
+• Improved accuracy (designed vs. as -built) of on-site renovation and construction works, 
+compared to current best practices; 
+• Significant reduction in time spent by building professionals on site; 
+• Reduced GHG emissions at the construction site.   
+Scope: The rate of deep renovation of buildings can be accelerated by modernising the 
+construction sector and embracing the latest developments in robotics and automated systems. 
+There is need for further development of techniques using innovative on-site robotic and other 
+automated systems that make renovation and construction works more sustainable, less 
+disruptive, faster as well as more accurate, cost effective and resource efficient, while 
+delivering, at least, the same building elements’ energy performance compared to current best 
+practices. Proposals are expected to address all of the following: 
+• Demonstrate innovative on -site robotic and automated techniques for building 
+renovation and the construction of new buildings. At least one of the proposed 
+techniques should involve 3D printing; 
+• Develop techniques that are specifically for building -site applications (e.g. solutions 
+focusing on prefabrication in workshops/factories away from the building site are out oof 
+the scope), flexible to adapt to various building typologies and, where possible, to 
+materials and components already on the market; 
+• Ensure that the proposed techniques appropriately take into account aspects of on -site 
+workers’ safety and human-robot collaboration; 
+• Demonstrate the proposed techniques in at least three demonstrations to investigate their 
+applicability for a variety of building typologies and climatic conditions, duly justified to 
+represent a relevant part of the European building stock. Proposals must address the 
+energy renovation of existing buildings but may also address new constructions.   
+ 
+Selected proposals could consider the involvement of the European Commission's Joint 
+Research Centre (JRC) whose contribution could consist of scientific advice and technical 
+analysis of solutions and technologies, support to the transfer of research output to standards, 
+and access to the European Laboratory for Structural Assessment research infrastructure for 
+full-scale testing of buildings.

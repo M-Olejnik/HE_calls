@@ -1,0 +1,73 @@
+HORIZON-CL5-2026-03-D3-12: Long -lifetime and optimised use of materials in 
+recyclable Ag and In-free Si PV modules (EUPI-PV Partnership) 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 15.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 5 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 193. 
+ 
+ 
+Expected Outcome : Photovoltaic (PV) energy systems are one of the cheapest and fastest 
+growing sources of electricity generation, largely thanks to an important decrease in the cost 
+of solar modules in the last 10 -15 years and to their simple installation. There is no PV 
+lifetime definition, but manufacturers usually guarantee a 25 -year lifetime with an expected 
+degradation rate of 0.8% per year. Meanwhile, a surge in the number of end -of-life (EOL) PV 
+modules is expected, of which crystalline silicon (c -Si) PV is the main type. It would 
+therefore be beneficial to improve the eco -design and sustainability of silicon -based solar 
+cells and modules, by reducing the use of Critical Raw Materials (CRMs), revalorising the use 
+of recycled silicon waste, adopting recyclable/repairable module designs and extending their 
+lifetime without compromising their reliability and durability. 
+Project results are expected to contribute to all of the following expected outcomes:    
+1. Ultra-low carbon footprint and reduced environmental impact PV cells/modules through 
+lifetime extension, Ag or In free, and with designs that allow recyclability and 
+repairability; 
+2. Support a European economic base which is stronger, more resilient, competitive, and fit 
+for the green and digital transitions, by reducing strategic dependencies for critical raw 
+materials and components; 
+3. Support the execution of the solar energy joint research and innovation agenda.   
+Scope: Proposals are expected to: 
+• Extend module lifetime up to 40 years with extreme weather resilience; 
+• Develop cell/module architectures/designs including recycled content, without In or Ag 
+and without harmful substances (Pb, F, etc.) but without compromising their quality and 
+reliability; 
+• Develop module designs with improved recyclability and repairability; 
+• Develop adapted testing methodologies and recycling standards; 
+• Provide technical solutions for PV module repair in the field to extend lifetime; 
+• Determine the environmental benefits of recycling precious metals.   
+This topic implements the co -programmed European Partnership for Innovation in 
+Photovoltaics (EUPI -PV). As such, projects resulting from this topic will be expected to 
+report on the results to the European Partnership for Innovation in Photovoltaics (EUPI -PV) 
+in support of the monitoring of its KPIs. 

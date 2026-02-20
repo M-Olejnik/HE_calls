@@ -1,0 +1,118 @@
+HORIZON-CL5-2026-05-D5-13: Safety of renewable low and zero -carbon waterborne 
+fuels in port areas: risk assessment, regulatory framework, and guidelines for safe 
+bunkering, handling and storage (ZEWT partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 2.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 2.00 million. 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Legal and 
+financial set-up of 
+the Grant 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+Agreements object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 258. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes:    
+1. A comprehensive risk assessment of the introduction of renewable low and zero -carbon 
+waterborne fuels, in maritime and inland port areas. 
+2. Improve knowledge on the risks posed by the introduction of renewable low zero -carbon 
+fuels. 
+3. A review of existing regulations, standards, and guidelines, for all EU Member States, 
+with recommendations for updates, harmonisation or new regulations as needed. 
+4. Define operational improvements required to enhance safety in storage, handling and 
+bunkering of renewable low and zero-carbon fuels.  
+5. Development of a strategy for skills development for port personnel and stakeholders 
+involved in the handling, storage, and bunkering of renewable low and zero -carbon 
+fuels, ensuring safe and efficient operations.   
+Scope: The rapid transition to low and zero -carbon solutions in maritime and inland 
+waterborne transport requires port authorities and stakeholders to swiftly adapt to supply large 
+quantities of renewable low and zero -carbon fuels and electricity. However, this shift poses 
+new safety challenges, particularly in port areas where multiple bunkering operations, 
+import/export terminals, and fuel handling and storage activities coexist. The close location of 
+most ports to cities and inhabited areas raises issues of safety on two fronts: the space deficit 
+due to the difficulty of enlarging the port areas in these locations, (leading to e.g. the storage 
+of various fuels in close proximity), and the broader danger to these inhabited areas due to 
+their proximity to the ports and by extension the storage of these fuels. To ensure a safe and 
+efficient energy transition, it is crucial to assess and mitigate the risks associated with the 
+introduction of renewable low and zero-carbon fuels in port areas. As not all ports will be able 
+to store every type of clean fuel in the port or neighbouring area, safety of transport and 
+distribution within the port area (including anchorage) should also be analysed. 
+ 
+Existing EU legislation regarding specifically the safety of port workers is limited. The 
+Directive on the safe loading and unloading of bulk carriers (2001/96/EC)  sets out the EU 
+requirements which increase safety procedures for bulk carriers loading and unloading their 
+solid cargo in EU ports. Further instruments such as the Directive on port State control 
+(2009/16/EC) and the Directive on the investigation of accidents in the maritime transport 
+sector (2009/18/EC, recently amended) , while related to safety in the maritime sector, do not 
+apply to the safety of port workers specifically. Broader instruments such as the EU 
+Occupational Safety and Health Framework Directive  (89/391/EEC) and the Directive on the 
+Minimum Safety and Health Requirements for the Use of Work Equipment by Workers at 
+Work (2009/104/EC), while applicable to port workers due to their general character, miss the 
+intricacies needed to address the specific risks of workers in this sector. This issue is further 
+exacerbated by the fact that port workers are being exposed to new risks due to the rising use 
+of renewable low and zero-carbon fuels in the maritime sector and the need for safe bunkering 
+and storage of these fuels in port areas. 
+Given the above it is important to have a clear picture of the current status regarding the 
+storage and bunkering of fuels across EU ports, identify existing and applicable legislation, 
+map gaps and potential risks and make appropriate recommendations for follow-up actions. 
+Proposals are expected to address all the following aspects:    
+1. Conduct a comprehensive review of the risks associated with the introduction of 
+renewable low and zero -carbon fuels within (inland and sea) the port areas, including 
+distribution, simultaneous bunkering operations, import/export terminals, handling and 
+storage of fuels.  
+2. Analyse gaps in existing regulations, standards, and guidelines relevant to the safe 
+handling and storage of renewable low and zero -carbon fuels, in maritime and inland 
+TEN-T ports. 
+3. Identify safety risks not adequately addressed by current rules and risk assessments, 
+including Hazard Identification (HAZID) and Quantitative Risk Assessments (QRA) 
+taking into account - inter-alia - gas dispersion, fire/explosion impacts and their 
+probabilities using F-N curves. 
+4. Develop guidelines and recommendations to ensure safe operations (considering 
+environmental and health aspects) per fuel type in port areas, considering varying port 
+sizes, services (including technical -nautical vessels), locations, and geographies, 
+especially for ports located in populated areas including establishing safety zones. 
+International rules, standards and guidelines should be taken into consideration 
+(especially from the IMO and the IHPA where relevant). Relevant environmental Plans 
+required by EU or national legislation such as Air Quality Plans should be considered.  
+5. Develop standard risk assessment criteria for groups of ports with similar characteristics, 
+operational and weather conditions by researching and establishing standard criteria for 
+risk assessments in port planning and development. This includes defining safety -by-
+design procedures for new port infrastructures and bunkering operations. 
+6. Engage with relevant stakeholders, including port authorities, terminal operators, 
+shipping companies, trade unions and regulatory bodies, to ensure the practicality and 
+effectiveness of the developed guidelines and recommendations. 
+7. Additionally, a strategy for skills development should be presented, associating social 
+partners and civil society where relevant. This strategy should include the design and 
+implementation of comprehensive training modules tailored to various roles within port 
+operations, focusing on the specific safety protocols and procedures associated with 
+renewable low and zero-carbon fuels. 
+8. Propose certification and continuous professional development pathways to maintain 
+high safety standards and adapt to evolving technologies and regulations.   
+This topic implements the co -programmed European Partnership on ‘Zero Emission 
+Waterborne Transport’ (ZEWT). As such, projects resulting from this topic will be expected 
+to report on results to the European Partnership ‘Zero Emission Waterborne Transport’ 
+(ZEWT) in support of the monitoring of its KPIs.

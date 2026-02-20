@@ -1,0 +1,118 @@
+HORIZON-CL5-2026-06-Two-Stage-D5-10: Disruptive Technologies and Innovative 
+Concepts for Energy Saving Onboard of long-distance ships (ZEWT Partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+The Commission estimates that an EU contribution of around EUR 
+5.00 million would allow these outcomes to be addressed appropriately. 
+ 
+project Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 15.00 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their first-
+stage application (see General Annex E). 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 4 -5 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+The first-stage proposals of this topic will be evaluated blindly. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 255. 
+ 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes:    
+1. Development of novel and disruptive technologies and innovative concepts that 
+demonstrate at least 25% energy savings for long distance shipping, compared to 2008 
+levels. 
+2. Established methodology for assessing the energy savings from the proposed solutions, 
+considering the implementation of the IMO GHG strategy and of the FuelEU Maritime 
+Regulation. 
+3. Proven scalability and replicability of the developed technologies and concepts to 
+various ship types, operational profiles and navigational routes.  
+4. Assess the economic viability, environmental and climate impacts of the technologies 
+and innovative concepts. 
+5. Defined implications and impacts of the proposed solutions regarding safety and 
+operational aspects, also addressing competences and skills issues for the adoption and 
+operation of such technologies.  
+6. Consider AI -based and digital twin features for optimisation and energy management 
+aspects. Relevant improvements should not be considered as part of the at least 25% 
+energy savings target.   
+Scope: Energy consumption of long -distance shipping should be reduced significantly to 
+achieve sustainable worldwide trade. To achieve a more sustainable and environmentally 
+friendly shipping industry, it is essential to continue developing disruptive technologies, 
+advanced materials, and innovative concepts that can significantly reduce energy consumption 
+of long -distance shipping. The objective of this topic is to support solutions for propulsion 
+and non -propulsion energy consumption that aim to achieve at least at least 25% energy 
+savings in long distance shipping as compared to 2008 levels, through the development and 
+integration of standalone solutions. These technologies include (but are not limited to) active 
+or passive increased performance solutions, novel propulsion systems, augmented propulsion 
+technologies capitalizing also on ship motions, hull performance enhancements and the use of 
+advanced materials which can further enhance energy efficiency and reduce the 
+environmental impact of vessels. Any fuel -related proposals should only consider renewable 
+low and zero -carbon fuels. These technologies and concepts should be applicable to various 
+types of ships, including ro-pax, container ships, bulk carriers, and tankers. 
+Proposals are expected to address all the following aspects:    
+1. Development and demonstration at TRL 4 -5 of novel, high -uncertainty but high -reward 
+technologies that significantly reduce energy consumption in long distance shipping.  
+2. Development of various ship concepts, conducting replication studies for different case 
+scenarios and modelling the real overall energy savings of the solutions and concepts 
+developed.  
+3. Development of methodologies measuring the impact of the energy efficiency achieved 
+on the GHG intensity and the impact on air pollution of the energy used for propulsion 
+specifically for long distance shipping, with a focus on emission reductions, also 
+facilitating the introduction of such technologies under the scope of LCA guidelines and 
+FuelEU Maritime, and improving the EEDI, EEXI and CII performance where relevant. 
+4. Consider links with digital twin and AI -based optimisation aspects for the considered 
+technologies (e.g., adaptive and model -predictive control), including the necessary 
+sensing systems, to expand the system’s future capacities.  
+5. Model the economic viability of the developed technologies, considering initial 
+investment, operational savings, maintenance costs, and potential financial incentives, to 
+assess the economic feasibility while also facilitating decision -making in the design 
+process. 
+6. Assessment of the safety and environmental implications of the solutions, including 
+technical and operational risks, possible impacts to ships, ports and other land 
+infrastructure.  
+7. Ensure appropriate sustainability of the action outputs by elaborating on a technology 
+development roadmap and by exploring business cases.   
+Proposals are expected to explain the contribution of their objectives, results, IP management 
+and exploitation strategy to the EU added value creation and strategic autonomy throughout 
+the supply and value chain, including competitiveness of the EU waterborne industry, 
+enhancement of the EU’s R&I capacity, technological know -how capabilities and human 
+capital, and resilience of the EU industrial and manufacturing base. Proposals are encouraged 
+to include synergies with shipyards, equipment manufacturers and providers, including start -
+ups and SMEs, located and/or manufacturing in the EU and EEA.  
+This topic implements the co -programmed European Partnership on ‘Zero Emission 
+Waterborne Transport’ (ZEWT). As such, projects resulting from this topic will be expected 
+to report on results to the European Partnership ‘Zero Emission Waterborne Transport’ 
+(ZEWT) in support of the monitoring of its KPIs.

@@ -1,0 +1,102 @@
+HORIZON-CL5-2027-06-D6-05: European CCAM knowledge hub and tools for safe 
+and scalable deployment (CCAM Partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 4.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 4.00 million. 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 296. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+ 
+• Extended EU -wide Knowledge Base with tools supporting the safe and practical 
+deployment of CCAM in Europe, identifying business needs and trends, including 
+exploitation and maintenance plans to ensure the long -term availability and usage of the 
+Knowledge Base.  
+• Enhanced exchanges and cooperation among CCAM stakeholders (in particular public 
+authorities, citizens and user groups) in Europe and with countries beyond Europe on 
+R&I and deployment topics of common interest. 
+• Strengthened exchanges between EU Member States and Associated Countries and 
+coordination with a possible future Important Project of Common European Interest 
+(IPCEI) on CCAM as referred to in the Automotive Action Plan. 
+• Accelerated implementation of practical safety assessment approaches and procedures 
+from current validation projects across Member States and Associated Countries, reusing 
+Acceptable Means of Compliance (AMC) concepts and respecting the specific 
+integration aspects and legal conditions per MS.  
+• A secure application exchange platform that enables applicants and Member States and 
+Associated Countries to collaborate in obtaining open road-testing permits. 
+• EU-wide federated scenario database 297 for the validation of CCAM systems linked to 
+European in-depth accident databases.   
+Scope: Several coordination and stakeholder concertation tools have been established to 
+support the alignment and international outreach of CCAM projects. The FAME project 
+developed a European framework for CCAM testing, evaluation and data sharing and 
+managed the EU-wide Knowledge Base that consolidates information related to CCAM R&I 
+and testing based on results from European and national projects, aiding researchers, 
+policymakers, and industry professionals The platform will be extended in the project funded 
+under the call HORIZON-CL5-2024-D6-01-05298 to address public authorities and citizens. 
+Regular events such as the European Conference on Connected and Automated Driving 
+(EUCAD) and EUCAD symposia, international outreach activities and interactions with the 
+Member States Advisory Group (SRG), extend the work of the CCAM Partnership and 
+facilitate and support international dialogues to exchange knowledge and align activities 
+across Europe and globally, at research and regulatory level. 
+The purpose of this exchange and alignment is to address and overcome barriers to the 
+deployment of Automated Vehicles (AV) in Europe. Since 2022, Europe has introduced 
+several regulatory developments aimed at facilitating the rollout of highly automated vehicles. 
+The Implementing Act for Automated Driving Systems 2022/1426, the amendment to the 
+Delegated Regulation 2022/2236 on type -approval, as well as the UNECE WP.29 Working 
+Party on Automated/Autonomous and Connected Vehicles (GRVA) have all proposed 
+ 
+frameworks and methods to ensure the safety of CCAM systems on the road. Despite these 
+advances, a major challenge persists: the fragmented regulatory landscape for CCAM in 
+Europe, which continues to hinder large -scale deployment. The FAME 299 and Hi -Drive300 
+projects are working on recommendations for a harmonized open road -testing framework. 
+Projects like HEADSTART 301 , SUNRISE 302 , and SYNERGIES are operationalizing the 
+UNECE New Assessment/Test Method for Automated Driving (NATM) scenario -based 
+approach. The project funded by call HORIZON -CL5-2024-D6-01-02 303  will extend the 
+safety assurance framework (SAF) with ‘In -Service Monitoring and Reporting’ post -
+deployment. Coordination mechanisms are essential as Member States update regulations to 
+align perspectives and support common approval procedures. 
+Proposed actions are expected to address the following aspects: 
+• Extend the EU Knowledge Base with practical tools that support safe deployment, not 
+only supporting researchers, policymakers, and industry professionals, but also 
+addressing public authorities and citizens, to establish and prepare the implementation of 
+a long-term sustainability plan for structure. 
+• Accelerate the exchange and cooperation between relevant European and international 
+stakeholders, including Member States and Associated Countries, with the purpose to 
+accelerate deployment. This by means of co -organizing high -level events such as the 
+EUCAD conference and to coordinate with a large-scale cooperation (such as an IPCEI). 
+• Develop and implement practical safety assessment procedures, as well as a framework 
+for the secure exchange of applications for open road -testing permits across European 
+Member States, with acknowledgement for specific MS regulations and context. 
+• Support the realization of EU-wide federated scenario databases, with European in-depth 
+accident databases.  
+The project funded under this topic is expected to continue the management and hosting of the 
+CCAM Technology Observatory, including its database and content.

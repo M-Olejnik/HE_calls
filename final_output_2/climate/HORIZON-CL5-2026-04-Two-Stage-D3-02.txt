@@ -1,0 +1,91 @@
+HORIZON-CL5-2026-04-Two-Stage-D3-02: Next generation of renewable energy 
+technologies 
+Call: ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 4.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 23.50 million. 
+ 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 4 -5 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 156. 
+ 
+Expected Outcome : Projects are expected to contribute to all of the following expected 
+outcomes: 
+• Breakthrough and game changing renewable energy technologies enabling a faster 
+transition to a net-zero greenhouse gas emissions EU economy by 2050. 
+• Measures, knowledge and data have been demonstrating that the technology has a 
+minimal environmental impact (notably on biodiversity and pollution), has gained 
+citizens’ trust, is economically viable and benefits from a multi-level policy support. 
+• Establishing a solid long term dependable European innovation base.  
+Scope: The proposal is expected to address high -risk and high return technology 
+developments for game changing renewable energy technologies. It could cover, for example, 
+catalyst development, renewable energy storage systems, integration of renewable energy 
+technologies into a single energy generation system, hybrid renewable energy systems, 
+heating & cooling systems, fuels production systems, (direct) solar fuels and solar driven 
+chemical processes, hybrid electricity generation solutions between different renewable 
+energy sources, direct utilization of renewable energy sources. 
+ 
+The following areas are excluded from the scope of the topic as they fall within the scope of 
+partnerships or other calls: 
+• Hydrogen production through electrolysers. 
+• Fuel cells. 
+• Basic material research. 
+• Batteries.  
+The proposal is expected to establish technological feasibility of its concept through a robust 
+research methodology, at least TRL 4 or at most TRL 5. The concept could be based on a new 
+solution or on the improvement of an existing high -risk and high return solution. Technology 
+transfer from sectors other than energy should be considered whenever relevant, as it may 
+provide ideas, experiences, technology contributions, knowledge, skills, and new approaches. 
+For bioenergy or biofuel concepts, whenever the direct use of biogenic waste is considered, 
+resource availability and treatment will be taken into account from the design stage. 
+In developing its concept, the proposal is expected to address the following related aspects: 
+lower environmental impact, minimise impacts on biodiversity and protected species and 
+habitats, reduced pollution, better resource efficiency (materials, geographical footprints, 
+water, etc…). Whenever risks have been identified, mitigation measures need to be presented. 
+The proposal is expected also to present a comparison with current commercial renewable 
+energy technologies and/or solutions to show its advantages in terms of expected economic 
+performance, environmental impact (notably on biodiversity and pollution), energy security, 
+competitivity and industrial independence157. 
+Selected projects are expected to consider the drivers behind social acceptance and trust -
+building of the technological solution and assess the best way to promote local involvement as 
+part of ensuring a just transition (gender, cultural and socio -economic factors should be 
+accounted for). An analysis of policy approaches that are encompassing (policy mixes), 
+adaptive (policy learning) and context sensitive (working for different places, levels and/or 
+sectors) should also be performed in order to support the deployment of the future new 
+technology. 
+This topic requires the effective contribution of SSH disciplines and the involvement of SSH 
+experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce 
+meaningful and significant effects enhancing the societal impact of the related research 
+activities. 
+ 
+Proposals are encouraged to consider, where relevant, services offered by European research 
+infrastructures158, as well as related projects offering access to research infrastructures in the 
+clean energy domain- particularly RISEnergy159.

@@ -1,0 +1,67 @@
+HORIZON-CL5-2026-03-D3-13: Industrial scale up and circularity pathway for IPV 
+technologies (EUPI-PV Partnership) 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+10.50 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 31.50 million. 
+Type of Action Innovation Actions 
+Eligibility conditions The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite-based earth observation, positioning, 
+navigation and/or related timing data and services, beneficiaries must 
+make use of Copernicus and/or Galileo/EGNOS (other data and 
+services may additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6-7 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following 
+exceptions apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome : Integrated PV (IPV) technologies represent specific production 
+challenges, notably linked to the greater diversity of IPV products in terms of format, shape, 
+material and technical constraints. While IPV technologies represent a major opportunity for 
+the European energy transition, unlocking a greater potential for solar PV, it is challenging to 
+bring new products to the market due to the lack of availability of suitable infrastructure to 
+demonstrate technically and economically innovative technologies at scale. In addition, as 
+IPV components are not as standardised and present much greater technological, material and 
+size variability than conventional modules, dedicated recycling and material recovery 
+processes need to be demonstrated. 
+Project results are expected to contribute to all of the following expected outcomes:    
+1. Increase the potential for commercialisation of IPV technologies creating a competitive 
+technological know-how for the European PV industrial base; 
+2. Increase recyclability and minimise the environmental impact of IPV; 
+3. Introduce new business models and open new markets in IPV manufacturing, reuse and 
+recycling; 
+4. Support the execution of the solar energy joint research and innovation agenda.   
+Scope: Proposals are expected to demonstrate 
+• Suitable IPV manufacturing, technically and economically innovative technologies at 
+scale; 
+• Flexible IPV production pilot lines to test the 100kWp+ scale (with linked demonstration 
+sites); 
+• Demonstration of recycling processes for various sizes, materials and technologies of 
+IPV products (BIPV/IIPV, agriPV, VIPV, floating…).   
+Whenever the expected exploitation of project results entails developing, creating, 
+manufacturing and marketing a product or process, or in creating and providing a service, the 
+plan for the exploitation and dissemination of results must include a strategy for such 
+exploitation. Proposals will present a plan for the exploitation and dissemination of results 
+which should include a strong business case and sound exploitation strategy. The exploitation 
+plan should include preliminary plans for scalability, commercialisation, and deployment 
+(feasibility study, business plan) indicating the possible funding sources to be potentially used 
+(in particular the Innovation Fund). 
+This topic implements the co -programmed European Partnership for Innovation in 
+Photovoltaics (EUPI -PV). As such, projects resulting from this topic will be expected to 
+report on the results to the European Partnership for Innovation in Photovoltaics (EUPI -PV) 
+in support of the monitoring of its KPIs.

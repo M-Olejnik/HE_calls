@@ -1,0 +1,93 @@
+HORIZON-CL5-2027-01-D1-09: Assessing the performance of policy instruments to 
+inform climate change mitigation action 
+Call: CLIMATE 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 3.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 9.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 104. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Enhanced knowledge of the effectiveness of policy instruments on EU and Member 
+State level to inform mitigation action and policy improvements, ensuring a fair 
+transition and social acceptability; 
+• Methodologies are developed and improved for ex -ante assessment and ex -post 
+evaluation of greenhouse gas emission reductions from climate policies and measures; 
+• Strengthened collaboration and established networks between researchers, policy experts 
+and government officials involved in designing and evaluating climate policies on EU 
+and national level.   
+Scope: As the EU and its Member States intensify efforts to reduce their greenhouse gas 
+(GHG) emissions to achieve climate neutrality by 2050, understanding the effectiveness and 
+acceptability of policy instruments becomes crucial. The implementation of the European 
+Green Deal and climate legislation under the recent “Fit -for-55" package has further 
+emphasised the need to better identify and quantify the impact of climate policies and 
+measures both on EU and national level. Many policies are also subject to fast -changing 
+political dynamics. Ex-post evaluation can help explain whether emission reductions occurred 
+and explain why, while also identifying other benefits or trade-offs of climate mitigation. 
+ 
+By 2023, the EU had achieved a 37% reduction in its GHG emissions compared to 1990 
+levels105. However, even after almost two decades of EU climate policies, there is still limited 
+understanding of the effectiveness of mitigation policies. The increasing complexity of the 
+policy mix makes it difficult to clearly link individual policies or measures to specific 
+emission reductions and other benefits in different sectors. The interaction with other thematic 
+policies such as those on biodiversity, agriculture and trade is therefore also important. 
+This topic is expected to assess the performance of EU policies and measures for reducing 
+GHG emissions. The focus is on sectors not covered by the current EU Emission Trading 
+System (ETS 1)106. This would include gaining insights into factors that influence behavioural 
+change and acceptance of policies, taking into account gender -specific aspects. Actions 
+should consider economic, social, distributional and other effects of mitigation action, 
+including trade-offs and co-benefits such as vis-à-vis climate resilience. 
+Actions should go beyond traditional decomposition analysis and employ state -of-the-art 
+econometric techniques. They are expected to improve existing methodologies or develop 
+new ones to help distinguish the contribution of GHG emission reductions between policy -
+driven effects and external drivers. Machine learning and other digital tools and methods 
+could be applied to fill information gaps and gain additional insights. 
+Actions should assess the impact of national policies on Member State level and how such 
+policies interact with EU-wide policies and measures. They should also identify and highlight 
+examples of national policies and measures that have successfully reduced GHG emissions 
+and brought other environmental, social and economic benefits. Actions are expected to 
+develop, test or improve methodologies and tools for ex -ante estimates of GHG emission 
+reductions when designing policies and measures on EU and national level, including 
+integrating climate objectives in other policies. This should include economy -wide modelling 
+which takes into account cross -sectoral feedbacks as well as price responsiveness and 
+behavioural change by consumers. 
+Actions are encouraged to use available datasets on climate mitigation policies and measures, 
+such as the OECD/CAPMF database 107 , and the integrated national climate and energy 
+policies and measures datahub hosted by the European Environment Agency (EEA) 108. The 
+use of additional activity data provided by EUROSTAT 109 or national statistical sources may 
+be necessary to provide a comprehensive understanding of policy impacts. 
+All projects funded under this topic are strongly encouraged to connect, coordinate, and 
+participate in networking and joint activities to foster cross -project cooperation and exchange, 
+particularly to reinforce synergies between methodologies. 
+ 
+This topic requires interdisciplinary collaboration between political scientists, economists and 
+other relevant Social Sciences and Humanities (SSH) disciplines. Actions are also strongly 
+encouraged to include a process of mutual learning and co -creation with stakeholders (e.g., 
+representatives of governments, public administrations, NGOs and academia) to meet end -
+user needs and support the uptake of results.

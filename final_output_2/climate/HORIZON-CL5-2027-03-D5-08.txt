@@ -1,0 +1,65 @@
+HORIZON-CL5-2027-03-D5-08: Sustainable aircraft circular design and additive 
+manufacturing, towards a climate neutral aviation 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 2.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 5.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 253. 
+ 
+Expected Outcome : Project results are expected to contribute to both of the following 
+expected outcomes: 
+• Additive manufacturing including high performance polymers, composites and metals, 
+offering significantly improved performance compared to state -of-the-art. Entire process 
+including design / manufacturing / characterization and testing / certification. 
+• Sustainable aircraft circular design and manufacturing processes of individual high-value 
+components towards further developing the innovation pipeline from system 
+demonstration to deployment stage in the EU and Associated Countries.   
+Scope: This topic focuses on: 
+• Additive design and manufacturing of aircraft and engine structural components have 
+already transformed the industry and are expected to be the key to the EU 
+competitiveness. Geopolitical aspects for raw materials reinforce the importance of 
+additive manufacturing, while the European RTOs and industry recognised that there is a 
+ 
+substantial untapped potential towards even higher energy efficiency, savings in critical 
+raw materials and higher quality parts. The main objective of this topic is to resolve 
+existing challenges in the AD/AM of metal, high performance/value polymer and 
+composite parts, related to residual stresses, non -equilibrium phase transformations, 
+joining, defects and reproducibility among others. 
+• Building on previous research efforts (i.e. H2020-SUSTAINair) and EREA’s Future Sky 
+initiatives on circular aviation, proposals should focus to real, challenging and 
+competitive industrial use cases for circular design of individual components, joining 
+technologies, improved maintenance and repair technologies to extend aircraft lifetime 
+and improved recovery of high-quality recycling materials. Especially as regards engines 
+and safety critical systems, real -time condition monitoring and inspection methods have 
+the potential to improve repairability by determining an optimized degradation status, 
+allowing smart repairs on-wing and on-site that reduce or postpone the need for material- 
+and energy-intense overhauls or replacements.

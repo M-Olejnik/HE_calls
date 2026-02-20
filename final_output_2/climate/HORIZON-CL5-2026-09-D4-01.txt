@@ -1,0 +1,87 @@
+HORIZON-CL5-2026-09-D4-01: Researching the technical, social & economic factors 
+impacting the energy performance of Smart Buildings (Built4People Partnership) 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.25 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 15.75 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 4 -5 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 221. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+ 
+• Increased evidence of factors such as physiological, behavioural, social, environmental 
+and cultural that influence how different user and demographic groups perceive and use 
+smart, secured, integrated energy efficient building systems, and how it affects the 
+building whole-life cycle and energy savings, as well as occupant satisfaction, health and 
+well-being; 
+• The design and operation of smart building systems and smart buildings are improved 
+making them more user-friendly and effective.  
+Scope: Significant investments have been made in developing hardware and software for 
+smart buildings. There is still limited understanding how smart buildings solutions impact the 
+energy performance of buildings and users’ comfort in practice. Research is required on the 
+technical, social, and economic factors that influence how different groups – defined by their 
+social, educational, age, and financial status – use and interact with smart buildings and 
+systems. The whole -life cycle impacts of smart building have to be better understood, from 
+design and construction to operation, maintenance, end -of-life and circular re -use, to ensure 
+delivery of sustainable and cost-effective smart building solutions. 
+Proposals are expected to address all of the following: 
+• Research and quantify how existing and novel smart building solutions meet the needs of 
+different social and economic groups (based on their gender, age, educational and 
+financial status, etc.); 
+• Identify major barriers and enablers for the use of smart building solutions among 
+different socio -demographic and socio -economic groups, and research how it impacts 
+the energy performance of buildings; 
+• Validate of findings in at least three different categories of existing buildings (e.g. 
+private residential, social housing, commercial building, office building, etc.), each one 
+in a different Member State or Associated Country. 
+• Develop actionable recommendations tailored to key stakeholders (such as equipment 
+providers, architects, building owners and facility managers) to support the design, 
+deployment and operation of inclusive, user-centric smart building solutions.  
+This topic requires the effective contribution of SSH disciplines and the involvement of SSH 
+experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce 
+meaningful and significant effects enhancing the societal impact of the related research 
+activities. 
+This topic implements the co -programmed European Partnership on ‘People -centric 
+sustainable built environment’ (Built4People). As such, projects resulting from this topic will 
+be expected to contribute to the objectives of Built4People, transfer knowledge to its network 
+of innovation clusters222 and report on results in support of the monitoring of the Built4People 
+KPIs. 
+Selected proposals could consider the involvement of the European Commission's Joint 
+Research Centre (JRC) whose contribution could consist of scientific advice and technical 
+analysis of solutions and technologies, support to the transfer of research output to standards, 
+and access to the European Laboratory for Structural Assessment research infrastructure for 
+full-scale testing of buildings.

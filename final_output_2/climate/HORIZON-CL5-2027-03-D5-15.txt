@@ -1,0 +1,115 @@
+HORIZON-CL5-2027-03-D5-15: Prospective evaluation of nuclear power potential for 
+shipping (ZEWT Partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 2.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 2.00 million. 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 260. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes:    
+1. Drafting of a R&I roadmap towards deploying nuclear power in commercial shipping, 
+including small modular reactors (SMRs) and other advanced nuclear technologies (e.g. 
+complementing the latest European Industrial Alliance on SMRs technology 
+roadmap 261 ), including identification of research gaps, infrastructures and future 
+innovation needs 
+2. Mapping of relevant regulatory regimes nationally, regionally and internationally for the 
+use of nuclear-powered shipping, including recommendations on regulatory frameworks 
+and international cooperation. 
+3. Development of scenarios for the use of the technology, including potential damage 
+scenarios. 
+4. The implications for National Energy and Climate Plans and National Air Pollution 
+Control Programmes as well as water pollution policies required by EU legislative 
+framework. 
+5. Assessment of total cost of ownership for the deployment of current and potential 
+technologies. 
+6. Development of safety, training and operational guidelines for nuclear-powered ships.   
+ 
+Scope: Nuclear propulsion has the potential to reduce emissions of air pollutants and to 
+decarbonize the shipping sector, producing zero GHG tank -to-wake emissions and low 
+upstream well-to-tank emissions. A coordinated effort among various stakeholders including 
+industry partners, research performing organisations, NGOs, the European Commission, the 
+International Atomic Energy Agency (IAEA), and the International Maritime Organisation 
+(IMO) should help evaluate such prospective potential. It should benefit from the latest 
+Research and Innovation (R&I) results, technical, socio-economic and environment studies, or 
+initiatives being capitalised at EU and international level, to ensure a comprehensive 
+assessment. 
+The main objectives are to assess the feasibility, safety, and environmental impact of using 
+nuclear power for shipping to achieve zero -emission of GHG, air and water pollutants in 
+maritime transport. Following a preliminary assessment and literature review, as well as 
+detailed technical and economic studies regulatory and technical recommendations should be 
+developed, along with a review of on -going pilot projects aimed at demonstrating the 
+feasibility of nuclear-powered vessels. 
+The project should help evaluate the technical, economic, regulatory, environmental and 
+social aspects of deploying nuclear power in commercial shipping, including small modular 
+reactors (SMRs) and other advanced nuclear technologies. 
+Actions should address all the following aspects:   
+1. Technical Feasibility: a) To assess the suitability of SMRs and other nuclear 
+technologies for maritime use; b) To evaluate any integration challenges with existing 
+and potential new ship designs, including modular designs.; c) To study the lifecycle of 
+nuclear-powered vessels, including construction, operation, and decommissioning. 
+2. Economic Viability: a) To conduct cost -benefit analyses comparing nuclear -powered 
+shipping to conventional and renewable low and zero -carbon fuel options, taking into 
+account the long -term availability of fuel and the cost of disposal of residues; b) To 
+evaluate infrastructure requirements in the EU, such as port facilities for nuclear vessels; 
+c) Mapping full costs for a nuclear propelled ship on a life cycle basis. 
+3. Safety and Security: a) To develop safety protocols for nuclear -powered ships, including 
+emergency response and accident mitigation; b) To address cybersecurity risks, external 
+threats and proliferation concerns and safety in ports. c) Assessing long -term crew 
+training requirements for nuclear operations, safety and security and their 
+implementation in international training and certification regulations. 
+4. Environmental Impact: a) To analyze the potential reduction of greenhouse gas 
+emissions, air and water pollutants caused by mining, refining, use and disposal of spent 
+nuclear fuel; b) To assess the impact of nuclear waste management, disposal as part of 
+implementation of a circular economy approach; c) To assess the impact of nuclear -
+powered ships on marine ecosystems addressing in particular water pollutions and by 
+contaminants; d) To analyze possible damage scenarios with a view to liability issues 
+and mitigation of damages. 
+5. Regulatory and Legal Framework: a) To identify gaps in international maritime law and 
+IAEA nuclear regulations; and b) To propose recommendations related to the 
+International Convention for the Safety of Life at Sea (SOLAS) 262 and other relevant 
+treaties 
+6. The implications for National Energy and Climate Plans and National Air Pollution 
+Control Programmes required by EU legislative framework. 
+7. Additionally, a strategy for skills development should be presented, associating social 
+partners and civil society where relevant.  
+Proposals are expected to demonstrate how their objectives contribute to EU added value and 
+long-term competitiveness in nuclear -powered vessel technologies. This includes enhancing 
+the EU’s R&I capacity, safeguarding critical technological know -how, developing skilled 
+human capital, and reinforcing the resilience of the EU’s industrial and manufacturing base in 
+this strategic sector. 
+This topic implements the co -programmed European Partnership on ‘Zero Emission 
+Waterborne Transport’ (ZEWT). As such, projects resulting from this topic will be expected 
+to report on results to the European Partnership ‘Zero Emission Waterborne Transport’ 
+(ZEWT) in support of the monitoring of its KPIs.

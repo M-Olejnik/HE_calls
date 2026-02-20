@@ -1,0 +1,76 @@
+HORIZON-CL5-2027-02-D3-07: Concentrated solar thermal systems for decarbonising 
+industrial processes 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 7 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 170. 
+ 
+ 
+Expected Outcome : Renewable heating can be directly used to efficiently decarbonise 
+industrial processes. Concentrated solar thermal technologies offer a great potential to supply 
+renewable heat for industry for temperatures between 150°C - 400°C. Nevertheless, efforts 
+are still required to demonstrate these technologies for a variety of industrial processes. 
+Proposals are expected to contribute to all the following outcomes: 
+• Showcase the capacity of concentrated solar thermal systems to largely meet the heat 
+demand of industrial processes and to achieve a yearly solar fraction of at least 50%. 
+• Increase competitiveness of concentrated solar thermal for industrial applications. This is 
+to be proven by an economically feasible business case; by reducing the Levelised Cost 
+of Heating (LCoH); and by valorising and promoting the competitive advantages of the 
+technology such as heat storage, flexibility, and energy security.  
+Scope: The proposals are expected to demonstrate concentrated solar technologies for heat 
+production (within the 150°C - 400°C range), combined with storage, feeding the generated 
+heat to existing heating and/or cooling processes in industry, e.g., drying, melting, 
+sterilisation, refrigeration, etc. 
+The proposals are expected to efficiently integrate the solar heat system in the selected 
+industrial application. To a possible extent, the proposals should optimise energy efficiency 
+and heat recovery of the industrial process to maximise the coverage of the heat demand by 
+the solar system and to ensure an efficient solar investment. Hybridisation with other on -site 
+renewable energy technologies could be considered. However, the core solutions are expected 
+to focus on the concentrated solar thermal part and not on the industrial process or on the 
+hybrid renewable energy technologies. 
+The proposed solution is expected to be demonstrated in all possible solar incidence, and for a 
+continuous period of at least 6 months. The replicability potential to other industrial processes 
+should also be taken into account. 
+The proposals are expected to address the techno -economic feasibility and the environmental 
+impact of the proposed systems, as well as specific issues related to the integration of the solar 
+systems in the industrial process such as surface availability. 
+The proposal is expected to include a clear go/no go milestone before entering the deployment 
+phase. Before this go/no -go milestone, the project is expected to submit: i) a proof of solid 
+engagement of the industrial demonstration party, ii) all needed permits for deployment, iii) 
+credible and detailed engineering plans, and iv) a complete business and implementation plan. 
+The use of the European Research Infrastructure for concentrated solar power EU -SOLARIS 
+is encouraged but not mandatory. 

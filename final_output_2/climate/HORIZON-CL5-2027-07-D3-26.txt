@@ -1,0 +1,79 @@
+HORIZON-CL5-2027-07-D3-26: Advanced Distribution Management Systems (ADSM) 
+for more efficient and flexible distribution grids 
+Call: ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 9.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a proposal 
+ 
+requesting different amounts. 
+Indicative 
+budget 
+The total indicative budget for the topic is EUR 28.50 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas” delineated in General Annex B of the General Annexes, 
+entities established in an eligible country but which are directly or 
+indirectly controlled by China or by a legal entity established in China are 
+not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• Enhanced reliability, resilience, controllability and efficiency of electricity distribution 
+grids. Congestion in distribution grids is managed effectively; 
+• Distribution system operators (DSO) leverage modern digital solutions and employ 
+improved systems to effectively manage their grids and improve interoperability with 
+TSOs and other DSOs; 
+• Vendor-agnostic reference architectures, solutions and tools are developed to help 
+advancing the ADSM design and operation and effectively manage a broad range of grid 
+services.   
+Scope: Projects are expected to address all the following items: 
+• Design and test innovative solutions, architectures, technologies and processes for 
+advancing the way the ADSM are designed and operated; 
+• Provide ADSM software platforms that improve grid performance, controllability, and 
+help integrating distributed energy resources (DERs) in an efficient way, while reducing 
+congestion and improving grid flexibility; 
+• Advance forecasting solutions for energy supply, demand, and flexibility made available 
+to the system operator; provide advanced analytics and visualisations; 
+• Advance interoperability, both with TSOs and other DSOs, as well as with the DERs at 
+the edge of the grid; 
+• Leverage modern solutions, notably digital twins and artificial intelligence. Use security-
+by-design and advanced protection mechanisms against cyber threats. Use and/or 
+develop, to the greatest extent possible, open -source software solutions and or software 
+modules; 
+• Develop a manual and propose best practices on this matter to be used by other DSOs 
+(including instructions to operate the system). Identify remaining gaps and further needs 
+for research and development.   
+The demonstration, test and validation of the activities should be carried out in at least two 
+pilots in different EU Member States or Associated Countries. 
+Projects are expected to include at least three Distribution System Operators (DSOs) and at 
+least two universities and/or research organisations. 
+Additionally, collaboration is encouraged with the following entities: 
+• at least one supplier of technology and solutions for ADMS; 
+• at least one transmission system operator, which manage grids that are connected to the 
+grids operated by any of the DSOs that are partners in the project; 
+• (at least) one project funded under the separate call ‘Advanced TSO control rooms to 
+enhance grid control and resilience’ with the view to strengthen TSO -DSO coordination 
+and support interoperable solutions. To that end, the project proposals are expected to 
+describe a credible mechanism to do so.   
+This collaboration (minimum number of entities) is sought per project in total and does not 
+necessarily apply per each pilot in particular. 
+Selected projects are expected to contribute to the BRIDGE initiative 211  and actively 
+participate in its activities.

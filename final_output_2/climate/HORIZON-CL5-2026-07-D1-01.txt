@@ -1,0 +1,97 @@
+HORIZON-CL5-2026-07-D1-01: Next generation climate monitoring and related 
+capabilities 
+Call: CLIMATE 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 15.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+To ensure a balanced portfolio covering all the areas described in the 
+scope section (A, B and C), grants will be awarded to applications not 
+only in order of ranking but at least also to one proposal that is the 
+highest ranked within each priority area, provided that the 
+corresponding applications attain all thresholds.  
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 71. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Climate data are improved both spatially and temporally, physically more consistent and 
+better exploited across a wide range of users, stakeholders and regions; 
+• The EU climate data sovereignty is strengthened, with enhanced EU contribution to 
+climate monitoring and climate change assessments; 
+• Climate information distillation is facilitated by innovative methods to provide useful 
+information to policy making in a more efficient way.  
+Scope: Climate monitoring of Essential Climate Variables 72 at global and regional scales is 
+crucial to assess the state of our climate, its variability and change, and to track progress 
+towards the goals of the Paris Agreement and the corresponding EU climate objectives. 
+Underlying elements, in particular climate data records, reanalyses and forcings, are 
+fundamental to climate science and serve multiple applications across weather, climate, 
+environmental and sectoral domains, generating societal benefits. In turn, methods to distil 
+information from this wealth of data can help extract relevant knowledge and key messages 
+for climate policymaking. 
+Proposals are expected to address only one of the following priority areas, which should be 
+clearly indicated: 
+A. Next generation climate data records 
+Actions should advance innovative methods to enhance, expand and update climate data 
+records; exploit recently rescued and/or new data streams; develop innovative methods to 
+improve the water-energy-carbon cycle physical and bio -geochemical consistency across data 
+records; and improve their applicability for users. 
+B. Next generation Earth system reanalyses 
+Actions should undertake research to prepare for the next generation global and European 
+high resolution climate reanalyses. Progress is expected in enhanced data assimilation 
+methods, further coupling the Earth system components, expanding atmospheric composition 
+reanalysis backward in time, piloting carbon -energy-water cycle reanalyses, exploring data -
+driven methods for reanalyses and applying such improvements in subsequent applications 
+and international initiatives. 
+ 
+C. Next generation climate forcing and emission data sets 
+Actions are expected to conduct research to ensure more updated and sustained production, 
+and quality assurance procedures of climate forcings and emissions data sets in support of 
+international climate change assessments and climate simulations, including harmonization 
+between forcing and emission data sets (historical and scenarios). 
+Additionally, all actions should promote the development and use of new, rescued or proxy 
+data streams, and innovative digital tools and methods, including AI -based, to transform 
+climate data into actionable knowledge. These efforts should align with, build upon, and 
+support global intercomparison and coordination frameworks such as CMIP, promoting 
+standardisation, accessibility and utility of climate information across climate science and 
+service user communities, with due consideration of FAIR principles. 
+Noting the current divestment of the US in climate and environmental related monitoring 
+networks, which may severely impact climate research and services worldwide, proposers are 
+requested to dedicate resources to the assessment and mitigation of such impacts towards 
+increased resilience of climate monitoring at European and global scale. 
+Research areas of particular interest include new data mining capabilities to facilitate the 
+identification of events and areas of interest, anomalous climate behaviours, unexpected 
+trends, etc. within those data sets. Equally welcome are methods to automate regular and 
+consistent climate reporting along agreed climate indicators, to distil useful climate 
+information (i.e. climate intelligence), and to derive knowledge tailored to relevant users (e.g. 
+for sectoral applications and assessment such as biodiversity monitoring and ecosystem 
+management), from expert users to policy makers and the general public. 
+International cooperation in the context of IPCC, WCRP 73, GCOS74, and IAMC 75 is strongly 
+encouraged, as well as close coordination and complementarity with Copernicus, Destination 
+Earth, and other relevant stakeholders.

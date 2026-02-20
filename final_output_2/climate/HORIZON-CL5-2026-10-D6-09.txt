@@ -1,0 +1,114 @@
+HORIZON-CL5-2026-10-D6-09: Road Safety and resilience of rural areas 
+Call: BATTERIES and MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B.  
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 316. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+ 
+• Implementation of the NWRSA methodology for secondary rural roads; 
+• Innovative and effective enforcement strategies, incentive mechanisms and measures 
+raising risk awareness for fostering safer behaviour; 
+• Prevention strategies for reducing road fatalities and serious road traffic injuries on rural 
+roads along with the respective implementation guidelines and policy measures tailored 
+to the responsible stakeholders (regional authorities, police, healthcare professionals, 
+national governments, etc.); 
+• GIS-based application to assist local and regional authorities in identifying and mapping 
+the impact of extreme weather phenomena and other natural disasters (such as floods, 
+fires, storms, heavy snowfall etc.) on the safety and resilience of the road network in 
+their jurisdiction.   
+Scope: With more than 50% of all EU road fatalities occurring in rural areas along with 
+evidence suggesting that crashes and crash -related fatalities in rural roads vary from those in 
+urban roads or motorways, it is imperative to understand and mitigate the safety risks in rural 
+roads in view of the EU’s ambition to move towards Vision Zero by 2050. Local and regional 
+authorities have an important role to play to reduce road fatalities and serious injuries. 
+In the EU, the Road Infrastructure Safety Management (RISM) Directive  introduced the 
+concept of network-wide road safety assessment (NWRSA) and the concept of proactive road 
+safety assessment through the understanding of the in-built safety of roads. Considering safety 
+at the network -level allows for an overview of the road safety performance instead of 
+focusing on isolated parts of it, while the in -built safety assessment aims to identify parts of 
+the road that have been omitted by crash -based analyses (such crash clusters or hotspot 
+analysis) as they do not concentrate the majority of crashes, yet are crash -prone and/or 
+uncomfortable to navigate. According to the provisions of the RISM Directive, a 
+methodology has been developed to assess the network -wide safety of motorways and 
+primary rural roads based on their combined crash -based and in -built safety assessments. 
+While this is a first step in understanding road safety conditions on rural roads, secondary and 
+lower-class roads are not covered and, at the same time, there is not adequate information on 
+road user behaviour. 
+In an ageing society, cognitive and physical impairments pose an increasing threat to safe 
+mobility. In rural areas, people with any kind of impairment or disability often lack 
+alternatives to driving a car for their mobility needs. Addressing these issues will not only 
+enhance road safety but also improve the quality of life and prevent the social exclusion of 
+these people. 
+In addition to road safety issues, local and regional authorities manage risks associated with 
+extreme weather phenomena and other natural disasters like floods, fires, storms or heavy 
+snowfall. As these may affect safety and operations, relevant authorities need to adopt a more 
+holistic resilience monitoring and response. 
+Research should support addressing these challenges by undertaking all the following actions 
+in at least three regions covering both primary and secondary rural roads of adequate length to 
+allow for region-level comparisons: 
+• Demonstrate the practical applicability of the NWRSA methodology and expand its use 
+to all rural roads for an easy, low -cost, flexible and transparent, yet sufficiently accurate 
+assessment of road infrastructure safety. Identify information gaps and propose methods 
+to leverage available data to supplement the understanding of crash causation and 
+outcomes. 
+• Develop prevention strategies and measures to reduce fatalities and serious injuries in 
+rural areas with a focus on high -risk locations and situations and on improving road user 
+behaviour. This includes the development of reliable and easy-to-use methods to provide 
+quantified indications of the actual crash risk associated with and the prevalence of risky 
+behaviours. Based on this, enforcement measures with evidence -based effectiveness in 
+addressing the problems and motivations underlying risky behaviour should be 
+proposed, combining traditional methods with innovative enforcement approaches and 
+new technologies, also taking into account the issue of multi -offenders 317 . These 
+enforcement measures, complemented by suitable awareness raising and nudging 
+measures as well as novel incentive mechanisms to promote safe driving, will form 
+building blocks to design integrated strategies fostering safer behaviour according to the 
+local needs and specificities of rural areas. A gender and disability sensitive and 
+intersectional approach, which intersects with other social factors, could be considered. 
+Crash prevention strategies should also include countermeasures to reduce the effects of 
+health-related risk factors and to guarantee at the same time the mobility of older people 
+and persons with health impairments in rural areas. 
+• Develop tools to make knowledge about climate -related risks easily accessible to local 
+authorities and to enable them to take appropriate actions in order to maintain road safety 
+and the resilience of the rural road network and of the infrastructure for road users even 
+in extreme conditions318.  
+Projects should select those regions ensuring diversity in terms of road network design, 
+geography and climate conditions, and road safety culture. At least two of those regions 
+should be in countries with higher percentage of fatalities on rural roads than the EU average. 
+The involvement of road authorities is strongly recommended. 
+ 

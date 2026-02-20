@@ -1,0 +1,76 @@
+HORIZON-CL5-2027-07-D3-28: Community of practice - Data-Driven Decision-Making 
+in Energy 
+Call: ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 6.00 million. 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 214. 
+ 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• Enhanced EU cooperation to generate knowledge sharing on data and analytics used for 
+the planning and operation of European grids, and market integration; 
+• Better EU coordination with regard to planning and simulation tools to support the 
+development of electricity grids and integration of RES are made available to the 
+research, academia, grid operators, and key actors in the energy value chains; 
+• Coordinated processes to generate new and innovative open -source solutions, software 
+modules etc. that are added to the existing and/or new repositories that support the 
+development of grids and integration of high shares of RES; 
+• Improved EU-wide cooperation and coordination of actions on developing and utilising 
+innovative data-driven solutions for energy, including AI-powered tools. 
+• Support to researchers and research organizations to maintain their research results FAIR 
+(findable, accessible, interoperable, reusable) beyond research project ending and 
+accommodating for technology evolution. 
+• Promotion of opensource practices and collaboration across the energy sector value 
+chain to foster the industrialization of shared methods and standards in and by the energy 
+industry.  
+Scope: Projects are expected to: 
+• Facilitate the coordination and cooperation of key actors in the energy value chains (e.g. 
+grid operators, research and academia, providers of technologies and solutions, energy 
+suppliers, providers of energy services traded on energy markets, representatives of 
+consumers) to build a community of practice focused on developing and maintaining key 
+tools and technologies for using data and analytics in planning, operating and 
+maintaining the European electricity grids, while actively managing high shares of RES 
+in the system; 
+• Involve, cooperate with, and/or build synergies with major European and international 
+initiatives and groupings that are active in this field; 
+• Create a European ecosystem of innovation hubs that bring together key stakeholders in 
+the energy sector to collaborate on digitalization projects, providing a space for 
+experimentation and agile innovation; 
+• Showcase targeted cooperation between grid operators and research & academia for
+implementing specific projects and/or programmes;  
+• Build blueprints, methodologies, and repositories of open -source solutions for enhanced 
+simulations, observation, forecasting, infrastructure asset management, and decision -
+making in energy with a view to reduce the overall costs of system operation; 
+• Promote the use of modern solutions, such as digital twins and AI-enabled systems.   
+Selected projects are expected to contribute to the BRIDGE initiative 215  and actively 
+participate in its activities.

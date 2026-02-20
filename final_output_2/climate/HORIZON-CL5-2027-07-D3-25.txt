@@ -1,0 +1,94 @@
+HORIZON-CL5-2027-07-D3-25: Advanced TSO control rooms to enhance grid 
+observability, stability and resilience 
+Call: ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 9.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a proposal 
+requesting different amounts. 
+Indicative 
+budget 
+The total indicative budget for the topic is EUR 28.50 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite-based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas” delineated in General Annex B of the General Annexes, 
+entities established in an eligible country but which are directly or 
+indirectly controlled by China or by a legal entity established in China are 
+not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+ 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• Enhanced reliability, resilience, and efficiency of electricity transmission grids. Grid 
+congestion is managed efficiently; 
+• Enhanced observability of grids and improved forecasting of supply, demand, grid 
+capacity availability, and flexibility; 
+• Transmission system operators (TSO) leverage modern digital solutions and employ 
+improved systems to effectively manage their grids and improve interoperability with 
+other TSOs; 
+• Vendor-agnostic reference architectures, solutions and tools are developed to help 
+advancing the TSO control room design and operation.   
+Scope: Projects are expected to address all the following items: 
+• Design and test innovative solutions, technologies and processes for advancing the way 
+the TSO control rooms are designed and operated, increasing observability and entailing 
+enhanced support for the operators, providing more automation and enhanced support for 
+decision, faster response times and less room for error. The solutions are expected to 
+incorporate both hardware and software aspects; 
+• Analyse and include, as far as possible, solutions for Wide Area Monitoring Systems 
+(WAMS) to extend the real -time monitoring and control capabilities over large areas, 
+while coping with the decentralisation and increased complexity of the system; 
+• The novel solutions are expected to help the operators to manage better grid congestion 
+and incorporate more renewables while reducing curtailment. The solutions will 
+facilitate data-driven grid operations, capitalising on real -time analytics and data from 
+smart assets. The solutions may include preparation, recovery and/or restoration from 
+incidents (including extreme weather events); 
+• Help the grid operators to update their operational tools in light of the deep 
+transformation of the grids, notably the distributed nature of generation. May include the 
+option to de-centralise the control for increasing the resilience of decision-making; 
+• Advance forecasting solutions for energy supply, demand and flexibility made available 
+to the system operator, need for ancillary services, as well as for grid hosting capacity; 
+provide advanced analytics and visualisations; 
+• Develop interoperability between the control rooms of different TSOs (and using 
+different vendor solutions) to secure seamless data exchanges and coordination. Develop 
+interoperability between the TSO control rooms and other entities connected to the 
+transmission grids, including the adjacent DSOs. 
+• Leverage modern solutions, notably digital twins and artificial intelligence. Use security-
+by-design and advanced protection mechanisms against cyber threats. Use and/or 
+develop, to the greatest extent possible, open -source software solutions and or software 
+modules; 
+• Develop a manual and propose best practices on this matter to be used by other TSOs 
+(including operation instructions). Identify remaining gaps and further needs for research 
+and development.   
+The demonstration, test and validation of the activities should be carried out in at least two 
+pilots in different EU Member States or Associated Countries. 
+Projects are expected to include at least two electricity Transmission System Operators 
+(TSOs) and at least two universities and/or research organisations. 
+Additionally, collaboration is encouraged with the following entities and projects: 
+• at least one supplier of technology and solutions for TSO control rooms; 
+• at least two distribution system operators, which manage grids that are connected to the 
+grids operated by any of the TSOs that are partners in the project; 
+• (at least) one project funded under the separate call ‘Advanced Distribution Management 
+Systems (ADSM) for more efficient and flexible distribution grids’ with the view to 
+strengthen TSO-DSO coordination and support interoperable solutions. To that end, the 
+project proposals are expected to describe a credible mechanism to do so.   
+This collaboration (minimum number of entities) is sought per project in total and does not 
+necessarily apply per each pilot in particular. 
+Selected projects are expected to contribute to the BRIDGE initiative 210  and actively 
+participate in its activities.

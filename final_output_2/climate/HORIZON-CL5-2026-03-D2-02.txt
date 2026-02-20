@@ -1,0 +1,93 @@
+HORIZON-CL5-2026-03-D2-02: Development of direct recycling processes (BATT4EU 
+Partnership) 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 4.70 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 14.20 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 5 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 130. 
+ 
+Expected Outcome: Proposals are expected to contribute to all following points: 
+• Significantly improved recycling efficiency for various battery chemistries, including 
+those with low intrinsic metal values (e.g., LFP, LMFP, sodium-ion). 
+• Reduced energy consumption of recycling processes compared to conventional recycling 
+methods 
+• Substantial decreases in Europe's dependency on raw material imports 
+• Demonstrated economic viability and competitive cost structures for direct recycling 
+technologies, enhancing circular economy practices in European battery cell 
+manufacturing. 
+• Scalable and automated recycling processes suitable for handling high volumes of 
+gigafactory production scrap, directly reintegrating recycled materials into battery 
+manufacturing processes.   
+Scope: Proposals under this topic are expected to focus explicitly on the development, 
+validation, and upscaling of direct recycling technologies targeting next -generation and low -
+value battery chemistries (notably LFP, LMFP, and sodium -ion), as well as efficiently 
+managing gigafactory production scrap. 
+Projects are expected to address all the following points: 
+• Direct recycling processes, validated at relevant environment 131  and capable of 
+selectively recovering high -purity active materials from battery electrodes, minimizing 
+processing steps, and preserving material functionality. 
+• Specific optimization of recycling routes for economically challenging battery 
+chemistries, achieving recovery efficiencies beyond the state-of-the-art 
+• Innovative approaches for process automation, including intelligent sorting and robotic 
+handling systems, tailored for gigafactory scrap streams, with demonstrated potential to 
+seamlessly integrate into industrial-scale manufacturing facilities. 
+ 
+• Formulation of practical design recommendations based on project findings, to facilitate 
+and optimize direct recycling processes through improved cell design. 
+• Robust techno -economic analyses demonstrating clear competitive advantages over 
+traditional recycling pathways, complemented by comprehensive life -cycle assessments 
+(LCA) highlighting sustainability benefits in terms of energy savings, CO 2 emission 
+reduction, biodiversity and ecosystems impact, and overall resource efficiency.   
+The Commission initiative for Safe and Sustainable by Design132 (SSbD) sets a framework for 
+assessing the safety and sustainability of chemicals and materials which should be considered 
+as a reference for project proposals. 
+Proposals could consider the involvement of the European Commission's Joint Research 
+Centre (JRC)133 whose contribution could consist of providing added value regarding various 
+aspects of battery circularity and sustainability. For further information on the JRC’s possible 
+contribution to the projects, please, search for additional publicly available information on the 
+JRC’s website134 (EU Science Hub) on the NCP portal, or request specific information from 
+the JRC (JRC-NCP-Network@ec.europa.eu) 
+JRC will assure that all the other applicants receive the same information on the JRC’s 
+possible contribution to the project (e.g., via the topic -specific FAQs under the Funding and 
+Tenders Portal). 
+This topic implements the co -programmed European Partnership on Batteries (Batt4EU). As 
+such, projects resulting from this topic will be expected to report on the results to the 
+European Partnership on Batteries (Batt4EU) in support of the monitoring of its KPIs.

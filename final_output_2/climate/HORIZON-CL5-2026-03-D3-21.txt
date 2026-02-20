@@ -1,0 +1,65 @@
+HORIZON-CL5-2026-03-D3-21: Novel solutions for off -grid storage of renewable 
+energy for critical infrastructures 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 4.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology Activities are expected to achieve TRL 4 -5 by the end of the project – 
+ 
+Readiness Level see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 202. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• Enhanced European knowledge and leadership in off -grid clean energy storage 
+technologies. 
+• Improved energy security and cost-effectiveness of Europe's energy systems, particularly 
+for critical infrastructure. 
+• Elimination of fossil -based backup solutions for critical infrastructures, strengthening 
+European competitiveness.   
+Scope: The topic aims to develop novel, cost -efficient off-grid energy storage solutions for 
+renewable energy, tailored for critical infrastructures such as hospitals, transport hubs, data 
+centres, and utilities. Solutions should address challenges specific to off -grid or non -
+interconnected area contexts, including storage scale, compromised grid interaction, resilience 
+to potential shortages of critical materials, and multi -energy needs (electricity, heating, 
+cooling). Emphasis should be on robustness and error -freeness, while considering 
+sustainability, efficiency and performance. The project should foresee these solutions for 
+using real-world critical infrastructures through simulation and experiments and establishing a 
+procedure for decision -making, focusing on energy security and resilience against high -
+impact, low-probability events, by ensuring operational efficiency both on -grid and off -grid. 
+Where relevant, interdependencies among critical infrastructures and system redundancy 
+should be considered. 
+Projects are encouraged to support the reconstruction of Ukraine by including Ukrainian 
+beneficiaries. 
+ 

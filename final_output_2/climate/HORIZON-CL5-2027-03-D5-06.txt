@@ -1,0 +1,88 @@
+HORIZON-CL5-2027-03-D5-06: Fire prevention and mitigation for EVs in confined 
+areas (2ZERO Partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 8.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 8.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 248. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Standardised fire risk assessment for EVs’249 fire hazards in constrained spaces and areas 
+such as underground/ built -in parking lots, garages, ferryboats and depots with and 
+without charging facilities and during mono- or bidirectional charging. 
+• Innovative on -board and/or off -board affordable fire -detection, suppression, and 
+containment measures and techniques. 
+• Standardised fire protocols and open evaluation frameworks. 
+• Enhanced public perception of fire safety across all EV categories.  
+Scope: The overall fire safety risks associated with Electric Vehicles (EVs) are substantially 
+lower compared to those of Internal Combustion Engine (ICE) vehicles. However, public 
+concerns and perceptions about EV fire safety may still persist. This necessitates a thorough 
+examination and addressing of potential causes of EV fire to alleviate any remaining worries. 
+This necessitates a thorough examination and addressing of potential causes of EV fire to 
+alleviate any remaining worries.. 
+ 
+Proposed actions are expected to address all of the following aspects: 
+• Development of the most comprehensive database about fire accidents involving all EV 
+categories at the European level. 
+• Mitigation measures and solutions in case of thermal runaway of batteries, if not 
+prevented in the first place, by appropriate design or by active measures to effectively 
+avoid open fire and its possible progression. 
+• A clear recognition of EV risks by improved on -board diagnosis and real -time 
+monitoring, leading to early warning and to appropriate countermeasures. 
+• Development of innovative and affordable fire detection, prevention and optionally 
+suppression solutions for constrained spaces and areas such as underground/ built -in 
+parking lots, garages, ferryboats and depots with and without charging facilities and 
+during mono - or bidirectional charging. This can include e.g. measures for thermal 
+runaway, fire-resistant systems/materials, easy and safe access to the battery for removal 
+from the vehicle. 
+• Development of firefighting protocols to deal with EVs on fire in narrow situations, 
+essential for quick and effective intervention, including integration with existing safety 
+standards (e.g., ISO, NFPA) to ensure smooth adoption and compatibility. 
+• Social awareness for a transparent, informed public perception of the safety level of all 
+EV categories, also with the development of a European based platform for 
+dissemination and information with direct involvement of main stakeholders.   
+This topic requires the effective contribution of Social Sciences and Humanities (SSH) 
+disciplines and the involvement of SSH experts, institutions as well as the inclusion of 
+relevant SSH expertise, in order to produce meaningful and significant effects enhancing the 
+societal impact of the related research activities. 
+This topic implements the co -programmed European Partnership on ‘Towards zero emission 
+road transport’ (2ZERO). As such, projects resulting from this topic will be expected to report 
+on the results to the European Partnership ‘Towards zero emission road transport’ (2ZERO) in 
+support of the monitoring of its KPIs. 
+The topic is open to international collaboration, and the funded project are expected to seek 
+synergies with the Sustainable Transport Forum250 and with the EV TCP Task 49251. 
+ 

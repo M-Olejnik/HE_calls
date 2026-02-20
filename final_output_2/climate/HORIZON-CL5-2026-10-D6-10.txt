@@ -1,0 +1,101 @@
+HORIZON-CL5-2026-10-D6-10: Enhanced resilience in multimodal passenger transport 
+through digital technologies and generative and discriminative AI 
+Call: BATTERIES and MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 10.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B.  
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 319. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+ 
+• Development of systems that utilize real -time data analytics to dynamically respond to 
+disruptions, allowing transport and infrastructure operators to adjust operations swiftly 
+and efficiently; 
+• Development of predictive maintenance strategies applying innovative Generative AI 
+solutions and utilizing other digital technologies to anticipate and prevent infrastructure 
+and equipment failures; 
+• Development of guidelines and tools to support passenger transport operators and 
+authorities to ensure minimal disruption in unexpected and critical situations and 
+organise real life emergency simulations; 
+• Deployment of training programme for transport and infrastructure operators on how to 
+handle transport disruption, including tools and catalogue with contingency planning for 
+specific transport disruptions; 
+• Reduction of average passenger delay at corridor level (at least 20%) during planned 
+disruptions, compared to the baseline and of (at least 40%) time needed from the 
+generation to the dissemination of a response plan to different stakeholders (e.g. 
+transport operators, passengers, citizens) during unplanned and critical events, compared 
+to the baseline.   
+Scope: Passenger transport systems are a critical component of urban, sub -urban, and long -
+distance travel, facilitating connectivity, reducing traffic congestion, and supporting 
+environmental sustainability. However, these systems face challenges such as operational 
+disruptions, safety and security risks, and evolving passenger demands. 
+In the context of passenger transport, resilience refers to the ability of a transport system to 
+absorb disturbances, maintain its basic structure and function, and recover to a required level 
+of service within acceptable time and cost after being affected by disruption. This involves 
+implementing measures that ensure continuous operation, quick recovery from unexpected 
+events, and adaptability to changing circumstances. Enhanced resilience is essential for 
+maintaining public trust and ensuring smooth functioning of transport systems and it is a 
+cornerstone of the EU Sustainable and Smart Mobility Strategy. 
+Proposed actions are expected to address all of the following aspects: 
+• Development and implementation of measures to enhance the resilience of urban, sub -
+urban and long-distance transport systems. 
+• Leveraging digital technologies (e.g. big data, digital twins) and in particular generative 
+and discriminative AI for anticipating and predicting the evolution of disruptions and 
+their impacts, with real -time planning and information systems for minimizing impact 
+and enabling faster recovery. 
+• Use of innovative technologies for data acquisition and integrate data from various 
+sources to inform decision -making and optimise strategies, and generate scenario 
+libraries for different disruptive events and monitor the implementation of the response 
+plans 
+• Involve authorities and operators in the design process to create holistic solutions that 
+are user-friendly and aligned with their needs. 
+• Conducting safety and security assessments in data interpretation, ensuring decisions are 
+based on objective factors while avoiding biases. 
+• Test and validate the aspects above in real-life use cases in multimodal transport corridor 
+within urban, sub -urban and long -distance passenger transport with minimum three 
+transport modes per use cases (e.g. buses, metros, trams, trains, coaches, trolleybuses, 
+ferries, share mobility) in at least three pilot sites situated in different Member States and 
+reflecting a diversity of operational, geographic, and technological contexts.   
+Proposals are encouraged to building on results from previous calls on infrastructure and 
+transport resilience (e.g. HORIZON -CL5-2024-D6-01-11, MG -7-1-2017, HORIZON -CL5-
+2021-D6-01-09), multimodal traffic management (e.g. HORIZON -CL5-2022-D6-02-05, MG-
+2-11-2020), shared mobility and public transport (e.g. HORIZON -CL5-2022-D6-02-04, 
+HORIZON-MISS-2021-CIT-02-02). Proposals should also comply with existing EU 
+framework and strategies and building upon the concepts and solutions developed in other 
+Union initiatives aimed to facilitate data sharing in transport, such as the European mobility 
+data space (EMDS). Particular efforts should be made to ensure that the data produced in the 
+context of this topic is FAIR (Findable, Accessible, Interoperable and Re-usable).

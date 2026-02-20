@@ -1,0 +1,80 @@
+HORIZON-CL5-2026-03-D3-22: AI -driven forecasting algorithms for Grid and 
+Consumer friendly Energy Sharing – Societal Readiness pilot 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 203. 
+ 
+ 
+Expected Outcome : Projects are expected to contribute to all the following expected 
+outcomes: 
+• Develop and test AI-driven forecasting algorithms that use machine learning processes 
+to optimise the value of collective self -consumption through energy sharing for 
+communities and citizens 
+• Upscale AI tools and models for grid balancing and forecasting to ensure consumer 
+participation in a distributed energy system. 
+• Analysis of social interactions using advanced methods like game -theoretic models to 
+highlight the role of active consumers and communities in energy systems. 
+• Deeper understanding of the needs and concerns of diverse social groups involved in or 
+potentially affected by the R&I development of the technology, thereby increasing the 
+potential for beneficial societal uptake and building trust in results and outcomes. 
+• Improvement of operation and maintenance of the grid and distributed assets.   
+Scope: AI-driven forecasting algorithms and machine learning can optimize bidirectional 
+energy transfers involving flexibility services that can help energy communities and jointly 
+acting customers evolve in their role as active participants in the energy system, while 
+ensuring the reduced burdens on DSOs and residual suppliers. Innovations in machine 
+learning forecasting can help balance energy systems and enable active participation in a 
+decentralized, resilient, and digitalized European energy landscape, optimizing self -
+consumption and reducing energy costs for consumers. 
+This topic is a Societal-Readiness pilot: 
+• Proposals should follow the instructions applying to the Societal Readiness pilot, as 
+described in the introduction of the Horizon Europe Main Work Programme 2026 -2027 
+for Climate, Energy and Mobility. They entail the use of an interdisciplinary approach to 
+deepening consideration and responsiveness of R&I activities to societal needs and 
+concerns. 
+• This topic requires effective contribution of the relevant SSH expertise, including the 
+involvement of SSH experts in the consortium, to meaningfully support Societal 
+Readiness. Specifically, SSH expertise is expected to facilitate the socio -technological 
+interface and enable the design of project objectives with Societal Readiness related 
+activities.  
+Selected projects are expected to contribute to the BRIDGE initiative 204  and actively 
+participate in its activities. 

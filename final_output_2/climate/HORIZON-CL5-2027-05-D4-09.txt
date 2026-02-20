@@ -1,0 +1,75 @@
+HORIZON-CL5-2027-05-D4-09: Demonstration of industrial excess/waste heat 
+conversion to mechanical or electrical power 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.75 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 13.50 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 7 -8 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+ 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 236. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Based on the results of the project, at least one industrial sector with a significant heating 
+demand in the EU and Associated Countries develops pathways and business models to 
+measurably increase the industrial excess/waste heat recovery and conversion to power. 
+• Measurable improvement of industrial excess/waste heat recovery and conversion to 
+power, possibly combined with energy storage, in terms of energy efficiency, flexibility 
+of electricity production, climate and environment protection, reliability and safety, 
+physical and cyber security, and profitability.   
+Scope: Better use of process excess/waste heat represents a significant source of energy 
+savings for industries. The conversion of excess heat back to electricity, would improve 
+energy efficiency, mitigate the increase of electricity consumption due to industrial 
+electrification, as well as offer flexible electricity generation to stabilise the grid, if combined 
+with thermal and/or electrical energy storage. 
+Projects must address all the following items: 
+• Develop and validate novel excess/waste heat recovery and conversion systems. 
+• Demonstrate physically within one or more operational industrial site(s), the recovery of 
+industrial excess/waste heat, possibly combined with energy storage, and its conversion 
+to mechanical or electrical power. 
+• Maximise the replicability and deployment of the concept/solution in the EU and 
+Associated Countries’ plants in the same industrial sector. Already before starting the 
+design phase, the needs of most EU and Associated Countries’ factories in the same 
+industrial sector(s) should be surveyed and analysed in order to design a solution that can 
+be adapted to meet most of them. 
+• Identify common components, optimise and define a standardised version of them. 
+• Develop open technical and economical guidelines and open tools for integrating such 
+systems into SCADA (Supervisory Control and Data Acquisition) and EMS (Energy 
+Management System) infrastructures of existing plants, and for developing innovative 
+ 
+business model of heat valorisation as a flexible electricity generation offered to stabilise 
+the power grid. 
+• Disseminate results notably (but not only) to the relevant communities in cluster 4 
+‘Digital, Industry and Space’ private-public partnerships.  

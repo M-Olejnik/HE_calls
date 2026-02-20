@@ -1,0 +1,89 @@
+HORIZON-CL5-2026-08-Two-Stage-D1-06: Closing knowledge gaps on Earth system 
+science in support of global and regional assessments and climate policy 
+Call: CLIMATE 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+5.00 and 9.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 45.00 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their first-
+stage application (see General Annex E). 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+ 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+The first-stage proposals of this topic will be evaluated blindly. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 96. 
+ 
+Expected Outcome : Project results are expected to contribute to some of the following 
+expected outcomes: 
+• Improved quality and reduced uncertainty of global and regional climate change 
+projections; 
+• Critical knowledge and data gaps in Earth system science as identified in the IPCC Sixth 
+Assessment Report (AR6) and other authoritative sources, are addressed, ensuring that 
+future climate assessments are grounded in the most comprehensive and up -to-date 
+scientific evidence; 
+• New climate science evidence is generated that is relevant for policy needs and for 
+informing climate action.  
+Scope: The global community’s ability to mitigate and adapt to climate change requires the 
+continuous advancement of climate science and related disciplines. International climate 
+policy is informed primarily by the assessments made by the Intergovernmental Panel on 
+Climate Change (IPCC), which provides the most comprehensive and authoritative evaluation 
+of the state of knowledge on climate science, including the Earth’s climate system and its 
+expected changes under different scenarios. Despite the exponential increase of available data, 
+other evidence and knowledge accumulated on these issues, there remain significant gaps in 
+our understanding of key issues and processes. These may include factors such as insufficient 
+or divergent evidence, low confidence findings or high uncertainties. Some of these gaps are 
+identified in AR6 (specifically, in Working Group I contribution), “The Next Frontier for 
+Climate Change Science” 97 and other relevant sources. Moreover, science has progressed 
+since the closing of the evidence base used for AR6, raising new questions and avenues for 
+inquiry. 
+ 
+Proposals under this topic should seek to narrow the knowledge gaps in the realm of Earth 
+system science (understood here as the scope of Working Group I of the IPCC), offering 
+flexibility for applicants to define the specific research areas targeted. Proposals are expected 
+to focus on issues clearly within the scope of Cluster 5, Destination 1, and not prominently 
+addressed by other topics of the 2025 and 2026 -2027 Work Programmes, encouraging new 
+scientific insights and approaches, and the involvement of researchers and entities new to 
+Horizon Europe. Successful proposals are expected to enhance the scientific foundations and 
+inform scientific assessments in a way that ensures they are comprehensive, accurate, and 
+relevant for decision-makers. 
+Proposals should clearly identify the knowledge gap(s) they seek to address, substantiate why 
+recent and ongoing research efforts are unlikely to sufficiently address the issue, explain how 
+the proposed action is expected to contribute to the advancement of Earth system science and 
+identify policy relevance of the research proposed. 
+International cooperation in the context of IPCC, WCRP 98  and GCOS 99  is strongly 
+encouraged where relevant. 
+Proposals indicating use of satellite remote sensing data and derived products are encouraged 
+to collaborate with projects selected under ESA’s FutureEO programme and the EC -ESA 
+Earth System Science Initiative (ESSI) to facilitate access to and uptake of satellite data 
+products and related tools or methodologies. They should dedicate resources for collaborative 
+actions.

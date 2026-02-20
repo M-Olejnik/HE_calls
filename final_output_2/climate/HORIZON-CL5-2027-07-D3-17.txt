@@ -1,0 +1,92 @@
+HORIZON-CL5-2027-07-D3-17: PV based electrification of the economy: Designing & 
+optimising PV systems supporting industrial electrification and promoting participation 
+in electricity markets (EUPI-PV Partnership) 
+Call: ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 18.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 195. 
+ 
+Expected Outcome: Large PV systems such as utility scale PV are evolving towards higher 
+voltage architecture (>=3kV) with the objective to minimize losses and improve system 
+efficiency at lower costs. The intention is to integrate also storage into such (hybrid) PV 
+systems offering flexibility. It is consequently essential to build a blueprint for the 
+implementation of high voltage large PV systems and the development of Direct Current (DC) 
+networks around strategic end users for high voltage demand (industrial sites, servers, electric 
+vehicle charging stations…). Understanding the factors that influence the performance and 
+economics of these system architectures will help system planners evaluate the potential 
+benefits of such hybrid resources that could support an increasing future industrial 
+electrification. Another crucial challenge to address in ensuring the continued growth of new 
+investments in solar PV, is the increasing occurrence of zero or negative prices in the 
+electricity market, which dramatically hurt the profitability of operating solar PV assets. To 
+tackle this challenge, PV participation to ancillary services is a way forward, which would 
+reduce significantly system operating costs and PV curtailment and improve system reliability 
+and PV profitability. The coupling/pooling with other generation assets or storage/demand 
+assets is also to be considered. 
+ 
+Project results are expected to contribute to all of the following expected outcomes as 
+indicated for the proposed scope (high voltage DC PV systems or PV participation in 
+electricity markets): 
+Scope 1: High-voltage DC PV systems:    
+1. Highly efficient PV systems, optimal utilisation of generated PV electricity, energy 
+savings; 
+2. Decreased levelised cost of electricity (LCOE) and affordable electricity for industrial 
+users.   
+Scope 2: PV participation in electricity markets:    
+1. Increased social profitability of PV by participation to ancillary services; 
+2. Energy efficient, cost competitive and flexible contribution of PV systems to the energy 
+markets.   
+All proposals are expected to support the execution of the solar energy joint research and 
+innovation agenda.  
+Scope: Proposals are expected to cover at least one of the following scopes: 
+Scope 1: High-voltage DC PV systems: 
+• Design higher voltage system architectures and evaluate the efficiency benefit; 
+• Develop the blueprint for an AC (Alternating Current)/DC hybrid solution for managing 
+end user loads, achieving high levels of efficiency; 
+• Demonstrate a high voltage >3kV operating in DC grids for industrial installations 
+hybrid system; 
+• Investigate the impact of higher voltage on PV modules.   
+Scope 2: PV participation in electricity markets: 
+• Demonstrate integrated management of PV generators for dynamic and/or nodal pricing; 
+• Pool PV with other consumption/production assets to participate in balancing 
+mechanisms; assess the viability of these systems and demonstrate business models and 
+financing schemes; 
+• Demonstrate reliability, procurement driven risk mitigation and better system availability 
+through digitalization.   
+Whenever the expected exploitation of project results entails developing, creating, 
+manufacturing and marketing a product or process, or in creating and providing a service, the 
+plan for the exploitation and dissemination of results must include a strategy for such 
+Climate,

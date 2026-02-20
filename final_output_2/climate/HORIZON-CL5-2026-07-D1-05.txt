@@ -1,0 +1,96 @@
+HORIZON-CL5-2026-07-D1-05: Improving climate and weather models for Africa 
+Call: CLIMATE 
+Specific conditions 
+ 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 7.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 21.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Due to the scope of this topic, legal entities established in all African 
+Union member states are exceptionally eligible for Union funding. 
+At least 30% of the beneficiaries must be legal entities established in the 
+African Union member states90. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Beneficiaries will be subject to the following additional obligations 
+regarding open science practices: Open access to any new modules, 
+models or tools developed from scratch or substantially improved with 
+the use of EU funding under the action must be ensured through 
+documentation, availability of model code and input data developed 
+under the action. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 91. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Improved quality and performance of weather and climate models over Africa, tailored 
+to the continent’s needs, enabling more effective adaptation actions and disaster risk 
+ 
+response strategies, and informing the implementation of the international dimension of 
+the EU Adaptation and Preparedness Union Strategies, the Sendai Framework for 
+Disaster Risk Reduction, the Nairobi Declaration and the Team Europe Initiative on 
+Adaptation and Resilience in Africa92; 
+• Enhanced provision of weather predictions and climate projections that enable African 
+communities to more effectively respond to the escalating impacts of climate change, 
+contributing to the objectives of the AU -EU Partnership on Climate Change and 
+Sustainable Energy93; 
+• African climate research is bolstered, supporting the development of the next generation 
+of climate scientists. There is reduced reliance on external expertise, increased 
+representation of African science and scientists in international bodies such as the IPCC 
+and UNFCCC, and enhanced African contribution to global climate initiatives such as 
+CMIP, CORDEX and ISIMIP.  
+Scope: Africa is among the regions most severely affected by climate change, mostly due to 
+high vulnerability and low adaptive capacity. While significant advancements in global 
+weather and climate science have transformed resilience efforts elsewhere, their benefits in 
+Africa remain to be harnessed, to unlock the continent’s ability to address climate challenges 
+more effectively. 
+Actions should address critical knowledge gaps for improving weather and climate modelling 
+for Africa in the context of changing climate, with focus on the understanding and 
+representation of weather and climate dynamics in Africa at regional, interregional or 
+continental scale. They should enhance models’ predictive skill and reduce uncertainties in 
+key areas such as rainfall and extreme weather events. Actions should harness observational 
+data to advance process -based understanding and model performance across various Earth 
+System components (e.g. land, ocean, atmosphere). This includes improving data collection, 
+assimilation and quality assurance practices, integration of local and rescued historical data to 
+provide high -quality inputs for models. Actions are encouraged to leverage digital 
+technologies, including AI/ML techniques, tools, and models as well as advances in high 
+performance computing to achieve the topic’s goals. 
+The research should be performed in close cooperation and co -creation between African and 
+European teams in a way to ensure relevance, acceptance and co -ownership of solutions by 
+African stakeholders. Actions are also expected to contribute to local capacity -building and 
+knowledge exchange to support competence growth and equip African researchers with the 
+data, tools and expertise necessary to sustain future progress. Strong partnerships should be 
+established between relevant institutions in both regions such as universities, research bodies, 
+ 
+National Meteorological and Hydrological Services (NMHSs) and African Regional Climate 
+Centers (RCCs)94 to enable mutual learning and collaborations. 
+Synergies and complementarity should be sought with other relevant EU -supported initiatives 
+on climate modelling and capacity development in Africa such as Regional Centres of 
+Excellence related to the green transition 95. Additionally, actions should facilitate access of 
+African researchers to cutting -edge European research infrastructures including 
+supercomputing assets and data repositories to strengthen institutional and regional expertise 
+and capacity. 
+All projects funded under this topic are strongly encouraged to collaborate and envisage 
+clustering activities together and with other relevant projects in and outside of Horizon 
+Europe.

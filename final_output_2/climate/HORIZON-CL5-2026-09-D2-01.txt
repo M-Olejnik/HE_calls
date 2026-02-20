@@ -1,0 +1,92 @@
+HORIZON-CL5-2026-09-D2-01: Producing battery -grade materials for electrodes 
+through sustainable processing and refining of raw materials or developing bio -based 
+materials (BATT4EU Partnership) 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 7.10 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 28.30 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 4 -5 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+In order to ensure a balanced portfolio of activities covering both 
+categories of materials, grants will be awarded not only in order of 
+ranking but at least also to one proposal dealing with the technology that 
+has not been covered by the proposal selected first, provided they attain 
+all thresholds (and subject to available budget). This condition to ensure 
+a balanced portfolio will also be considered to be met if one project 
+addressing both aspects is funded. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 127. 
+ 
+Expected Outcome: Proposals are expected to contribute to all following points: 
+• Significantly reduced EU dependency on imported battery -grade raw materials, 
+specifically emerging technologies and carbon-based electrode materials. 
+ 
+• Established European value chains for next -generation battery materials, enhancing the 
+EU's technological leadership and strategic autonomy.   
+Scope: Proposals under this topic are expected to address all aspects for one of the following 
+categories: 
+1. Sustainable Processing and Refining of next generation batteries -grade Material, delivering 
+all of the following: 
+• Development and validation of innovative, environmentally friendly refining 
+technologies for producing battery -grade metals and materials suitable for next -
+generation battery chemistries. This covers raw and advanced electrode materials for the 
+components of sodium-ion batteries or beyond generation 3128 lithium-ion batteries 
+• Development of processes achieving significant reductions in carbon and ecological 
+footprint, emissions of pollutants, energy usage, and chemical inputs. The selected 
+processes should not negatively impact any of the aspects above or cause significant 
+harm. 
+• Validation of economic viability, environmental sustainability, and technological 
+robustness of the proposed refining and processing solutions.  
+OR: 
+2. Utilising Bio -based Raw Materials for Battery Electrode Materials delivering on all of the 
+following: 
+• Development of synthetic graphite and/or alternative carbonous materials for battery 
+components derived from bio-based European feedstocks (e.g., biomass, agricultural and 
+forestry residues, lignocellulosic materials). Inactive components such as binders may 
+also be included. 
+• Comprehensive characterization and validation of developed electrode materials in 
+sodium-ion and lithium -ion battery cells, demonstrating comparable or superior 
+performance to conventional graphite electrodes, specifically targeting cycle stability, 
+energy density, and charge/discharge rates. 
+• Demonstration of credible pathways for pilot -scale production pathways for bio -based 
+electrode materials including a clear techno -economic analysis and LCA/LCC impact 
+assessment.  
+ 
+The Commission initiative for Safe and Sustainable by Design129 (SSbD) sets a framework for 
+assessing the safety and sustainability of chemicals and materials which should be considered 
+as a reference for project proposals. 
+This topic implements the co -programmed European Partnership on Batteries (Batt4EU). As 
+such, projects resulting from this topic will be expected to report on the results to the 
+European Partnership on Batteries (Batt4EU) in support of the monitoring of its KPIs.

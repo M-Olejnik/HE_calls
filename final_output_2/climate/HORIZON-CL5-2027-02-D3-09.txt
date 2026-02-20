@@ -1,0 +1,245 @@
+HORIZON-CL5-2027-02-D3-09: Innovative technologies and solutions to improve wave 
+and tidal energy systems 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+43.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 43.00 million. 
+Type of Action Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Due to the complexity of the topic, the page limit for proposals is 
+increased to 60 pages. 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Beneficiaries must provide financial support to third parties (FSTP). 
+The support to third parties can only be provided in the form of grants. 
+The maximum amount to be granted to each third party is EUR 
+800.000. This is necessary to appropriately conduct the activities in 
+scope of this topic, namely, to contribute to the development and 
+validation of costly and complex components and expected to include 
+high capital intensive and labour -intensive activities. These activities 
+are as well labour intensive and  need specialised skills. As the topic 
+envisages subsequent FSTP calls to progressively develop a given 
+solution, the maximum amount to be granted to each party needs to be 
+sufficiently high to cater cases where a given legal entity may receive 
+more than one FSTP grant.  
+ 
+Expected Outcome : Project results are expected to contribute to all following expected 
+outcomes: 
+• Advance in the realisation of the Strategic Energy Technology (SET) Plan’s research and 
+innovation priorities and targets for ocean energy; 
+• Energy producers and consumers benefit from increased performance of wave and tidal 
+energy technologies with the focus on efficiency and flexibility, reduced cost, improved 
+reliability and sustainability, operation and maintenance, robustness and security during 
+all stages of the lifetime of an ocean energy farm from installation, operation and 
+maintenance to decommissioning; 
+• Efficient and effective support to ocean energy research and innovation through 
+alignment and cooperation among different actors, avoiding fragmentation of efforts 
+providing effectively a significant developmental boost of wave and tidal energy 
+technologies. 
+• Increased contribution of ocean energy to the energy system, with minimal impacts on 
+health and the environment (notably biodiversity) and at the lowest possible cost.  
+Scope: The action contributes to address the Strategic Energy Technology (SET) Plan’s 
+research and innovation priorities 179 and targets 180 for ocean energy focussing on wave and 
+tidal energy development. It will take into account the input defined in this context by the 
+Implementation Working Group on ocean energy (IWG ocean), the European Technology and 
+Innovation Platform on ocean energy (ETIP Ocean) 181 and the European Energy Research 
+Alliance (EERA) joint programme on ocean energy182. 
+The overarching objective is the development and demonstration of cost -effective wave and 
+tidal energy systems that can survive in a harsh ocean or sea environment with minimal 
+impacts on health and the environment and biodiversity. The challenge is open to proposals 
+seeking to steer wave and tidal energy development for different type of resources in an 
+effective way at a European level and to bring these technologies to the market. In this action 
+the following can be considered: 
+• The development and demonstration in controlled environment of innovative wave 
+energy devices. 
+• The development and demonstration in controlled environment of innovative next 
+generation tidal energy devices 
+• The development and demonstration of new sustainable materials in ocean energy 
+converters, moorings and foundations whilst ensuring structural integrity, durability and 
+circularity can be considered. 
+ 
+• The development and demonstration of sustainable tailored mooring and connection of 
+electrical or other power transmission systems (cable system, electrical equipment, ....) 
+for wave and tidal energy devices. Advance combined mooring and electrical connectors 
+or hydraulic power transmission to reduce component cost and number of connection 
+operations, included in systems for sharing an anchor between devices in arrays. 
+Develop novel systems for safe and quick connection/disconnection that do not require 
+large vessels and/or diving teams. 
+• The instrumentation for condition monitoring and predictive maintenance of ocean 
+energy devices and structures. Apply recent advances in condition and structural health 
+monitoring from other sectors to ocean energy. The use of Artificial Intelligence (AI) in 
+ocean energy technology development. 
+• Advanced manufacturing of ocean energy devices and structures and auxiliary 
+equipment considering reduced energy, manufacturing costs and materials consumption, 
+high production throughput and optimization of logistics. 
+• Development of technologies and solutions for the installation, maintenance and 
+decommissioning of wave and tidal energy devices.  
+The validation and demonstration of new ocean energy technologies should be done in a 
+controlled environment meaning that this is done under monitored and reproducible 
+conditions, using for instance, test rigs and test tanks, semi -enclosed basins, or dedicated real-
+sea demonstration sites with instrumented monitoring infrastructure. 
+Structure, breakdown of activities and budget allocation 
+The action consists of activities directly implemented by the consortium and activities 
+implemented through financial support to third parties. The latter can include cooperation 
+with the activities undertaken by the beneficiaries of the EU grant and may complement them. 
+The R&I activities are divided into three challenges:   
+1. Breakthrough challenge 
+2. Validation challenge 
+3. Demonstration challenge  
+The breakthrough and the validation challenge can be carried out both through activities 
+directly implemented by the core consortium and through FSTP activities. The demonstration 
+challenge will solely be implemented by the core consortium. 
+The breakthrough challenge entails actions to develop new solutions, tools and new 
+knowledge to increase the competitiveness of the ocean energy sector and on the acceleration 
+of ocean energy deployment at scale. The aim is that the innovative technologies have been at 
+least validated towards the end of the project. 
+The validation challenge entail actions to validate technologies, tools and innovative solutions 
+both in a laboratory and in a relevant environment which have been developed in the project 
+or have been developed previously or separately in other European and national projects. 
+FSTP can be used for new illustrative application use -cases demonstrating well defined added 
+value to end users. 
+In the demonstration challenge the consortium is expected to carry out demonstration 
+activities (up to TRL 7) in line with the priorities set by the SET Plan ocean energy R&I 
+priorities and targets and accelerate the take up of innovation by the industry. The 
+demonstration activities will be selected using the stage gate approach developed by the IEA 
+OES task 12183. 
+Activities directly implemented by the core consortium 
+The activities of the core consortium are expected to include direct research and innovation 
+activities in any of the areas listed in scope and in any of the challenges (breakthrough, 
+validation, demonstration). The core consortium will be responsible for the management of 
+the whole project, including the actions carried out through financial support to third parties 
+(management of the FSTP calls, management of the FSTP projects). 
+It is expected that the budget dedicated to the project management will not exceed 7% of the 
+EU funding. 
+The project is expected to carry out at least three demonstration activities. The focus of each 
+demonstration activity should be clearly different from each other. The project is expected to 
+include a clear go/no go milestone for each demonstration activity before entering the 
+deployment phase. Before this go/no-go milestone, the project has to show evidence of having 
+in place i) all needed permits for deployment, ii) complete, detailed and realistic engineering 
+plans compliant with the applicable standards, and iv) a complete business and 
+implementation plan. The proposal is expected to present a clear and convincing pathway to 
+obtain necessary permits for the demonstration activities and allow for appropriate timelines 
+to achieve these, while demonstrating how it will get a financial close for each demonstration 
+activity. For this the use of other EU/national/regional support mechanisms can be considered. 
+The total maximum amount of EU funding for the activities in the demonstration challenge is 
+expected to be 24 million Euros. 
+Activities implemented through Financial Support to Third Parties (FSTP) 
+A share of the EU funding will be implemented through financial support to third parties and 
+used to engage research organizations, academia, start -ups, scale-ups, SME’s, industries and 
+other entities and to enable use-cases that are not yet identified in the proposal stage. 
+The use of financial support to third parties should allow a faster implementation of research 
+and innovation activities, and to respond to disruptive developments, attracting different 
+ 
+stakeholders and innovators. A tiered approach to address complex R&I challenges should be 
+adopted via FSTP calls, meaning that projects with a relatively short duration should be 
+supported (e.g. 12-18 months). A given action supported by FSTP can be implemented by one 
+third party or a by a (small) consortium of entities. Subsequent FSTP calls can be used to give 
+further support to successful projects initiatives. The calls should be planned carefully and 
+ensure that successful R&I work can continue without major interruption. 
+For the FSTP calls that are related to the breakthrough challenge and the validation challenge, 
+the following considerations should be taken into account: 
+• Breakthrough challenge: The proposal should foresee consecutive FSTP calls for the 
+development of breakthrough technologies and innovative solutions in support of 
+demonstrating and upscaling wave and tidal energy considering the full supply chain. Up 
+to 3 million EU requested contribution should be used to set up this ‘Breakthrough 
+technologies’ challenge for third parties. The challenge should aim at attracting new 
+partners (academia, SMEs, scale ups) and solutions. 
+• Validation challenge: The proposal should foresee consecutive FSTP calls for the 
+validation of innovative technologies/solutions developed in the breakthrough challenge 
+or from earlier R&I projects. Up to 6 million EUR EU funding is expected to be used for 
+subsequent FSTP calls. FSTP will be used to engage other entities not earlier identified.  
+The first FSTP call for the breakthrough challenge should be published in the first year of the 
+project. The FSTP call for the validation challenge should be published in a later stage of the 
+project enabling the use of the results of the breakthrough challenge and/or the core R&I 
+activities. 
+The activities carried out through FSTP calls can pertain to any of the research and innovation 
+areas listed in scope. The applicants must clearly describe in their proposal the objectives and 
+the expected results of the FSTP call. 
+For the FSTP calls, the consortium is expected to take into account the provisions on 
+‘financial support to third parties’ set out in Annex B of the General Annexes and incorporate 
+them into the proposal. The consortium should consider specifically elements within the FSTP 
+schemes to address broad EU geographical balance. 
+The FSTP calls should be open to any public or private entities, including SMEs. 
+Applicants are advised to consult the European Commission’s guidance on FSTP activities184 
+Governance of the project 
+The action will require a strong internal governance and strong procedures. In the project 
+proposal, the consortium will have to describe all challenges/actions for the whole duration of 
+the project, including the activities to be carried out directly by the core consortium and the 
+ 
+ones carried out through financial support to third parties (FSTP). It will have to set out how 
+and the calls for proposals to be funded through financial support to third parties (FSTP) are 
+organised and how the evaluation of these proposals is carried out. The core project 
+consortium needs to define the selection criteria and the process and criteria of organisations, 
+for which financial support may be granted, ensuring compliance with the FSTP rules under 
+Horizon Europe. The proposal should describe clearly the methodology to implement the 
+various steps of the FSTP calls, define the specifications of the stages of the competitions, 
+timelines, targets, KPIs and a solid evaluation methodology including evaluation criteria. The 
+consortium is also responsible for ensuring high visibility of the FSTP calls. 
+The core consortium is expected to demonstrate proven experience in sound financial 
+management of large projects, including public procurement and/or calls and grants to support 
+third parties, in particular for the beneficiaries that will manage the FSTP calls. 
+The project must, for all the research and innovation activities, including the FSTP actions, 
+embed mechanisms to assess and demonstrate progress following the stage gate metrics 
+developed by Task 12 of the IEA Ocean Energy System Technology Collaboration Platform 
+(with qualitative and quantitative KPIs, benchmarking and progress monitoring and share 
+communicable results with the European R&D community. The evaluation framework has 
+already been introduced by the Europewave PCP action. 
+The project should report the progress of all its R&I activities according to these mechanisms 
+and KPIs with an annual deliverable and milestone for the project execution according to 
+plan. 
+The consortium will have to present a comprehensive risk and mitigation plan. In this plan 
+special attention should be paid to the risk that the chosen demonstration actions will not 
+reach a go-decision. 
+Besides defining and tracking progress of technology -specific KPIs in the technology areas 
+specifically covered, the project should monitor and report on the contribution towards the 
+high-level SET Plan KPIs defined by the SET Plan community in the ocean energy sector. 185 
+These annual reviews will be defined as milestones of the project and, as such, they will be 
+subject to the approval of the granting authority. 
+The project sets up an Advisory Board, composed of experts in ocean energy systems’ 
+research and innovation, representing public and private entities that are independent from the 
+beneficiaries of the project. A representation of the SET Plan Implementation Working Group 
+(IWG) on Ocean Energy, the Clean Energy Transition Cofund Partnership (CET Partnership) 
+related initiative, and of the European Commission should be as well part of the Advisory 
+Board. The Advisory Board advised the project to ensure coherence and alignment with the 
+SET plan activities. The consortium will ensure that the advice of the Advisory Board is 
+appropriately taken into account in the project’s implementation. This will be monitored by 
+the granting authority. 
+ 
+The consortium should define measures to maximise the impact of the successful project and 
+for that will contribute to the relevant Knowledge Community and Impact Network of the 
+Clean Energy Transition Partnership and share communicable results with the European R&D 
+community. 
+For activities in line with relevant initiatives under the International Energy Agency 
+Technology Collaboration Programme on Ocean Energy Systems (IEA TCP OES) 186 , 
+proposals should envisage liaising with these initiatives to consider possible synergies, 
+cooperation and mutual sharing of knowledge. 
+Proposals are encouraged to consider, where relevant, services offered by European research 
+infrastructures110, especially the Marinerg -i distributed infrastructure specialising in sea 
+applications., as well as related projects offering access research infrastructures in the ocean 
+energy applications, such as RISEnergy (https://risenergy-project.eu)187. 
+Duration 
+The estimated project duration is around 5 years.

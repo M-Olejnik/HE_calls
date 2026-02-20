@@ -1,0 +1,75 @@
+HORIZON-CL5-2027-07-D3-11: Demonstration of hydropower technologies for 
+efficient and forward-looking refurbishment of existing hydropower plants 
+Call: ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 8.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 17.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+ 
+the Grant 
+Agreements 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 192. 
+ 
+Expected Outcome: For a renewables -based electricity system sufficient flexible and also in 
+the long-run fully sustainable hydropower capacity is pivotal. 
+Project results are expected to contribute to all of the following expected outcomes: 
+• Enhancing the capacities of the hydropower fleet to contribute with variable renewables 
+base load to a secure and stable electricity system, including by modernising grid 
+integration and hydropower fleet control. 
+• Increase technology leadership, competitiveness and technology export potential of 
+European hydropower industry. 
+• Address challenges of climate change adaptation for a forward -looking and stable 
+operation of sustainable hydropower for the coming decades.   
+Scope: Demonstration of hydropower technology solutions which allow for efficient and 
+forward-looking refurbishment of existing hydropower plants. Provided solutions must be 
+socioeconomically and environmentally sustainable (including biodiversity) and provide a 
+respective assessment. Issues which can be addressed are for example: Innovative design of 
+turbines (and also draft tubes, nozzles and distributors) and generators, including innovative 
+improvements based on future load cycles and extending their intended life time; new models 
+and simulation tools for harsher operational conditions; digitalisation and artificial 
+intelligence to advance instrumentation and controls and flexibility and to develop innovative 
+operational strategies towards reduced O&M costs; transient aspect linked to new operating 
+patterns of hydro plants to cope with climate changes and renewable base load; new materials 
+for increased efficiency and resistance of equipment and increased performance, life time and 
+resilience of infrastructure including e.g. phasing out of PFAS and mineral oils; low -GHG 
+balance concrete; automated maintenance of metal hydropower turbines to reduce cost; 
+operator hazards and reduce LCoE related to OPEX; Improving water uses resilience via 
+integrated operations and management; simulation and forecasting tools for integrated risk 
+and mitigation analysis for climate change adaptation and in response to extreme weather 
+ 
+events by taking fully into account biodiversity requirements by targeting good ecological 
+status and e.g. fish migration; water flows and sediment dynamics not hampering flexible 
+hydropower production, innovative techniques for enhancing the life time of concrete 
+structures and the overtopping safety of embankment and rockfill structures.

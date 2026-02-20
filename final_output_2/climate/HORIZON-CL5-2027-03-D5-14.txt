@@ -1,0 +1,121 @@
+HORIZON-CL5-2027-03-D5-14: Onboard renewable energy solutions and energy 
+saving measures to reduce the fuel consumption of ships by at least 55% (ZEWT 
+Partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 6.50 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 8 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 259. 
+ 
+Expected Outcome : Project’s results are expected to contribute to the following expected 
+outcomes:    
+1. Full-scale demonstration of the combined solutions aiming to reduce ship GHG intensity 
+and energy savings by at least 55%, compared to 2008 levels.  
+2. Development of a standardized framework to verify improvements stemming from 
+energy efficiency measures and standardized interfacing with certification of renewable 
+energy solutions to strengthen the implementation of FuelEU Maritime.  
+3. Explore and establish assessment criteria, and sea-trial procedures for the combination of 
+solutions.  
+4. Adapt digital solutions towards standardised interface layers (hardware and software) to 
+introduce data-driven optimisation and seamless integration. 
+5. Facilitate the retrofitting of existing vessels with zero emission energy sources in 
+combination with energy efficiency measures up to 2030.  
+6. Address the safety and operational impacts on ships, ports and other land infrastructure, 
+as well as training gaps in terms of skills and competencies necessary for the adoption 
+and operation of these technologies onboard ships. 
+7. Strengthen market confidence in the integration of technologies and ensure sustainability 
+and continuation of project outputs, including the integrated technologies.  
+ 
+8. Address possible trade -offs with air and water pollution (unintended higher NOx or 
+Black Carbon, ammonia dispersion, etc.) linked to decarbonization (technologies and 
+fuels).   
+Scope: One of the key areas in the waterborne transport domain aimed at enhancing energy 
+efficiency and subsequently reducing emissions of greenhouse gas (GHG) and air pollutants is 
+the exploration, implementation, and assessment of renewable energy solutions and energy -
+saving measures. To this end, numerous advancements (e.g., electric and hybrid propulsion 
+systems, wind -assisted propulsion technologies, hull optimization, air lubrication systems 
+etc.) have been made across various aspects of ships. However, a high energy -efficient vessel 
+requires addressing specific challenges despite the significant technological advancements. 
+One of the most critical factors relates to the combination and integration of different 
+solutions and measures that may lead to additional energy savings concerning multiple ship 
+elements such as energy conversion, propulsion, onboard energy consumer demands (e.g., 
+hotel loads for passenger vessels, operation equipment for offshore vessels etc.), higher -
+efficiency conventional or alternative power systems and others without compromising the 
+ship’s safety and performance.  
+Adaptability across different ship types and scalability, particularly for large vessels, are 
+further challenges that require meticulous analysis. The shift towards zero emission entails 
+significant investment costs, especially for small and medium -sized shipping companies, and 
+consideration of financial viability is of paramount importance. Lastly, the absence of a 
+concrete standardization framework poses a substantial barrier that must be adequately 
+addressed and overcome.  
+ Proposals are expected to address all the following aspects:    
+1. Full-scale demonstration offering combined reduction of fuel consumption of at least 
+55% compared to 2008 levels. Proposals should clearly define the baseline, either in case 
+of retrofits or newbuilds, with respect to the ship’s existing or expected operational 
+profile. 
+2. Create a methodology estimating energy savings and reduced GHG intensity and 
+emissions of air pollutants from each technology separately and the aggregated savings 
+of combining these technologies in different scenarios.  
+3. Design optimization to facilitate deployment on different ship types, with a focus on 
+retrofit cases and replication.  
+4. Capitalise on existing digital solutions for including energy optimization (e.g., smart 
+control, energy management) and for seamless integration of technologies with the 
+ship’s automation and class‑certification processes introducing and explore cyber 
+security aspects of the developed solutions. 
+5. Projects should consider how high amounts of data transfers for monitoring, 
+optimization, and decision -making may pose risks in terms of data integrity, 
+cybersecurity and propose approaches to address those risks.  
+6. Assessment of environmental and wider benefits, including reduced emissions of air and 
+water pollutants, and underwater noise, as well as cost -effectiveness of the combined 
+solutions considering life-cycle assessment approaches.  
+7. Focus on safety and operational aspects addressing any technical and operational 
+challenges that may arise from the combination of energy efficiency solutions. 
+8. Facilitate effective cooperation and joint training between vessel crews, ports, and shore-
+side emergency services to promote safety preparedness, coordinated response strategies, 
+and best practices.   
+Proposals are expected to explain the contribution of their objectives, results, IP management 
+and exploitation strategy to the EU added value creation and strategic autonomy throughout 
+the supply and value chain, including competitiveness of the EU waterborne industry, 
+enhancement of the EU’s R&I capacity, technological know -how capabilities and human 
+capital, and resilience of the EU industrial and manufacturing base. Proposals are encouraged 
+to prioritise shipyards, equipment manufacturers and providers located and/or manufacturing 
+in the EU and EEA.  
+This topic implements the co -programmed European Partnership on ‘Zero Emission 
+Waterborne Transport’ (ZEWT). As such, projects resulting from this topic will be expected 
+to report on results to the European Partnership ‘Zero Emission Waterborne Transport’ 
+(ZEWT) in support of the monitoring of its KPIs.

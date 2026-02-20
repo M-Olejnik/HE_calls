@@ -1,0 +1,112 @@
+HORIZON-CL5-2026-05-D5-01: Large -scale demonstration of Heavy -Duty Battery 
+Electric Vehicles (HD BEV) towards long -haul logistics operations (2ZERO 
+Partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+34.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 68.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite-based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 8 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Increased percentage of Heavy Duty Battery Electric Vehicles (HD -BEV) tested and 
+used in operations by the logistics and transport operators involved in the 
+demonstrations, compared to the current fleets. 
+• Demonstrated efficient integration of HD -BEV in logistics fleets and operations along 
+several European corridor segments, building further on the initial fleet developed in the 
+large-scale demonstrations and across several types of transport operators. 
+• Reinforced ecosystem connecting involved parties as fleet operators, charge providers, 
+road authorities at local, regional, national and European levels – also reinforcing the 
+industrial HD-BEV value chain in the EU.   
+Scope: The implementation of zero emission vehicles for long -distance heavy -duty freight 
+transport is of key importance to meet the European targets reducing greenhouse gas and air 
+pollutants emissions. To further accelerate HD -BEV integration in logistic fleets and 
+operations it is essential to identify and address the remaining barriers and challenges of their 
+deployment. These barriers can be related to e.g. limitations in vehicle technology, digital 
+tools, knowledge and user awareness, stakeholder engagement, energy and power availability, 
+charging infrastructure needs such as depot charging and Megawatt Charging System (MCS), 
+permit processes and connection to the grid and services. The challenges for logistics 
+companies’ (also smaller operators) implementing zero emission transport solutions need to 
+be addressed. 
+Proposed actions are expected to address all of the following aspects: 
+• Perform large-scale demonstrations of HD BEV equipped with MCS reaching up to a 
+hundred market-ready vehicles and new generation vehicles in logistics fleets operations, 
+involving several transport operators also engaging SMEs and microenterprises, 
+focussing on long -haul operation (average ≥600km operations) during extended 
+durations of over twelve months. The demonstrations must cover at least four European 
+corridors’ segments in at least four Member States (MS) and/or Associated Countries 
+(AC), and involved HD BEV should where possible be also equipped with MCS 
+connector. 
+• Identify and address the barriers and challenges to accelerate the deployment of fleets of 
+HD-BEV in long-distance logistics operations in Europe, considering also the impact of 
+battery degradation and the weather conditions in all seasons. 
+• Develop and integrate in the demonstrations the use of digital tools with use of AI, 
+access to data sets, operational and governance logistics models including charging 
+opportunities and models to facilitate increasing numbers of HD -BEVs in logistics 
+operations 
+• Ensure synergies with the existing publicly accessible charging infrastructure available 
+or funded under the CEF and/or other national/regional funding schemes and assess 
+charging methods and business models for long -haul operations such as depot, 
+destination, truck-stops, overnight etc., using different charging power considering cost 
+and time optimisation. Only depot charging (mono and/or multi -operator) infrastructure 
+can be (partially) funded in demonstration projects, including related innovative business 
+models associated such as smart, bidirectional V2X solutions and possible second life of 
+batteries. 
+• Develop a competition -compliant ecosystem for sharing data for HD -BEV fleet 
+management in so-called data labs including data pooling, which can include publication 
+of open and FAIR (Findable, Accessible, Interoperable and Re -usable) data, and which 
+could build on the common European mobility data space, also supporting the 
+dissemination best practices, learnings and capacity building mechanisms as levers for 
+HD-BEV acceleration. Using the shared data, new services and tools can be developed, 
+including AI-based tools, agents and model frameworks for fleet management, both for 
+on-board and remote monitoring. 
+• Define and test use cases for the use of HD -BEV fleets in long -distance logistics 
+operations for cross-border flows, operational strategies to shift freight transport demand 
+to zero-emission solutions, and collaborative business model(s). 
+• Establish synergies and leverage with previous and ongoing projects related to HD -BEV 
+and charging systems and with related forums, platforms and programmes, such as with 
+the European Clean Corridors Initiative, as part of the Automotive Action Plan.237 
+• Map and assess how policies and relevant legislation (including incentives) can support 
+an affordable transition to HD -BEV. Identify and address, by providing 
+recommendations, remaining legal and regulatory barriers encountered in the 
+demonstrations.  
+An analysis of the potential economic, social and environmental benefits (notably greenhouse 
+gas and air pollutants emissions reduction) must be included in the demonstrations. 
+This topic implements the co -programmed European Partnership on ‘Towards zero emission 
+road transport’ (2ZERO). As such, projects resulting from this topic will be expected to report 
+on the results to the European Partnership ‘Towards zero emission road transport’ (2ZERO) in 
+support of the monitoring of its KPIs.

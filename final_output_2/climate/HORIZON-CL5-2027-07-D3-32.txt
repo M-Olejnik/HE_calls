@@ -1,0 +1,80 @@
+HORIZON-CL5-2027-07-D3-32: Delivery of industrial CCUS clusters – Societal 
+Readiness pilot 
+Call: ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 10.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 30.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following outcomes:    
+1. Near-to-market solutions for the safe integration and use of CCUS technologies in the 
+energy- and carbon-intensive industry; 
+2. A pipeline of projects that have the potential for commercial scale-up. 
+3. Deeper understanding of the needs and concerns of diverse social groups involved in or 
+potentially affected by the R&I development of the technology, thereby increasing the 
+potential for beneficial societal uptake and building trust in results and outcomes.   
+Scope: Projects are expected to be the de -risking first step to develop local or regional 
+industrial CCUS clusters, i.e. (multi) source and (multi) sink solutions for the decarbonisation 
+of the hard -to-abate industries of the region. Projects are expected to be the basis and 
+orientation for future full -size projects. To maximise the impact, projects should have a 
+substantial industrial involvement. 
+Projects should address most, but not necessarily all of the below issues: 
+• Detailed planning and preparation for retrofitting capture systems to existing industrial 
+plants; 
+• Demonstrating important system components; 
+• Identification and characterisation of the clustering potential of (cross -border) regional 
+CO2 emitters; 
+• Optimisation of industrial symbiosis between emitters and potential users of CO2; 
+• Development of tools to optimise the design and operation of the cluster(s) and operate 
+CO2 streams with different compositions, flow rates and operating regimes to comply 
+with the constraints for the shared transport and storage infrastructure; 
+• Identification of potential regional users of a common CO2 infrastructure (this could also 
+include enlargement counties, such as the Western Balkans, Ukraine and Moldova); 
+• Comprehensive economic and technical assessment to identify the best (multimodal) 
+transport options, including the re-use of existing infrastructure; 
+• Development of business models for regional CO2 transport networks, including for 
+dispersed industrial sites to link these to larger industrial clusters or pipeline networks; 
+• Consideration of feasible CO2 geological storage services 
+• Comprehensive set of studies and preparatory actions leading to permitting; 
+• Scenarios for integrating CO2 infrastructure in (plans for) regional, national and/or 
+cross-border energy networks (electricity, hydrogen, natural gas), also in relation to 
+future changes in industrial landscape and energy supply mix.   
+Projects are expected to deliver a strategy for the exploitation of results that includes plans for 
+scalability, commercialisation, deployment, permitting procedures, and identified public and 
+private funding sources for CAPEX and OPEX, like private equity, the InvestEU, the EU 
+Catalyst Partnership, the Innovation Fund, and possibly the Regional Development policy 
+funds. 
+For CO2 capture, transport, utilisation and (in particular onshore) geological storage, public 
+acceptability is paramount. Therefore, projects are expected to identify and engage relevant 
+end users and societal stakeholders (such as civil society organisations, non -governmental 
+organisations, and local associations) in deliberative activities, so as to consider and respond 
+to their needs and concerns. 
+This topic is a Societal-Readiness pilot: 
+• Proposals should follow the instructions applying to the Societal Readiness pilot, as 
+described in the introduction of the Horizon Europe Main Work Programme 2026 -2027 
+for Climate, Energy and Mobility. They entail the use of an interdisciplinary approach to 
+deepening consideration and responsiveness of R&I activities to societal needs and 
+concerns. 
+• This topic requires effective contribution of the relevant SSH expertise, including the 
+involvement of SSH experts in the consortium, to meaningfully support Societal 
+Readiness. Specifically, SSH expertise is expected to facilitate the socio -technological 
+interface and enable the design of project objectives with Societal Readiness related 
+activities.   

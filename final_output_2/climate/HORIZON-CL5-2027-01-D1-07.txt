@@ -1,0 +1,92 @@
+HORIZON-CL5-2027-01-D1-07: Advancing understanding, modelling and prediction of 
+extreme events in a changing climate 
+Call: CLIMATE 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 18.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+ 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 100. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Improved understanding of past and present extreme events in the context of climate 
+change in Europe and globally, as well as the interaction between different hazards, their 
+cumulative and/or cascading effects. 
+• Enhanced seamless prediction and projection modelling and attribution capabilities for 
+extreme events and their likelihood to support preparedness, response and resilience to 
+climate change by EU and national and regional actors. The EU Union Preparedness 
+Strategy, the EU Adaptation Strategy and the European Climate Adaptation Plan can act 
+as a guidance in these efforts. 
+• Up-to-date contributions towards latest climate science, risk assessments, adaptation 
+strategies and policies and improved early warning systems for single and multi -hazard 
+events.   
+Scope: Climate change is intensifying the frequency and severity of extreme events. 
+Understanding and predicting extreme events and the interaction between different types of 
+hazards is critical for building resilience and safeguarding communities. 
+Actions are expected to draw upon multiple lines of evidence from a hierarchy of models 
+(including high resolution Earth system models and digital twins) and data of past and recent 
+climate to further our understanding of processes, pre -conditioning and causality driving 
+extreme events under climate change conditions, including anthropogenic factors and internal 
+ 
+variability. Other innovative and efficient modelling and analysis methods, including AI -
+based approaches, to better predict, emulate and reveal climate change related extreme and 
+unprecedented high impact events, and to capture their likelihood are particularly welcome. 
+Extreme events should be addressed in their broadest sense and types, encompassing isolated, 
+compound or cascading events affecting lives, livelihoods, ecosystems, socio -economic 
+sectors and infrastructures, from large-scale continental to local-scale phenomena. 
+Actions should encompass quantitative intercomparisons, retrospective analyses, lessons 
+learned and case studies of recent emblematic and diverse extreme events, and demonstrate 
+the corresponding progress offered by the project in terms of improved understanding, 
+comprehensive integration of multiple lines of evidence, and seamless (e.g. from short -term 
+weather to sub -seasonal and multi -decadal scales) prediction and projection capabilities and 
+skills. 
+The work is expected to support the future European Climate Risk Assessment (EUCRA) 101, 
+for example through storylines on extremes or other approaches. Project outcomes should 
+demonstrate clear benefits for the prediction and attribution of extreme events and contribute 
+to the activities of the EU Mission on Adaptation to Climate Change. 
+Cooperation with global, EU, national and regional actors in the field of Disaster Risk 
+Reduction and climate adaptation, including through integration into or interoperability with 
+Copernicus, Destination Earth and other relevant initiatives is encouraged. In addition, 
+international cooperation with low - to middle -income countries automatically eligible for 
+Horizon Europe funding 102 is encouraged in support of climate resilience efforts, especially 
+for capacity building. 
+Selected proposals may consider the involvement of the European Commission's Joint 
+Research Centre (JRC) whose contribution could consist of scientific advice and technical 
+support in the context of the Copernicus Emergency Management Service and transfer of 
+relevant research outcomes to operations. 
+This topic is part of a coordination initiative between ESA and the European Commission on 
+Earth System Science (ESSI) under the new Extreme -Events Flagship Cluster. Successful 
+consortia will be asked to coordinate with projects to be selected under ESA's FutureEO 
+programme to facilitate access to and uptake of satellite data products and related tools or 
+methodologies. To this end, proposals should foresee sufficient means for effective 
+coordination (i.e. cluster meetings, joint data management, potential joint actions).

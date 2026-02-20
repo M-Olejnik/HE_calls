@@ -1,0 +1,87 @@
+HORIZON-CL5-2026-03-D3-18: Grid-forming capabilities for more resilient and RES -
+based electricity grids 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+10.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 20.00 million. 
+Type of Action Innovation Actions 
+Eligibility conditions The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, 
+navigation and/or related timing data and services, beneficiaries must 
+make use of Copernicus and/or Galileo/EGNOS (other data and 
+services may additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6-7 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following 
+exceptions apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• Improved preparedness of the electricity grids to support the EU's binding target for 
+2030 of minimum 42.5% renewables in gross final energy consumption, with the 
+aspiration to reach 45% by 2030 and full decarbonisation by 2050; 
+• Increased resilience and flexibility of electricity grids, which are able to better manage 
+high shares of variable renewable energy systems (RES); 
+• Transmission system operators (TSO) and Distribution system operators (DSO) develop 
+and use modern procedures and techniques for maintaining grid stability and secure 
+operation; 
+• Seamless integration of power electronics-interfaced devices (PEID) in modern grids.   
+Scope: Projects are expected to address all the following items: 
+• Develop new and improved knowledge and insights into the synthetic inertia, frequency 
+control, very fast voltage support, and overall support to the system stability offered by 
+grid-forming inverters (GFIs). Develop and/or update relevant models and simulation 
+tools; 
+• Develop and demonstrate innovative grid control and grid -forming solutions that 
+leverage the capabilities of GFIs with the view to enable mass deployment of GFIs; 
+• Address use cases for both transmission - and distribution -level grids, ranging from 
+applications used in residential and commercial domains up to the use in large RES 
+generators (PV or wind) and grid-scale battery storage systems. They could also consider 
+solutions that include LVDC microgrids that are connected to the main AC grids; 
+• Take a system -wise approach, including control strategies that can effectively 
+encompass wider areas;  
+• Develop interoperability between different solutions and products from different GFI 
+manufacturers. Devise standardised approaches through the use of hardware in the loop 
+and advanced simulation models for GFIs; 
+• Leverage modern solutions, including digital twins and artificial intelligence. Use and/or 
+develop, to the greatest extent possible, open -source software solutions and or software 
+modules. 
+• Develop a manual and propose best practices on this matter to be used by TSOs and 
+DSOs. Propose sets of standardised technical requirements for GFIs, test models and 
+procedures for verification of compliance (for the use of TSOs and DSOs) Identify 
+remaining gaps and further needs for research and development. Suggest market 
+conditions and/or opportunities that would incentivise the deployment at scale of GFIs.   
+The demonstration, test and validation of the activities must be carried out in at least two 
+pilots in different EU Member States or Associated Countries. The pilots are expected to 
+address diverse solutions (including voltage levels and geographical landscapes). 
+Projects are expected to include at least: one electricity TSO, two DSOs, one provider of 
+technology that includes GFIs, one RES -based energy producer, and one university and/or 
+research organisation.  
+Additionally, collaboration is encouraged with: 
+• one or more suppliers of GFIs, with the aim to cover the whole range of products 
+intended to be connected to both transmission and distribution voltage levels; 
+• at least one grid-scale battery storage system operator 
+• at least one aggregator that manages distributed energy resources that include GFIs.   
+This collaboration (minimum number of entities) is sought per project in total and does not 
+necessarily apply per each pilot in particular. 
+Selected projects are expected to contribute to the BRIDGE initiative 196  and actively 
+participate in its activities. 
+Proposals are encouraged to consider, where relevant, services offered by European research 
+infrastructures197, as well as related projects offering access to research infrastructures in the 
+electricity grid domain- particularly RISEnergy198. 
+International cooperation is encouraged, especially with Mediterranean countries other than 
+the EU and with Latin America and the Caribbean.

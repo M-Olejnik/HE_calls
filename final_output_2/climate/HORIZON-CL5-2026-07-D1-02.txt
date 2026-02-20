@@ -1,0 +1,94 @@
+HORIZON-CL5-2026-07-D1-02: Advancing European climate risk assessments 
+Call: CLIMATE 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+4.00 and 5.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 15.00 million. 
+ 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 76. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following outcomes: 
+• The implementation of the European Adaptation Strategy, European Climate Adaptation 
+Plan, EU Mission on Adaptation to Climate Change (along with other Green Deal 
+Missions), Preparedness Union Strategy, and national adaptation efforts are informed 
+with the latest scientific evidence and enhanced through tailored decision-support tools. 
+• Knowledge gaps identified in the EU Climate Risk Assessments (EUCRA) 77 and latest 
+IPCC assessments are narrowed, including system specific, region specific and cross -
+cutting gaps, so that the future EUCRAs benefit from a significant reduction of current 
+risk assessment limitations and useful knowledge is available for various policymaking 
+contexts.   
+Scope: The development and implementation of climate adaptation strategies and plans of the 
+EU and Member States rely on the most accurate and decision -useful assessments of climate 
+risks that science can provide. For this purpose, the new knowledge feeding future EUCRAs 
+will be essential. In the first EUCRA assessment, a number of gaps in terms of knowledge and 
+action, and corresponding recommendations are highlighted to underpin more effective EU 
+policy intervention to manage climate risks, stressing the importance of a systemic approach 
+to climate risk assessments, adaptation and resilience and of the interaction with non -climate 
+risk drivers, such as biodiversity loss and ecosystem degradation among others. 
+ 
+To support the future EUCRAs and advance adaptation and climate preparedness, actions 
+should improve the understanding and quantification of climate risks, their underlying drivers, 
+and reduce associated uncertainties for different systems and regions. New knowledge should 
+be integrated to assess the risks of wildcards (high impact low probability or black swan 
+events), crossing of tipping points and transboundary, compound and cascading risks in a way 
+that can facilitate decision-making. 
+Evidence from recent experiences of materialised climate risks and the performance of 
+adaptation efforts, encompassing the whole range from failure to success and including the 
+role of behavioural aspects, should be mapped and analysed to improve understanding of the 
+key factors that determine effective environmental and social resilience, preparedness and 
+adaptation capacity78. However, developing context-specific adaptation strategies is out of the 
+scope of this topic. 
+The main focus is tackling knowledge gaps identified in the EUCRA. Actions should extend 
+and improve the evidence base by retrieving inputs from relevant end -users, including local 
+and regional authorities, and civil society organisations. While general aspects should cover 
+the whole EU, actions should also improve understanding of sub -European and national to 
+local specific risks. Actions should enhance methodologies and tools for risk assessment, 
+making the outputs available through user -oriented EU portals. For these purposes, proposals 
+should: 
+• Address at least two systems or sectors (e.g. ecosystems, agri -food, health, 
+infrastructures, energy, water, economy and finance) that interact and have 
+transboundary effects. 
+• Include study cases at sub -European scale. While all the cases together should cover the 
+4 regions defined in EUCRA 79, some of the individual cases should also address the 
+transnational dimension (i.e. include more than one country of the particular region).  
+Actions should contribute to future editions of EUCRA. Specific resources should be devoted 
+to this purpose. Actions should leverage recent advances on other climate risk assessments 
+and related frameworks from reliable sources (e.g. the World Climate Research Programme, 
+WCRP). 
+Actions are encouraged to integrate multiple data sources and to leverage digital technologies, 
+such as AI/ML techniques, tools, and models, including those developed under the European 
+Commission’s Destination Earth initiative, if appropriate. 
+Coordination and collaboration with relevant projects from Mission Adaptation, Cluster 5 
+Destination 1 on Climate Science and Responses is encouraged, especially for evidence 
+retrieval, national to local scale assessment, methodological consistency, and cross -
+fertilisation through project scientific boards; with projects from Cluster 3 Destination 
+ 
+Disaster-Resilient Society for Europe for knowledge exchange and better integration of end -
+user perspectives, and from relevant Destinations in other Clusters. Actions are encouraged to 
+make use of the European research infrastructures including Integrated Research 
+Infrastructure Services for Climate Change Risks80, if appropriate.

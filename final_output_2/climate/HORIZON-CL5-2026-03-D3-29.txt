@@ -1,0 +1,72 @@
+HORIZON-CL5-2026-03-D3-29: Pre-commercial appraisal for CO2 aquifer storage 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 25.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 7 -8 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+ 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 216. 
+ 
+Expected Outcome: Project results are expected to contribute to the following outcome: 
+• Support pre -commercial CO2 geological storage appraisal, speed up storage site 
+development, support planning of CO2 capture projects (and related source to store 
+linkages), and help closing the storage capacity gap, in particular in Central, Eastern and 
+Southern Europe.   
+Scope:  
+• Carry out a storage site identification and appraisal programme including at least one 
+injection pilot test in a deep saline aquifer. Injection tests can be done with water only to 
+reduce cost and testing duration, although this could possibly (but not necessarily) be 
+complemented by water with CO2 (or N2) to determine the reservoir injectivity with 
+different phases. 
+• Cooperate with a national competent authority to ensure support in terms of the selection 
+of the priority target formations and to have access to existing subsurface data. 
+Demonstrate how the test site has been identified, and that CO2 storage is legally 
+possible in the designated area. 
+• Test sites must be in a saline aquifer at a minimal depth of 800 m, in a geologically 
+stable area, with minimal faulting and fracturing, that provide significant scalable 
+storage capacity (proven confinement, limited heterogeneity, and with favourable 
+porosity and permeability and porosity), and are expected to gain the necessary permits, 
+following the appraisal and testing. The geological conditions of the site should be 
+defined in term of risks as it is in the Directive, that is, proposed site must demonstrate, 
+in line with existing data, that prior analysis shows that, under the proposed conditions of 
+use, there is no significant risk of leakage or damage to human health or the 
+environment. 
+• Tests should be designed as to allow a reliable quantification of the injectivity index. 
+Test duration should be optimised to achieve a representative pressure transient 
+response. 
+• The Horizon Europe grant can support all data acquisition, processing and interpretation, 
+modelling, the drilling, completion and logging of the test well, the injectivity test, and 
+the measuring & monitoring technologies. These operations can be carried out by the 
+consortium or be subcontracted.  
+ 
+This topic contributes to the R&I activity in the SET -Plan CCUS Implementation Plan 217 to 
+unlock CO2 storage capacity through support to pre-commercial appraisal activities.

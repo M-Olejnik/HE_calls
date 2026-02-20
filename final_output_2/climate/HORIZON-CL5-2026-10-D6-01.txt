@@ -1,0 +1,176 @@
+HORIZON-CL5-2026-10-D6-01: Flagship -pilot: large -scale demonstrations of CCAM 
+(CCAM Partnership) 
+Call: BATTERIES and MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+100.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 100.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 7 -8 by the end of the project – 
+see General Annex B.  
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome : This flagship pilot is the culmination of the entire activity catalogue 
+carried out by the CCAM Partnership since its launch in 2021. It will combine in one project 
+the most promising CCAM use -cases across three key domains, with the technological 
+advancements from all its R&I clusters 274  supporting and enabling CCAM systems and 
+services towards market uptake. 
+This action is expected to contribute to all the following outcomes: 
+• Large-scale demonstrations of inclusive, user -oriented, and well -integrated CCAM 
+systems and services for people and goods in mixed traffic through Field Operational 
+Tests (FOTs), Technology Pilots, and Living Labs, building upon advanced and 
+emerging SAE Level 2 systems to move towards SAE Level 3 and 4 functionalities, at 
+multiple test sites and corridors showcasing CCAM potential 275, for a minimum of 12 
+months. 
+• Validation of enabling technologies that facilitate the extension of Operational Design 
+Domains (ODDs) in large -scale operations and enhance perception performance under 
+poor lighting and adverse weather conditions in large -scale demonstrations and pilots. 
+Assessment of deployment readiness and demonstration of technological maturity 
+focusing on their reliability, security, and real-world applicability. 
+• Identification of the remaining technological and societal development needs to 
+accelerate deployment and drive user and societal demand. These demonstrations will 
+strengthen the connection with users and society through a co -creative process, ensuring 
+that technological developments align with real-world needs and societal expectations. 
+• Recommendations for regulatory action aimed at facilitating the deployment of 
+Automated Vehicles (AVs) in Europe, by engaging with relevant policy and regulatory 
+bodies. 
+• Identification and selection of viable business models for each of the use -cases explored 
+per domain, aiming for continued operation after the flagship pilot through private 
+investment or national/local public funding including mechanisms for transferability and 
+replicability to enable a broader application of results to other cities and regions.  
+Scope: CCAM solutions are expected to provide a more user -centred, inclusive mobility 
+system that enhances safety, reduces congestion, lowers harmful emissions, and contributes to 
+decarbonization. In addition, CCAM solutions enhance transport effectiveness, thereby 
+strengthening Europe's competitiveness in the global mobility sector. Novel mobility services 
+can enable seamless integration with existing services such as public transport and logistics, 
+while higher levels of automation are expected to boost transport productivity and efficiency. 
+However, the benefits of these solutions must be proven through large -scale demonstrations, 
+validating their effectiveness for both people and goods. It is also of key importance to 
+integrate and test enabling vehicle technologies and to validate trusted communication and 
+ 
+cyber security, as well as real time information transmission. Moreover, a comprehensive 
+assessment of technology maturity is necessary, evaluating the readiness of automated driving 
+functions within mixed traffic conditions and in confined areas. This evaluation helps 
+determine the readiness of automation technologies for deployment, considering factors such 
+as operational reliability, regulatory compliance, and user acceptance. By fostering a 
+systematic approach to large -scale demonstrations, technology validation, and maturity 
+assessment, and by prioritising zero -emission mobility, these efforts contribute to the 
+seamless integration of CCAM solutions across the entire public and private transport 
+ecosystem. 
+The proposed action is expected to demonstrate different CCAM solutions and technologies 
+in all the following domains: 
+• Individual mobility within mixed traffic environments, encompassing urban, suburban, 
+motorway, and rural settings, with a focus on the seamless integration of automated and 
+conventional vehicles. Use cases should consider diverse road conditions, infrastructure 
+variability, traffic dynamics, and user needs, ensuring safe, efficient, accessible and user-
+centric mobility solutions. A key aspect is the integration of advanced technologies (e.g. 
+AI, V2X, cybersecurity, precise positioning, etc.) and the validation of technological 
+enablers ensuring that automation solutions are robust, scalable, and adaptable to all 
+CCAM use cases for people and goods. 
+• Shared mobility and public transport operations in urban, regional and rural areas, for 
+end-to-end journeys aiming to enhance safety, accessibility, equity, and sustainability, 
+including improving business cases for mobility providers. Validate realistic door -to-
+door mobility services including links to mobility hubs, ridesharing and parking areas to 
+enhance end-to-end journeys in urban areas and regions. 
+• Freight transport  for hub -to-hub, corridors, and logistics hubs on public roads and 
+confined areas, integrating logistics, fleet and terminal operators. Validate realistic end -
+to-end use cases, such as logistics hubs at airports, ports, cross -border, and transhipment 
+terminals, connecting use-cases in confined operations with TEN-T freight corridors.  
+Where relevant, intersecting social factors, such as gender, age, social origin and income level 
+should be considered. All new vehicles acquired for the project's activities, as well as all 
+vehicles participating in final demonstrations conducted in public spaces, are expected to be 
+environmentally friendly, with a special focus on electric vehicles, to maximise synergies and 
+ensure the future integration of solutions into the sustainable mobility mass market. 
+The proposed action should integrate all the following common activities across domains: 
+• Ensuring close coordination and synergies with innovation actions planned under the 
+European Connected and Autonomous Vehicle Alliance, (ECAVA), in particular the 
+Autonomous driving technology roadmap, announced by the European Automotive 
+Action Plan. 
+• Leveraging on the Coordination and Support Action, HORIZON-CL5-2025-01-D6-02: 
+Preparing for large-scale CCAM demonstrations.276 
+• Leveraging on the Coordination and Support Action HORIZON-CL5-2024-D6-01-05 
+Robust Knowledge and Know -How transfer for Key -Deployment Pathways and 
+implementation of the EU-CEM.277 
+• Ensuring close coordination, once launched, with HORIZON-CL4-2027-04-DATA-08: 
+Demand-side 3C pilot demonstrators on converged Telco Edge Cloud Infrastructure , in 
+particular the pilot demonstrator on unlocking telco -edge-cloud functions for the 
+mobility ecosystem. 
+• Ensuring inclusive engagement of all key European private stakeholders (e.g., shared 
+mobility, public transport and logistics operators, infrastructure providers, associations, 
+SMEs and start -ups, in particular technology developers), and notably a broad 
+representation of the European OEMs, in addition to Tier -1 suppliers, as well as public 
+players (e.g., municipalities/cities/regions, motorway operators, emergency service 
+operators, public transport authorities, research institutions) and community groups (e.g., 
+user groups) for the transport of people and goods, across their entire value chain, in the 
+designated domains. Each of these shall contribute to European technological 
+innovation, sovereignty and competitiveness and none shall contrive the security and/or 
+public policy interests of the Union. 
+• Assessing the transferability, adaptability, and scalability of advanced technologies such 
+as photonics and Generative AI as key enablers for the extension of ODDs , ensuring 
+broad deployment potential. 
+• Executing public engagement and awareness campaigns to increase societal readiness 
+and promoting the use of CCAM as well as implementing CCAM education and training 
+programs. 
+• Assessing the degree to which the demonstrated services comply with current regulatory 
+requirements and providing recommendations to ensure full compliance.  
+Bringing forth real -world evidence on the effects, impacts, and long -term implications of 
+integrating mixed CCAM solutions into the mobility system including long -term impact for 
+users. 
+• Exemplifying concrete and strategic benefits of vehicle -vehicle or vehicle-infrastructure 
+cooperation to improve safety, optimize traffic flow, and enhance the overall efficiency 
+of CCAM transportation networks considering both digital and physical infrastructure 
+and including guidance for remote operations and management. 
+ 
+• Using data from large -scale demonstrations to identify and extract pertinent scenarios 
+and edge cases, ensuring these insights are systematically integrated into related 
+databases for validation scenarios, while also exploring data sharing opportunities with 
+relevant authorities. 
+• Facilitating the interoperability of connected and automated systems across vehicle 
+brands, regions, and Member States and Associated Countries, taking into consideration 
+different traffic environments and road densities, also in line with the Automotive Action 
+Plan on large-scale cross-border testbeds. 
+• Encouraging collaboration with the European Software -defined Vehicle (SDV) initiative 
+by adopting existing interfaces and proposing new ones developed within the project for 
+potential inclusion in the SDV framework.  
+This topic requires the effective contribution of SSH disciplines and the involvement of SSH 
+experts and institutions, as well as the inclusion of relevant SSH expertise, in order to produce 
+meaningful and significant effects enhancing the societal impact of the related research 
+activities. 
+This topic implements the co -programmed European Partnership on ‘Connected, Cooperative 
+and Automated Mobility’ (CCAM). As such, projects resulting from this topic will be 
+expected to report on results to the European Partnership ‘Connected, Cooperative and 
+Automated Mobility’ (CCAM) in support of the monitoring of its KPIs. 
+Projects funded under this topic are expected to build strongly upon, and collaborate closely 
+with, the CSA resulting from HORIZON -CL5-2025-04-D6-02278, “Preparing for large -scale 
+CCAM demonstrations”, ensuring that the implementation of their activities and findings 
+aligns with the strategic direction outlined in the CSA. 
+Projects resulting from this topic are expected to apply the European Common Evaluation 
+Methodology (EU-CEM) for CCAM279.

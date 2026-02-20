@@ -1,0 +1,119 @@
+HORIZON-CL5-2026-05-D5-02: Energy -efficient software -defined EVs (2ZERO 
+Partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+16.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 16.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+ 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 238. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following outcomes: 
+• Demonstrated energy -efficient, electric Software Defined Vehicles (SDVs), with 
+purposely developed and strategically positioned traction and chassis hardware (HW) 
+subsystems leveraging opportunities of the software (SW) abstraction layers as the 
+cornerstone of SDV, and overall scalable. 
+• Real life demonstration of the value of functional integration in terms of user value 
+(ensuring travel time) and responsiveness to user and societal needs (e.g. reduced space 
+needed for the vehicles, reduced consumption of resources, responsive to diverse user 
+needs and abilities), charging infrastructure (vehicle -to-grid integration), cost (e.g. 
+reducing development and integration effort, number, and specs for individual 
+components), and energy demand (e.g. load shifting). 
+• Testing and validation of vehicle -to-grid (V2G) functionalities in real -world conditions 
+to ensure efficient, interoperable and software -driven integration between SDVs, 
+recharging infrastructure. 
+• Improved energy efficiency and increasing sustainability with optimal -sized batteries 
+and long-trip capability with fast charging. 
+• Optimal integration and demonstration of HW and SW solutions along with standardised 
+interfaces to enable affordable, mass -market EVs, such as but not limited to SDV 
+application domains chassis/powertrain (e.g. vehicle size), body comfort and cockpit 
+ 
+(maximizing the interior space, comfort and safety relative to the vehicle's exterior 
+dimensions) to achieve efficient, compact designs with minimal and sustainable material 
+use239.  
+Scope: In the past years a variety of road vehicle technologies on component and sub -system 
+level (e. g. mechanical, electro -mechanical, electro-chemical, etc.) have been developed and 
+offer the potential to be combined and improve user benefits at the embedded system level. 
+The potential to further leverage these developments with Software Defined Vehicle solutions 
+(e.g. high-level functionality ranging from energy efficiency and performance improvements 
+to personalizing the driving experience) over the lifetime of the vehicle needs to be explored. 
+This would bring together developers working at the embedded system level with those 
+working on high -level functions also to ensure that novel solutions will conform with 
+homologation requirements. Solutions coming from this project must also be compatible with 
+current automotive standards, esp. regarding external infrastructure. Compatibility e.g. with 
+EVSE regarding ISO 15118-20 must be ensured. 
+Proposed actions are expected to address all of the following aspects, where possible building 
+upon available open-source building blocks: 
+• Investigate the potential of novel propulsion and chassis system/sub -systems packaging 
+and performance from a holistic EV architecture perspective and for fast charging, 
+significantly improving the current State -of-Art performance via digital solutions and 
+leveraging AI when beneficial. 
+• Include chassis and traction hardware solutions as well as standardised control and 
+physical interfaces to improve innovation speed and software solutions, also leveraging 
+the potential of open source. 
+• Develop a system architecture to ensure optimal compatibility with the high -level SW 
+and the physical powertrain and Electrical/Electronic (E/E) systems (e.g. mechanical, 
+electro-mechanical, etc.) with appropriate SW tooling for efficient SDV development, 
+integration and validation, e.g. operational functionality, also including driving range 
+improvement according to user expectations. Target applications are expected to be fit 
+for mass-market M1 C-segment vehicle or below. 
+• Identify required software interfaces (Application Programming Interface and/or 
+software services), i.e. especially which kind of information/data are required for an 
+energy-efficient in the context of powertrain, chassis, automated driving and vehicle 
+SW/interfaces needed for vehicle -to-grid functionalities, considering the vehicle and 
+environment. 
+• Develop solutions that minimize energy use while meeting users’ expectations, such as 
+battery management, predictive maintenance, or eco -efficient routing and driving 
+systems, leveraging AI -driven workflows when beneficial. When using AI -based 
+ 
+approaches, projects are expected to ensure that the use AI in electric vehicles does not 
+increase the overall energy need. 
+• Ensure the consistency of data and information from different sources and different 
+market players to ensure the scaling potential of solutions (i.e. in -vehicle interfaces as 
+part of the Vehicle Signal Specification, e.g. COVESA, Eclipse Software Defined 
+Vehicle).240 
+• Propose recommendations on possible test protocols for future implementation and 
+safety ratings. 
+• Collaborate with the Software-defined Vehicle (SDV) initiative under the Chips JU241 by 
+adopting relevant existing interfaces and building blocks, and proposing new ones 
+developed within the project for potential inclusion in the SDV framework. Ensure close 
+coordination with the European Connected and Autonomous Vehicle Alliance (ECAVA) 
+announced in the European Automotive Action Plan.  
+This topic implements the co -programmed European Partnership on ‘Towards zero emission 
+road transport’ (2ZERO). As such, projects resulting from this topic will be expected to report 
+on the results to the European Partnership ‘Towards zero emission road transport’ (2ZERO) in 
+support of the monitoring of its KPIs.

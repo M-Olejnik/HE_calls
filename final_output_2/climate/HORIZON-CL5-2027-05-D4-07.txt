@@ -1,0 +1,76 @@
+HORIZON-CL5-2027-05-D4-07: Integrating circularity in LCA -based modelling 
+frameworks for renovation of buildings (Built4People Partnership) 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.75 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 27.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 232. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Demonstration of measurable reductions in material flows, life cycle energy use and 
+GHG emissions in building renovations that integrate circularity strategies to contribute 
+to achieving net-zero whole life carbon buildings; 
+• More robust approach to current modelling frameworks to comprehensively reflect the 
+complexity of circularity strategies in life cycle assessments at building scale.   
+Scope: European buildings are increasingly adopting circularity strategies in renovations to 
+reduce life cycle environmental impacts and improve resource efficiency in response to the 
+requirements based on current frameworks, such as Level(s) and WLC models used by 
+Member States based and EN 15978 standard. The complexity of these circularity strategies, 
+such as material reuse and recycling, and addressing the changing nature of assessed systems 
+with long life cycles are critical for achieving more reliable assessment results. Further work 
+is needed to advance and achieve more detailed modelling frameworks that integrate 
+circularity assessment with life cycle assessment, supporting the delivery of net -zero whole-
+life carbon buildings. 
+Proposals should address all of the following: 
+• Develop a comprehensive modelling framework that integrates circularity assessment in 
+life cycle, covering cradle to cradle system boundary; 
+• Apply the developed modelling framework to at least three real-life buildings in different 
+climatic regions in different Member States or Associated Countries, for which 
+renovation project developers have adopted ambitious circularity strategies to achieve 
+zero whole -life carbon buildings. Circularity strategies should include reuse and/or 
+recycle, as well as at least one of the following: reduce, repair, refurbish, remanufacture, 
+and repurpose; 
+• Assess the embodied emissions (from materials, products, and construction processes) 
+and operational emissions (from energy use for HVAC, DHW, electrical appliances, 
+lighting) of the real -life buildings subjected to renovations during their entire life cycle, 
+referencing life cycle stages in EN 15978.   
+This topic implements the co -programmed European Partnership on ‘People -centric 
+sustainable built environment’ (Built4People). As such, projects resulting from this topic will 
+be expected to contribute to the objectives of Built4People, transfer knowledge to its network 
+ 
+of innovation clusters233 and report on results in support of the monitoring of the Built4People 
+KPIs.

@@ -1,0 +1,63 @@
+HORIZON-CL5-2027-02-D3-30: Advancements in Direct Air Capture  
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 8.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 16.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 7 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 218. 
+ 
+Expected Outcome: Project results are expected to contribute to the following outcome: 
+• Accelerating the commercial availability of Direct Air Capture technologies.   
+ 
+Scope: Projects are expected to aim at scaling up existing technical solutions to at least the 
+level of pilot demonstration in relevant environments (TRL 7 or higher). 
+Projects are expected to demonstrate: 
+• Improving the cost efficiency of the capture and regeneration process, including Balance 
+of Plant; 
+• Improving material performance and process designs (e.g. capture/desorption capacity 
+and kinetics, durability, long-term stability in air); 
+• Potential for manufacturing and scale-up (recycling and reuse of materials); 
+• Flexible operation under intermittent or surplus renewable energy supply.   
+Depending on the technology, other important issues to address are: 
+• Reducing energy use for sorbent/solvent regeneration; 
+• Alternative materials for - and approaches to - CO2 separation; 
+• Development and demonstration of materials in particular for DAC systems operating in 
+cold temperatures or under humid conditions, or in areas with severe air pollution; 
+• Accuracy of simulated predictions compared to validation experiments; 
+• New designs for efficient, high-flux air contactors, optimised for maximum air contact.   
+Projects must develop a comprehensive life cycle assessment to evaluate the environmental 
+implications of the entire DAC system, from material extraction and use, energy use and 
+greenhouse gas emissions through to end-of-life. 
+The use of the European Research Infrastructure for CO2 Capture, Utilisation, Transport and 
+Storage ECCSEL is encouraged but not mandatory. 
+International cooperation with participating countries of the Mission Innovation Carbon 
+Dioxide Removal Mission219 is encouraged.

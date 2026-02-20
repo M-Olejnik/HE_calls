@@ -1,0 +1,137 @@
+HORIZON-CL5-2026-05-D5-11: Ports of the future (ZEWT Partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+The Commission estimates that an EU contribution of around EUR 
+10.50 million would allow these outcomes to be addressed 
+project appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 21.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite-based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 8 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes.    
+1. Ensured applicability and replicability of sustainable and digital strategies at port level 
+for middle and small -size maritime ports and inland ports across all the EU, balancing 
+geography and size. Ensured increased adoption of sustainable waterborne transport 
+practices in ports of all sizes.  
+2. Sustainable and digital strategies will prepare middle and small -sized ports to enhance 
+their competitiveness with a focus on cost -effective and scalable adaptation measures, 
+increase their climate resilience and biodiversity friendliness, and improve safety for port 
+workers and crews of ships at berth. 
+3. Sustainable and digital strategies will reduce emissions of GHG, air and water pollutants 
+and other biodiversity impacts from ports, applying innovative solutions for zero -
+emission and biodiversity friendly port operations and ships at berth. Strategies should 
+be applicable to maritime and inland waterway middle -sized and small -sized ports and 
+located throughout Europe. 
+4. Contribute to the objectives of the EU Port Strategy. 
+5. Development of sustainable and digital strategies that not only enhance the 
+competitiveness of middle -sized and small -sized ports but also mitigate health risks for 
+populations in port areas.   
+Scope: Ports are important multimodal hubs in the supply chain, linking the sea with the 
+hinterland, evolving into critical hubs and facilitators of sustainable energies, are clusters of 
+industry and circular economy, as well as geo -political and geo -economic resilience. Europe 
+needs ports that are competitive and sustainable on local, regional and global levels, and the 
+Competitiveness Compass calls for a new strategy to highlight the role that European ports 
+will play in the future EU economy. 
+The Green Deal aims to achieve climate neutrality by 2050 and to reverse the degradation of 
+ecosystems by 2030 . The EU Sustainable and Smart Mobility Strategy 256 (SSMS) states that 
+infrastructure must be adapted to climate change, less biodiversity harmful and made resilient 
+to disasters. In line with the SSMS, it is also important that ports can provide increasing 
+volumes of clean and decarbonised energy sources, notably renewable energy, and on a 
+modernised grid. 
+Proposals are expected to address all the following aspects:   
+1. Identify innovative technologies, as well as results from EU -funded research, innovation 
+and deployment projects and other technological, economic and social best practices. 
+Consider mature technologies ready to be deployed in middle and small -sized ports 
+across the EU contributing to the expected outcomes. Address challenges and 
+opportunities for the implementation and/or for commercial deployment of these 
+solutions in small and medium -sized maritime ports and inland waterway ports located 
+throughout the EU. 
+2. Developing strategies contributing to the expected outcomes for middle and small ports 
+across the EU following a geographical balance, contributing to the objectives of the EU 
+Ports Strategy. 
+3. Design and demonstrate integrated smart energy systems and grids for port and 
+waterborne transport operations, including energy production, storage and OPS 
+operations, covering the needs for electrification and charging of port terminal 
+equipment, and modes of transport connecting the port to the hinterland, such road 
+transport, nearby industry and buildings) to make the solutions more energy - and cost-
+effective. 
+ 
+4. Develop climate resilience strategies of middle and small size ports and their 
+infrastructure, including adaptation measures to address sea -level rise, extreme weather 
+events, and other climate -related risks, with a focus on cost -effective and scalable 
+solutions (such as nature -based solutions), building on best practices developed in EU -
+funded research projects. 
+5. Analyse how VTMIS and port community systems can be developed and exploited to 
+their full potential, harmonizing functionalities whenever possible, paving the way to 
+automatic shipping. Consider possible linkages to eMSW and eFTI. 
+6. Apply digital standards and common semantics which enable the harmonisation of 
+collection and analysis of GHG and pollutant emissions at small and medium sized 
+TEN-T ports network. 
+7. When developing digital solutions proposals should consider cybersecurity implications 
+and develop solutions that assess and manage vulnerabilities in IT and OT systems, 
+establish robust incident response plans, implement strong access control measures, 
+network and supply chain security, in line with EU standards such as the NIS Directive 
+and the Cybersecurity Act and with the goal of achieving resilience and redundancy. 
+8. Explore long -term workforce requirements for zero -emission, climate -resilient, 
+biodiversity friendly, safe and competitive port operations, ensuring continuous 
+knowledge transfer between universities, vocational training providers and industry. 
+9. Develop a R&I roadmap for solutions of EU and EEA ports to address the areas covered 
+under the expected outcomes, taking into consideration 2035 as an intermediate 
+milestone and 2050 as the final one. 
+10. Explore, with competent authorities and stakeholders, how environmental aspects related 
+to zero pollution and circular economy for ports as well as maritime and inland 
+waterway vessels can be improved in an environmentally and economically sustainable 
+way (through reception facilities, degassing facilities, OPS...), in line with the ambition 
+expressed in i.a. NAIADES III, SUMPs, local or regional Air Quality Plans and Waste 
+Management Plans. Collaborate with industry stakeholders and regulatory bodies to 
+align project outcomes with EU policy objectives, particularly the Port Strategy. 
+11. Explore cooperation between ports, as well as stronger horizontal networking, to 
+increase the efficiency of undertakings and improve the integration of European ports. 
+12. Evaluate the financial implications of proposed solutions and identify possible strategies 
+and tools for financing/funding as well as business models that go beyond request of 
+public support.  
+Solutions at project level must be demonstrated in at least six medium and small -sized TEN-T 
+ports ensuring a geographical balance, of which five are maritime ports and one inland. Not 
+all solution must necessarily be demonstrated in all ports. 
+Proposals are expected to explain the contribution of their objectives, results, IP management 
+and exploitation strategy to the EU added value creation and strategic autonomy throughout 
+the supply and value chain, including competitiveness of the EU waterborne industry, 
+enhancement of the EU’s R&I capacity, technological know -how capabilities and human 
+capital, and resilience of the EU industrial and manufacturing base. Proposals are encouraged 
+to include synergies with shipyards, equipment manufacturers and providers, including start -
+ups and SMEs, located and/or manufacturing in the EU and EEA. 
+This topic implements the co -programmed European Partnership on ‘Zero Emission 
+Waterborne Transport’ (ZEWT). As such, projects resulting from this topic will be expected 
+to report on results to the European Partnership ‘Zero Emission Waterborne Transport’ 
+(ZEWT) in support of the monitoring of its KPIs.

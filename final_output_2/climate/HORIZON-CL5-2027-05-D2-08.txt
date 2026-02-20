@@ -1,0 +1,101 @@
+HORIZON-CL5-2027-05-D2-08: Demonstration for Long -duration Battery Energy 
+Storage Systems (BATT4EU Partnership) 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+9.40 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 18.80 million. 
+ 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, 
+navigation and/or related timing data and services, beneficiaries must 
+make use of Copernicus and/or Galileo/EGNOS (other data and 
+services may additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or 
+as an associated partner. The JRC will not participate in the 
+preparation and submission of the proposal - see General Annex B. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Projects are expected to contribute to all of the following outcomes: 
+• Demonstrated system -level long -duration energy storage (LDES) solutions, explicitly 
+aimed at enhancing grid stability, resilience, and flexibility in Europe. 
+•  Substantial reduction of Europe's dependence on critical raw materials through the use 
+of abundant, low-cost, and sustainable materials. 
+• Contribute to strategic insights for a coherent EU -wide stationary storage deployment 
+strategy, enhancing European energy autonomy and sustainability. 
+• Sufficient and reproducible operational data and insights to serve as reliable input 
+towards detailed technoeconomic analyses.   
+Scope: Proposals should focus on system-level demonstrations of innovative long -duration (> 
+8 hours) battery storage concepts that can effectively support utility -scale energy systems or 
+industrial consumers in achieving energy security and operational sustainability. 
+Projects are expected to cover all the following points: 
+• Demonstration of advanced long -duration storage technologies not yet on the market 
+such as novel redox flow batteries (standard or mediated), high -temperature systems, 
+metal-air systems, multivalent chemistries (organic or aqueous), or other non -
+commercialised technologies or architectures. 
+• Assessment and definition of use case(s) intended for the proposed technology (front -of-
+the-meter grid-scale storage, behind-the-meter large industrial energy consumer, firming 
+of renewable generation) along with quantified impact on improved grid resilience, 
+reduced emissions, safety, and lowered energy storage cost. 
+• Assessment of hybridization potential of complementary energy storage technologies 
+(e.g., redox flow batteries with supercapacitors) to optimize overall system performance 
+for the intended use case(s) and extending system lifecycle. 
+• Utilization of abundant, low -cost, and sustainable materials, explicitly prioritizing 
+materials with reliable and scalable European supply chains, accompanied by realistic 
+and detailed pathways to production routes at scale. 
+• Integration of advanced digital technologies, for accurate state -of-charge (SOC), state -
+of-health (SOH), and lifetime predictions, optimizing battery management systems 
+(BMS), energy management systems (EMS), and overall component performance for 
+extended system longevity. 
+• Comprehensive techno -economic analyses, including realistic assessments of CAPEX, 
+OPEX, based on measured technical performance metrics (e.g., self -discharge rates, 
+calendar life, cycle life, round -trip efficiency, necessary safety investments) to clearly 
+establish economic viability and competitiveness for the intended use -case in 
+comparison to the commercial, incumbent technology. 
+• Comprehensive safety assessment at system -level, documenting potential concerns (e.g. 
+flammability, toxicity, explosion potential) and mitigation strategies ahead of widescale 
+adoption of technology.  
+The Commission initiative for Safe and Sustainable by Design151 (SSbD) sets a framework for 
+assessing the safety and sustainability of chemicals and materials which should be considered 
+as a reference for project proposals. 
+Whenever the expected exploitation of project results entails developing, creating, 
+manufacturing and marketing a product or process, or in creating and providing a service, the 
+plan for the exploitation and dissemination of results must include a strategy for such 
+exploitation. The exploitation plans are expected to include preliminary plans for scalability, 
+commercialisation, and deployment (feasibility study, business plan) indicating the possible 
+funding sources to be potentially used (in particular the Innovation Fund). 
+Proposals could consider the involvement of the European Commission's Joint Research 
+Centre (JRC) 152 whose contribution could consist of performing experimental or desk -top 
+research on battery performance or safety. For further information on the JRC’s possible 
+contribution to the projects, please, search for additional publicly available information on the 
+ 
+JRC’s website153 (EU Science Hub) on the NCP portal, or request specific information from 
+the JRC (JRC-NCP-Network@ec.europa.eu) 
+JRC will assure that all the other applicants receive the same information on the JRC’s 
+possible contribution to the project (e.g., via the topic -specific FAQs under the Funding and 
+Tenders Portal). 
+This topic implements the co -programmed European Partnership on Batteries (Batt4EU). As 
+such, projects resulting from this topic will be expected to report on the results to the 
+European Partnership on Batteries (Batt4EU) in support of the monitoring of its KPIs. 
+ 

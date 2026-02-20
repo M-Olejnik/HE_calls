@@ -1,0 +1,85 @@
+HORIZON-CL5-2027-03-D5-05: Higher Voltage, Megawatt Charging System 
+compatible, modular powertrain for Heavy Duty Vehicles (HDV) (2ZERO Partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 8.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 16.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite-based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+ 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 7 by the end of the project – see 
+General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 247. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Demonstrated integration potential and modularity of next level advanced high -voltage 
+systems to benefit cost of Commercial Vehicles (CV) in particular for the Heavy -Duty 
+Vehicles (HDV) segment. 
+• Improved energy efficiency and higher utilization potential of HDV (ensuring full 
+operational capability for the intended usage models) via high -voltage powertrain 
+configurations. 
+• Demonstrated benefits of high -voltage systems also for fast charging and auxiliary 
+components.   
+Scope: Major challenges still faced by Heavy Duty Battery Electric Vehicles (HD -BEV) are 
+cost and fast charging. As electric vehicles become more attractive through Total Cost of 
+Ownership (TCO), significantly higher acquisition costs remain, partly caused by the wide 
+spectrum of usage scenarios and a relatively low number of vehicles, which makes 
+development costs a significant factor for vehicle price. 
+Proposed actions are expected to address all of the following aspects: 
+• Simplify system configurations while ensuring energy efficiency for achieving 
+economies of scale and extending component lifespans. 
+ 
+• Increase the voltage (post 800V) to an optimal level with regard to efficiency, 
+affordability, and performance – and especially the compatibility with Megawatt 
+Charging Systems (MCS) – to support faster charging needs and reduction of charging 
+losses within the vehicle by 10 %, while considering the context of modularity and 
+safety. 
+• Demonstrate the benefits of high -voltage systems also for fast charging and addressing 
+auxiliary components, e.g. thermal management, including the modular 
+interchangeability. 
+• Consider the possibility of modular and removable battery systems that would favour 
+second-life applications to further enhance sustainability. 
+• Develop modular powertrain systems to enable tailored solutions for specific use cases, 
+maintain flexibility for broader applications also by developing and defining relevant 
+hardware and software interfaces. 
+• Demonstrate vehicle solutions in relevant environments to ensure the ability for effective 
+integration with innovative Electrical/Electronic (E/E) architecture and thermal 
+management strategies, or wider solutions. 
+• Evaluate life -cycle costs against previous lower voltage systems in order to identify 
+potential improvements.   
+This topic implements the co -programmed European Partnership on ‘Towards zero emission 
+road transport’ (2ZERO). As such, projects resulting from this topic will be expected to report 
+on the results to the European Partnership ‘Towards zero emission road transport’ (2ZERO) in 
+support of the monitoring of its KPIs.

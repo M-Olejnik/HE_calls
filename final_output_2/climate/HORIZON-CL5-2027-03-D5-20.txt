@@ -1,0 +1,93 @@
+HORIZON-CL5-2027-03-D5-20: Assessing the effect of airport operations on air quality 
+and noise in nearby communities 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 3.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 7.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 5 -6 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 273. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Assessment of the impact of airport operations on air quality and water bodies (including 
+biodiversity) through air quality measurements and monitoring at different spots in and 
+around the airports as well as through in vitro testing and/or remote sensing for water 
+quality in airports close to water bodies 
+• Contributing to the delivery of better emission factors for emissions inventories and 
+projections (including EMEP), especially for species and fuel mixtures for which little 
+knowledge exists today in order to support local, regional, national and international 
+emissions reduction plans (e.g. Noise Plans, Air Quality Roadmaps, Air Quality Plans, 
+national Air Pollution Control Programmes, as mentioned in EU acquis) by providing 
+real-world emission information and measuring the actual impact of control measures 
+and strategies. 
+• Recommendations for improved measurement certification and testing to better cover 
+real world situations. 
+ 
+• Develop a methodology to assess the health impact (both the nature, seriousness and 
+number of people at risk) of the measured pollutants and noise in airports or at the 
+nearby urban environment and apply it to the test sites.  
+Scope: Aviation emissions not only have an impact on climate change and on GHG emissions 
+but also on -air quality as it is recognized that airport -related sources of emissions release 
+pollutants that can contribute to the degradation of air quality of their nearby communities. As 
+such, air quality and noise issues in the vicinity of airports need to be investigated, quantified 
+and addressed. Airports operations can generate water pollution due to their extensive 
+handling of jet fuel and de -icing chemicals, which, if not contained, can contaminate nearby 
+water bodies. Similarly, attention must be given to other possible airport -related 
+environmental impacts associated with noise, water quality, and local ecology in the vicinity 
+of airports. 
+In order to address these issues, the following R&I actions should be undertaken: 
+• Comprehensive real time and real -world measurements of pollutant (exhaust and non -
+exhaust, including resuspension of dust) and noise emissions. The sources of emissions 
+should be differentiated, and the pollutants identified. Operations should include ground 
+operations, landing and take -off (including emissions from tyres and brakes) and 
+assessing exhaust emission during cruising, including impact of changes in flight altitude 
+on engine performance parameters (stationary engine tests). The calibration of the 
+measurement systems and the reproducibility of the results should be demonstrated. 
+• Pilot testing in 2 different airports (possibility as well for testing on other complex 
+transport nodes) for proof of concept with the aim of increasing scalability and 
+replicability for other similar environments. Proposals are expected to select specific 
+airports that are in vicinity of urban/rural communities and close to water 
+streams/bodies, to examine and quantify the effect of airport emissions on air quality, 
+noise and water bodies. 
+• Investigation of the adverse health and environmental effects (including biodiversity) of 
+particle emissions, NOx, and non -regulated emissions (e.g. black carbon, tyre and brake 
+particles, secondary organic aerosols, etc.) generated from aircraft and airport operations. 
+The analysis should be supported by gender disaggregated data collection and 
+intersectional analysis. 
+• Estimates of the impact of APUs (Auxiliary Power Unit) or GPUs (Ground Power Units) 
+to stationary aircrafts’ emissions (GHG, air pollutants and noise) compared to 
+conventional operation.  
+Proposals should consider the results from previously EU funded projects such as AVIATOR, 
+nPETS, TUBE, ANIMA , NEEDED or any other similar projects. 

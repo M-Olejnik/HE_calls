@@ -1,0 +1,144 @@
+HORIZON-CL5-2026-10-D6-02: Geopolitical competition and socioeconomic resilience 
+in CCAM: an innovation and policy roadmap for EU leadership (CCAM Partnership) 
+Call: BATTERIES and MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 4.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+ 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 4.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 5 -6 by the end of the project – 
+see General Annex B.  
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 280. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• Assessment of Europe’s CCAM position in global competition, identifying strategic 
+vulnerabilities, dependencies and opportunities across business models, supply chains, 
+critical components, technological capabilities, infrastructure, and regulatory 
+frameworks, supported by advanced AI-driven analytics and innovation mapping tools. 
+• Stakeholder-driven, participatory future scenarios and strategic pathways that define 
+Europe’s leading role in the evolving geopolitical, technological, and economic 
+landscape of CCAM. These should be developed using advanced foresight methods (e.g. 
+ 
+qualitative scenarios, horizon scanning, technology roadmapping, etc.), complemented 
+by iterative validation through a minimum of 3 dedicated Living Labs selected to 
+represent diverse European regions, urbanisation levels, and governance capacities, 
+ensuring a structured, robust, and anticipatory approach to long-term decision-making. 
+• A data -driven understanding of the socioeconomic effects of different CCAM 
+deployment pathways, based on a quantified assessment across Member States and 
+Associated Countries, economic sectors, and demographic groups, at national and cross -
+national levels, using innovative, integrated economic -transport modelling that captures 
+dynamic interactions, systemic feedback loops, and long -term impacts. Socioeconomic 
+effects may include, but are not limited to, employment and growth aspects, equity, and 
+transport poverty. 
+• Robust governance models, policies and business strategies (including for SMEs and 
+micro-enterprises) that strengthen Europe’s leadership, economic resilience, and market 
+positioning in CCAM, developed through interdisciplinary methods combining policy 
+analysis, institutional diagnostics, and scenario -based stress testing, to ensure robustness 
+under diverse future geopolitical and economic conditions. These should identify viable 
+business cases, recommend sectoral R&D priorities, and support innovation scaling for 
+both public and private entities. Additionally, they should ensure long -term adaptability 
+to geopolitical and market uncertainties, promote equitable growth, reduce external 
+dependencies, and mitigate supply chain vulnerabilities, all while promoting sustainable 
+growth. 
+• Ensuring close coordination and synergies the European Connected and Autonomous 
+Vehicle Alliance (ECAVA), in particular the autonomous driving roadmap, announced 
+by the European Automotive Action Plan.  
+Scope: CCAM is a key area of global competition and one of the five pillars of the European 
+Automotive Action Plan for the automotive sector, aimed at helping the industry regain its 
+leadership in the shift towards smarter (AI -powered), cleaner, and more connected vehicles, 
+However, CCAM deployment is shaped by evolving geopolitical dynamics, rapid 
+technological advancements, and economic uncertainties. Europe must secure its leadership in 
+CCAM and strengthen its socioeconomic resilience by continuously addressing vulnerabilities 
+and identifying robust pathways for policy development and market deployment. This topic 
+will assess the global geopolitical landscape of CCAM innovation, map future pathways, and 
+develop evidence -based strategies for policymakers, businesses, and investors. The results 
+will support robust, future -proof policies, business strategies, and investment frameworks, 
+ensuring a resilient, inclusive, and competitive European CCAM ecosystem. 
+Proposed actions are expected to address all of the following aspects: 
+• Conduct a comprehensive geopolitical and economic analysis of CCAM to map 
+Europe’s strategic position in global competition. Identify vulnerabilities, dependencies 
+and opportunities in business models, supply chains, critical raw materials, technological 
+capabilities, digital and physical infrastructure, validation processes, safety benchmarks, 
+and pricing strategies, supported by AI -driven analytics and innovation mapping tools. 
+The analysis should also assess large -scale CCAM initiatives worldwide, identifying 
+scaling trajectories, tipping points, commercialization barriers, and success factors. 
+These insights should inform strategic policymaking, investment decisions, and Europe’s 
+regulatory positioning in global CCAM markets. 
+• Develop novel, stakeholder -driven participatory future scenarios to explore plausible 
+geopolitical, technological, and economic developments affecting CCAM, and define 
+associated transition pathways toward desirable European futures that ensure resilience, 
+strategic autonomy, and competitiveness. Use advanced foresight methods (e.g. 
+qualitative scenarios, horizon scanning, technology roadmapping, etc.), complemented 
+by iterative validation through a minimum of three dedicated Living Labs, to understand 
+trade-offs, assess risks, and define strategic priorities under different global conditions. 
+The project should also identify KPIs that capture European added value, unique selling 
+points, and global market positioning, and apply these to assess and guide CCAM 
+competitiveness The project should also identify KPIs that measure the European added 
+value, its unique selling points and global market positioning, to apply these KPIs to 
+define CCAM competitiveness. 
+• Assess the socioeconomic impacts of different CCAM deployment pathways, focusing 
+on economic, employment, and social equity dimensions. Analyse income growth, 
+employment effects, regional economic convergence, and productivity gains using 
+integrated economic -transport modelling approaches that account for dynamic 
+interactions and systemic feedback across Member States and Associated Countries, 
+economic sectors, and demographic groups. Identify potential disparities and propose 
+policy recommendations and investment strategies to ensure that CCAM contributes to 
+inclusive, equitable, and sustainable economic growth across all regions of Europe. This 
+should include an evaluation of how CCAM deployment can reduce Europe’s reliance 
+on external supply chains, while enhancing industrial competitiveness. 
+• Develop robust policy recommendations, governance models, and business strategies 
+informed by institutional diagnostics and tested under diverse future conditions through 
+scenario-based stress testing to reinforce Europe’s leadership and economic resilience in 
+CCAM. Ensure regulatory alignment with global standards, strengthen supply chain 
+resilience by reducing reliance on non -EU dependencies, and promote an open yet 
+competitive market environment. Business strategies should identify viable business 
+cases, recommend sectoral R&D priorities, and support innovation scaling, particularly 
+for SMEs and micro -enterprises. Policies and strategies must be adaptable to shifting 
+geopolitical and economic conditions, securing Europe’s long -term market 
+competitiveness and technological sovereignty.  
+This topic requires the effective contribution of SSH disciplines and the involvement of SSH 
+experts, institutions as well as the inclusion of relevant SSH expertise (including social 
+innovation), in order to produce meaningful and significant effects enhancing the societal 
+impact of the related research activities. 
+Projects funded under this topic are expected to collaborate with the CCAM Technology 
+Observatory by exploring and leveraging complementarities between their respective 
+activities and findings281. 
+This topic implements the co -programmed European Partnership on ‘Connected, Cooperative 
+and Automated Mobility’ (CCAM). As such, projects resulting from this topic will be 
+expected to report on results to the European Partnership ‘Connected, Cooperative and 
+Automated Mobility’ (CCAM) in support of the monitoring of its KPIs. 
+Projects resulting from this topic are expected to apply the European Common Evaluation 
+Methodology (EU-CEM) for CCAM282.

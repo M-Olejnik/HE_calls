@@ -1,0 +1,124 @@
+HORIZON-CL5-2026-07-D1-03: Economics of climate change and cost of inaction 
+Call: CLIMATE 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 4.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 16.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite-based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+For Area A -Global, the consortium must include as beneficiary or 
+associated partner at least three independent legal entities established in 
+three different low or lower/upper-middle-income countries81. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+To ensure a balanced portfolio covering different research areas (A and 
+B), grants will be awarded to applications not only in order of ranking 
+but also to fund at least two highest ranked applications in each area, 
+provided that the corresponding applications attain all thresholds.  
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Beneficiaries will be subject to the following additional obligations 
+regarding open science practices: Open access to any new modules, 
+models or tools developed from scratch or substantially improved with 
+ 
+the use of EU funding under the action must be ensured through 
+documentation, availability of model code and input data developed 
+under the action. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 82. 
+ 
+Expected Outcome : Project results are expected to contribute to some of the  following 
+expected outcomes: 
+• A more robust understanding of the costs of climate inaction and their distribution, 
+accounting for climate change impacts, foregone co -benefits such as health and 
+biodiversity related, and increased adaptation needs, stimulating higher levels of climate 
+ambition. 
+• Greater consistency in how socio -economic and physical science disciplines address 
+climate change with enhanced inter - and transdisciplinary collaboration leading to 
+improved, more realistic and more context-specific, regionally differentiated assessments 
+of socio -economic impacts of climate change, and tailored tools to better inform 
+strategic decisions on climate action, security and resilience by public and private actors. 
+• Knowledge on the interactions between climate change impacts, climate action and 
+global and regional economic performance is advanced. More clarity is gained on the 
+implications of climate change and climate policies on European competitiveness, 
+economic security and strategic autonomy, with enhanced assessment of opportunities, 
+risks, benefits and costs for the EU economy and citizens. 
+• Best available evidence and policy recommendations are made available in a timely 
+manner and effectively transferred to inform the Paris Agreement, European Climate 
+Risk Assessments (EUCRA), the European Climate Adaptation Plan, the Preparedness 
+Union Strategy, the Clean Industrial Deal, IPCC, IPBES and other initiative.  
+Scope: As emphasized by the IPCC, it is urgent to better understand the benefits and 
+opportunities associated with deep, rapid and sustained mitigation and accelerated adaptation 
+action to inform strategic decisions. Comprehensive assessments of the socio -economic 
+impacts of climate change are essential for this, however, current approaches face significant 
+challenges with a wide uncertainty in global damage estimates, fragmentation, lack of 
+ 
+comparability across methodologies, and reliance on extrapolation from historical data, 
+increasingly unrealistic in the context of current unprecedented changes in the climate system. 
+Actions should develop and enhance models, methods, and tools to improve the 
+understanding of future socio-economic costs of climate inaction (for the purpose of this topic 
+defined as insufficient, or delayed action), advancing novel approaches and frameworks to 
+address the limitations in existing methodologies, integrating latest scientific evidence, 
+diverse data sources and applicable to various conditions and contexts. In this context, actions 
+are encouraged to leverage emerging digital capabilities, including, if appropriate, those 
+developed under initiatives like Destination Earth. Research should account for the full 
+spectrum of climate impacts, such as those from extreme and low -probability high -impact 
+events and the consequences of trespassing Earth system tipping points, to ensure more 
+comprehensive and accurate assessments. Cascading and compound effects as well as non -
+market impacts (e.g. health, biodiversity and ecosystems, migration) should be considered. 
+Actions should also contribute to rethinking discount rates and damage functions to better 
+reflect the long-term uncertainty of climate impacts and their implications. 
+Actions should assess foregone co -benefits and missed opportunities of climate inaction, and 
+their distribution, ranging from health -related gains to economic benefits like business and 
+industrial opportunities, job creation, energy and economic security, innovation and lower 
+costs, as well as environmental and social improvements such as from biodiversity 
+conservation, and reduced inequalities. They should assess increased adaptation needs and 
+costs associated with inadequate mitigation, accelerated climate impacts, lost resilience, 
+crossing of adaptation limits as well as the impact on public budgets 83. To provide the full 
+picture, the cost of climate inaction should be compared with the cost of ambitious mitigation 
+and adaptation. 
+Actions should emphasise treatment of uncertainty, ethics, inequality and justice in the 
+economic analysis of climate change. They should explore approaches more compatible with 
+planetary boundaries, going beyond traditional welfare and cost-effectiveness models. 
+This topic requires interdisciplinary collaboration between physical scientists, economists and 
+other relevant SSH disciplines. Actions should include a process of co -design with 
+stakeholders (e.g., representatives of governments, public administrations, such as civil 
+protection competent authorities, or the private sector) to support uptake of the results. 
+Proposals are expected to address only one of the following priority areas, which should be 
+clearly indicated: 
+Area A: Global 
+Analysis should be global in scale, while also providing regionally resolved insights to enable 
+comparisons across world regions, distinguishing between developing and developed, and 
+duly reflecting diverse circumstances and contexts. International cooperation is generally 
+ 
+encouraged and specifically required with low and lower/upper -middle-income countries84 – 
+particularly major GHG emitters 85  such as China (contributing to the EU -China Climate 
+Change and Biodiversity (CCB) flagship initiative 86), India, Brazil and Indonesia. It should 
+enable delivery of robust, representative and widely accepted estimates, and support scientific 
+capacity building where appropriate. 
+Area B: The EU 
+Actions should focus on the EU. Particular attention should be given to consequences for EU 
+industrial performance, security of supply and strategic autonomy. 
+All projects funded under this topic are strongly encouraged to collaborate and envisage 
+clustering activities together and with other relevant projects in and outside of Horizon 
+Europe.

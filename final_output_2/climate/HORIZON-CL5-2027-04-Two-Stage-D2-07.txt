@@ -1,0 +1,133 @@
+HORIZON-CL5-2027-04-Two-Stage-D2-07: Novel approaches towards next -generation 
+battery concepts, leveraging the enabling role of innovative advanced materials 
+(BATT4EU and IAM4EU Partnerships)  
+Call: BATTERIES and MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+4.80 million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 48.00 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their first-
+stage application (see General Annex E). 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or 
+as an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 4 -5 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+The first-stage proposals of this topic will be evaluated blindly. 
+To ensure a balanced portfolio covering different sectors, grants will be 
+awarded to proposals not only in order of ranking but at least also to 
+one proposal that is the highest ranked within each of the three areas, 
+provided that the proposals attain all thresholds. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 146. 
+ 
+Expected Outcome : Proposals are expected to contribute to the generation of innovative 
+battery concepts to safeguard future European competitiveness through innovative battery 
+advanced materials and technologies contributing to green energy usage through enhanced 
+energy storage and management capabilities. 
+Depending on the areas listed in the scope, proposals are expected to cover all the respective 
+bullet points: 
+Area A:  Development and validation of low -cost battery chemistries particularly suited for 
+electric mobility supporting a reliable and flexible energy flow to meet fluctuating demand by 
+enabling better integration of diverse energy sources: 
+• Proposals are expected to provide the state -of-the-art benchmark for the performance of 
+Design-to-Performance lithium -ion batteries 147 and sodium -ion batteries and compare 
+the project’s improvements of performance targets to said benchmark. 
+• Main component (active and main inactive materials) cost of below €35 per kWh  
+OR 
+Area B: Development of high-performance battery, particularly suited for aviation and high -
+performance mobility boosting green energy adoption by leveraging advanced energy carriers 
+and storage solutions to support demanding applications: 
+ 
+• Validation of advanced battery concepts achieving energy density exceeding 500 Wh/kg 
+and/or Power density exceeding the state -of-the-art benchmark based on the selected 
+application(s).  
+OR 
+Area C:  Development of durable and reliable battery advanced materials and cell -level 
+concepts specifically suited to stationary storage for either grid and/or energy -intensive 
+industry applications. 
+Scope: Projects are expected to contribute to one of the following battery concepts that meet 
+different end-user needs and applications, going beyond state-of-the-art: 
+Area A: Low -cost batteries designed primarily for passenger electric vehicles and/or 
+stationary storage: 
+• Development of battery chemistries utilizing minimised amount of Critical Raw 
+Materials  
+• Cost reduction through use of smart functionalities, as well as lightweight, functionalised 
+and/or simplified casing or cooling concepts etc is encouraged.   
+OR 
+Area B: High -performance battery chemistries intended for applications requiring superior 
+energy density, power density, and safety standards, such as aviation and maritime sectors: 
+• Innovative approaches to battery structural integration and multifunctional materials to 
+significantly boost gravimetric and volumetric performance.   
+OR 
+Area C: Novel battery advanced materials and cell -level concepts, for stationary energy 
+storage for grid storage and/or energy-intensive industrial applications: 
+• If applied for grid storage, solutions should demonstrate potential for cost -effective 
+integration at system level (targeting system -level cost below €50/kWh) and provide 
+support for multi -hour storage durations to enhance renewable energy uptake and grid 
+flexibility. 
+• If applied for energy -intensive industrial applications, battery materials and designs 
+should address continuous high -load operation, cycling under harsh conditions, and 
+reliability over long operational periods, contributing to the electrification and 
+decarbonisation of specific industrial processes under study.   
+All projects are expected to provide an assessment on all following aspects: 
+• Scalability potential, manufacturability, and market relevance. 
+• Solutions for extended cycle life, cost-efficient recyclability, and sustainability by design 
+(implementing Safe and Sustainable by Design principles) 
+• Solutions for enhanced safety, thermal management, performance monitoring, and 
+predictive diagnostics.   
+The Safe and Sustainable by Design148 (SSbD) framework should be considered as a reference 
+for project proposals to guide the innovation process towards safer and more sustainable 
+chemicals and advanced materials. 
+Proposals could consider the involvement of the European Commission's Joint Research 
+Centre (JRC) 149 whose contribution could consist of performing experimental or desk -top 
+research on battery performance or safety. For further information on the JRC’s possible 
+contribution to the projects, please, search for additional publicly available information on the 
+JRC’s website150 (EU Science Hub) on the NCP portal, or request specific information from 
+the JRC (JRC-NCP-Network@ec.europa.eu) 
+JRC will assure that all the other applicants receive the same information on the JRC’s 
+possible contribution to the project (e.g., via the topic -specific FAQs under the Funding and 
+Tenders Portal). 
+This topic implements the co -programmed European Partnership on Batteries (Batt4EU) and 
+the co -programmed Partnership Innovative Advanced Materials for the EU (IAM4EU). As 
+such, projects resulting from this topic will be expected to report on the results to the 
+European Partnership on Batteries (Batt4EU) and IAM4EUin support of the monitoring of its 
+KPIs. 
+This topic contributes to the industrial action plan for the automotive sector.

@@ -1,0 +1,84 @@
+HORIZON-CL5-2026-09-D4-08: Full -scale demonstration of heat upgrade solutions in 
+industrial processes 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 9.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 18.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 7 -8 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+ 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 234. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Based on the results of the project, at least one industrial sector with a significant heating 
+demand in the EU and Associated Countries develops pathways and business models to 
+measurably increase the recovery and upgrade of locally available heat for covering 
+process needs and significantly or totally phasing out of fossil fuel use, while preserving 
+or enhancing its global competitiveness. 
+• Measurable improvement of renewable and/or industrial excess/waste heat recovery and 
+upgrade solutions, possibly combined with thermal and/or electrical energy storage, in 
+terms of energy efficiency, flexibility of electrical demand, climate and environment 
+protection, reliability and safety, physical and cyber security, and profitability.   
+Scope: This topic aims to satisfy the need for process heat in the more industrial sectors by 
+upgrading excess/waste heat from the process itself, possibly combined with heat recovered in 
+nearby locations or local renewable heat, as a cost -efficient way to improve energy efficiency 
+and reduce the GHG emissions and air pollutants and the use of fossil fuels. Thermal and/or 
+electrical energy storage can be integrated, if it can contribute to better matching heat sources 
+with process needs and/or to offer more flexible electricity consumption from the grid. 
+The temperature of the heat supplied to the process is not specified, but the proposals will be 
+evaluated on their potential to enable the deployment of heat upgrade solutions in more 
+sector(s) and process(es), where they are not yet state-of-the art. 
+Projects must address all the following items: 
+• Optimise and demonstrate physically within one or more operational industrial site(s), 
+the transformation of process(es) in at least one industrial sector, by recovering 
+excess/waste heat from the process itself, possibly combined with local renewable heat 
+or heat recovered in nearby locations and local thermal and/or electrical energy storage, 
+and by upgrading the heat (e.g. with heat pump) for use in the process(es). 
+• Maximise the replicability and deployment of the concept/solution in the EU and 
+Associated Countries’ plants in the same industrial sector. Already before starting the 
+design phase, the needs of most EU and Associated Countries’ factories in the same 
+industrial sector(s) should be surveyed and analysed in order to design a solution that can 
+be adapted to meet most of them. 
+• Identify common components, optimise and define a standardised version of them. 
+ 
+• Develop open technical and economical guidelines and open tools for system design and 
+business case development. 
+• In case the targeted industrial sector(s) and process(es) has/have been covered by the 
+actions under the topic LIFE -2024-CET-HEATPUMPS235, this proposal should build on 
+the results of these actions and if possible, cooperate with them, both for the definition of 
+the solution to demonstrate and the dissemination channels. 
+• Disseminate results notably (but not only) to the relevant communities in cluster 4 
+‘Digital, Industry and Space’ private-public partnerships and to JRC Sevilla and INCITE 
+for work on BREFs in the context of the IED2.0.

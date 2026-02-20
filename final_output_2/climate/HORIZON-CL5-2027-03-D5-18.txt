@@ -1,0 +1,125 @@
+HORIZON-CL5-2027-03-D5-18: Enhanced electric operation and battery durability 
+(ZEWT Partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+10.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 20.00 million. 
+Type of Action Innovation Actions 
+Eligibility conditions The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, 
+navigation and/or related timing data and services, beneficiaries must 
+make use of Copernicus and/or Galileo/EGNOS (other data and 
+services may additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 8 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following 
+exceptions apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Project outputs and results are expected to contribute to all the following 
+expected outcomes:    
+1. Demonstrate autonomy, of at least 150 nm (or 277.8 KM for inland navigation) using 
+electrical storage as the only energy source, while allowing rapid in -route zero-emission 
+replenishment.  
+2. Increase the power output, providing beyond 5 MW as peak propulsion power with 
+corresponding grid capacity.  
+3. Improve systems to increase the number charging cycles combined with high -power 
+charging to suit the operation needs of different ship types and services.  
+4. Identify the operating profiles and business cases for which electric powered shipping 
+will bring significant improvements taking into account the priorities and provisions of 
+the Fitfor55 package, especially FuelEU Maritime, Naiades III, AFIR and RED.  
+5. Develop solutions fitting different ship types and their operational profiles and provide 
+roadmaps for replication.  
+6. Address the degradation and failure in specific maritime operating conditions.  
+7. Improved lifetime and safe use of batteries in waterborne transport by addressing the 
+operation profiles, degradation and failure modes associated with unique waterborne 
+transport operating conditions.   
+Scope: This topic aims to improve the suitability of fully -battery-electric operation of ferries, 
+short sea shipping, offshore and inland vessels, considering the services they provide, their 
+operation profiles and the possibilities to interact with charging infrastructure. Aspects like 
+increasing the autonomy range of operation and fast charging are a crucial element for short 
+sea shipping and inland routes with short docking periods. Fast charging may also put added 
+strain on batteries in terms of output and durability. Optimization of the onboard electrical 
+architecture and battery chemistry as well as optimized battery monitoring and management 
+systems and more extensive training of crew can to some extent address this challenge. Life 
+cycle aspects should be considered by design in the integration and operation of vessels, as 
+well as the end -of-life of batteries, making sure that operations can be performed during the 
+whole expected life of the vessel. The topic also explores the need to increase the power 
+capability of fully electric vessels, aiming to define scenarios in which the increase of the 
+peak propulsion power is needed to ensure the safety of operations. Proposals should cover 
+the interface between vessels and port operations addressing the regulatory requirements, 
+including operational procedures.  
+Proposals should address all the following aspects:  
+• Full scale demonstration of innovative solutions for extended range and extended battery 
+cycles beyond simple scaling up of existing commercial batteries. Solutions to increase 
+the current operational range of electric vessels to at least 150 nm (or 277.8 KM for 
+inland navigation) for short -sea shipping, ferries, offshore of 400 -6500 GT vessels, or 
+86-135 meters for inland river vessels on free -flowing rivers upstream, allowing rapid in 
+route charging and being applicable to representative operating conditions of the chosen 
+ship. Demonstration of the vessel’s economic viability in normal operation. 
+Demonstrations should also consider baseline reference which are already state of the art 
+• Identifying the operational profiles and services that require higher energy output for 
+safe and effective operation, developing solutions and modelling scenarios to ensure safe 
+and efficient energy management and navigation taking into account the battery pack 
+and recharging possibilities.  
+• Incorporating energy-efficiency measures, including but not limited to, efficient AC -DC 
+grid, thermal management, high voltage electrical components, energy management and 
+energy modelling for optimal operation. 
+• Implementation of vessel‑wide adaptive energy‑management solutions that coordinate 
+battery, propulsion and hotel loads, maximising cycle life while minimising emissions. 
+• Development of solutions for intelligent and optimized battery management to improve 
+energy efficiency and life extension of the batteries. Furthermore, projects should 
+consider life cycle aspects by design and address the end -of-life of batteries to ensure 
+full electric operation during and beyond the planned operation of the vessel. 
+• Creating concepts for rapid zero -emission in -route charging, fast charging, offshore 
+charging or battery replenishment, including solutions capable of supplying power to 
+idling vessels anchored offshore near ports, while maintaining desired operating 
+schedules, adhering to current standards. 
+• Encouraging modular design and ship retrofitting to facilitate replication of the solution, 
+ideally presenting one full retrofit exercise and several replications in similar or different 
+vessels, also including the needs of the OPS infrastructure. 
+• Development of recommendations and best practices for the safety assessment of the 
+novel installations based on field testing. This should build on established safety 
+guidelines and requirements such as the Guidance on the Safety of Battery Energy 
+Storage Systems onboard ships (from the European Maritime Safety Agency – EMSA) 
+and the requirements for fixed and swappable batteries on inland vessels (from the 
+European Committee For Drawing Up Standards In The Field Of Inland Navigation – 
+CESNI), as applicable , and contribute to their applicability to a wider scope of novel 
+electrification solutions. Furthermore, recommendations for improving the guidelines 
+and extending them to the demonstrated new battery installation solutions should be 
+presented. Regulatory aspects for the pertinent safety -critical ship systems as well as fire 
+safety solutions for the battery room should also be addressed. In addition, the 
+recommendations should also consider how integration of the safety considerations 
+affects the overall operational planning and economic assessments. 
+• The plan for exploitation and dissemination of results should identify adequate business 
+cases and provide roadmap for the replication and deployment of the proposed 
+technology, including plans for scalability, commercialization, and deployment. 
+Proposals should identify and propose opportunities for further market uptake. 
+• Establishment of strong collaboration between industry, training providers and higher 
+education institutions to develop specialized courses on enhanced waterborne transport 
+battery management.   
+Proposals must justify the contribution of their objectives, results, intellectual property (IP) 
+management and exploitation strategy to the EU added value creation and strategic autonomy 
+throughout the supply and value chain, including competitiveness of the EU waterborne 
+industry, enhancement of the EU’s R&I capacity, technological know -how capabilities and 
+human capital, and resilience of the EU industrial and manufacturing base. Proposals are 
+encouraged to prioritise shipyards, equipment manufacturers and suppliers located in the EU 
+and EEA. 
+This topic implements the co -programmed European Partnership on ‘Zero Emission 
+Waterborne Transport’ (ZEWT). As such, projects resulting from this topic will be expected 
+to report on results to the European Partnership ‘Zero Emission Waterborne Transport’ 
+(ZEWT) in support of the monitoring of its KPIs.

@@ -1,0 +1,66 @@
+HORIZON-CL5-2026-05-D5-07: AI-assisted digital aircraft design, manufacturing and 
+MRO, towards a competitive aviation 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 10.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 252. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+ 
+• AI-assisted digital aircraft design, redesign and certification – in collaboration with 
+existing or improved digital twins and virtual products. 
+• AI-assisted design tools for aircraft requirement definition, validation and verification, to 
+improve efficiency of the system design activities. 
+• AI-assisted digital (i) aircraft manufacturing, (ii) aircraft operation, condition monitoring 
+and prediction, (iii) maintenance, repair and overhaul operations.   
+Scope: This topic focuses on the development of robust AI-assisted capabilities that will work 
+in tandem to digital twins. The term aircraft includes propulsion, aerostructures, systems and 
+their integration, if not explicitly addressed. 
+Proposals may focus on: 
+• Robust, reliable, verifiable and accelerated training of AI-assisted digital capabilities; 
+• Efficient and high-performance AI-assisted computing, in connection to complex multi -
+disciplinary design and optimisation methodologies – at system and/or at integrated 
+level; 
+• Protocols, standards and AI -assisted digital capabilities for the entire aircraft 
+manufacturing and MRO supply chain; 
+• Accelerated experimental validation capabilities of machine learning algorithms, for 
+selected industrial use cases, linked to novel EU research and technology infrastructures; 
+• Verifiable and reproduceable usage of Generative AI and Large Language Models for 
+recommendation systems and information retrieval, especially within areas under 
+authority regulation to maintain airworthiness and safety of airframes and their major 
+systems (i.e. using Explainable Generative AI or surrogate models); 
+• AI-assisted prescriptive maintenance procedures for efficient condition -based 
+maintenance and maximized circularity by optimizing the utilization of the globally 
+available high-value items (components, engines, airframes); 
+• AI-assisted maintenance assistance systems for efficient human-in-the-loop integration.

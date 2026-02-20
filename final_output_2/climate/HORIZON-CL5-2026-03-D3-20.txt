@@ -1,0 +1,71 @@
+HORIZON-CL5-2026-03-D3-20: Hybrid AI -Control Framework for a next -generation 
+grid-scale energy storage and system integration 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 7.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 14.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 200. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• Advanced digital twin and AI technologies (i.e. hybrid) to support proactive grid storage 
+management and an effective integration with energy and ancillary services markets, for 
+systems with high levels of renewable energy. 
+• Optimized energy storage operations resulting in reduced operational and ancillary 
+service costs, extended asset lifespans and increased revenues from market participation 
+while boosting renewable energy uptake for decarbonization. 
+ 
+• Optimized energy dispatch and storage cycling, increasing grid resilience and cost 
+efficiency, aiding in lowering energy costs for consumers.   
+Scope: Projects are expected to develop and validate an integrated system that combines grid -
+scale energy storage with a hybrid AI control mechanism and optimisation within a digital 
+twin framework. This system will enable proactive and adaptive management of storage and 
+flexibility assets (e.g. large industrial plants with flexible electricity demand), ensure seamless 
+integration with existing grid infrastructures (if applicable also with offshore systems) and 
+electricity markets while enhancing system efficiency and resilience (also for rare/extreme 
+events). The project will demonstrate real -time management for optimal energy dispatch, 
+ancillary services and storage cycling, develop a scalable integration framework for seamless 
+cross-border operability, and validate improvements in grid reliability through field 
+demonstrations and simulations, providing a potential blueprint for EU -wide deployment. 
+Proof of concept studies using PHIL technology applied to scaled systems are expected to be 
+used for the proactive and adaptive management algorithms. 
+Selected projects are expected to contribute to the BRIDGE initiative 201  and actively 
+participate in its activities.

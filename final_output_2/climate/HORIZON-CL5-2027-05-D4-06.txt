@@ -1,0 +1,84 @@
+HORIZON-CL5-2027-05-D4-06: Thermal energy optimisation and waste heat recovery 
+of high energy demand IT rooms in buildings or small edge data centres 
+Call: BATTERIES and ENERGY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.25 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 15.75 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 230. 
+ 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Improved open access to performance data, sharing of best-practices and useful 
+knowledge and information for owners and operators of IT infrastructure, as well as the 
+IT and building sectors; 
+• New designs of IT rooms in buildings or small edge data centres valorise waste heat 
+through thermal management techniques, processes and tools.   
+Scope: The growing energy needs of the ICT sector must be met while aligning with climate 
+neutrality and sustainability goals. Small IT rooms or small data centres are an essential part 
+of the twin green and digital transition. It is important to address the energy and resources 
+consumption over the full ICT value chain. Solutions already exist, such as re -using waste 
+heat from data centres, or moving towards circular models (longer lifetimes, reparability, 
+reuse and recyclability). Most recent analysis suggests that the energy consumption of 
+consumer devices in 2020 accounted for roughly 50% of the overall energy consumption of 
+ICT technologies, with the two next largest contributors being respectively the production of 
+ICT devices (~20%) and the operation of data centres (~15%) 231. Moreover, this is expected 
+to change dramatically by 2030, as the overall energy consumption of ICT technologies is 
+expected to increase by 50% over this decade. The Commission has set the strategic goal of 
+ensuring that data centres are climate -neutral, energy - and resource efficient by 2030. 
+However, most efforts are directed towards data centres in scope of the Energy Efficiency 
+Directive recast. 
+Proposals should address all of the following: 
+• Demonstrate state -of-the-art holistic and cost -effective approaches to thermal 
+management and excess heat recovery (optionally including heat storage and/or upgrade 
+of heat) and re -use in local or nearby site creating effective added value in existing IT 
+rooms in buildings or small edge data centres (in the range of 100 -500kW, not covered 
+by Energy Efficiency Directive recast), taking into account thermal envelope/building 
+(by means of simulation or digital twins, among others), integration with building 
+automation and control systems and potential to improve the self -assessment and self -
+optimisation functionalities at all levels, and integration into existing BMS allowing for 
+further development of energy services. Demonstrators should be located in both cold 
+and warm climate Member State or Associated Country to tackle climate specific 
+challenges of thermal management of waste heat. 
+• Develop business cases for state -of-the-art solutions for excess heat recovery & re -use 
+(optionally including heat storage and/or upgrade), for example by re -using excess heat 
+in an existing system in the building (such as heating or water production purposes), or 
+ 
+in a local district heating and cooling network, or in any other local or nearby site 
+creating effective added value to the recovered heat.  
+Projects funded under this topic are encouraged to build synergies and leverage their 
+outcomes with funded projects from Cluster 4 HORIZON -CL4-2027-04-DATA-09: Energy 
+efficiency and sustainability of AI data processing in Data Centres (IA) demonstration pilots.

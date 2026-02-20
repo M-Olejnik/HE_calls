@@ -1,0 +1,140 @@
+HORIZON-CL5-2027-06-D6-04: Holistic solutions for CCAM integration in critical 
+scenarios (CCAM Partnership) 
+Call: MOBILITY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 5.50 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+ 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 5 -6 by the end of the project – 
+see General Annex B.  
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 289. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• Detailed clustered collection of critical use cases and scenarios based on the findings of 
+former or current national and international research projects, as well as the 
+identification of missing aspects. 
+• In-depth analysis of stakeholders that may be affected by critical situations and edge 
+cases and that have high interest and/or influence in resolving these situations through 
+their capabilities.  
+• Availability of real -time holistic situation interpretation services addressing the 
+respective needs of road users of all kinds, road operators, service providers and related 
+perspectives, as well as its social participation and technological integration, i.e. the role 
+of each technological component in the overall system-of-systems. 
+• Availability of a “local deconflicting CCAM architecture” that detects and deconflicts 
+corner case situations (automatically through active and passive technologies or by 
+including remote operation techniques). This includes the capability from online 
+calculation of optimal countermeasures to ensure safety, and reduce any negative 
+impacts on all road users, by considering available infrastructure (including also 
+automated and connected digital components, like sensors, intelligent traffic control 
+systems, cooperative communication), and overall conditions. Such an architecture also 
+needs to address relevant requirements, particularly in technology and near and far 
+ 
+communications, outlining the technical standards and investments necessary for risk 
+mitigation. These may include solutions to increase road users’ situational awareness and 
+the provision of reliable, accurate and timely warnings. 
+• Establishment of working methods and harmonization of interfaces with national/local 
+road authorities, operators and emergency services (e.g. first responders in case of 
+accidents), including remote operations and road enforcement. The aim must be the 
+creation or adaption of decision -support tools that can be integrated with mobility 
+platforms, traffic control systems, and emergency services. This also includes the 
+definition of related shared governance models. Understanding of the requirements for 
+public road authorities (national and local) to address CCAM critical cases, defining 
+their role in supporting and enabling CCAM operations. 
+• Enhanced user acceptance through holistic CCAM solutions addressing their individual 
+needs and requirements as e.g. road user, customer, operator, service provider, etc., in 
+terms of trust, safety, security, etc.   
+Scope: Based on the preliminary and final findings of HEADSTART 290 , SUNRISE 291 , 
+EVENTS292, ROADVIEW 293 and SYNERGIES 294 (among others), this call is focussing on 
+CCAM solutions for critical cases, specifically situations and events that are less regular and 
+of higher risk. These cases may also include emergency conditions and unplanned events, on 
+local and on larger (regional, national, European) scale, such as extreme weather conditions, 
+road incidents, cyberattacks, traffic disruptions, and sudden loss of coverage of the 
+Operational Design Domain (ODD). 
+CCAM operations may be disturbed under multiple scenarios, and can vary according to the 
+type of road, road attributes, traffic conditions, available infrastructure and technology, 
+malfunctions, incidents, etc. Depending on the specific circumstances and the dimension of 
+the disturbance, the impact on CCAM operations and involved agents (e.g. road users, 
+vehicles, VRUs, infrastructure components, emergency services, operators) may vary. 
+According to the case and the dimension of the incident, different entities and actors of the 
+CCAM system (and even beyond, e.g. regulatory bodies and emergency and crisis response 
+centres) are involved and may need to take part to resolve these events in a resilient, safe and 
+secure way. 
+This call adopts a holistic approach, investigating critical cases not only from 
+technological/infrastructure or vehicle -related perspectives (e.g., edge cases for automated 
+vehicles) but also from the viewpoint of the user, customer, service provider, authority, city, 
+etc. In particular, the focus is on how the CCAM system addresses and mitigates potential 
+negative consequences of such events, including safety risks, emissions, loss of trust, and 
+similar impacts. Proposed actions are expected to address all of the following aspects: 
+ 
+• Development of a clustered list of critical scenarios, impacted entities, role and relation 
+of all stakeholders, the estimated impact and the optimal kind of CCAM -based 
+countermeasure. 
+• Development and testing of tools and services for the detection of critical situations and 
+edge cases, also based on the tools and approaches for robust environment perception 
+done in HORIZON-CL5-2026-10-D6-02. 
+• Development and testing of CCAM -based countermeasure solutions. Where applicable, 
+the use of artificial intelligence methods and digital infrastructure support should be 
+considered, aligned also to the tools and approaches for robust decision making done in 
+HORIZON-CL5-2026-10-D6-02. The solutions also should reference common EU 
+Emergency Response Protocols, e.g. for first responders. Also, the creation of decision -
+support tools and the integration of those into mobility platforms, traffic control systems, 
+and emergency services must be considered. In general, customer/user understanding 
+and trust in the CCAM system is crucial in the adoption of a new service. In building 
+trust, it is vital to take into consideration the user perspective and investigate how critical 
+cases can be managed in a way that is effective for the improvement of customer 
+perception. 
+• Validation and evaluation of solutions in terms of resulting risk reduction and potential 
+negative impacts of critical cases. Solutions will need to be targeted against the scenarios 
+identified and the stakeholders affected and would aim to either eliminate the risk to the 
+service resilience or reduce its likelihood and impact as far as reasonably practicable. 
+This also includes the quantification of the impact, which may also be deduced by using 
+simulation. In addition, also the integration of the solutions into existing platforms needs 
+to be validated in relevant environments (TRL 5). The outcomes of this call are expected 
+to feed into future CCAM demonstrations.  
+This topic requires the effective contribution of SSH disciplines and the involvement of SSH 
+experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce 
+meaningful and significant effects enhancing the societal impact of the related research 
+activities. 
+Projects funded under this topic are expected to build on the insights and outcomes of the 
+CCAM Technology Observatory, exploring and leveraging complementarities between their 
+own activities and the Observatory’s findings. 
+This topic implements the co -programmed European Partnership on ‘Connected, Cooperative 
+and Automated Mobility’ (CCAM). As such, projects resulting from this topic will be 
+expected to report on results to the European Partnership ‘Connected, Cooperative and 
+Automated Mobility’ (CCAM) in support of the monitoring of its KPIs. 
+Projects resulting from this topic are expected to apply the European Common Evaluation 
+Methodology (EU-CEM) for CCAM295.
