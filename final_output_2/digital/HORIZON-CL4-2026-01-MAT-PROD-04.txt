@@ -1,0 +1,122 @@
+HORIZON-CL4-2026-01-MAT-PROD-04: Optimise the usage of resources in a circular 
+economy (RIA) (Processes4Planet and Clean Steel partnerships) 
+Call: INDUSTRY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+5.00 and 8.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 64.00 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+In order to include a business case and exploitation strategy, as outlined 
+in the introduction to this Destination, the page limit in part B of the 
+General Annexes is exceptionally extended by 3 pages. 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 4 -5 and achieve TRL 6 by the 
+end of the project – see General Annex B. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+To ensure a balanced portfolio covering also support for the steel 
+sector, grants will be awarded to applications not only in order of 
+ranking but at least also to two proposals that are the highest ranked 
+that focus on the recovery of iron -containing residuals / waste / by -
+products using low -CO2 processes; provided that the applications 
+attain all thresholds. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 39. 
+ 
+Expected Outcome : Projects are expected to contribute to one or more of the following 
+outcomes: 
+• Material recycling and upcycling are significantly enhanced compared to the state of the 
+art through technology development along the value chain and integrated value chain 
+optimisation, leading to reduced GHG and air pollutant emissions; 
+• Through the recycling of (iron -containing or other) production waste / residuals / by -
+products or optimisation of the recovery of critical / strategic raw materials or 
+ferroalloys, the EU’s dependencies on imports from single or very limited numbers of 
+country suppliers are reduced, and the yields of recycling of production -waste / by -
+products are increased; 
+• The usage of raw materials, fresh water and energy is minimised, and ecosystem and 
+habitat degradation avoided; 
+• The impact of impurities in materials produced for special applications of strategic 
+importance for European environmental, social and governance (ESG) 40 sustainability is 
+reduced by either minimising their amount or by modification of impurity -material-
+structure, morphology, and properties; 
+• Cost efficient use of resources is reached with minimal energy usage and optimized use 
+of labour.   
+Scope: The topic aims to optimise the efficiency of materials, water and energy use by 
+recycling and upcycling of side streams from production and end -of-use waste, to become 
+more competitive, safe and sustainable. Material production becomes less dependent on 
+imports and / or use of non-renewable materials by improving recovery along the value chain, 
+developing and upscaling low -CO2 processes to recover materials, including to replace 
+current efficient but CO2-intensive recycling. 
+The continuity and high resource demand for materials and energy of industrial processes 
+need dependable availability of resources. The attainment of this target requires moving away 
+from primary, often expensive, and rare resources, by the re -integration and valorisation of 
+secondary resources (end-of-use waste) and industrial side -streams into the process industries 
+as feedstock. Priority should be given to streams that contain critical and insufficiently 
+available raw materials, and to streams with a large carbon footprint or a large required 
+energy input for their production.  
+ 
+The development of technologies should encompass the entire value chain from the 
+collection, dismantling, sorting and separation of waste to the processing of the streams and 
+the production of new high -quality materials. The demonstration of the innovative, efficient, 
+and economically viable technologies is required, considering a scale and conditions that can 
+give reliable indications on the real -world economic potential. Minimizing the intake of 
+energy and water should be considered. 
+Proposals under this topic are expected to address at least 3 of the following points: 
+• Increase the share of sustainable feed streams of the process industries from end -of-use 
+waste and/or foster circular material flows in house and/or across sites of iron-containing 
+and other residuals / waste / by-products, avoiding incineration or disposal, including the 
+development / upscaling of low CO2 processes with reduced negative impact on air 
+quality; 
+• Improve product designs including by-products for easier re-cycling and upcycling; 
+• Enhance existing technologies for a more efficient residual / waste / by -products 
+collection, sorting, classification, characterisation, treatment, processing and re -use. This 
+can include development / improvement of end -of-life recycling processes targeting 
+waste, scrap, dust and sludges for possible use for high -performance high -reliability 
+products; 
+• Recover relevant secondary raw materials, including critical ones, and target maximum 
+process efficiency; 
+• Reduce the usage of scarce and critical raw materials in the production processes, while 
+at the same time preserving ecosystem and reducing pressures on biodiversity that would 
+be caused by extraction; 
+• Reduce the number of manufacturing stages by shortening of production processes, 
+leading to a reduction in the energy consumption; and/or consider 
+approaches/technologies for optimising efficiency in terms of water use. 
+• Understand the effect of specific contaminants on the properties of materials produced 
+from secondary feedstock and develop technologies for their removal if needed, also in 
+view of the need for pre-treatment and secondary manufacturing steps. 
+• Where relevant, include analytical techniques for micro - and/or nano-characterisation of 
+materials to gain the necessary knowledge to influence processes and allow dedicated 
+modelling.   
+Showcase improved performance, scalability and cost efficiency of the proposed solution 
+through at least one case at laboratory level pilot scale. Digitalisation should be included 
+when effective, but it must not be targeted independently from the development and 
+validation of the necessary process technologies. 
+The re-integration of side streams in the production cycle can take place within one sector or 
+across sectors (industrial symbiosis). Impacts of regulations must be considered and proposals 
+for their modification and/or enhancement should be suggested where required. 
+Proposals should include a business case and exploitation strategy, as outlined in the 
+introduction to this Destination. 
+This topic implements the co-programmed European Partnerships Processes4Planet and Clean 
+Steel.

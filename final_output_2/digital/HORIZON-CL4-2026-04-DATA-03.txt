@@ -1,0 +1,77 @@
+HORIZON-CL4-2026-04-DATA-03: Open Internet Stack Support for Scale (CSA) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 4.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 4.00 million. 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 92. 
+ 
+Expected Outcome: Projects results are expected to contribute to all the following outcomes: 
+• A common approach and hub for cataloguing, packaging, reviewing and validating Open 
+Internet Stack components and projects. 
+• Long term viability by advising on Open Source sustainability and maintenance models 
+including business and foundation; Promotion of the EU and Associated Countries as 
+ideal location for Open Source Foundation sieges. 
+ 
+• A common branding, marketing, training and communication plan ensuring consistent 
+perception and scale-up.  
+A close interleave with policy development through a dedicated policy sandbox. 
+Scope: Applicants should devise a plan for: 
+• Cataloguing solutions in a structured and easy to discover way 
+• Performing security and accessibility audits on the selected solutions under the Open 
+Internet Stack. 
+• Screening and selecting European funded Open Source projects, including by exploring 
+the relevant Horizon Europe programmes, and devising a strategy for the Open Internet 
+Stack to become a central hub for those solutions. 
+• Establishing links and mutual support with national, multi -country and pan -European 
+initiatives supporting Open Source sovereign solutions. 
+• Advising on sustainability models (both for and non -for profit), on standardisation, 
+licencing schemes, or localisation/internationalisation 
+• Elaborating a common branding with associated marketing and communication tool 
+• Developing training material on these solutions that stresses their value in terms of EU 
+legislation compliance (GDRP, DSA/DMA, CRA…), security (e.g. reference to security 
+audits, list of dependencies), use cases, funding/business model, deployment 
+requirements (server side, user side), link to repository and community resource 
+(maintainers, community manager, discussion board…). Training material will be 
+tailored to each target audience: Operators of infrastructure, Integrators, Government & 
+verticals IT, end users. 
+• Implementing measures to identify/attract technology adopters (e.g. services providers, 
+integrators, OSPOs in governments/verticals) to become promoters of these 
+technologies. 
+• Developing sandbox tools for ensuring smooth compliance -by-design of the Open 
+Internet Stack with relevant existing or futures EU policies. 
+• Supporting Open Source awards scheme and sustainability models after the action is 
+finished.  
+We consider that proposals with an overall duration of typically 36 months would allow these 
+outcomes to be addressed appropriately. Nonetheless, this does not preclude submission and 
+selection of proposals requesting other durations. 
+Beneficiaries that intend to transfer ownership or grant an exclusive licence must formally 
+notify the granting authority (i.e. DG -CNECT and HaDEA) before the intended transfer or 
+licensing takes place and the granting authority may up to four years after the end of the 
+action object to a transfer of ownership or the exclusive licensing of results.

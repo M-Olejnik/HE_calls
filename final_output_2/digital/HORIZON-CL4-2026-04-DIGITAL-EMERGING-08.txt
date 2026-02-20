@@ -1,0 +1,180 @@
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-08: Apply AI: Robotics for 
+Manufacturing: Advancing Core Skills through Technical Challenges (RIA) 
+(Partnership in AI, Data and Robotics) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+18.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 18.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In order to achieve the expected outcomes, and safeguard the Union’s 
+strategic assets, interests, autonomy, and security, it is important to 
+avoid a situation of technological dependency on a non -EU source, in a 
+global context that requires the EU to take action to build on its 
+strengths, and to carefully assess and address any strategic weaknesses, 
+vulnerabilities and high -risk dependencies which put at risk the 
+attainment of its ambitions. For this reason, participation is limited to 
+legal entities established in Member States, Iceland and Norway and the 
+following additional associated countries: Canada, Israel, Republic of 
+Korea, New Zealand, Switzerland, and the United Kingdom. In addition, 
+entities established in third countries which may become associated to 
+Horizon Europe during 2026 and 2027 may be eligible to participate in 
+this topic if the third country is identified for this topic as an eligible 
+country in the List of Participating Countries in Horizon Europe at the 
+time of submission of the application 115. In any case, the association 
+agreement to the Programme must apply by the time of the signature of 
+the grant agreement. 
+For the duly justified and exceptional reasons listed in the paragraph 
+above, in order to guarantee the protection of the strategic interests of 
+the Union and its Member States, entities established in an eligible 
+country listed above, but which are directly or indirectly controlled by a 
+non-eligible country or by a non -eligible country entity, may not 
+participate in the action unless it can be demonstrated, by means of 
+guarantees positively assessed by their eligible country of establishment, 
+that their pa rticipation to the action would not negatively impact the 
+Union’s strategic assets, interests, autonomy, or security. Entities 
+assessed as high -risk suppliers of mobile network communication 
+equipment within the meaning of ‘restrictions for the protection of 
+European communication networks’ (or entities fully or partially owned 
+or controlled by a high-risk supplier) cannot submit guarantees.116 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 2 and achieve TRL 5 by the end 
+of the project – see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Beneficiaries must provide financial support to third parties. The support 
+to third parties can only be provided in the form of grants. 
+FSTP grants may be provided to either a single SME, research 
+organisation or public body secondary or higher education establishment 
+or a small team composed of such organizations. 
+ 
+FSTP amounts: 
+• The maximum amount to be granted per FSTP grant (whether 
+provided to one legal entity or a team of legal entities) is EUR 
+200,000 in stage 2 and EUR 1,000,000 in stage 3. 
+• The amount of EUR 200,000 in stage 2 is justified as the 
+challenge and corresponding tasks defined for this stage must be 
+complex enough in order to take the best and most informed 
+decision in the selection for the next stage based on a convincing 
+technical prototype/proof of concept that reaches sufficient level 
+of performance in terms of scale and maturity.  
+• The amount of EUR 1,000,000 in stage 3 is justified by the 
+ambition of reaching significant technology progress and 
+innovation, defined in the expected outcome of the call, including 
+the need for the selected projects to scale their solutions to the 
+maturity expected. 
+ The maximum amount to be granted to each third party is EUR 
+1,200,000.  
+ In accordance with Annex 5 of the grant agreement “SPECIFIC RULES 
+FOR CARRYING OUT THE ACTION ( — ARTICLE 18) 
+Implementation in case of restrictions due to strategic assets, interests, 
+autonomy or security of the EU and its Member States ”, by default 
+beneficiaries must ensure that, inter alia , no recipient of FSTP is (i) 
+established in a country which is not an eligible country (as identified in 
+the specific conditions for eligibility) or (ii) controlled by such countries 
+or entities from such countries (di rectly or indirectly as per the specific 
+conditions for eligibility). In line with the possibility for the granting 
+authority to agree otherwise, as concerns control of SMEs or private 
+research organisations that participate as recipients of FSTP, 
+beneficiaries must only ensure that such entities are not directly 
+majority-owned (i.e., more than 50% of the capital) by entities 
+established in non-eligible countries.  
+ 
+Expected Outcome: The Apply AI Strategy highlights the need to accelerate the uptake of AI -
+powered robotics through sectoral pipelines that connect research and deployment. By 
+developing advanced robotics skills based on foundation models and creating adaptable 
+frameworks that can be transferred across different industrial contexts, including automotive, 
+this topic will provide common tools and building blocks to strengthen those pipelines and 
+ensure broad industrial relevance. 
+Project results are expected to contribute to all of the following expected outcomes: 
+• Development of advanced robotics skills (e.g. high precision autonomous pick and place 
+manipulation, autonomous navigation in unstructured environments) using robotics 
+foundation models, tailored for manufacturing. Creation of a comprehensive framework 
+for general purpose and flexible robotics skills development with industry -relevant 
+challenges, evaluation metrics and success criteria. 
+• Facilitation of widespread deployment of robotics in manufacturing especially SMEs, 
+through modular, adaptable, and reconfigurable solutions built on robotics foundation 
+models, to meet evolving production needs  
+Scope: The proposed project aims to significantly enhance robotics capabilities in 
+manufacturing by developing advanced robotics skills (for example, task and environment 
+aware autonomous pick and place with high precision and speed, human -robot collaboration, 
+etc). 
+By leveraging the use of next -generation AI, including generative AI, to enable robots to 
+better adapt to real -world environments and interact with human operators, and focusing on 
+reconfigurability, the project will develop industry -agnostic solutions that can be easily 
+adapted to different manufacturing environments. 
+The project will create a comprehensive framework for robotics skills development in 
+manufacturing, including the initial definition of three technical challenges that must be 
+clearly described at proposal stage, with evidence of their industrial relevance and potential 
+impact. The detailed specification and design of these challenges may be further refined 
+during the first phase of the project in collaboration with industry partners. 
+The project will organize a multi -stage competition for each of the three identified technical 
+challenges. Each stage of the competition is expected to present an increased level of 
+complexity compared to the previous one. The approach for designing the competitive 
+process, including the use of FSTP, should aim at maximising the impact. 
+One of the key use cases for this project will be the automotive industry, which should be 
+explicitly included in proposals either as a primary focus or as a dedicated use case, 
+demonstrating how advanced robotics can enhance production efficiency and adaptability in 
+this sector. Other use cases alongside the automotive one are allowed and encouraged, to 
+demonstrate the industry-agnostic nature and the transferability of the developed solutions to 
+different industrial contexts. 
+User-industry companies from the manufacturing sector (including automotive) should be 
+core partners in the consortium. They should demonstrate a genuine interest in the project 
+results and actively support the FSTP recipients in achieving powerful and exploitable results 
+that benefit their industry. 
+Organization of the Challenge: 
+Stage 1 – Open call: The consortium launches an open call for proposals. A challenge, open 
+to all, will allow the selection of the 10 highest -ranked proposals for each of the three 
+technical robotics skills, according to a pre -defined selection process and criteria. Each 
+solution competing for the challenge can be submitted either by a single SME, research 
+organisation or public body secondary or higher education establishment, developer of 
+robotics solutions, or a small team of organizations. 
+Stage 2 – Competition among Stage 1 winners:  The 10 teams or organisations selected 
+from Stage 1 will receive a EUR 200,000 FSTP grant each in accordance with their 
+successfully selected proposal (which addresses the tasks and challenges defined for this stage 
+by the consortium). At the end of Stage 2, the 3 highest -ranked competing solutions will be 
+selected for the next stage according to a pre-defined selection process and criteria. 
+Stage 3 – Grand Finale (competition among Stage 2 winners):  The 3 best teams or 
+organisations selected from Stage 2 will receive a EUR 1,000,000 FSTP grant each in 
+accordance with their successfully selected proposals to address the tasks and challenges 
+defined for this stage. In conjunction, they will prepare for the grand finale that will identify 
+the best performing solution at the end of Stage 3 according to the evaluation methodology 
+defined by the consortium. 
+The consortium should define measures to support the team winning the grand finale in 
+maximising the impact and uptake of its solutions. 
+Proposals must include a draft exploitation plan outlining how the solutions developed by the 
+FSTP recipients will be taken up, with concrete support from the user -industry partners to 
+ensure industrial relevance and future exploitation. 
+This scheme is repeated for each of the three technical challenges. 
+The consortium will ensure high visibility of the competitions, including possible 
+sponsorships, and will seek to attract the best developers from the EU and associated 
+countries to compete, particularly SMEs, alone or within a team competing for the challenges. 
+All proposals are expected to incorporate mechanisms for assessing and demonstrating 
+progress, including qualitative and quantitative KPIs, benchmarking, and progress monitoring. 
+This should include the methodology to accompany the challenge participants to the various 
+stages during the project and the assessment methodology during the various selection stages. 
+When possible, proposals should build on and reuse public results from relevant previous 
+funded actions. Communicable results should be shared with the European R&D community 
+through the AI -on-demand platform and, if necessary, other relevant digital resource 
+platforms to bolster the European AI, Data, and Robotics ecosystem by disseminating results 
+and best practices. 
+This topic implements the co -programmed European Partnership on AI, data, and robotics 
+(ADRA), and all proposals are expected to allocate tasks for cohesion activities with ADRA 
+Proposals should also build on or seek collaboration with relevant projects and develop 
+synergies with other relevant International, European, national, or regional initiatives. 
+AI4GOOD 
+Proposals are invited against the following topic(s):

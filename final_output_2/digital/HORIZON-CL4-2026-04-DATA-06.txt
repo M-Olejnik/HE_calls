@@ -1,0 +1,124 @@
+HORIZON-CL4-2026-04-DATA-06: Efficient and compliant access to and use of data 
+(IA) (AI, Data and Robotics partnership) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 11.50 
+and 23.50 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative 
+budget 
+The total indicative budget for the topic is EUR 46.50 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The conditions are described in General Annex B. The following 
+exceptions apply: In order to achieve the expected outcomes, and 
+safeguard the Union’s strategic assets, interests, autonomy, and security, it 
+is important to avoid a situation of technological dependency on a non -EU 
+source, in a global context that requires the EU to take action to build on 
+its strengths, and to carefully assess and address any strategic weaknesses, 
+vulnerabilities and high-risk dependencies which put at risk the attainment 
+of its ambitions. For this reason, participation is limited to legal entities 
+established in Member States, Iceland and Norway, associated countries 
+and OECD countries. 
+For the duly justified and exceptional reasons listed in the paragraph 
+above, in order to guarantee the protection of the strategic interests of the 
+Union and its Member States, entities established in an eligible country 
+listed above, but which are directly or indirectly controlled by a non -
+eligible country or a non-eligible country entity, shall not participate in the 
+action. 
+Technology Activities are expected to start at TRL 6 -7 and achieve TRL 8 by the end 
+Readiness Level of the project – see General Annex B. 
+ 
+Expected Outcome: Project results are expected to contribute to the following outcomes: 
+• Lead to the development of secure, compliant and adaptive systems that improve the 
+availability, accuracy, privacy and interoperability of data across the Union. 
+• Deliver advanced, AI -driven compliance technologies and regulatory tools that reduce 
+administrative burdens, promote regulatory efficiency, and facilitate the implementation 
+of the Data Union Strategy, a Single Market for data, Common European Data Spaces, 
+the European Business Wallet, and the Digital Justice Strategy for 2025-2030. 
+• Enable more agile regulatory processes, foster mutual recognition of compliance efforts 
+across borders and cross -border cooperation, support interoperability between Member 
+States, and enhance transparency and trust. They will position the Union at the forefront 
+of regulatory innovation, while strengthening the functioning, resilience, 
+competitiveness, and digital leadership of the Single Market. 
+• Enhance the excellence and competitiveness of companies, professionals, and public 
+administrations by providing innovative, automated solutions to navigate and comply 
+with Union rules seamlessly across borders. 
+• Enhance public services and strengthen the competitiveness and digital sovereignty of 
+the EU by improved availability and use of high -quality real and synthetic data to train 
+AI systems more effectively.  
+Scope: The scope of this topic is to support the deployment of secure, interoperable, and 
+scalable data management systems, ensuring seamless cross -sector data integration, 
+automation of key processes, and compliance with EU frameworks. 
+The actions should deliver high-quality, well-structured, secure and compliant data, tailored to 
+evolving societal, industrial, research and public sector needs, underpinning key EU 
+strategies, including the Data Union Strategy, the Apply AI Strategy, the Digital Justice 
+Strategy, and the development of Common European Data Spaces, Data Labs and EuroHPC 
+systems (including the AI Factories). The developed methods, technologies and tools should 
+ensure that data is effectively shared between sectors, disciplines, and participating countries, 
+and that the data is reliable, traceable, and fit for purpose. 
+The proposal should clearly state (in the abstract and in the introduction) which of the 
+following two areas it addresses. A proposal can address both areas, but it should indicate one 
+of them as the main focus of the proposal, as it will be evaluated accordingly under that area: 
+• Area 1: The actions under this area should support the development and deployment of 
+advanced, AI -driven compliance technologies and solutions that automate data 
+transactions and key regulatory processes, reduce administrative burdens, and 
+facilitate seamless adherence to EU rules . This includes RegTech/GovTech//LegalTech 
+applications such as digital tools offering real -time compliance guidance, automated 
+rule-drafting assistants for policymakers, and multilingual chatbots providing regulatory 
+support to businesses and professionals. Predictive analytics and risk -based approaches 
+should allow tailored compliance pathways, while integration with national systems and 
+the Single Digital Gateway should promote cross -border mutual recognition and 
+application of the Once -Only Principle. Public administrations should be equipped with 
+automated compliance assessment tools, real -time analytics dashboards, and 
+interoperability frameworks to enhance and streamline regulatory oversight and 
+cooperation. The technologies and solutions should contribute to the principles of 
+fairness, accountability and transparency in AI -driven compliance solutions, including 
+traceability and explainability of automated actions. 
+• The solutions under Area 1 should adhere to open technical standards, ensuring 
+scalability, inclusiveness, and co -development with private and public stakeholders. 
+Robust cybersecurity, trustworthy AI, trust safeguards, security and privacy 
+cryptographic protection, including via post -quantum cryptography, should be 
+embedded, aligning with EU data protection and digital identity frameworks. Artificial 
+intelligence and machine learning models should be harnessed, to the extent 
+possible/reasonable, to enable data-driven feedback loops that support continuous policy 
+learning, allowing regulators to monitor rule implementation, identify unnecessary 
+burdens, and simplify legislation based on real -time evidence. Where appropriate, the 
+actions under this Area should build on and integrate the privacy -enhancing (including 
+anonymization) technologies developed under earlier topics in the Horizon Europe 
+programme. 
+• Area 2: The actions under this area should focus on the design and deployment of 
+secure, scalable, and adaptive data management systems that automate key data 
+processes, such as data curation, metadata tagging, ontology management and discovery, 
+labelling, annotation, and quality control,  developing and adapting appropriate AI 
+methods and tools for these specific tasks. These systems should facilitate seamless 
+integration and sharing of data across sectors and disciplines, ensuring interoperability, 
+data provenance, data privacy and handling secured against emerging quantum threats 
+via post-quantum cryptography, and compliance with applicable EU legal frameworks. 
+Special emphasis is on enhancing data accuracy, representativeness, and relevance, 
+particularly for use cases in industry, public services, citizen engagement, and the 
+development of trustworthy AI applications, as well as the Common European Data 
+Spaces. The development of such high -quality, semantically rich datasets will be 
+essential to unlock the full potential of AI across domains. 
+• Furthermore, the actions under Area 2 may also support the generation and use of high -
+quality synthetic data, including spatial synthetic data, to complement real -world 
+datasets while preserving data privacy via advanced, state -of-the-art cryptographic 
+protection. This may include, among others, the use of AI -enabled generative graphics 
+pipelines to automate the creation of large -scale simulated environments and the 
+application of parallelised and/or neuromorphic computing techniques  to train AI 
+models and artificial agents efficiently.  
+The actions under both areas should take into account the work of the Data Spaces Support 
+Centre, particularly the blueprint for common European data spaces, and build synergies with 
+related Union initiatives such as AI Factories, European Blockchain Services infrastructure, 
+and the European Business Wallet, as well as with sector -specific Common European Data 
+Spaces, and EU Digital Identity Wallet large scale pilots. Close collaboration with relevant 
+European Partnerships, stakeholders, including industry, public administrations, and research 
+organisations, will ensure that the systems meet the practical needs of data users while 
+fostering innovation, competitiveness, and digital sovereignty within the Single Market. 

@@ -1,0 +1,127 @@
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-01: Apply AI: Pilot of the “Science 
+for AI” Pillar of RAISE (“Resource for AI science in Europe”) (RIA) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+17.00 million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 17.00 million. 
+Type of Action Research and Innovation Actions 
+ 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 2 and achieve TRL 4 by the end 
+of the project – see General Annex B. 
+Award criteria The criteria are described in General Annex D. The following exceptions 
+apply: 
+The following additions to the general award criteria apply: 
+Quality and Efficiency of Implementation:  
+• Scientific Excellence: the scientific excellence of each participant 
+will be assessed based on the scientific credentials of its senior AI 
+researchers. A clear majority (at least 60%) of the participant's 
+senior AI researchers should demonstrate substantial scientific 
+excellence. Examples of evidence for scientific excellence in 
+Artificial Intelligence include, but are not limited to, consistent 
+publications in top -tier venues; significant research impact as 
+reflected by recognised metrics such as the h-index (the number of 
+publications that have each been cited at least that many times); 
+recognized real -world applications; receipt of prestigious awards 
+and substantial competitive grants; membership on editorial 
+boards of leading AI journals; and invited talks at internationally 
+recognized AI conferences. 
+• Infrastructure: each participant should possess dedicated premises 
+and infrastructure necessary for high -quality AI research, along 
+with administrative and technical support services. 
+• Size: each participant should have at least ten distinct AI research 
+groups. Each research group should typically comprise a minimum 
+of five researchers, including at least one senior AI researcher. 
+Alternative configurations demonstrating equivalent capacity 
+(approximately 50 total dedicated researchers in AI) will also be 
+considered acceptable. 
+• Legal Structure: each participant should have the requisite legal 
+framework enabling them to effectively manage personnel, 
+negotiate and execute contracts, and manage intellectual property 
+rights. 
+Legal and 
+financial set-up of 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+the Grant 
+Agreements 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: This pilot supports the Apply AI Strategy 96, particularly its research and 
+innovation efforts, which aims to advance core AI capabilities, especially in frontier AI, and 
+support fundamental AI research. The initiative will pool strategic resources to push the 
+technological frontiers of AI and drive scientific breakthroughs, ensuring that the project 
+contributes to the EU's goal of maintaining European leadership in AI research. Project results 
+are expected to contribute to all of the following expected outcomes: 
+• Set up a network of excellent AI Labs in the EU and Associated Countries, raising 
+visibility and strengthening collaboration in European AI research 
+• Establish a model of cooperation among these labs and support the development of a 
+strategic research agenda for fundamental research in AI. 
+• Ensure that the network operates as a virtual institute across Europe, pooling resources 
+and expertise. 
+• Develop synergies with the AI in science efforts in RAISE. 
+• Stimulate and support world -class research in AI, both fundamental and applied 
+research. Building on Europe’s research strength, attract collaboration with industry and 
+excellent AI talent.  
+Scope: Ensuring Europe's technological sovereignty in AI requires reinforcing and leveraging 
+Europe's strengths, particularly its world-class AI research community. 
+The selected consortium should be composed by leading European AI research institutions. 
+These AI research institutes should be entities with legal structure, dedicated facilities and, a 
+significant number of research teams focusing on AI research. This category also includes 
+multidisciplinary research institutions that host AI -focused branches meeting these criteria. 
+The consortium will pilot a network of excellent European AI research institutes that will 
+collaboratively address fundamental AI research topics, pushing the frontier of the domain. 
+Participants will cooperate within a virtual institute, attracting talents, stimulating industrial 
+initiatives, providing inputs for moonshot projects and developing research agendas for the 
+ones retained by the EC. A substantial share of the project effort should be dedicated to 
+advancing research. 
+To achieve these objectives, the consortium will undertake a range of dedicated activities: 
+• The project will draw an ambitious strategic research agenda towards the next frontier in 
+AI (in 5 years), including explicit targets and milestones; 
+ 
+• The coordination of the participating institutes and their research in AI will be driven by 
+a world class AI research program. The defined programmes will guide collaborative 
+efforts and ensure a cohesive approach to advancing fundamental AI. Collaboration will, 
+among other, be reinforced by jointly supervised PhDs and Postdocs. 
+• The implementation of a world class AI research program, supporting PhDs and 
+Postdocs as well as jointly agreed collaborative research projects , functioning as a 
+distributed "European AI Institute," reflecting the RAISE initiative's long -term vision 
+and enhancing collaboration.  
+This topic will bring together excellent AI research Institutes in Europe to further develop 
+basic science in AI. Given the importance of such consortium, every participating institution 
+will have to demonstrate its excellence in AI Research through a number of objective criteria. 
+To ensure openness, during the first year, the project will establish a call for expressions of 
+interest to identify additional leading European AI research labs and individual experts that 
+may collaborate with the project through joint activities or other forms of cooperation to 
+support the expected outcomes and the dedicated activities described in this topic. Proposals 
+should describe the type of actions planned for these collaborations. Appropriate budget and 
+effort should be allocated to ensure that such collaborations complement the network’s 
+expertise and strengthen the implementation of the roadmap. 
+This initiative will also work in close collaboration with other initiatives in the European AI 
+landscape, such as existing Networks of Excellence, AI societies and associations, and with 
+the fundamental research activities in AI taking place in the horizontal call HORIZON -
+RAISE and in the EIC pathfinder initiatives to be integrated in RAISE. All proposals are 
+expected to allocate tasks for cohesion activities with the CSA HORIZON -CL4-2025-03-
+HUMAN-18: GenAI4EU central Hub. 
+The project selected in this topic should link to the resources offered by the AI Factories and 
+the Data Labs and exploit the various tools offered by the AI-on-demand-platform to share the 
+result and further develop the community. 
+Beneficiaries that intend to transfer ownership or grant an exclusive licence must formally 
+notify the granting authority (i.e. DG -CNECT and HaDEA) before the intended transfer or 
+licensing takes place and the granting authority may up to four years after the end of the 
+action object to a transfer of ownership or the exclusive licensing of results.

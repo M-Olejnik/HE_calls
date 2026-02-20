@@ -1,0 +1,106 @@
+HORIZON-CL4-2026-05-DIGITAL-EMERGING-02: Next -Generation AI Agents for 
+Real-World Applications in the Apply AI sectors (RIA) (Partnership in AI, Data and 
+Robotics) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 19.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a proposal 
+requesting different amounts. 
+Indicative 
+budget 
+The total indicative budget for the topic is EUR 38.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In order to achieve the expected outcomes, and safeguard the Union’s 
+strategic assets, interests, autonomy, and security, it is important to avoid 
+a situation of technological dependency on a non -EU source, in a global 
+context that requires the EU to take action to build on its strengths, and to 
+carefully assess and address any strategic weaknesses, vulnerabilities and 
+high-risk dependencies which put at risk the attainment of its ambitions. 
+For this reason, participation is limited to legal entities established in 
+Member States, Iceland and Norway and the following additional 
+associated countries: Canada, Israel, Republic of Korea, New Zealand, 
+Switzerland, and the United Kingdom. In addition, entities established in 
+third countries which may become associated to Horizon Europe during 
+2026 and 2027 may be eligible to participate in this topic if the third 
+country is identified for this topic as an eligible country in the List of 
+Participating Countries in Horizon Europe at the time of submission of the 
+application100. In any case, the association agreement to the Programme 
+must apply by the time of the signature of the grant agreement. 
+For the duly justified and exceptional reasons listed in the paragraph 
+above, in order to guarantee the protection of the strategic interests of the 
+Union and its Member States, entities established in an eligible country 
+listed above, but which are directly or indirectly controlled by a non -
+eligible country or by a non -eligible country entity, may not participate in 
+the action unless it can be demonstrated, by means of guarantees 
+positively assessed by their eligible country of establishment, that their 
+participation to the action would not negatively impact the Union’s 
+strategic assets, interests, autonomy, or security. Entities assessed as high -
+risk suppliers of mobile network communication equipment within the 
+meaning of ‘restrictions for the protection of European communication 
+ 
+networks’ (or entities fully or partially owned or controlled by a high -risk 
+supplier) cannot submit guarantees.101 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 2 and achieve TRL 5 by the end of 
+the project – see General Annex B. 
+ 
+Expected Outcome: While today’s AI agents still have limited capabilities, advances in model 
+architecture, memory, reasoning, and autonomous behaviour are paving the way to unlocking 
+their potential across economic sectors. The Apply AI Strategy 102acknowledges this trend and 
+the need to advance research on next -generation AI agents. Project results are expected to 
+contribute to some of the following expected outcomes:  
+• Significant improvements in the autonomy, robustness and reliability of AI agents 
+through advanced planning mechanisms, memory management, and reasoning 
+capabilities. 
+• Innovative multi-agent frameworks and protocols demonstrating effective decentralized 
+coordination and collaboration among multiple AI agents beyond the capabilities of 
+individual agents.  
+Scope: Next-generation AI agents are autonomous systems powered by large AI language 
+models (e.g., large language models or large multimodal models), that can plan, utilize tools 
+and perform actions autonomously to achieve specified goals based on high-level instructions. 
+The large AI model acts as the agent's "brain," capable of interpreting instructions, generating 
+plans, and using tools. This capability enables agents to autonomously plan and adapt 
+behaviour in real -time to accomplish complex, multi -step tasks. AI Agents hold significant 
+promise in numerous applications areas such as data analytics and coding. 
+Effective AI agents require careful design, incorporating structured planning and reasoning 
+methods to manage complex tasks, and be equipped with appropriate validation and 
+monitoring techniques. Multi -agent collaboration frameworks further enhance capabilities by 
+enabling structured interactions among multiple agents. 
+Key aspects in designing effective AI agents include robust planning, reasoning, and search 
+mechanisms that allow agents to approach complex tasks by breaking them down into 
+ 
+structured subgoals. Effective memory and state management are necessary to maintaining 
+coherent long -term interactions, achieved through a balanced integration of short -term and 
+external long -term memory solutions. Moreover, integrating external tools and APIs is 
+essential for overcoming limitations in large AI models, enhancing agent performance in tasks 
+requiring accuracy and reliability. 
+Potential research areas include enhancing AI agent autonomy through advanced self -
+planning and self-optimization capabilities, enabling agents to improve their decision -making 
+and strategic planning. Other research directions include innovation in memory-augmented AI 
+agents to facilitate robust long -term reasoning and lifelong learning; developing advanced 
+multi-agent frameworks specifically tailored for collaborative agents, including research on 
+AI agent frameworks based on mixed AI architectures, and advancing multimodal reasoning 
+capabilities to enable real-world applications. 
+All proposals are expected to incorporate mechanisms for assessing and demonstrating 
+progress, including qualitative and quantitative KPIs, benchmarking, and progress monitoring. 
+When possible, proposals should build on and reuse public results from relevant previous 
+funded actions. Communicable results should be shared with the European R&D community 
+through the AI-on-demand platform. 
+Projects selected in this topic should link to the resources offered by the AI Factories, 
+including the Data Labs. The results may be validated in the Testing and Experiment 
+Facilities and further deployed via the European Digital Innovation Hubs (EDIHs) and will 
+contribute to the Apply AI strategy. 
+This topic implements the co -programmed European Partnership on AI, data, and robotics 
+(ADRA), and all proposals are expected to allocate tasks for cohesion activities with ADRA 
+and the CSA HORIZON -CL4-2025-03-HUMAN-18: GenAI4EU central Hub. Proposals 
+should also build on or seek collaboration with relevant projects and develop synergies with 
+other relevant International, European, national, or regional initiatives.

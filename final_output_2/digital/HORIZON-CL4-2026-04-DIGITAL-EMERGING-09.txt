@@ -1,0 +1,120 @@
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-09: Advanced Local Digital Twins 
+using AI for Early Warning and Preparedness (IA) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 6.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Due to the scope of this topic, international organisations with 
+headquarters in a Member State or Horizon Europe Associated Country 
+are exceptionally eligible for funding. 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 5 and achieve TRL 7 by the end 
+of the project – see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 117. 
+ 
+Expected Outcome: Open AI models that can help predict, respond to, and mitigate impacts 
+before a disaster occurs, enabling proactive decision -making and effective disaster 
+management effectively.  
+Protection of citizens from natural hazards through proactive measures, preparedness 
+strategies, and urban resilience, planning 
+Project results are expected to contribute to one of the following outcomes: 
+• Enhanced protection of citizens from the natural hazard of flooding by facilitating 
+proactive decision-making and effective disaster management through open AI -driven 
+models for urban resilience strategies and planning that can help predict, respond to, and 
+mitigate impacts before a disaster occurs. 
+• Improved modelling and prediction of urban and riverine flooding by expanding the 
+capabilities of Local Digital Twins  with sophisticated AI algorithms and relevant data 
+detailing hydrological and hydraulic processes. 
+• Strengthened integration of diverse and essential datasets  including detailed terrain, 
+land cover, urban features, soil data, and real -time meteorological information (rainfall 
+and temperature, river geometry, and flow) sourced from national hydrometric networks, 
+urban drainage infrastructure, and flood protection assets. This integration aims to 
+enhance flood analysis, simulation, and preparedness particularly in response to climate 
+change and flood scenarios like heavy rainfall impacting nearby river basins.  
+The projects will leverage high -resolution climatic and meteorological models to assess 
+extreme weather, while also drawing on relevant initiatives such as the Global Flood 
+Awareness System and Destination Earth. 
+Scope: In line with the Apply AI Strategy, proposals should develop and implement projects 
+that advance innovative AI algorithms and models from concept to large -scale testing and 
+validation. These solutions will be applied to the creation of Local Digital Twins for flood 
+preparedness, enabling the simulation of flood scenarios, identification of areas at risk, and 
+estimation of potential damage. 
+• Proposals should focus on the development of innovative AI algorithms that move 
+beyond rigid functions, employing instead a dynamic set of descriptive building features 
+derived from digital models (e.g., geometrical parameters, urban morphology, socio -
+ 
+economic indicators). These algorithms should be integrated with advanced, high -
+resolution hazard models — including hydrological and hydraulic models — tailored to 
+the specific characteristics of the local area. 
+• The Local Digital Twins will enable:         
+ Flood damage models capable of calculating building -scale impacts, forming the 
+basis for damage hotspot maps.    
+ Interactive user interfaces that allow components to be exchanged, modified, and 
+reconfigured to estimate flood damage under various urban planning and risk 
+management scenarios — for example, assessing the feasibility of proposed or 
+existing constructions in flood -prone zones and recommending targeted mitigation 
+strategies.   
+The scope of this topic includes a strong research and innovation component aimed at the 
+prototyping, testing, and large -scale validation of tailored AI algorithms designed to model 
+multiple disaster types, with a focus on operational deployment in real -world contexts. .It is 
+recommended to prioritise the use of frugal (and local) AI as much as possible. This approach 
+will both reduce greenhouse emissions -an indirect driver of climate -related disasters - and 
+ensure that the tools remain functional in environments with limited connectivity. 
+Proposals should take into account the expertise of the European Commission's Joint 
+Research Centre (JRC)118, particularly its experience in developing global systems for disaster 
+and risk management and analyse the potential uptake of the project outcomes by the 
+Copernicus Emergency Management Service. In addition, proposals should align with for the 
+2025 Mission call on Local Digital Twin for urban planning, ensuring interoperability and 
+complementarity with related European initiatives. 
+The project results should be modular for reuse in locations outside Europe considering 
+constraints on deployment of AI solutions in low - and middle-income countries. Therefore, 
+the project results shall be open source as much as possible and transferable through open 
+platforms.   
+1. Focus will be on open -source solutions (both software and hardware) and their 
+integration into existing platforms (e.g. EDIC 119) to ensure replicability of the results 
+and portability in different areas. 
+2. The proposal should support open -source software and open hardware design. 
+Applicants are encouraged to support, open access to data, access to testing and 
+operational infrastructures as well as an IPR regime ensuring lasting impact and 
+reusability of results.   
+ 
+Beneficiaries that intend to transfer ownership or grant an exclusive licence must formally 
+notify the granting authority (i.e. DG -CNECT and HaDEA) before the intended transfer or 
+licensing takes place and the granting authority may up to four years after the end of the 
+action object to a transfer of ownership or the exclusive licensing of results.

@@ -1,0 +1,102 @@
+HORIZON-CL4-2026-05-DIGITAL-EMERGING-03: Apply AI: Next -Generation Agile 
+and Intelligent Robotics Platforms for Industrial and Service Applications (Partnership 
+in AI, Data and Robotics) (RIA) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 12.00 
+and 13.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative 
+budget 
+The total indicative budget for the topic is EUR 25.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In order to achieve the expected outcomes, and safeguard the Union’s 
+strategic assets, interests, autonomy, and security, it is important to avoid 
+a situation of technological dependency on a non -EU source, in a global 
+context that requires the EU to take action to build on its strengths, and to 
+carefully assess and address any strategic weaknesses, vulnerabilities and 
+high-risk dependencies which put at risk the attainment of its ambitions. 
+For this reason, participation is limited to legal entities establ ished in 
+Member States, Iceland and Norway and the following additional 
+associated countries: Canada, Israel, Republic of Korea, New Zealand, 
+Switzerland, and the United Kingdom. In addition, entities established in 
+third countries which may become associated to Horizon Europe during 
+ 
+2026 and 2027 may be eligible to participate in this topic if the third 
+country is identified for this topic as an eligible country in the List of 
+Participating Countries in Horizon Europe at the time of submission of the 
+application110. In any case, the association agreement to the Programme 
+must apply by the time of the signature of the grant agreement. 
+For the duly justified and exceptional reasons listed in the paragraph 
+above, in order to guarantee the protection of the strategic interests of the 
+Union and its Member States, entities established in an eligible country 
+listed above, but which are directly or indirectly controlled by a non -
+eligible country or by a non -eligible country entity, may not participate in 
+the action unless it can be demonstrated, by means of guarantees 
+positively assessed by their eligible country of establishment, that their 
+participation to the action would not negatively impact the Union’s 
+strategic assets, interests, autonomy, or security. Entities assessed as high -
+risk suppliers of mobile network communication equipment within the 
+meaning of ‘restrictions for the protection of European communication 
+networks’ (or entities fully or partially owned or controlled by a high -risk 
+supplier) cannot submit guarantees.111 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 2 and achieve TRL 5 by the end of 
+the project – see General Annex B. 
+ 
+Expected Outcome : The Apply AI Strategy foresees acceleration pipelines to speed up the 
+adoption of AI -powered robotics and ensure continuity from research and innovation to 
+deployment. By developing next -generation platforms as common building blocks, this topic 
+will support these pipelines across multiple use cases. 
+Project results are expected to contribute to all of the following expected outcomes: 
+• Novel robot design technique, materials and control techniques for flexible and 
+meticulous manipulation of robots in unstructured environment, with high autonomy and 
+in collaboration with humans. 
+ 
+• New generation of flexible and safe robot systems validated in key application sectors 
+defined in the Apply AI strategy112, developed with a human-centric approach.  
+Scope: Dynamic real -world environments require a new generation of agile, cost-effective, 
+and intelligent, and modular robot platforms able to interact in safe and effective manner with 
+humans across diverse industrial and service applications. These systems should be easily 
+reconfigurable and adaptable, enabling deployment in real -time, high -performance 
+operational contexts with minimal integration effort. 
+To ensure relevance and uptake, solutions must address industrial demands for high speed, 
+precision, and reliability, enabling deployment in real -time, high -performance operational 
+contexts. 
+Emphasis should be placed on the development of robotic systems that can be seamlessly 
+integrated into existing industrial and service workflows, enhancing productivity and 
+operational flexibility. 
+In order to improve their performances, these platforms should exploit latest development in 
+terms of new design methods, including non -rigid structures and advanced materials (e.g. 
+composite materials), both for the main body and for manipulators and end effectors, 
+alongside innovative actuation and sensing approaches that go beyond traditional fixed 
+rotational or linear links. 
+Proposals should target robotic systems addressing high impact needs in strategic industrial 
+and service sectors. These systems should focus on enhanced mobility, autonomy, and 
+simplified control architectures to support safe, efficient, and flexible operation. Integration of 
+advanced sensors (e.g. touch, proximity, vision) is essential to enable reliable human -robot 
+interaction, especially in rare or unpredictable safety -critical scenarios, addressing current 
+limitations of AI in such contexts. 
+They should also include the design of secure and efficient communication protocols to 
+ensure interoperability between robotic systems and digital frameworks or multi -agent 
+environments. 
+Collaboration with end -users and industry partners is encouraged to validate the practical 
+applicability and impact of the proposed robotic solutions. 
+To ensure practical uptake, projects are expected to demonstrate clear pathways to scalability 
+and commercial deployment, engage with industry partners and end -users for validation, 
+adopt a safety-product approach 
+Coordination with HORIZON -CL4-2025-04-DIGITAL-EMERGING-05, focused on soft 
+robotics, is encouraged to maximise impact and ensure complementarity in advancing 
+physical capabilities of next-generation robotic systems. 
+ 
+This topic implements the co -programmed European Partnership on AI, data, and robotics 
+(ADRA), and all proposals are expected to allocate tasks for cohesion activities with ADRA.

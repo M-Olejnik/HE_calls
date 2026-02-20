@@ -1,0 +1,126 @@
+HORIZON-CL4-2026-04-HUMAN-02: Web 4.0 architectural framework and Open 
+Internet Stack applications for virtual worlds (RIA) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+2.80 and 8.40 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 16.80 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+To ensure a balanced portfolio covering all the areas described in the 
+scope, grants will be awarded to proposals not only in order of ranking 
+but at least also to one proposal that is the highest ranked within each 
+area, provided that the proposals attain all thresholds. Only one proposal 
+in the “Architectural Framework” area will be selected. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+For “Architectural Framework” Area 
+Beneficiaries may provide financial support to third parties. The support 
+to third parties can only be provided in the form of grants. The 
+maximum amount to be granted to each third party is EUR 300 000 to 
+allow 1/ cases where a given legal entity may receive several grants 
+(e.g. from different calls) 2/ reaching the maturity level for third party’s 
+project to ensure sustainability with multiple awards. To support and 
+mobilise internet innovators, a maximum of 70% of the total proposed 
+budget could be allocated to financial support to third parties, selected 
+through open calls. 
+For the “Applications” Area 
+Beneficiaries may provide financial support to third parties. The support 
+to third parties can only be provided in the form of grants. The 
+maximum amount to be granted to each third party is EUR 300 000 to 
+allow 1/ cases where a given legal entity may receive several grants 
+(e.g. from different calls) 2/ reaching the maturity level for third party’s 
+project to ensure sustainability with multiple awards. To support and 
+mobilise internet innovators, a maximum of 20% of the total proposed 
+budget could be alloc ated to financial support to third parties, selected 
+through open calls. 
+ 
+Expected Outcome: Common expected outcome 
+Stimulate the emergence at European and global scale of Web 4.0 (such as standards, 
+protocols, components and a framework for their interaction) and virtual worlds solutions. 
+Expected outcome for the “Architectural Framework” area 
+• An emerging Web 4.0 architectural framework made of cross -platforms, interoperable, 
+trustable, safe and secure building blocks that rely on Open Source software 
+• A structured and agile eco -system of talented contributors driving the creation and 
+evolution of commons based on Open Source software, open standards and open 
+hardware and designs.  
+Expected outcome for the “Applications” area 
+• Open source and made in Europe, supporting trust and sovereignty, and delivering 
+credible alternative choices for citizens, governments and companies including start -ups 
+and SMEs. 
+• Interoperable, standards -based, decentralised solutions exploiting extended reality 
+technologies. 
+• Compliant-by-design with EU rules and regulations. Paced for easy deployment by the 
+rich European eco-systems of providers, integrators and verticals.  
+For both areas the outcome will bring synergies with actions under Virtual worlds, Open 
+Internet Stack, 3C, as well as with other like -minded actions in Europe e.g. at Member States
+level and outside  
+Scope: Proposals should address one of the following areas and should clearly identify the 
+area addressed. 
+1/ “Architectural Framework” area 
+Develop a human-centric Web 4.0 architectural framework encompassing interoperable layers 
+from open hardware, web, AI agents, up to immersive and decentralised applications, utilizing 
+cross-platform digital commons developed by European innovators (SMEs, start -ups, 
+academia). Proposals should demonstrate immersive multi -modal user interaction and should 
+enhance trust, privacy, portability, and advanced identity management, facilitating 
+deployment of the EU Wallet while optimizing the balance between decentralization, security, 
+and energy efficiency with verifiable metrics. 
+2/ “Applications” area 
+Proposals will cover the one or more of the following technologies: 
+• Alternative decentralised applications and services such as synchronous and 
+asynchronous messaging, videoconferencing, collaboration and groupware or social 
+media that can be exploited through Virtual Worlds technologies, including immersion 
+and interaction. 
+• App-stores (incl. web-based) adapted for Virtual Worlds 
+• Shared, robust and trustworthy cross -technology Virtual Worlds for user and attribute 
+management  
+Proposals will have to demonstrate (1) technical maturity in terms of scalability, resiliency, 
+alignment with standards (2) critical mass of communities actively supporting the 
+development (3) evidence of interest from users and deployers of the solutions. 
+Cross-cutting requirements for both areas: 
+Applicants should define the mechanisms for maturing building blocks e.g. security and 
+accessibility audits, packaging of the software for easy deployment, localisation of the 
+software in EU languages, documentation of best practices and advising on licensing. 
+Applicants should detail the path to growth for building blocks e.g. by defining a clear 
+standardisation strategy, actively animating communities, creating momentum among like -
+minded efforts, defining how projects will gain critical mass and what services will be 
+provided for reaching such stage, and providing a coherent picture of the portfolio for 
+adopters 
+Applicants should create the conditions for successful collaboration and synergies with other 
+European initiatives such as the Virtual Worlds/Web 4.0, 3C and Open Internet Stack 
+initiatives as well as with like-minded funding efforts at national, European levels and beyond 
+Europe such as Digital Commons initiatives. 
+Applicants should demonstrate their experience and understanding of Open Source 
+communities and their expertise covering the full Open Source life cycle through proven track 
+record including years of experience. 
+Beneficiaries that intend to transfer ownership or grant an exclusive licence must formally 
+notify the granting authority (i.e. DG -CNECT and HaDEA) before the intended transfer or 
+licensing takes place and the granting authority may up to four years after the end of the 
+action object to a transfer of ownership or the exclusive licensing of results. 
+Financial support to third parties 
+If applicants opt for financial support to third parties, then they should target calls towards 
+European Open Source communities – SMEs, research institutes and individual researchers 
+and developers – with solid experience with development of solutions in line with EU rules 
+and values. Applicants should provide the programme logic for the third -party projects, 
+managing the projects lifecycle, and provide the necessary technical and non -technical 
+support: these tasks cannot be implemented using the budget earmarked for the financial 
+support to third parties.

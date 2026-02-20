@@ -1,0 +1,88 @@
+HORIZON-CL4-2026-05-MAT-PROD-25: New or enhanced Innovative Advanced 
+Materials (IAM) enabled sensing functionality (RIA) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 7.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 22.50 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 3 and achieve TRL 5 -6 by the 
+end of the project – see General Annex B. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+To ensure a balanced portfolio covering the two areas described below, 
+grants will be awarded to applications not only in order of ranking but at 
+least also to one proposal that is the highest ranked within each area, 
+provided that the applications attain all thresholds. For the purposes of 
+the ranking the main area declared by the proposal will be considered. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 89. 
+ 
+ 
+Expected Outcome:  
+• New technological solutions with improved performance and reduced energy and 
+environmental impact consumption providing significant advances towards the 
+emergence of competitive value chains in IAM-based sensing components in Europe. 
+• Widespread adoption of low -cost IAM -based sensing solutions in e.g. environmental 
+monitoring, industrial safety, and next -generation smart sensing applications including 
+health monitoring.  
+Scope: Proposals should address at least one of the following two areas. 
+A. IAM -enabled multifunctional surfaces able to detect and respond to changes in the 
+environment, such as temperature, pH, moisture, microbiological or chemical pollutants, 
+concentration of chemical species in air, gases and liquids, and converting these signals into 
+measurable outputs. Such surfaces should demonstrate high performance in terms of 
+sensitivity, selectivity, response time, durability and cost -effectiveness. Proposals should 
+target applications such as environmental and ecosystems monitoring, as well as health 
+monitoring. 
+B. The development of enhanced IAM -based sensor demonstrators, that enable 
+miniaturization and integration into application systems e.g. into portable IoT devices, 
+lightweight wearables and wearable systems. These sensors must meet key performance 
+requirements, e.g. compatibility with silicon technology, operation in real conditions with low 
+power consumption, high sensitivity (low limit of detection and/or high signal to noise ratio), 
+high selectivity and fast detection speed. 
+Stability and resistance to extreme conditions such temperature and humidity should be taken 
+into account. Solutions could also take inspiration from bio-mimicry. 
+Proposals may contribute to one or both above R&I areas. However the main area addressed 
+must be clearly and unambiguously identified in the proposed project. 
+Proposals should integrate the value chain and incorporate the relevant manufacturing 
+technologies needed to bring the developed devices towards the market. 
+Technology must be demonstrated in an industrially relevant environment. 
+Proposals should include activities aiming at facilitating future exploitation of results. 
+Consideration of circularity and recyclability, and compliance with the safe and sustainable by 
+design framework should boost the confidence of industry and end -users and enhance the 
+Innovative Advanced Materials ecosystem and uptake. 
+ 
+Where relevant, cooperation with activities funded under the Chips Joint Undertaking, the 
+photonics partnership or other initiatives are encouraged. 
+Beneficiaries that intend to transfer ownership or grant an exclusive licence must formally 
+notify the granting authority (i.e. DG -CNECT and HaDEA) before the intended transfer or 
+licensing takes place and the granting authority may up to four years after the end of the 
+action object to a transfer of ownership or the exclusive licensing of results. 
+This topic implements the co -programmed European Partnership Innovative Advanced 
+Materials for the EU (IAM4EU). 

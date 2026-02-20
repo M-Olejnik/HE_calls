@@ -1,0 +1,95 @@
+HORIZON-CL4-2027-04-DATA-03: New approaches for decentralized, federated and 
+sustainable AI data processing (RIA) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 17.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a proposal 
+requesting different amounts. 
+Indicative 
+budget 
+The total indicative budget for the topic is EUR 35.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In order to achieve the expected outcomes, and safeguard the Union’s 
+strategic assets, interests, autonomy, and security, it is important to avoid 
+a situation of technological dependency on a non -EU source, in a global 
+context that requires the EU to take action to build on its strengths, and to 
+carefully assess and address any strategic weaknesses, vulnerabilities and 
+high-risk dependencies which put at risk the attainment of its ambitions. 
+For this reason, participation is limited to legal entities establ ished in 
+Member States, Iceland and Norway and the following additional 
+associated countries: Canada, Israel, Republic of Korea, New Zealand, 
+Switzerland, and the United Kingdom. In addition, entities established in 
+third countries which may become associated to Horizon Europe during 
+2026 and 2027 may be eligible to participate in this topic if the third 
+country is identified for this topic as an eligible country in the List of 
+Participating Countries in Horizon Europe at the time of submission of the 
+application93. In any case, the association agreement to the Programme 
+must apply by the time of the signature of the grant agreement. 
+For the duly justified and exceptional reasons listed in the paragraph 
+ 
+above, in order to guarantee the protection of the strategic interests of the 
+Union and its Member States, entities established in an eligible country 
+listed above, but which are directly or indirectly controlled by a non -
+eligible country or by a non -eligible country entity, may not participate in 
+the action unless it can be demonstrated, by means of guarantees 
+positively assessed by their eligible country of establishment, that their 
+participation to the action would not negatively impact the Union’s 
+strategic assets, interests, autonomy, or security. Entities assessed as high -
+risk suppliers of mobile network communication equipment within the 
+meaning of ‘restrictions for the protection of European communication 
+networks’ (or entities fully or partially owned or controlled by a high -risk 
+supplier) cannot submit guarantees.94 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 3 and achieve TRL 6 -7 by the end 
+of the project – see General Annex B. 
+ 
+Expected Outcome: Project results are expected to contribute to developing new approaches, 
+tools and techniques that overcome the obstacles of today's centralised AI compute 
+techniques: limits in the availability of energy and AI compute capacity in centralised 
+standalone environments, limited availability of types of AI chips, data quality and security 
+and latency in AI data processing. The ultimate objective is to help overcome EU’s AI 
+compute capacity bottlenecks by offering alternative decentralised and sustainable AI 
+compute models that enable exploitation of diverse hardware processing architectures and 
+scaling approaches. 
+Scope: This topic focusses on technologies and techniques that enable AI data processing to 
+leverage distributed compute resources across the cloud and edge computing continuum 
+throughout the whole AI model lifecycle from data collection, training, fine -tuning, and 
+deployment. To overpass today’s state of the art in the area, the considered research areas 
+include: 
+• To research on distributed, decentralised, and federated “compute continuum” enabled 
+AI architectures beyond federated learning and integrating model compression tools and 
+new mechanisms to enable AI data processing to scale across multiple and diverse 
+computing infrastructures. 
+ 
+• Development, deployment, and operation of AI workflows across heterogeneous and 
+distributed infrastructures along the compute continuum (edge, cloud, HPC), including 
+the possibility of incorporating innovative computing paradigms (neuromorphic and 
+quantum computing) and hardware efficiency enhancements ((e.g., including in -memory 
+computing, and hardware and software approximation). 
+• Novel methods and techniques to improve data availability and consistency for 
+decentralised AI data processing. These consider tools to ensure data quality (e.g. 
+prevention of data sets imbalance or inconsistency across distributed data sources), 
+volume optimisation for data transfers across environments, and distributed data 
+management, all while preserving data privacy and preventing data leaks (e.g. via 
+advanced cryptographic protection such as post -quantum cryptography for resistance to 
+emerging quantum threats). 
+• New tools and mechanisms to measure, monitor and improve end -to-end energy 
+efficiency and sustainability of AI data processing across the compute continuum, 
+including the exploration of energy and sustainability implications of the heterogeneous 
+AI processing architectures and their impact in the compute infrastructure design and 
+long-term sustainability.  
+Successful project proposals should showcase proposed developments in at least two 
+complementary use cases in different domains. These use cases should demonstrate the value 
+gained and potential impact of project achievements in real -world situations, as well as 
+address key applications and sectors critical to Europe's competitiveness. Use cases should 
+provide compelling examples and scenarios and cater for the reproducibility of results' added 
+value and impact in additional economic sectors.

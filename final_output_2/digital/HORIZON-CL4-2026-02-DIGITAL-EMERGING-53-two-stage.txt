@@ -1,0 +1,87 @@
+HORIZON-CL4-2026-02-DIGITAL-EMERGING-53-two-stage: Innovative AI methods 
+and technologies for the process industries (RIA) (Processes4Planet and AI, Data and 
+Robotics partnerships) 
+Call: INDUSTRY-two-stage 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+4.00 and 6.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 30.00 million. 
+Type of Action Research and Innovation Actions 
+Admissibility The conditions are described in General Annex A. The following 
+conditions exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their first-
+stage application (see General Annex E). 
+In order to include a business case and exploitation strategy, as outlined 
+in the introduction to Destination 'Leadership in materials and 
+production for Europe', the page limit in part B of the General Annexes 
+is exceptionally extended by 3 pages (for second-stage proposals). 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 4 -5 and achieve TRL 6 by the 
+end of the project – see General Annex B. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+The first-stage proposals of this topic will be evaluated blindly. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 137. 
+ 
+Expected Outcome: Projects are expected to contribute to the following outcomes: 
+• To develop and demonstrate innovative AI -driven solutions in materials and process 
+development to enhance the competitiveness and sustainability of the process industries 
+by better products and process technologies and reducing the time to market 
+• To increase the competitiveness of materials production in Europe by AI -supported 
+optimal operation of plants and value networks and early detection of problems and 
+failures 
+• To improve the working conditions in the plants by using AI technologies, metaverse, 
+and robots.  
+ 
+Scope: Drastically improved AI methods and technologies hold transformative potential for 
+the process industries, enabling advancements in process design, operational efficiency, and 
+faster innovation across the entire lifecycle of plants and products. By using different AI 
+approaches such as multimodal generative AI, foundation models, and agentic AI, the 
+industry can move beyond conventional AI applications as e.g. predictive maintenance and 
+quality control toward more intelligent, adaptive, and creative solutions. 
+AI-based solutions can deliver value at every stage of the process lifecycle. In design and 
+engineering, they can enable new innovations and accelerate the development process. During 
+operations, AI technologies can be employed to optimize processes, enhance reproducibility, 
+adapt to changing conditions, and provide new forms of support for the workforce and enable 
+autonomous operation. In value chains, AI can help to adapt faster and detect changing 
+customer needs. These capabilities support faster innovation and strengthen competitiveness 
+in a rapidly evolving industrial landscape. However, realizing this potential requires careful 
+consideration of risks related to reliability, security, and trust, ensuring that AI solutions are 
+effective, safe, and responsible. 
+Proposals should produce dedicated innovative AI-based solutions for the process industry for 
+one of the following scopes: 
+• More effective and faster development of new materials and processes 
+• Competitive and sustainable production, reducing the negative environmental impact of 
+industry 
+• Reduction of risks for the health of the workforce and for the environment and making 
+workplaces in the process industries more attractive.  
+In the projects, user acceptance and training of the users as well as integration into the OT/IT 
+landscape of the companies should be taken into account, e.g. through active engagement in 
+design, development and integration of systems and processes. 
+This topic is linked to the Apply AI Strategy, therefore proposals should seek collaboration 
+with relevant initiatives. 
+Proposals should include a business case and exploitation strategy, as outlined in the 
+introduction to Destination ‘Leadership in materials and production for Europe’. 
+This topic implements the co -programmed European Partnerships Processes4Planet and AI, 
+Data and Robotics. 

@@ -1,0 +1,87 @@
+HORIZON-CL4-2026-04-DATA-02: Open Internet Stack Sovereign Solutions (RIA) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+7.00 and 10.25 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 20.50 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Beneficiaries may provide financial support to third parties (FSTP). The 
+support to third parties can only be provided in the form of grants. The 
+maximum amount to be granted to each third party is EUR 400 000 to 
+allow 1/ cases where a given legal entity may receive FSTP under 
+several grants (e.g. from different calls) 2/ reaching the maturity level 
+for third party’s project to ensure sustainability with multiple awards. 
+FSTP may comprise up to a maximum of 80% of the total requested EU 
+contribution. 
+ 
+Expected Outcome : The overall expected outcome is a large selection of Open -Source 
+solutions that will be organised under the Open Internet Stack framework built under WP 
+2025. This will address the needs of both supply and demand side of the rich and diverse eco -
+system of 3C European providers and verticals. This topic will stimulate the emergence at 
+European and global scale of solutions that are: 
+• Open source and made in Europe, supporting trust, and sovereignty, and delivering 
+credible alternative choices for citizens, governments and companies including start -ups 
+and SMEs. 
+• Paced for easy deployment by the rich European eco -systems of providers, integrators 
+and verticals. 
+• Interoperable, standard-based, decentralised solutions for enabling network effect.  
+Scope: Proposals should address one or several of the following technology areas: 
+• Network and Transport technologies including for example routing and virtual private 
+networks, survivable mesh technologies. 
+• Sovereign operating systems and firmware (including smartphones). 
+• Open Source software productivity and supply chain technologies such as federated 
+forges, independent and cross-platform development framework.  
+Applicants should devise a plan for ensuring that the solutions are designed for efficient 
+deployment, with pre -configured, modular components that facilitate integration by a wide 
+range of users, including SMEs, public administrations, research and education and service 
+providers. 
+Applicants should detail development, integration, testing, deployment, uptake and operation 
+activities. Focus will be on Open Source solutions and their integration and adoption in 
+vertical use cases, to ensure replicability of the results and portability in different areas. 
+Proposals are expected to demonstrate: 
+• That the proposed solution(s) has(ve) the technical maturity in terms of scalability, 
+resiliency, advanced cryptographic protection (e.g. against emerging quantum threats via 
+post-quantum cryptography), alignment with standards including for software and 
+hardware supply chain and efficiency including environmental. 
+• That there is a community with critical mass that actively supports the development with 
+or without associated business model. 
+• Evidence of use cases, interest and engagement from users and deployers of the solution. 
+• Credible path to be part of the Open Internet Stack in terms of cataloguing, searchability, 
+availability through app-stores and alignment with EU regulation.  
+Applicants should detail any relevant previous projects on which the project will expand. 
+Applicants should detail their plan to creating synergies with other topics such as those in the 
+WP25 Open Internet Stack, 3C, Virtual Worlds/Web4.0 as well as like -minded initiatives on 
+the same solution perimeter. 
+Proposals should also detail their strategy for maintenance, cataloguing, marketing, 
+communication as well as the relationship with to the “Open Internet Stack Support for Scale” 
+topic. 
+Beneficiaries that intend to transfer ownership or grant an exclusive licence must formally 
+notify the granting authority (i.e. DG -CNECT and HaDEA) before the intended transfer or 
+licensing takes place and the granting authority may up to four years after the end of the 
+action object to a transfer of ownership or the exclusive licensing of results. 
+Financial support to third parties 
+If applicants opt for financial support to third parties, they should primarily target calls 
+towards internet innovators and adopters of Open Source technologies. Applicants should 
+provide the programme logic for the third -party projects, managing the projects lifecycle, and 
+provide the necessary technical and non-technical support: these tasks cannot be implemented 
+using the budget earmarked for the financial support to third parties.

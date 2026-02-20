@@ -1,0 +1,145 @@
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-11: Grand Challenge on Quantum 
+Sensors for Inertial Navigation 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 0.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a proposal 
+requesting different amounts. 
+Indicative The total indicative budget for the topic is EUR 2.00 million. 
+budget 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In order to achieve the expected outcomes, and safeguard the Union’s 
+strategic assets, interests, autonomy, and security, it is important to avoid a 
+situation of technological dependency on a non -EU source, in a global 
+context that requires the EU to take action to build on its strengths, and to 
+carefully assess and address any strategic weaknesses, vulnerabilities and 
+high-risk dependencies which put at risk the attainment of its ambitions. 
+For this reason, participation is limited to legal entities establ ished in 
+Member States, Iceland and Norway and the following additional 
+associated countries: Canada, Israel, Republic of Korea, New Zealand, 
+Switzerland, and the United Kingdom. In addition, entities established in 
+third countries which may become associated to Horizon Europe during 
+2026 and 2027 may be eligible to participate in this topic if the third 
+country is identified for this topic as an eligible country in the List of 
+Participating Countries in Horizon Europe at the time of submission of the 
+application125. In any case, the association agreement to the Programme 
+must apply by the time of the signature of the grant agreement. 
+For the duly justified and exceptional reasons listed in the paragraph above, 
+in order to guarantee the protection of the strategic interests of the Union 
+and its Member States, entities established in an eligible country listed 
+above, but which are directly or indirectly controlled by a non -eligible 
+country or by a non -eligible country entity, may not participate in the 
+action unless it can be demonstrated, by means of guarantees positively 
+assessed by their eligible country of establishment, that their pa rticipation 
+to the action would not negatively impact the Union’s strategic assets, 
+interests, autonomy, or security. Entities assessed as high -risk suppliers of 
+mobile network communication equipment within the meaning of 
+‘restrictions for the protection of European communication networks’ (or 
+entities fully or partially owned or controlled by a high -risk supplier) 
+cannot submit guarantees.126 
+ 
+The following additional eligibility criteria apply: Proposals must be 
+submitted by a single legal entity (mono -beneficiary CSA) wich is an 
+SME.  
+Award criteria The criteria are described in General Annex D. The following exceptions 
+apply: 
+The following additions to the general award criteria aspects apply: 
+1. Excellence: credibility of the technical approach for road -mapping 
+and benchmarking; adequacy of performance metrics and 
+methodology (e.g. drift rate, SWaP-C, environmental resilience) and 
+early end-user engagement to define requirements. 
+2. Impact: enhancing the EU stance around quantum inertial navigation 
+from different angles 127; expected contribution to EU technological 
+sovereignty (including mitigation of non -EU supply -chain 
+dependencies) and to societal, industrial and economic benefits; 
+credibility of the path to commercialisation and investor-readiness. 
+3. Quality and efficiency of the implementation: credibility of the work 
+plan, resources and risk management for a mono -beneficiary CSA; 
+capacity to deliver the specified outputs (technical & financial 
+roadmap, validation/benchmarking reports, viability assessment); 
+appropriateness of the team and access to facilities for 
+validation/benchmarking of existing prototypes. 
+ 
+Expected Outcome : Expected Outcome : This topic is the first phase of a two -phase 
+competitive structure supported by Horizon Europe, implemented via a Coordination and 
+Support Action (CSA) in close collaboration with the European Investment Bank (EIB). 
+• Phase 1 (this topic): A CSA focused on readiness -analysis in terms of exploitation and 
+investments, benchmarking the commercial viability of quantum enabled navigation 
+systems. The aim is to deliver concrete outputs that improve the conditions for use of the 
+supported projects through credible technical, industrialisation and financial roadmaps, 
+validated against investor requirements (e.g. EIB, InvestEU). Activities also include 
+analyses of investor-readiness and supply-chain sovereignty. 
+• Phase 2: For further information, see the indirectly managed action “HORIZON -CL4 
+Quantum Top-Up to InvestEU: Grand Challenge Phase 2” in the Cluster 4 part of the 
+Horizon Europe 2026/2027 Work Programme. This CSA is designed to allow the best 
+possible application in Phase 2 and the current CSA results may therefore inform 
+ 
+clearance issued by an eligible country, where appropriate; c) ownership of the intellectual property 
+arising from, and the results of, the action remain within the recipient during and after completion of the 
+action, are not subject to control or restrictions by non -eligible countries or non -eligible country entity, 
+and are not exported outside the eligible countries, nor is access to them from outside the eligible 
+countries granted, without the approval of the eligible country in which the legal entity is established.  
+applications by beneficiaries to investment support managed by the EIB under InvestEU 
+(separate procedures).  
+Under Phase 1 projects are expected to establish a comprehensive technical and financial 
+roadmap that demonstrates the potential of the proposed Q -INS solutions, and at least deliver 
+evidence-based design and benchmarking packages for reduced -scale systems ( such as 
+documentation, test/benchmark reports and evidence of pre -existing or externally financed 
+prototypes) in one of the following two categories: 
+• Category 1  (cold-atoms Q -INS): Q -INS based on cold -atom interferometry (or other 
+technology of at least equivalent performance) featuring long -term navigation accuracy 
+(<10 m/hour) due to reduced drift with respect to commercial Inertial Measurement 
+Units (IMUs). End -user requirements together with documented benchmark evidence 
+from existing or externally financed prototypes will be collected for demonstrations in 
+maritime or aviation applications. 
+• Category 2 (Chip-scale Q-INS): Low C-SWAP Q-INS measuring acceleration, rotation 
+rate, and/or magnetic field, aimed at the implementation of chip -scale sensors based on 
+defect centers and vacancies in crystals or on warm atomic vapours (including nuclear 
+magnetic resonance), for applications e.g. in small satellites, UAVs, and autonomous 
+transport.  
+Proposals should target systems that are already sufficiently mature to enable credible 
+benchmarking and industrial road-mapping. Specific expected outcomes include: 
+• A detailed technical roadmap, including system architecture, integration strategy, 
+performance milestones, risk assessments and industrialisation plan for scalable 
+production 
+• The industrialisation plan should be validated in conjunction with the EIB requirements, 
+including commercialization timelines, and should include at least the following:        
+ Detailed Q-INS architecture based on quantum sensing techniques hybridised with 
+classical IMUs,    
+ Compliance assessment for SWaP -C requirements, environmental resilience, and 
+real-world integration,    
+ An assessment of dependencies on non -EU suppliers of critical components and 
+proposal of effective mitigation measures in view of a sovereign supply chain,    
+ Potential list of end-users to capture system requirements and use-case constraints   
+• A comprehensive financial roadmap and viability assessment covering business models, 
+market analyses, commercialization pathways, revenue projections and investment 
+criteria
+• Documented lab-validation/benchmarking of an existing or externally financed prototype 
+(no EU funding of R&I or prototype development in this CSA), with preliminary 
+benchmark results. 
+• An application strategy identifying target sectors (maritime, aviation, space, autonomous 
+systems) and quantifiable advantages over classical IMUs.  
+Scope: The Grand Challenge on Quantum Sensors for Inertial Navigation aims to advance the 
+development of quantum -enabled navigation systems for use in GNSS -denied or contested 
+environments. Q -INS combines quantum sensors with classical inertial measurement 
+subsystems to deliver reliable, resilient, and sovereign positioning capabilities. The topic 
+supports the EU’s ambition to strengthen technological sovereignty in strategic navigation 
+infrastructures, aligned with the objectives of the STEP and the Digital Decade. 
+Under this topic (Phase 1), projects are expected to deliver a comprehensive technical, 
+industrialisation, and financial roadmap, including criteria for investment readiness, 
+bankability, risk assessment, and scalability, thereby laying the groundwork for future 
+investments via EU financial instruments under InvestEU, which benefits from a dedicated 
+top-up from Horizon Europe for this purpose128. 
+Under Phase 1, Expressions of Interest from potential end -user partners are strongly 
+encouraged. Tailored advisory services from EIB Advisory may support financial structuring 
+to prepare for Phase 2. 
+Projects funded under this action are expected to span approximately six months, with an EU 
+contribution up to EUR 0.5 million.

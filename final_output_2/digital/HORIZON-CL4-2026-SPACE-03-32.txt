@@ -1,0 +1,135 @@
+HORIZON-CL4-2026-SPACE-03-32: Preparing demonstration missions for Earth 
+Observation and Satellite telecommunication for Space solutions (Space Partnership) 
+Call: SPACE 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+5.00 and 10.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 26.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+In order to achieve the expected outcomes, and safeguard the Union’s 
+strategic assets, interests, autonomy, or security, participation is limited 
+to legal entities established in Member States, Norway and Iceland. 
+Proposals including entities established in countries outside the scope 
+specified in the call/topic/action will be ineligible. 
+For the duly justified and exceptional reasons listed in the paragraph 
+above, in order to guarantee the protection of the strategic interests of 
+the Union and its Member States, entities established in an eligible 
+country listed above, but which are directly or indirectly controlled by a 
+non-eligible country or by a non -eligible country entity, may not 
+participate in the action unless it can be demonstrated, by means of 
+guarantees positively assessed by their eligible country of 
+establishment, that their participation to the action would not negatively 
+impact the Union’s strategic assets, interests, autonomy, or security. 
+Entities assessed as high -risk suppliers of mobile network 
+communication equipment within the meaning of ‘restrictions for the 
+protection of European communication networks’ (or entities fully or 
+partially owned or controlled by a high -risk supplier) cannot submit 
+guarantees.154 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 7 -8 by the end of the project. 
+The reference TRL definition is the ISO 16290:2013 applicable to the 
+space sector.  
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+Eligible proposals submitted under this topic and exceeding all the 
+evaluation thresholds will be awarded a STEP Seal 155. 
+To ensure a balanced portfolio covering all the development areas 
+described in the scope section, grants will be awarded to applications 
+not only in order of ranking but at least also to one proposal that is the 
+highest ranked within each development area, provided that the 
+applications attain all thresholds 
+Legal and 
+financial set-up of 
+the Grant 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+ 
+Agreements Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 156. 
+Security Sensitive 
+Topics 
+Some activities resulting from this topic may involve using classified 
+background and/or producing of security sensitive results (EUCI and 
+SEN). Please refer to the related provisions in section B Security — EU 
+classified and sensitive information of the General Annexes. 
+ 
+Expected Outcome: The topic encompasses actions within the scope of the co -programmed 
+European Partnership on Globally Competitive Space Systems (‘Space Partnership’) in the 
+areas of satellite communication (SatCom), Earth Observation (EO) and New Commercial 
+Space Transportation Solutions and is part of cohesive activities in the domain of digital 
+developments under the grand heading of “digitalisation for commercial space solutions”. 
+Digitalisation is a major enabler for enhancing the value of an End -to-End EO and SatCom 
+system. Under the area of Using Space on Earth  related to SatCom and EO, below this topic 
+focusses on the Mid to High TRL level developments of key technologies 157 required to 
+strengthen competitiveness in these domains, contributing to the preparation of EO and 
+SatCom demonstration missions. 
+Projects are expected to contribute to one or several of the following outcomes: 
+• Favouring a competitive and sustainable European Space Sector; 
+• Enable the European Space Industry to maintain a significant share of the global 
+connectivity market; 
+• Advanced Earth observation and SatCom payloads, technologies and processing means 
+(on ground and in space); 
+• Advanced EO and SatCom fostering AI across space system; 
+• Enhanced security of SatCom and EO services, supporting advanced technologies for 
+both ground and space commercial applications; 
+• End-to-end demonstrator for collaborative Earth Observation and Satellite 
+telecommunication for Space solutions.   
+ 
+This will contribute to developing, deploying global, more flexible and reactive space -based 
+services applications, to contribute to fostering the EU's space sector competitiveness, as 
+stated in the expected impact of this destination. 
+Scope: The areas of R&I, which needs to be addressed to tackle the above -mentioned 
+expected outcomes are: 
+• R&I on End-to-End SatCom Mission capabilities, secure SatCom services and satellites 
+as network nodes in a distributed system, radio -frequency payloads, flexible and 
+modular testbed for complex satcom system architectures to assess performances, 
+testbed for processing RF signal directly onboard the spacecraft, compatibility of the 
+different elements and operations concepts; 
+• R&I on LEO or VLEO earth observation equipment, subsystems, applications and 
+services enabling real time reaction (e.g. use cases requiring low latency), on on -board 
+processing to optimize EO missions’ performance or timeliness, EO ground segment 
+interfaces and data flow standardisation and adoption, smart multi -source EO 
+intelligence information fusion also on ground; 
+• R&I on synergetic technologies, building blocks and processes with applicability across 
+both EO and SatCom next generation operation systems such as operational optimisation 
+for increasing lifetime, design optimisation for increasing efficiency and advanced 
+techniques for large system of systems or multi -mission operation optimisation, as well 
+as tip & cue demonstration combining RF and EO using inter -satellite links (including 
+optical).  
+Developments should aim at EO and Telecom technologies on -ground in relevant 
+environment and in orbit software demonstration when flight is feasible and adding value 
+focusing on software and digital tools (e.g. algorithms, functions). 
+Proposals may contribute to one or more of the above R&I areas, however the main area 
+addressed should be clearly and unambiguously identified in the proposal text. 
+Proposals are expected to promote cooperation between different actors (industry, SMEs, 
+research institutions and infrastructures and academia) and consider opportunities to quickly 
+turn technological innovation into commercial use in space via e.g., on -ground relevant 
+environment or in orbit demonstration. 
+It is expected that projects make use of existing EU technologies and/or building blocks, 
+including at component level, contributing to EU non -dependence and strengthen 
+competitiveness, and this should be clearly presented in the proposal. Furthermore, proposed 
+activities should be complementary to H2020 and Horizon Europe funded projects, national 
+activities and activities funded by the European Space Agency (ESA). 
+This topic contributes to the implementation of the European Partnership on ‘Globally 
+Competitive Space Systems’ (GCSS). 
+In this topic, the integration of the gender dimension (sex and gender analysis) in research and 
+innovation content should be addressed only if relevant in relation to the objectives of the 
+research effort.

@@ -1,0 +1,134 @@
+HORIZON-CL4-2027-SPACE-03-71: Quantum Space Gravimetry topic 
+Call: SPACE 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 14.00 
+and 15.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative 
+budget 
+The total indicative budget for the topic is EUR 29.20 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+In order to achieve the expected outcomes, and safeguard the Union’s 
+strategic assets, interests, autonomy, or security, participation is limited to 
+legal entities established in Member States, Norway and Iceland. 
+Proposals including entities established in countries outside the scope 
+specified in the call/topic/action will be ineligible. 
+For the duly justified and exceptional reasons listed in the paragraph 
+above, in order to guarantee the protection of the strategic interests of the 
+Union and its Member States, entities established in an eligible country 
+listed above, but which are directly or indirectly controlled by a non -
+eligible country or by a non -eligible country entity, may not participate in 
+the action unless it can be demonstrated, by means of guarantees 
+positively assessed by their eligible country of establishment, that their 
+participation to the action would not negatively impact the Union’s 
+strategic assets, interests, autonomy, or security. Entities assessed as high -
+risk suppliers of mobile network communication equipment within the 
+meaning of ‘restrictions for the protection of European communication 
+networks’ (or entities fully or partially owned or controlled by a high -risk 
+supplier) cannot submit guarantees.173 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 4 -6 by the end of the project. The 
+reference TRL definition is the ISO 16290:2013 applicable to the space 
+sector. 
+Procedure The procedure is described in General Annex F. The following exceptions 
+ 
+apply: 
+Eligible proposals submitted under this topic and exceeding all the 
+evaluation thresholds will be awarded a STEP Seal 174. 
+To ensure a balanced portfolio covering all the development areas 
+described in the scope section, grants will be awarded to applications not 
+only in order of ranking but at least also to one proposal that is the highest 
+ranked within each development area, provided that the applications attain 
+all thresholds. 
+ 
+Expected Outcome: Projects are expected to contribute to the following outcomes: 
+• Support the EU space policy by fostering the development of groundbreaking space 
+technology and support the Quantum Europe Strategy. 
+• Enhance the technological maturation of the critical components necessary to perform 
+quantum space gravimetry. 
+• Foster the technological leadership and non -dependence of the EU in the field of 
+quantum gravimetry from space and promote the EU’s competitiveness in quantum 
+technologies.  
+This action aims at supporting the maturation, development and/or implementation of 
+quantum gravimetry technology for space.  
+Monitoring the Earth gravity field provides key information and data on Earth mass 
+movements. This type of data is of utmost importance for Earth science and used in many 
+areas, for example to monitor ice sheet changes, floods or droughts, volcanic activities and 
+earthquakes. The community of users for such data spans from climate scientists to 
+geophysicists and relies on quality and precise data. Monitoring the Earth gravity field from 
+space provides a global scale to the user community and fosters the development of models 
+and understanding of the Earth as an integrated and global system.  
+Space gravimetry data provided up to now (or planned in the near future) is using an 
+underlying technology based on electrostatic accelerometers, which has reached its limits in 
+terms of performance. Accelerometers based on quantum technology may offer enhanced 
+performances in terms of sensitivity, accuracy, stability and operational time compared to 
+these classical accelerometers.  
+The European Commission is committed to the development of quantum technologies and for 
+this purpose, adopted the Quantum Europe Strategy in July 2025 ( Quantum Europe Strategy | 
+Shaping Europe’s digital future ). This strategy identifies Space as a critical element and 
+highlights the benefits of quantum sensing, including for fundamental science. The strategy 
+provides the case for a network of mobile and stationary quantum sensors and foresees the 
+deployment of ground, airborne and space -based gravimeters for Earth observation purposes. 
+ 
+The strategy highlights the need for and importance of developing a space compatible 
+technology to fulfil this ambition.  
+Quantum technologies are also identified as a critical R&I area in the EU Economic Security 
+Strategy ( eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52023JC0020). 
+Mastering this technology will contribute to the EU technological sovereignty and foster the 
+development of an EU non -dependent quantum & space ecosystem, able to address the EU’s 
+ambitions for its space policy. 
+To meet these strategic objectives and envisage a full -blown quantum space gravimetry 
+capacity, the development and in -orbit testing of a quantum accelerometer is a pre -requisite. 
+The European Commission has been supporting the development of quantum accelerometer 
+technology for ground and space gravimetry with dedicated calls in Horizon Europe.  
+This call will support the implementation, development and maturation of quantum 
+accelerometer technologies for space gravimetry. Proposals should present a technological 
+solution provided it is quantum -based, aims at enhancing the performance of gravimetry 
+mission(s) currently planned (based on electrostatic accelerometers), and the resulting projects 
+are expected to be consistent with a common overarching roadmap and recommendations to 
+be established in close coordination with EU Member States, Norway and Iceland through a 
+dedicated Quantum Space Gravimetry Expert Group (QSGEG). The action should foster the 
+development of the underlying technology and result in a breadboard / payload prototype 
+subsystems / engineering models demonstrating the feasibility and expected performance of 
+the technological solution and its potential further development for integration on a satellite 
+platform, the design of which should also be presented. Proposals should also provide a clear 
+implementation strategy allowing the chosen solution to be tested in-orbit in a demonstrator in 
+the future, the associated development lifecycle of which is free of choice (ECSS or other).  
+Scope: The areas of R&I, which needs to be addressed to tackle the above -mentioned 
+expected outcomes are: 
+• Area 1: R&I on the technology based on cold atom interferometry with Bose Einstein 
+Condensates (BECs) for Quantum Space Gravimetry. Proposals should aim at the 
+maturation of all relevant technology to TRL 6 and deliver engineering and qualification 
+models of the payload subsystems to demonstrate the technology in orbit. 
+• Area 2: R&I on emerging technology for Quantum Space Gravimetry such as SQUIDs 
+(Superconducting Quantum Interference Devices) or nuclear spin -based gravimeters or 
+hybridized technology (list not exhaustive). Proposals should aim at the development of 
+the relevant technology to TRL 4 -5 and deliver breadboards or prototypes of a payload 
+aiming at demonstrating the technology in orbit.  
+Proposals should contribute to one of the above R&I areas and this area should be clearly and 
+unambiguously identified. To ensure a balanced portfolio covering the two areas described 
+above, grants will be awarded to applications not only in order of ranking but at least also to 
+one proposal that is the highest ranked within each area, provided that the applications attain 
+all thresholds. Intellectual Property (IP) rights and ownership must be clearly defined and the 
+provisions in Article 16 of the Horizon Europe Model Grant Agreement shall apply (relevant 
+to protection, exploitation, transfer and licensing, access rights to results and background). 
+The beneficiaries of the grant should also reflect on the availability of the IPs for potential 
+next steps of the activity. 
+Where applicable, proposers are invited to explore synergies with or build -upon past actions 
+related to quantum technology and/or space gravimetry either at national or EU level. 
+In this topic, the integration of the gender dimension (sex and gender analysis) in research and 
+innovation content should be addressed only if relevant in relation to the objectives of the 
+research effort.

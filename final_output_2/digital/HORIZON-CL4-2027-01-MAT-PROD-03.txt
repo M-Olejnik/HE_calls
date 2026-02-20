@@ -1,0 +1,69 @@
+HORIZON-CL4-2027-01-MAT-PROD-03: Factory processes and automation for de - 
+and re-manufacturing (RIA) (Made in Europe partnership) 
+Call: INDUSTRY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+5.00 and 6.50 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 36.00 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+In order to include a business case and exploitation strategy, as outlined 
+in the introduction to this Destination, the page limit in part B of the 
+General Annexes is exceptionally extended by 3 pages. 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 4 -5 and achieve TRL 6 by the 
+end of the project – see General Annex B. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+ 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 38. 
+ 
+Expected Outcome:  
+• A viable industrial ecosystem for circularity in manufacturing industries emerges, 
+enhancing both circularity and resilience; 
+• De-manufacturing technologies and practices become available, making decisive 
+contributions to a European remanufacturing industry and market; 
+• Functions of products are retained, reused, upgraded or adapted through de -
+manufacturing and re-manufacturing; and 
+• Skills, standards and safety measures relevant to remanufacturing are developed.   
+Scope: Proposals should focus on developing de -manufacturing and re -manufacturing 
+technologies at the factory level, addressing at least three of the following: 
+• Technologies to efficiently analyse part condition and support predictive maintenance, 
+including for re -manufactured parts or components of lower value, e.g. by combining 
+multimodal sensor data, AI and human inputs; 
+• AI and robotic -assisted technologies, e.g. innovative end -effectors, to de -manufacture 
+products and components, including handling, sorting and extended logistics; 
+• Model-based systems, to allow de -manufacturing and re-manufacturing operators to use 
+CAD data and digital twins related to the original parts (and contribute to the 
+development of a digital ecosystem); 
+• Solutions allowing local (on -site) repair or re -manufacturing of high -added value 
+components (applied to e.g. wind turbines, aircraft and vessels); and 
+• Solutions to plan the sequence of operations based on the characteristics of the incoming 
+products to be re-manufactured.   
+Proposals should include a business case and exploitation strategy, as outlined in the 
+introduction to this Destination. Depending on the approaches to be pursued, these should 
+consider the best solutions to enhance adoption, for example coupling manufacturing with de -
+/re- manufacturing plants, product and component value, risk mitigation for variable de -/re-
+manufacturing flows. 
+This topic implements the co-programmed European Partnership Made in Europe. 
+ 

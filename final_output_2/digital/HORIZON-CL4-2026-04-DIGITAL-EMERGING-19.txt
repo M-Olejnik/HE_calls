@@ -1,0 +1,218 @@
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-19: Challenge -Driven GenAI4EU 
+Booster in Apply AI prioritised sectors (RIA) (AI/Data/Robotics Partnership) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+15.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 45.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In order to achieve the expected outcomes, and safeguard the Union’s 
+strategic assets, interests, autonomy, and security, it is important to 
+avoid a situation of technological dependency on a non -EU source, in a 
+global context that requires the EU to take action to build on its 
+strengths, and to carefully assess and address any strategic weaknesses, 
+vulnerabilities and high -risk dependencies which put at risk the 
+attainment of its ambitions. For this reason, participation is limited to 
+legal entities established in Member States, Iceland and Norway and the 
+following additional associated countries: Canada, Israel, Republic of 
+Korea, New Zealand, Switzerland, and the United Kingdom. In addition, 
+entities established in third countries which may become associated to 
+Horizon Europe d uring 2026 and 2027 may be eligible to participate in 
+this topic if the third country is identified for this topic as an eligible 
+country in the List of Participating Countries in Horizon Europe at the 
+time of submission of the application 106. In any case, the association 
+agreement to the Programme must apply by the time of the signature of 
+the grant agreement. 
+For the duly justified and exceptional reasons listed in the paragraph 
+above, in order to guarantee the protection of the strategic interests of 
+the Union and its Member States, entities established in an eligible 
+country listed above, but which are directly or indirectly controlled by a 
+non-eligible country or by a non -eligible country entity, may not 
+participate in the action unless it can be demonstrated, by means of 
+guarantees positively assessed by their eligible country of establishment, 
+that their pa rticipation to the action would not negatively impact the 
+Union’s strategic assets, interests, autonomy, or security. Entities 
+assessed as high -risk suppliers of mobile network communication 
+equipment within the meaning of ‘restrictions for the protection of 
+European communication networks’ (or entities fully or partially owned 
+or controlled by a high-risk supplier) cannot submit guarantees.107 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 3 and achieve at least TRL6 by 
+the end of the project – see General Annex B. 
+Procedure The procedure is described in General Annex F. The following 
+ 
+exceptions apply: 
+To ensure a balanced portfolio covering the different strategic sectors, 
+grants will be awarded to applications not only in order of ranking but at 
+least also to one proposal that is the highest ranked within (i) the 
+aerospace sector, (ii) the pharma/drug development sector, and (iii) the 
+telecommunication sector, provided that the applications attain all 
+thresholds. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Beneficiaries must provide financial support to third parties. The support 
+to third parties can only be provided in the form of grants. FSTP grants 
+may be provided to either a single SME or to a small team of legal 
+entities. Where provided to a small team, the coordinator (lead 
+applicant) must be an SME and other recipients of financial support 
+must be either an SME, a research organisation, and/or public body 
+secondary or higher education establishment.  
+FSTP amounts: 
+• The maximum amount to be granted per FSTP grant (whether 
+provided to one legal entity or a team of legal entities) is EUR 
+250,000 in stage 2 and EUR 2,000,000 in stage 3. 
+• The amount of EUR 250,000 in stage 2 is justified as the 
+challenge and corresponding tasks defined for this stage must be 
+complex enough in order to take the best and most informed 
+decision in the selection for the next stage based on a convincing 
+technical prototype/proof of concept that reaches sufficient level 
+of performance in terms of scale and maturity.  
+• The amount of EUR 2,000,000 in stage 3 is justified by the 
+ambition of reaching significant technology progress and 
+innovation, defined in the expected outcome of the call, including 
+the need for the selected projects to scale their solutions to the 
+maturity expected.  
+The maximum amount to be granted to each third party is EUR 
+2,250,000 
+In accordance with Annex 5 of the grant agreement “SPECIFIC RULES 
+FOR CARRYING OUT THE ACTION ( — ARTICLE 18) 
+Implementation in case of restrictions due to strategic assets, interests, 
+autonomy or security of the EU and its Member States ”, by default 
+beneficiaries must ensure that, inter alia , no recipient of FSTP is (i) 
+established in a country which is not an eligible country (as identified in 
+the specific conditions for eligibility) or (ii) controlled by such countries 
+or entities from such countries (directly or indirectly as per the specific 
+conditions for eligibility). In line with the possibility for the granting 
+authority to agree otherwise, as concerns control of SMEs or private 
+research organisations that participate as recipients of FSTP, 
+beneficiaries must only ensure that such entities are not directly 
+majority-owned (i.e., more than 50% of the capital) by entities 
+established in non-eligible countries.  
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• Significant technology progress and innovation through challenge-driven approach in the 
+fields of aerospace, pharma/drug development or telecommunication networks. 
+• Increased competitivity and visibility of the Generative AI community in Europe, in 
+demonstrating their capability to achieve challenging tasks within the aerospace, 
+pharma/drug development or telecommunication sectors. 
+• Increased adoption of Generative AI in aerospace, pharma/drug development or 
+telecommunication networks through tangible progress and achievement demonstrated 
+via the challenge-driven process.   
+Scope: Generative AI (GenAI) promises to transform most industry sectors. This challenge -
+driven initiative aims to boost both Europe’s developer community and the adoption of 
+powerful trustworthy generative AI solutions in the strategic sectors of aerospace, 
+pharma/drugs and telecommunication networks, key for their competitiveness. In 
+pharmaceuticals, it can, for instance, accelerates drug design by rapidly creating target -
+specific molecules, reducing development time from years to seconds, and potentially 
+preventing prolonged health crises like COVID -19. In aerospace, generative AI can for 
+instance optimize aircraft design, streamline manufacturing processes, predict maintenance 
+needs through sensor data analysis, route optimisation, and enhance pilot training with 
+diverse, realistic simulations. By embracing generative AI, telecom companies can position 
+themselves at the forefront of a new era of intelligent and automated telecommunications. 
+Specific use-cases include for instance network management, network optimization, network 
+slicing, network healing, predictive maintenance, network mapping and optimization. 
+Each proposal should focus exclusively on one of the three key sectors mentioned above: 
+aerospace, pharma/drug development, or telecommunications and clearly specify which sector 
+it addresses. Each proposal is expected to focus primarily on the definition, the organization 
+of a multi-stage competition in the chosen sector, as well as the accompanying support to the 
+companies/teams taking part in the challenges, and related activities to maximise the impact 
+of the action. 
+User industry companies from the strategic sector targeted by the proposal should be core 
+partners in the consortium. They should demonstrate a genuine interest in the projects results 
+and therefore support the challenge participants - in order to reach the most powerful and 
+exploitable results benefitting their industry. The expected results are pre -competitive but the 
+proposal must include a draft exploitation plan outlining commitments on future exploitation. 
+The consortium is responsible for the various stages of the challenges and should provide the 
+necessary support resources during each stage of the competition, including technical 
+assistance and business support to develop an exploitation strategy, but most importantly, 
+provide to the competing FSTP recipients the data necessary to fine -tune models and build 
+powerful solutions meeting industry needs. 
+Proposals should be driven by impactful use -cases where generative AI can make the 
+difference: a number of industries from the targeted sector are expected to join forces to 
+define challenging problems to solve with GenAI solutions, which then drive the rest of the 
+project. Based on such challenges, the consortium organises a multi -staged competition with 
+an increasing level of complexity. In the different stages (see below), third parties, either 
+single SMEs or small team of organisations led by an SME, compete to address the challenges 
+with GenAI solutions. 
+For each proposal: 
+• Stage 1 - Open call: The consortium launches an open call for proposals. A challenge, 
+open to all, will allow to select for Stage 2 the 20 highest -ranked proposals, according to 
+a pre-defined selection process and criteria. Each solution competing for the challenge 
+can be submitted either by a single SME, developer of GenAI solutions, or a small team 
+of organisations led by such SME 
+• Stage 2 - Competition among Stage 1 winners:  The 20 teams or organisations selected 
+from Stage 1 receive EUR 250 000 FSTP grant each in accordance with their 
+successfully selected proposal (which addresses the tasks and challenges defined for this 
+stage by the consortium). At the end of Stage 2, the 4 highest ranked solutions will be 
+selected for the next stage according to a pre-defined selection process and criteria. 
+• Stage 3 – Grand finale (Competition among Stage 2 winners):  The 4 teams or 
+organisations selected from Stage 2 receive EUR 2,000,000 FSTP grants each in 
+accordance with their successfully selected proposals to address the tasks and challenges 
+for this stage. In conjunction, they will prepare for the grand finale that will identify the 
+best performing solution at the end of Stage 3 according to the evaluation methodology 
+defined by the consortium.  
+The consortium should define measures to support the winners in maximizing the impact and 
+uptake of their solutions. For instance, after the end of the FSTP grant, the best performing 
+team could be offered the opportunity to conclude partnerships or contracts with the user 
+industries leading the consortium. Measures to support the broad uptake of their solutions in 
+the whole sector should also be considered. 
+Such multi-staged scheme is expected to be implemented in parallel by the projects funded 
+under this action, each addressing a different sector. 
+Each proposal, involving several major industry players, should define a clear methodology to 
+implement the various steps of the approach, define the specifications of the stages of the 
+competitions, timelines, targets, KPIs, a solid evaluation methodology including evaluation 
+criteria. The main information should be in the proposal, in addition to all mandatory 
+requirements as concerns financial support to third parties. The beneficiaries will also be in 
+charge of implementing the evaluation methodology, and providing the necessary 
+infrastructure/technical support for the participants to the challenges. The consortium 
+members are also responsible for ensuring high visibility of the competitions. 
+The projects selected from this call, each addressing one of the three targeted sectors, are 
+expected to collaborate among themselves, in order to make economies of scale in sharing 
+best practices, defining processes for organising the challenges, ensuring efficient monitoring, 
+organising dissemination and communication activities, etc. Such collaboration among the 
+linked actions is expected to be formalised by a collaboration agreement, after the grant 
+agreement signature. 
+For each proposal, an amount of EUR 5,000,000 is foreseen to be distributed among the 
+winners of Stage 1, in form of FSTP grants, in order to prepare for Stage 2. In addition, a 
+budget of EUR 8,000,000 is foreseen to be distributed among the winners of Stage 2, in the 
+form of FSTP grants, to prepare for Stage 3 of the challenge. 
+The proposal is expected to make the case for such investment in defining the objectives with 
+sufficient level of information. This amount will be distributed equally among the 4 winning 
+teams of Stage 2, who are expected to develop further their solutions and compete for Stage 3. 
+Visibility would be important; therefore dissemination and communication campaigns are 
+key. The proposers are also encouraged to seek sponsorship, which would be key for the 
+visibility and prestige of their challenge, and to attract the best developers from the eligible 
+countries to compete, particularly SMEs, alone or within a team competing for the challenges. 
+All proposals are expected to incorporate mechanisms for assessing and demonstrating 
+progress, including qualitative and quantitative KPIs, benchmarking, and progress monitoring. 
+When possible, proposals should build on and reuse public results from relevant previous 
+funded actions. Communicable results should be shared with the European R&D community 
+through the AI -on-demand platform, and if necessary, other relevant digital resource 
+platforms to bolster the European AI, Data, and Robotics ecosystem by disseminating results 
+and best practices. 
+This topic implements the co -programmed European Partnership on AI, data and robotics 
+(ADRA), and all proposals are expected to allocate tasks for cohesion activities with ADRA 
+and the CSA HORIZON-CL4-2025-03-HUMAN-18: GenAI4EU central Hub. 
+Proposals should also build on or seek collaboration with relevant projects 108 and develop 
+synergies with other relevant International, European, national or regional initiatives. Projects 
+selected in this topic will link to the resources offered by the AI Factories, including the Data 
+Labs. The results may be validated in the Testing and Experiment Facilities and further 
+deployed via the European Digital Innovation Hubs (EDIHs) and will contribute to the Apply 
+AI strategy109. 
+Robotics 
+Proposals are invited against the following topic(s):

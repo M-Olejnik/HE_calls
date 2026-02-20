@@ -1,0 +1,156 @@
+HORIZON-CL4-2027-04-DATA-08: Demand-side 3C pilot demonstrators on converged 
+Telco Edge Cloud Infrastructure (IA) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 19.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a proposal 
+requesting different amounts. 
+Indicative 
+budget 
+The total indicative budget for the topic is EUR 38.00 million. 
+Type of Action Innovation Actions 
+Eligibility The conditions are described in General Annex B. The following 
+conditions exceptions apply: 
+In order to achieve the expected outcomes, and safeguard the Union’s 
+strategic assets, interests, autonomy, and security, it is important to avoid 
+a situation of technological dependency on a non -EU source, in a global 
+context that requires the EU to take action to build on its strengths, and to 
+carefully assess and address any strategic weaknesses, vulnerabilities and 
+high-risk dependencies which put at risk the attainment of its ambitions. 
+For this reason, participation is limited to legal entities establ ished in 
+Member States, Iceland and Norway and the following additional 
+associated countries: Canada, Israel, Republic of Korea, New Zealand, 
+Switzerland, and the United Kingdom. In addition, entities established in 
+third countries which may become associated to Horizon Europe during 
+2026 and 2027 may be eligible to participate in this topic if the third 
+country is identified for this topic as an eligible country in the List of 
+Participating Countries in Horizon Europe at the time of submission of the 
+application90. In any case, the association agreement to the Programme 
+must apply by the time of the signature of the grant agreement. 
+For the duly justified and exceptional reasons listed in the paragraph 
+above, in order to guarantee the protection of the strategic interests of the 
+Union and its Member States, entities established in an eligible country 
+listed above, but which are directly or indirectly controlled by a non -
+eligible country or by a non -eligible country entity, may not participate in 
+the action unless it can be demonstrated, by means of guarantees 
+positively assessed by their eligible country of establishment, that their 
+participation to the action would not negatively impact the Union’s 
+strategic assets, interests, autonomy, or security. Entities assessed as high -
+risk suppliers of mobile network communication equipment within the 
+meaning of ‘restrictions for the protection of European communication 
+networks’ (or entities fully or partially owned or controlled by a high -risk 
+supplier) cannot submit guarantees.91 
+ 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – see 
+General Annex B. 
+ 
+Expected Outcome:  
+• Demand-side driven validation of open orchestration platforms across the telco -cloud 
+edge continuum unlocking notably the transformative value of AI for European 
+businesses, driving business growth in multiple industries strategic for Europe. 
+• Enabling the path towards sustainability and competitiveness of key vertical sectors in 
+the EU, exploiting the innovative features of 3C/ telco -edge-cloud, including network 
+features such as API (Application Program Interface) aggregation, slicing, automation, 
+latency, security, ISAC (Integrated Sensing and Communication), reconfigurability, to 
+significantly improve quality of service, resilience, sustainability and other performance 
+parameters of digital communications. 
+• The demand pilots will have a clear sector relevance, with one pilot addressing the future 
+of smart mobility including the automotive sector. 
+• A vibrant ecosystem around 3C/telco -edge-cloud infrastructure, targeting SMEs and 
+start-ups to develop innovative services and new business models validation and 
+marketplace exploitation strategies, as well as paths to commercialization or 
+replicability.  
+Scope: The term “Connected, Collaborative, Computing (3C) Network” refers to a telco-edge-
+cloud, secure multi-provider and multi-technology, communication system that hosts network 
+functions and workloads for and beyond connectivity (e.g. 6G, AI Storage/Compute, 
+networking, Security ISAC , and any other application or capability) as a service (aaS). Key 
+features of the 3C/ telco -edge-cloud network include programmability, fast service creation, 
+security and privacy, mobility, and service continuity across inter -domain deployments. 3C/ 
+telco-edge-cloud networks enable innovative use cases for an EU Digital Market that integrate 
+communication, collaboration and computing capabilities in competitive and sustainable 
+business models that will reinforce EU competitiveness and contribute to digital sovereignty, 
+in particular through the use of Open Internet Stack components. Resulting solutions should 
+be available for use in the public sector (for instance for justice systems). 
+The 3C Network large -scale pilot funded under topic HORIZON -CL4-2025-03-DATA-08: 
+Large-scale pilots for supply end -to-end infrastructures integrating device, network 
+computing and communication capabilities for Telco Edge Cloud deployments, as a basis for 
+Connected Collaborative Computing Networks (3C networks) (RIA)  is setting up end -to-end 
+integrated infrastructures and platforms, bringing together players from different segments of 
+the connectivity and compute value chain and beyond. The main target is to research and 
+validate the integration of device, network, cloud and edge computing, and communication 
+capabilities for telco edge cloud deployments to realize a ubiquitous mesh of computing and 
+communication resources. As a main outcome the supply side pilot establishes an open 
+orchestration platform across the telco -cloud-edge continuum, exploits the transformative 
+value of AI and builds on the integration of solutions developed by the Open Euro Stack. 
+Demand- side pilot demonstrators called in this topic will build on the above supply side 
+large-scale pilot and integrate future domain -specific applications and services with an 
+emerging European 3Cs/ telco -edge-cloud infrastructure, leveraging different network 
+features. Key features will include security and privacy solutions offering resistance to 
+emerging quantum threats (such as via post -quantum cryptography), mobility, and service 
+continuity across inter-domain and multi-cloud deployments and ecosystems. 
+Up to two pilot demonstrators on below listed specific verticals are expected. 
+• One pilot demonstrator focusing on Mobility covering specific areas of transport, 
+logistics and the Automotive industry. The pilot should support the strategy as developed 
+by the Connected and Autonomous Vehicle Alliance identified in the Automotive Action 
+plan, in particular Pillars 3 (AI models) and 5 (Large -scale testing), which will be 
+launched in 2025. 
+• One pilot demonstrator focusing on another vertical sector such as energy, smart 
+communities, industrial virtual worlds, health, agrifood or manufacturing.  
+They would be driven by a consortium including partners both from the demand (user) and 
+infrastructure supply side. The pilot demonstrators should take advantage of open application 
+interfaces, explore the possibilities of AI, “virtual worlds”, and other innovative technologies 
+for practical implementation in the referred vertical domains. They should leverage combined 
+investments in network infrastructure, computing and connectivity infrastructure as an enabler 
+for more extensive set of digital innovation, with cognitive cloud computing and swarm 
+intelligence, generative AI and LLM, as well as on -boarding of XR/AR technologies, being 
+ranked most important. 
+Proposals are expected to detail a robust data governance model for the data generated and 
+processed within the pilots. This model should address data sovereignty, interoperability with 
+Common European Data Spaces, and alignment with principles from initiatives like Gaia -X. 
+It should outline clear mechanisms for secure and compliant data sharing between the 
+demand-side (users) and supply -side (infrastructure providers), establishing the trust 
+necessary for a functional data economy on top of the 3C infrastructure. 
+Pilot demonstrators should demonstrate the evolution from virtualised and cloud -native 
+network functions towards automated network operations enabling agile and green IoT -edge 
+computing solutions and decentralised intelligence. They should also demonstrate benefits for 
+infrastructure providers to operate networks more efficiently and move beyond traditional 
+connectivity-service models to higher value-added services. 
+Demonstrations will respond to the ever more demanding processing power of AI through 
+integration on-device level and changes triggered by GenAI affecting global communication 
+infrastructures. Orchestration of workloads across the telco -cloud-edge continuum from 
+distributed sensors and actuators to the edge and cloud is a crucial part of innovation as AI 
+becomes more resource-intensive. 
+The pilot demonstrators should take into consideration the recommendations on user 
+requirements from the advisory group of end users, as well as liaise with the collaboration and 
+support action (CSA) funded under WP25 to bridge between the 3C/ telco -edge-cloud supply 
+pilot funded under WP25 and the demand pilots funded under WP26-27. 
+The pilots should exploit in particular open APIs and open -source components as developed 
+by the supply side pilot, e.g. including the use of capabilities to implement specific 
+communication management services (e.g. Open RAN security, RIC VNF…), up -take of 
+existing standards and relevant open -source projects (e.g., Sylva, ANUKET, Nephio, 
+CAMARA, etc.). 
+The pilot demonstrators should include testing, validation and demonstration of prototypes of 
+agile virtualised network functions combined with ubiquitous mesh of integrated devices, 
+computing and communication resources in operational environments, ensuring security and 
+privacy, protection also in the face of emerging quantum threats, energy efficiency, 
+transparency and control of the ecological footprint, as well as sustainable artificial 
+intelligence services. 
+The pilot demonstrators are expected to re -use as far as possible existing open -source 
+frameworks, i.e. open -source software governed by communities of contributors, that will 
+provide key technology components for the operation of the 3C/ telco -edge-cloud supply-side 
+large scale pilot. These open -source frameworks should be made available to the Open 
+Internet Stack Support for Scale. 
+The proposals should ensure a high degree of participation of stakeholders from the relevant 
+vertical sectors, with a particular attention to the involvement of SMEs, scale -ups and start -
+ups. 
+The pilots should establish a high degree of relations and collaborate with complementary EU 
+funded research activities, like the Smart Networks and Systems Joint Undertaking (SNS JU) 
+projects, the “Empowering AI across the continuum” and the “Sovereign edge/cloud 
+infrastructure” R&I areas, the PPP virtual worlds, CCAM partnership as well as support of 
+SW-defined vehicle initiative under the Chips JU.

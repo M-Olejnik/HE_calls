@@ -1,0 +1,76 @@
+HORIZON-CL4-2026-01-MAT-PROD-46: Mapping and service finder for Technology 
+Infrastructures (CSA) 
+Call: INDUSTRY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 2.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 2.00 million. 
+Type of Action Coordination and Support Actions 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 55. 
+ 
+Expected Outcome:  
+• Improved visibility and access to technology infrastructures via an interactive portal 
+(open source, free to access, easy to update) of technology infrastructures across Europe; 
+ 
+• Improved understanding of the European landscape of technology infrastructures, 
+including existing facilities and their services supporting the development of strategic 
+technologies by industrial users; 
+• Boosted innovation and market potential by providing an interactive portal where 
+industrial users, especially SMEs, startups and scaleups, can search and find services 
+relevant for their innovation and product development.  
+Scope: For many innovative startups, finding and accessing highly specific research and 
+technology infrastructures services is a major hurdle. Information about the available services 
+is limited, especially on infrastructures located beyond their local ecosystems. 
+Proposals are expected to create an inventory of existing and ongoing mapping of technology 
+infrastructure and technology infrastructure services in Europe and to consolidate the 
+knowledge into an interactive portal that will serve as technology infrastructure service finder. 
+Furthermore, based on this inventory and other existing evidence -gathering and policy 
+analysis, the proposals should use a comprehensive taxonomy of the technology 
+infrastructures landscape. The portal, in line with regional smart specializations and existing 
+ecosystems, should help assess which new technology infrastructure needs to be built to 
+ensure long-term Europe’s competitiveness and sovereignty.  
+Proposals should set out to establish an interactive portal including an interactive finder for 
+technology infrastructure services in the EU. The finder should be aligned with other ongoing 
+activities such as EIB TechEU, EIB Advisory services and other relevant tools identified 
+during the inventory stage. The interactive finder should facilitate the cooperation between 
+technology infrastructure operators with industry (including SMEs, startups and scaleups) and 
+other relevant stakeholders and propose services from a demand driven perspective. It should 
+lead to increased opportunities for startups and scaleups for development, testing, up -scaling 
+and deployment of new technologies. 
+The developed platform should be based on open -sources technologies, allowing 
+interoperability with parallel initiatives and self -sustainability on long -term, and propose a 
+suitable opensource application interface (API) or develop an open -source API that will allow 
+flow of information between technology infrastructure service providers. The CSA could 
+support the maintenance of the platform for at least 5 years. 
+Proposals should include also communication actions aimed at increasing the visibility and 
+uptake of the finder and of technology infrastructures across the EU as well as activities to 
+facilitate dialogue and networking among stakeholders. This should include promoting the 
+uptake of the platform.  
+Furthermore, the proposal should develop a model to make the platform self -sustainable on 
+the long -term, through, but not only limited to, proper governance, financing and other 
+relevant aspects. 
+Proposals should also aim at enhancing transnational and multisite collaboration among 
+Technology Infrastructures and their users, fostering the building of technology 
+infrastructures ecosystems, the sharing of experience, resources, best practices service 
+development and service offer, feedback from users, staff exchange and networking. 
+Proposals may also benefit, especially for communication and dissemination activities, from 
+sharing best practices and taking stock of what other relevant projects are developing in the 
+field of Technology Infrastructures.

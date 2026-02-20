@@ -1,0 +1,113 @@
+HORIZON-CL4-2027-04-DIGITAL-EMERGING-11: EU Frontier AI Initiative:  
+Developing frontier AI solutions that are safe and computationally efficient within 
+Apply AI (RIA) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU The Commission estimates that an EU contribution of around EUR 44.00 
+contribution per 
+project 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a proposal 
+requesting different amounts. 
+Indicative 
+budget 
+The total indicative budget for the topic is EUR 44.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In order to achieve the expected outcomes, and safeguard the Union’s 
+strategic assets, interests, autonomy, and security, it is important to avoid 
+a situation of technological dependency on a non -EU source, in a global 
+context that requires the EU to take action to build on its strengths, and to 
+carefully assess and address any strategic weaknesses, vulnerabilities and 
+high-risk dependencies which put at risk the attainment of its ambitions. 
+For this reason, participation is limited to legal entities establ ished in 
+Member States, Iceland and Norway and the following additional 
+associated countries: Canada, Israel, Republic of Korea, New Zealand, 
+Switzerland, and the United Kingdom. In addition, entities established in 
+third countries which may become associated to Horizon Europe during 
+2026 and 2027 may be eligible to participate in this topic if the third 
+country is identified for this topic as an eligible country in the List of 
+Participating Countries in Horizon Europe at the time of submission of the 
+application97. In any case, the association agreement to the Programme 
+must apply by the time of the signature of the grant agreement. 
+For the duly justified and exceptional reasons listed in the paragraph 
+above, in order to guarantee the protection of the strategic interests of the 
+Union and its Member States, entities established in an eligible country 
+listed above, but which are directly or indirectly controlled by a non -
+eligible country or by a non -eligible country entity, may not participate in 
+the action unless it can be demonstrated, by means of guarantees 
+positively assessed by their eligible country of establishment, that their 
+participation to the action would not negatively impact the Union’s 
+strategic assets, interests, autonomy, or security. Entities assessed as high -
+risk suppliers of mobile network communication equipment within the 
+meaning of ‘restrictions for the protection of European communication 
+ 
+networks’ (or entities fully or partially owned or controlled by a high -risk 
+supplier) cannot submit guarantees.98 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 2 and achieve TRL 4 by the end of 
+the project – see General Annex B. 
+ 
+Expected Outcome: The Apply AI Strategy99 also seeks to bolster EU capabilities and achieve 
+excellence in AI to support the development of European frontier models. As part of the 
+Frontier AI Initiative, which brings together Europe’s leading actors in the field, this topic 
+will support the development of sovereign frontier AI ensuring safety by design. This topic 
+directly contributes to the Apply AI Strategy. Project results are expected to contribute to all 
+of the following expected outcomes: 
+• Strengthened European capabilities in the development of frontier AI models. 
+• Improved computational efficiency of frontier AI models, resulting in reduced 
+computational costs. 
+• Enhanced safety of advanced AI systems based on frontier AI models through the 
+development and implementation of safe-by-design principles and/or AI agents acting as 
+safety evaluators.  
+Scope: To advance developments of frontier AI models towards highest -level performance, 
+while ensuring energy efficiency, addressing computational constraints, and strengthening 
+safety. The approach of this topic is twofold. First, it aims to advance the AI field through the 
+development and training of a frontier AI model. The AI model should demonstrate state -of-
+the-art performance, have multimodal capabilities, and be optimized for agentic AI 
+capabilities such as tool use, reasoning, and autonomous problem -solving. Second, this topic 
+supports research on comprehensive methods to reduce the computational demands of frontier 
+AI models and to ensure their safety, including technical methodologies such as automated 
+testing and interpretability. 
+The primary drivers behind computational efficient AI systems are the urgent challenges 
+posed by the growing energy footprint of AI and current computational limitations. Modern 
+AI models, especially frontier AI models, require substantial computational resources, with a 
+ 
+significant impact in the environment. Additionally, they create barriers to entry to those 
+interested in advancing the AI field. Key research areas include compression and distillation 
+techniques aimed at reducing the complexity of large AI models. Innovations in AI 
+architectures are also relevant, with a focus on innovative models that significantly lower 
+computational demands for training and inference. Further, algorithmic approaches aimed at 
+minimizing computational load during pre -training, post -training, and inference can also be 
+considered. 
+Ensuring the safety of AI systems is essential, especially as AI models become increasingly 
+sophisticated and pervasive. Potential research areas to be considered include addressing 
+misalignment, particularly the unintentional misalignment of large AI models. Work in this 
+area could explore methods to detect and mitigate sophisticated misbehaviour, such as 
+alignment faking, reward hacking of human oversight, and encoded reasoning in chain -of-
+thought (CoT). Additionally, research could focus on enhancing robustness against 
+adversarial attacks, jailbreaks, and backdoors. Further potential areas for innovation include 
+advancing AI models transparency and interpretability. Safety research could also consider 
+risks that may arise when embedding frontier models within agentic AI frameworks, 
+significantly contributing to the trust and safe adoption of powerful AI solutions. 
+This topic contributes to the EU Frontier AI initiative. The project should establish strong 
+links with the Resource for AI Science in Europe (RAISE), ensuring that its priorities inform 
+the research topics addressed. Activities are expected to involve the European AI research 
+community and attract and retain top AI talent working on frontier models and related areas. 
+All proposals are expected to incorporate mechanisms for assessing and demonstrating 
+progress, including qualitative and quantitative KPIs, benchmarking, and progress monitoring. 
+When possible, proposals should build on and reuse public results from relevant previous 
+funded actions. Communicable results should be shared with the European R&D community 
+through the AI-on-demand platform. 
+The project selected in this topic should link to the resources offered by the AI Factories and 
+the Data Labs. Where relevant, it could also establish links with European companies 
+developing frontier AI models. 
+All proposals are expected to allocate tasks for cohesion activities with the European 
+Partnership on AI, data, and robotics (ADRA) and the CSA HORIZON -CL4-2025-03-
+HUMAN-18: GenAI4EU central Hub. 
+Apply AI 
+Proposals are invited against the following topic(s):

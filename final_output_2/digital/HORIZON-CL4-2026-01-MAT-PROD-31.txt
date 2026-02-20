@@ -1,0 +1,89 @@
+HORIZON-CL4-2026-01-MAT-PROD-31: Efficient capture / purification / utilisation of 
+CO2 for the production of competitive products (RIA) (Processes4Planet partnership) 
+Call: INDUSTRY 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+5.00 and 7.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 43.80 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+In order to include a business case and exploitation strategy, as outlined 
+in the introduction to this Destination, the page limit in part B of the 
+General Annexes is exceptionally extended by 3 pages. 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 4 -5 and achieve TRL 6 by the 
+end of the project – see General Annex B. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 46. 
+ 
+Expected Outcome: Projects are expected to contribute to the following outcomes: 
+ 
+• Achieve a significant reduction in the production costs of CO2 -based products, making 
+them competitive with conventionally produced alternatives. This involves optimising 
+the integration of CO2 capture, purification, and conversion processes. 
+• Demonstrate processes that minimize energy consumption during the entire conversion 
+process, leveraging advances in process integration that can shift equilibria and the use 
+of renewable electricity and available heat sources. 
+• Contribute to the reduction of carbon emissions by enabling the sustainable use of CO2, 
+supporting circular economy principles through the valorisation of CO2, possibly 
+aligned with CCS.  
+Scope: There are only a few products that can be competitively produced from CO2. 
+Increased opportunities for CCU from process industry emissions require the development of 
+a larger portfolio of potential CO2 -derived products. The higher cost of CO2 -based products 
+compared to conventional production routes is mostly driven by the high energy demand 
+arising from the thermodynamic constraints of CO2. The smart integration of CO2 capture, 
+purification and conversion can enable process optimisation with reduced energy 
+consumption as well as reduced capital expenditure. Additionally, innovative processes can 
+overcome the inherent equilibrium limitations of CCU production. The development of new 
+integrated processes can be an opportunity to optimise the use of electricity, make use of 
+available heat sources and relevant infrastructures and thus accelerate the development of 
+CO2 valorisation. 
+Proposals under this topic are expected to address several of the following points: 
+• Develop new methodologies, processes and technologies for the smart integration of 
+CO2 capture, purification, and conversion, focusing on reducing energy demand, capital 
+expenditure and possible integration with CCS infrastructure requirements. 
+• Incorporate renewable energy sources (including the fluctuation of energy availability) 
+and innovative energy management strategies to enhance the sustainability and cost -
+effectiveness of the CO2 valorisation processes. 
+• Identify and integrate available heat sources and existing infrastructures to enhance 
+process efficiency and reduce operational costs. 
+• Address the constraints related to CO2 conversion processes, employing innovative 
+approaches to maximize yield and process efficiency, for example by overcoming low 
+equilibrium yields. 
+• Conduct comprehensive lifecycle and economic assessments to ensure that the proposed 
+solutions are viable, sustainable, and economically attractive.  
+Conversion of CO2 to methanol and fuels is considered outside the scope of this topic. 
+Showcase improved performance, scalability and cost efficiency of the proposed solution 
+through at least one case at laboratory level pilot scale. 
+The inclusion of a GHG avoidance methodology 47 is recommended  and should provide 
+detailed descriptions of baselines and projected emissions reduction. 
+Proposals should include a business case and exploitation strategy, as outlined in the 
+introduction to this Destination, underlining how the proposal will serve the purpose to boost 
+industrial decarbonisation technologies supply chain in Europe. Proposals should consider 
+representative real industrial sites demonstrating the solutions at least in open -loop 
+computations. This should be done in parallel to the actual operation of the plants with 
+validation of the benefits by simulations with accurate models. Experiments involving real 
+industrial sites are encouraged. Societal- and environmental impact as well as implications for 
+the workplace (including skills and organisational change) should be outlined. 
+This topic implements the co-programmed European partnership Processes4Planet.

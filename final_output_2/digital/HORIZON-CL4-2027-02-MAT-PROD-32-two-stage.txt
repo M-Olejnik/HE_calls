@@ -1,0 +1,121 @@
+HORIZON-CL4-2027-02-MAT-PROD-32-two-stage: Efficient energy input from 
+renewable sources and energy management in the process industries (IA) 
+(Processes4Planet and Innovative Advanced Materials for the EU partnerships) 
+Call: INDUSTRY-two-stage 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+7.00 and 9.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 52.50 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their first-
+stage application (see General Annex E). 
+In order to include a business case and exploitation strategy, as outlined 
+in the introduction to Destination 'Leadership in materials and 
+production for Europe', the page limit in part B of the General Annexes 
+ 
+is exceptionally extended by 3 pages (for second-stage proposals). 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 4 -5 and achieve TRL 6 -7 by the 
+end of the project – see General Annex B. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+The first-stage proposals of this topic will be evaluated blindly. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 48. 
+ 
+Expected Outcome:  
+• A significant decarbonisation of processes (measured by the reduction of GHG 
+emissions from the overall system) with broad applicability and economic viability. 
+• Facilitation of the transition from fossil-based energy inputs for:        
+ low/medium thermal energy demands by introducing renewable -based alternatives 
+and heat upgrading.     
+ High-temperature processes, by innovative technologies for electrified and hybrid 
+high-temperature processes, high temperature energy storage.   
+• Clean energy usage is given a boost through innovative advanced materials, system 
+concepts and technologies for energy integration and energy storage, supporting 
+resilience against energy supply variations 
+• Combination of significant energy savings and integrated management of energy 
+systems and production processes  
+ 
+Scope: Most processes in the process industries require significant energy inputs which 
+currently lead to substantial CO2 emissions by the process industries. The reduction of the 
+CO2 footprint can be achieved by several measures, e.g. electrification or use of other 
+renewable sources of energy, lowering of the energy demand, increasing energy efficiency, 
+and energy integration. This topic aims to lead to significant steps in reducing the CO2 
+footprint by technological innovations, at least by 20%. 
+A key problem in the use of renewable energy sources is their fluctuation over time. Projects 
+should take this into account and develop solutions that aim for energy efficiency and include 
+novel storage technologies of relevance to the process industries. Pure demand -side 
+management by production schedules adapted to the supply of electricity from renewable 
+sources is not within the scope of the call. 
+In situations where full electrification is not feasible or competitive in the foreseeable future, 
+sustainable hybrid solutions play a crucial role. These solutions enhance flexibility, allowing 
+industries to manage the variability in the availability of affordable renewable electricity, 
+which is expected to fluctuate significantly in the medium term. E.g., preheating processes 
+can utilize fossil-free energy sources such as solar heat, geothermal heat, heat pumps, resistive 
+or induction heating, and electric boilers. This initial stage can be followed by further heating 
+using fossil -based methods initially, and later transitioning to renewable -based combustion 
+processes to achieve the required process temperatures. 
+To enhance resilience, the capture, storage, and management of energy flows should be 
+tailored to the needs of the process industry. This may include research and innovation in safe 
+and sustainable innovative advanced materials for (latent or sensible) energy storage, e.g. 
+phase change materials and heat storage via chemical energy carriers beyond E-fuels. 
+Proposals under this topic should address several of the following: 
+• Advancements in the use of energy from renewable sources in production processes with 
+improved energy efficiency. 
+• Integrated energy systems with novel storage elements to enable a smooth operation of 
+the plants despite variations in the availability of energy from renewable sources. 
+• Solutions for low/medium temperature (100 - 500 °C) energy inputs in energy intensive 
+industries including hybrid solutions and a progressive reduction of the use of fossil 
+carriers of energy. 
+• Solutions for high temperature (> 500 °C) energy inputs in energy intensive industries, 
+including high temperature electricity driven processes, and high temperature energy 
+storage. 
+• Application of high -performance insulation materials and new innovative advanced 
+materials that can improve heat capture, storage, and retrieval, particularly for scalable 
+high-temperature applications. Such materials should minimize the use of critical raw 
+material, enabling effective recycling.  
+Projects should include demonstrations at pilot scale, preferably in real industrial 
+environments, to validate the proposed technologies and processes under real -world industrial 
+conditions 
+Proposals related to innovative advanced materials development should address the most 
+relevant gaps to focus on in the frame from materials design to technology deployment and 
+ensure adequate feedback loops between different steps to drive forward innovative solutions 
+which can be easily deployed. Scalability and requirements from application/industry need to 
+be considered early on in the innovation process. 
+The inclusion of a GHG avoidance methodology 49 is recommended  and should provide 
+detailed descriptions of baselines and projected emissions reduction. 
+Proposals should include a business case and exploitation strategy, as outlined in the 
+introduction to this Destination, underlining how the proposal will serve the purpose to boost 
+industrial decarbonisation technologies supply chain in Europe. As project output an 
+elaborated exploitation plan should be developed, including preliminary plans for scalability, 
+commercialisation and deployment (feasibility study, business plan and financial model) 
+indicating possible private and public funding sources (e.g. Innovation Fund, InvestEU and 
+cohesion policy funds). Societal - and environmental impact as well as implications for the 
+workplace (including skills and organisational change) should be outlined. 
+This topic implements the co -programmed European partnerships Processes4Planet and 
+Innovative Advanced Materials for the EU.

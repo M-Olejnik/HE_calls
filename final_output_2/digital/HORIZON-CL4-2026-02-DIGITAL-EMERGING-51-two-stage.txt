@@ -1,0 +1,101 @@
+HORIZON-CL4-2026-02-DIGITAL-EMERGING-51-two-stage: AI improved advanced 
+manufacturing and production processes in factories (RIA) (Made in Europe and AI, 
+Data and Robotics partnerships) 
+Call: INDUSTRY-two-stage 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+4.00 and 6.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 30.00 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their first-
+stage application (see General Annex E). 
+In order to include a business case and exploitation strategy, as outlined 
+in the introduction to Destination 'Leadership in materials and 
+production for Europe', the page limit in part B of the General Annexes 
+is exceptionally extended by 3 pages (for second-stage proposals). 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 4 -5 and achieve TRL 6 by the 
+end of the project – see General Annex B. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+To ensure a balanced portfolio covering also textiles, grants will be 
+awarded to applications not only in order of ranking but at least also to 
+one proposal that is the highest ranked with focus on complex 
+functional and technical textiles, provided that the applications attain 
+all thresholds. 
+The first-stage proposals of this topic will be evaluated blindly. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 135. 
+ 
+Expected Outcome:  
+• Increased competitiveness and productivity, through innovative AI -enabled advanced 
+manufacturing processes and operations, including real -time monitoring and adaptive 
+optimisation; and 
+• Reduction of emissions and alignment with Clean Industrial Deal objectives.  
+Scope: AI approaches in manufacturing processes hold the potential to significantly enhance 
+circularity, process and operational efficiency as well as sustainability of modern factories. 
+ 
+Current state -of-the-art technologies have already paved the way for more streamlined 
+operations, yet there remains untapped value in e.g. quality improvement, definition of 
+optimal process operating conditions, reduction of scrap, optimization of energy usage. Real -
+time monitoring and adaptive optimisation using AI models can enable agile responses to 
+production variability and support sustained, high-performance operations. 
+New solutions based on innovative enabling technologies such as deep learning, large 
+language models, digital twins, synthetic data, and data-driven models allow manufacturers to 
+improve production system efficiency, elevate product quality, and proactively address 
+critical challenges in energy consumption and carbon footprint. This dual focus on operational 
+excellence and sustainability ensures that factories can maintain competitive advantage while 
+also contributing to specific environmental goals, e.g. reducing the pressure on ecosystems 
+and natural resources. Since innovation capacity and competitiveness also requires a systemic 
+understanding of an organization’s value creating structure, novel AI solutions should be 
+implemented such that they can support all structures and phases of operation, in technical 
+and non-technical terms. 
+Proposals should produce dedicated innovative explainable AI based solutions in advanced 
+manufacturing for at least two of the following: 
+• improve processes and operational efficiency, and reduce climate and environmental 
+impact of processes and factories through dynamic selection of optimal processes and 
+production parameters, exploiting AI for process modelling and/or optimisation; 
+• avoid the production of defective parts using AI to detect process drift and anomalies 
+and correct proactively defects in real time; and 
+• maximise the fraction of regenerated components or materials used in the production 
+using AI to optimise the material flow.  
+Proposals should demonstrate potential for these AI tools to adapt to changing production 
+needs and real-time data, and should describe how industrial data access, confidentiality, and 
+secure data-sharing will be addressed. 
+Projects are encouraged to link with AI Factories, including the Data Labs. The results may be 
+validated in Testing and Experiment Facilities (TEFs), and further deployed via European 
+Digital Innovation Hubs (EDIHs). This topic is linked to the Apply AI Strategy, therefore 
+proposals should seek collaboration with relevant initiatives. 
+Proposals can optionally address the conditions for implementing the novel AI solutions 
+within an organisations structure and value creating models, thereby contributing to systemic 
+approach of implementing a smart organisation. 
+This topic is linked to the Apply AI Strategy, therefore proposals should seek collaboration 
+with relevant initiatives. 
+Proposals should include a business case and exploitation strategy, as outlined in the 
+introduction to Destination ‘Leadership in materials and production for Europe’. 
+This topic implements the co -programmed European Partnerships Made in Europe and AI, 
+Data and Robotics.

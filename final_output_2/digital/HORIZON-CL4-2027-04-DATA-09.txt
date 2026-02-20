@@ -1,0 +1,100 @@
+HORIZON-CL4-2027-04-DATA-09: Energy efficiency and sustainability of AI data 
+processing in Data Centres (IA) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 10.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a proposal 
+requesting different amounts. 
+Indicative 
+budget 
+The total indicative budget for the topic is EUR 39.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas” delineated in General Annex B of the General Annexes, 
+entities established in an eligible country but which are directly or 
+indirectly controlled by China or by a legal entity established in China are 
+not eligible to participate in the action. 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 6 -7 and achieve TRL 8 by the end 
+of the project – see General Annex B. 
+Procedure The procedure is described in General Annex F. The following exceptions 
+apply: 
+To ensure a balanced portfolio coverage, grants will be awarded to 
+applications not only in order of ranking, but also to at least three 
+proposals addressing expected outcomes 1 -3 (improve heat removal from 
+high-power AI, novel backup power systems and data centre optimisation 
+for energy-efficient AI processing) and one proposal focussed on offering 
+an open pilot demonstration site, subject to proposals passing all 
+evaluation thresholds. 
+ 
+Expected Outcome: Pilots for new technologies and a demonstration site which contribute to 
+energy-efficient and sustainable AI data processing in data centres, reinforcing EU strategic 
+autonomy and climate goals. Project results are expected to contribute to one or more of the 
+following outcomes (see more details in scope): 
+• Demonstrated innovations that substantially improve heat removal from high -power AI 
+chips (e.g. direct on -chip cooling, advanced thermal interface materials, multi -scale 
+thermal management), enabling higher performance without thermal throttling. This 
+should lead to lower cooling energy needs and higher reliability for dense AI workloads. 
+• Prototypes of novel backup power systems (such as graphene -enhanced batteries) that 
+operate with minimal cooling requirements, improving data centre resilience and 
+enabling better use of renewable power. 
+• New methods and frameworks that optimise the entire data centre for energy-efficient AI 
+processing. This includes intelligent workload scheduling and AI model optimisation 
+techniques to reduce energy use (e.g. carbon-aware job scheduling and power capping to 
+cut energy demand and peak temperatures), as well as designs for integrating on -site/off-
+site renewables and waste-heat reuse. 
+• As a result of all the above bullet points, an open pilot demonstration site that allows for 
+the testing and integration of the outcomes of these projects and serves as the European 
+reference for showcasing the breakthroughs and cutting -edge technologies for energy -
+efficient and sustainable data centres developed under this topic. This site should serve 
+as a model for technology uptake for the European data centre industry.  
+Outcomes should demonstrate potential for improved power usage effectiveness and 
+utilisation of waste heat in external applications, aligned with European targets for carbon -
+neutral heating/cooling. 
+Scope: Actions should address the following development areas:   
+1. Direct on-chip cooling and thermal management, including novel and innovative cooling 
+techniques applied at chip and module level (direct liquid cooling, heat spreaders, 
+thermal interface materials, and advanced packaging) and multi -scale thermal 
+management techniques. 
+2. Energy-efficient power backup and storage systems: Innovations in early -stage energy 
+storage concepts (graphene -enhanced batteries, supercapacitors, and other emerging 
+battery chemistries) and approaches for net-zero backup. 
+3. Sustainable data centre architectures and AI workload optimization: addressing AI -
+driven workload scheduling, adaptive power management, dynamic resource allocation 
+and integration of data centre heat capture and reuse. 
+4. Materials research for energy efficiency: Projects to make use of existing research in 
+new materials and components supporting energy efficiency and thermal management, 
+and to employ these for data centres benefit. 
+5. Optimisation of data centre operation and functioning: explore AI solutions to optimize 
+the Data centre functioning, computing architecture, and virtualization, minimizing its 
+carbon and environmental footprint. 
+6. Integration of data centres into energy systems and the wider region: including solutions 
+that integrate Data centres into energy system planning and operation.  
+Aside from these, the pilot demonstration site must allow to combine the outcomes supplied 
+by the other funded projects in the topic and enable for showcasing, benchmarking, and 
+promoting their results across interested industrial stakeholders, including the European data 
+centre and collocation industry, as well as other AI data centre operators, such as cloud and 
+edge computing providers. 
+Overall, this topic is expected to fund four projects. Three projects are expected to address 
+expected outcomes 1 -3, while a fourth project is expected for expected outcome 4 (the open 
+pilot demonstration site). For projects addressing expected outcomes 1 -3 at least two use 
+cases should showcase each project results.  
+Beneficiaries that intend to transfer ownership or grant an exclusive licence must formally 
+notify the granting authority (i.e. DG -CNECT and HaDEA) before the intended transfer or 
+licensing takes place and the granting authority may up to four years after the end of the 
+action object to a transfer of ownership or the exclusive licensing of results. 
+Projects funded under this topic are encouraged to build synergies and leverage their 
+outcomes with funded projects from Cluster 5 HORIZON -CL5-2027-05-D4-06: Thermal 
+energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or 
+small edge data centres.

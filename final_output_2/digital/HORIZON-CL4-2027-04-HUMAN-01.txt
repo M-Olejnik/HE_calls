@@ -1,0 +1,67 @@
+HORIZON-CL4-2027-04-HUMAN-01: Advanced and Innovative hardware components 
+for Virtual Worlds (RIA) (Virtual Worlds Partnership) 
+Call: DIGITAL 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+4.80 and 5.60 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 39.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility conditions The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to start at TRL 3 and achieve TRL 5 by the 
+end of the project – see General Annex B. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following 
+exceptions apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Projects are expected to contribute to the following outcomes: 
+• Innovative and advanced XR hardware, advanced headsets, screens, wearables and 
+haptic components, sensors and actuators, advanced chips for a deeper and closer -to-
+reality immersion, stimulating all human senses.  
+Scope: In the recent years, hardware for Virtual Worlds made major breakthroughs, 
+democratising headsets, sensors, actuators or haptic equipment. To keep this momentum and 
+advancing further, new generation of XR equipment, wearable solutions and haptic 
+components, as well as non -invasive brain computer interfaces for handsfree interaction, 
+hardware or technologies will put the users at the very centre of virtual experiences, for even 
+greater and realistic immersion, aiming at blurring the lines between the real and digital 
+environments. To ensure this next generation of engaging and lifelike immersion, all senses 
+must be stimulated (sight, hearing, feel, touch, smell), for a fully immersive close -to-reality 
+experience. Users will be submerged with realistic sensations making the experience as 
+immersive as possible. 
+Proposals should investigate novel scientific approaches or push the limit of existing ones to 
+improve the synchronization and integration of the different modalities. 
+Proposals will integrate various components in fully tested devices, demonstrating the 
+usefulness and efficiency of their system in illustrative scenarios in the industrial and societal 
+contexts. 
+Proposals should focus on performant, reliable, miniaturised, interoperable advanced and 
+innovative technologies, with inclusivity, energy consumption and energy efficiency at the 
+centre of concerns. 
+This topic requires the effective contribution of SSH disciplines and the involvement of SSH 
+experts, institutions as well as the inclusion of relevant SSH expertise, in order to produce 
+meaningful and significant effects enhancing the societal impact of the related research 
+activities. 
+The Consortium should pay attention to developing solutions that are reliable, robust and 
+interoperable. Proposals should leverage existing open standards and technologies in the 
+domain of Virtual Worlds, while contributing to ongoing standardisation work. 
+Beneficiaries that intend to transfer ownership or grant an exclusive licence must formally 
+notify the granting authority (i.e. DG -CNECT and HaDEA) before the intended transfer or 
+licensing takes place and the granting authority may up to four years after the end of the 
+action object to a transfer of ownership or the exclusive licensing of results. 
+We consider that proposals with an overall duration of typically 36 months would allow these 
+outcomes to be addressed appropriately. Nonetheless, this does not preclude submission and 
+selection of proposals requesting other durations. 
+This topic implements the co-programmed European Partnership on Virtual Worlds.
