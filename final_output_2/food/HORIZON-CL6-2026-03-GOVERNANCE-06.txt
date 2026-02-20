@@ -1,0 +1,89 @@
+HORIZON-CL6-2026-03-GOVERNANCE-06: A services and business incubator for 
+geospatial open-source developments 
+Call: Call 03 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 6.00 million. 
+Type of Action Coordination and Support Actions 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Beneficiaries may provide financial support to third parties. The support 
+to third parties can only be provided in the form of grants. The 
+maximum amount to be granted to each third party is EUR 60 000335 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 336. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• strengthened European competitiveness in the environmental and Earth Observation 
+service industry, including climate services and analytics services for nature and 
+biodiversity, through leadership in open -source geospatial, including compute 
+capabilities, software and algorithms, facilitating the integration of Earth observations 
+and other geospatial data, models and software into sustained business opportunities; 
+• strengthened strategic sovereignty of the European open geospatial developer and 
+geospatial software community with increased economic sustainability; 
+ 
+• accelerated transition of critical European open -source geospatial software assets and 
+innovation towards sustainable business ventures.  
+Scope: Open-source geospatial software ecosystems form a critical digital infrastructure for 
+climate services, agriculture, biodiversity, environmental monitoring, and beyond. While 
+Europe is home to world -class developers and software assets used globally and presenting 
+the backbone to the modern geospatial sector (e.g. GDAL, QGIS, Pangeo stack, etc), their 
+long-term sustainability remains challenged by fragmented, voluntary support, low visibility 
+in funding and investment channels, and limited access to business knowledge and 
+opportunity tailored to open-source development models. 
+Importantly, many open -source projects already operate at high technology readiness levels 
+(TRL), with active user communities, broad adoption, and demonstrated product -market fit. 
+However, these projects often lack the business frameworks and institutional support 
+necessary to facilitate long -term sustainability, resilience and European software sovereignty. 
+Their challenges are distinct from those of early -stage research projects or conventional start -
+ups, and they require tailored approaches to governance, licensing, service monetization, and 
+maintenance. 
+To address open-source geospatial specific challenges, proposals under this topic should: 
+• establish a business incubation and support hub for the geospatial open -source 
+community in Europe, acting as a single -entry point to foster entrepreneurship and 
+sustained open development across critical geospatial open -source projects. To this end, 
+the hub should identify and develop pathways for open -source geospatial software 
+communities to partake in viable business opportunities, fostering innovation and 
+entrepreneurial growth within the open -source ecosystem and working towards long -
+term sustainability of the critical geospatial open-source software ecosystem; 
+• analyse the European market and innovation landscape, to identify current and future 
+demands for geospatial open -source software across public and private sectors, identify 
+gaps and business opportunities for commercial uptake of open -source software and the 
+creation of business models; 
+• in collaboration with the European geospatial and open -source communities, including 
+established organisations, such as NumFOCUS, OSGeo, Linux Foundation and others, 
+proposals should identify, and catalogue critical geospatial open -source software 
+projects, and support fundamental, mature open -source projects with high TRL and 
+demonstrated user traction in developing sustainability and sovereignty strategies, 
+including tailored business strategies, IP models (where applicable), and investment 
+readiness, to bridge the gap between open innovation and venture -ready business 
+opportunities.  
+Proposals should include capacity -building elements and services, such as business 
+mentoring, legal and IP advice, training on licensing and open business models, match 
+making with investors, alignment with European Innovation Council (EIC) selection criteria, 
+and community -building actions for the critical geospatial open -source projects. The 
+applicants should furthermore plan facilitating pathways from critical open-source software to 
+Venture Capital support, such as EIC support instruments, including Transition and 
+Accelerator programmes. 
+Proposals should foresee a range of 45 -60% of the proposed budget for providing financial 
+support to third parties (FSTP), with the aim of establishing seed funding mechanisms to aid 
+identified critical geospatial open -source projects and associated entities established in EU 
+and Horizon Europe associated countries. In accordance with the developed critical open -
+source software to business and sustainability pathways, these Grants should aid critical open-
+source projects to implement measures to start identified business opportunities with activities 
+such as administrative and legal set -up, productisation, business development, branding and 
+marketing, etc.

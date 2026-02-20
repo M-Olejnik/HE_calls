@@ -1,0 +1,106 @@
+HORIZON-CL6-2027-02-CLIMATE-03: Carbon farming innovation and scale-up 
+Call: Call 02 - single stage (2027) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+ 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The following additional eligibility criteria apply: the proposals must 
+apply the multi -actor approach. See definition of the multi -actor 
+approach in this work programme part. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 5 by the end of the project – see 
+General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 311. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• models, methods and data needed for the quantification of carbon farming activities and 
+results are available for integration in a single monitoring, reporting and verification 
+(MRV) system, so that the costs and burden associated to carbon farming MRV are 
+reduced to a minimum; 
+• use of carbon-removal and emission-reduction certification is facilitated at scale, and the 
+EU Carbon Removals and Carbon Farming (CRCF) Regulation 312 becomes the basis for 
+cost-effective certification of carbon farming in different contexts; 
+ 
+• carbon farming actors involved in CRCF implementation in different roles – including 
+land managers and other market participants as well as certification and governance 
+bodies – have access to relevant scientific knowledge and tailored technical support for 
+the implementation of CRCF rules.  
+Scope: The CRCF Regulation creates the first EU -wide voluntary framework for certifying 
+carbon removals, carbon farming and carbon storage in products across Europe. By 
+establishing EU quality criteria and laying down monitoring and reporting processes, the 
+CRCF Regulation will facilitate investment in innovative carbon removal technologies, as 
+well as sustainable carbon farming solutions, while addressing greenwashing. By 2026, the 
+Commission will have adopted the first EU certification methodologies for different carbon 
+farming activities through delegated acts, will have issued implementing acts with 
+certification rules, and will have started the process of recognising certification schemes 
+entitled to apply CRCF rules. With implementation of CRCF expected to start in 2027, this 
+topic should serve to develop innovations and knowledge facilitating and enhancing its 
+implementation on the ground. 
+Proposals should: 
+• develop innovations to facilitate carbon farming certification, particularly by integrating 
+advanced technologies (e.g., machine learning, artificial intelligence, blockchain, Earth 
+observation, IoT) and by enhancing cooperation among holders of relevant knowledge 
+and data (e.g., networks of benchmark sites, ring tests among soil laboratories, 
+interoperability of relevant datasets), in order to harmonise data collection and 
+verification and to minimise administrative burden for operators; 
+• maintain open -access lists of models, sampling protocols, datasets of emission factors 
+and other relevant data to harmonise sustainability benchmarks for carbon farming 
+activities, enhance the robustness of company -level and national greenhouse gas 
+inventories for the land sector and the agricultural sector, and ensure the comparability 
+and interoperability of all CRCF uses; 
+• based on experience with the implementation of the CRCF Regulation and its 
+implementing rules during the first years after entry into force, and building on previous 
+knowledge and tools developed by other relevant (EU -funded) projects, enhance 
+capacity among the relevant stakeholders and facilitate the broad application of new or 
+improved technologies, processes or services supporting the successful participation of 
+land managers, certification schemes, and certification bodies; 
+• create awareness about CRCF among all potential users, buyers, or financiers of carbon 
+farming (e.g., companies in the bioeconomy, national and regional agriculture and 
+environmental authorities, financial institutions), collect information about their data 
+needs, and facilitate access to those data within the context of CRCF certification and
+registry;  
+• systematically collect and analyse feedback and lessons learned by carbon farming 
+actors involved in CRCF implementation, particularly regarding obstacles to 
+implementing and scaling-up of CRCF certification; 
+• identify and address – through technological, economic or social innovations – 
+remaining obstacles for effective large -scale participation in CRCF certification, and 
+propose potential improvements to enabling conditions, certification methodologies, 
+verification rules, and incentive structures.  
+Proposals must implement the multi -actor approach and ensure adequate involvement of 
+relevant stakeholders, including potential carbon -farming practitioners (farmers, foresters and 
+other land managers), other market participants, certification bodies and relevant public 
+authorities. 
+Proposals should include a dedicated task, appropriate resources and a plan on how they will 
+collaborate with the other project(s) selected under this topic and with projects under other 
+relevant topics in Horizon Europe Work Programmes, including the Mission 'A Soil Deal for 
+Europe' and the EU Soil Observatory (EUSO). 
+In this topic the integration of the gender dimension (sex and gender analysis) in research and 
+innovation content is not a mandatory requirement.

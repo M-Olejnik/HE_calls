@@ -1,0 +1,92 @@
+HORIZON-CL6-2026-02-FARM2FORK-09: Sustainable and healthy diets for 
+cardiovascular diseases prevention with the support of digital applications 
+Call: Call 02 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+5.00 and 6.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 11.80 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to start from TRL 5 in order to achieve TRL 7 
+by the end of the project – see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Agreements Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 161. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• identified the effects of sustainable and healthy diets on the gut microbiome and on the 
+cardiovascular system (as well as through possible interlinks between the two) using AI 
+and digital tools by considering different groups of the population (children, adults and 
+older population) as well as gender; 
+• increased knowledge generated through the use of AI and existing digital tools on how to 
+help people improving their eating habits by choosing healthy diets to prevent 
+cardiovascular disease. Development of a new tool or scaling up of an existing tool that 
+patients/individuals can use to guide them in their day to day eating habits with a 
+personalised approach. Identified robust economic cost -benefit analysis, together with 
+real end-user involvement and demonstration; 
+• the scientific communication on the link between sustainable and healthy diet (which 
+also includes food ingredients and processing food technology) and the prevention of 
+cardiovascular diseases is translated into digital health solutions developed by SMEs and 
+start-ups; 
+• improved understanding of the link between the decrease of specific nutritional risk 
+factors and the increase of beneficial nutritional intake in the prevention of 
+cardiovascular diseases, through the support of digital solutions developed by SMEs and 
+start-ups.   
+Scope: The topic is relevant to the EU policies related to the ‘Healthier Together’ initiative, 
+the Commission Communication on the European Health Union 162  and the Council 
+conclusions on the improvement of cardiovascular health in the European Union 163, the R&I 
+Food 2030 framework and the Strategy for European Life Sciences. 
+Proposals should address all the following activities: 
+ 
+• investigate the host -microbiota interactions, standardised biomarkers, involving 
+inflammatory and metabolic pathways or other pathways to elucidate the relationship 
+between changes in the diet, the gut microbiome and cardiovascular risk. Develop and 
+test nutrition approaches based on microbiome profiles of different populations (based 
+on gender, age, genetic background). Identify the effects of sustainable and healthy diets 
+on the cardiovascular system using AI and digital tools by considering different groups 
+of the population (based on gender, children, adults and older population); 
+• map the existing digital health solutions (including existing hubs) related to the reduction 
+of cardiovascular diseases linked to unhealthy diets and nutrition; 
+• develop and provide user friendly digital solutions for authorities, national institutes, and 
+healthcare and nutritional professionals which also consider the cost and the benefits also 
+for the end -users. These solutions should also benefit patients in the monitoring of 
+cardiovascular diseases and individuals identified at risk to develop the disease; 
+• ensure that SMEs and start -ups should facilitate the successful deployment and 
+commercialization of digital solutions and should be actively involved in expanding data 
+integration across various healthcare systems and in analysing health data to provide 
+insights on the link between diet and cardiovascular health.  
+Proposals should involve the effective contribution of SSH disciplines. Experts in behavioural 
+sciences and psychology, for instance, might help better understanding the perception and 
+uptake of digital solutions, the diet consumption aspect and the eating habits of different 
+demographic groups. 
+The multi -actor approach is encouraged. Proposals should include industry and innovative 
+SMEs in the consortia and ensure an early engagement of authorities, national institutes, 
+healthcare and nutritional professionals, patients as well as experts on advanced digital tools 
+for the co-design, testing and adoption of the digital solutions and tool. 
+Projects are encouraged to explore complementarities and exploit potential synergies with the 
+projects funded under the topics HORIZON -HLTH-2026-01-DISEASE-11: Understanding of 
+gender-specific mechanisms of cardiovascular diseases: determinants, risk factors and 
+pathways and HORIZON -HLTH-2027-01-TOOL-01: Development of predictive biomarkers 
+of disease progression and treatment response by using AI methodologies for chronic non -
+communicable diseases, once information on the funded projects is available.

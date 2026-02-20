@@ -1,0 +1,89 @@
+HORIZON-CL6-2026-02-FARM2FORK-11: Integrating a holistic perspective in 
+microbiome research for resilient, competitive and sustainable food systems 
+Call: Call 02 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+5.00 and 6.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+ 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 11.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The following additional eligibility criteria apply: the proposals must 
+apply the multi -actor approach. See definition of the multi -actor 
+approach in this work programme part. 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to start from TRL 2 -3 in order to achieve TRL 5 
+by the end of the project – see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 169. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• a better systems -level understanding through a One Health approach of the complex 
+interactions and functional impacts of microbiomes across different hosts (plants, 
+humans, animals...), environments (water, food matrices...), and interconnected 
+ecosystems; 
+• solutions are identified for resilient, competitive, and sustainable food systems that cover 
+e.g. food security, agrifood systems durability and resilience, industrial applications, 
+nutrition, health, and relevant aspects of biodiversity, climate change and the 
+environment; 
+• synergies are identified between existing European research infrastructures for sample 
+biobanking and data -gathering/gathering/sharing to facilitate the exchange, pooling and 
+integrated analysis of integrated microbiome (meta) -data, promoting inter and trans -
+ 
+disciplinary collaboration among different stakeholders under the FAIR (Findable, 
+Accessible, Interoperable and Re-usable) principles.  
+Scope: Microbiomes hold immense potential for food systems applications, but microbiomes 
+are often studied in siloes or one ecosystem at a time. Unlocking the functional diversity of 
+food microbiomes to help develop innovative applications requires a systems approach 170. 
+The topic is relevant to the EU policies related to the Commission communication on: 
+Building the future with nature: Boosting Biotechnology and Biomanufacturing in the EU 171, 
+the Life Science Strategy, the EU Biodiversity Strategy for 2030, the Zero Pollution Action 
+Plan, the EU strategy on research and technology infrastructure, the R&I Food 2030 
+Framework and the policies related to the digital transition (e.g. AI Act, etc) and contributes 
+to climate action and biodiversity goals. 
+Proposals should address all the following activities: 
+• establish a holistic system approach to study the microbiome, and its interaction with its 
+host and/or environment, its function and contribution to ecosystem(s) functions, 
+connecting inter and trans -disciplinary fields of science (e.g. microbiology, ecology, AI 
+and bioinformatics, biotechnology, synthetic/molecular biology, agronomy, plant 
+sciences, etc.); 
+• investigate existing and new supporting technologies such as multi -omics technologies, 
+high-throughput sampling/phenotyping systems, predictive models, AI, federated 
+learning, cultivation methods and/or in-vitro validated models (e.g. organoids, organ-on-
+a-chip, genetic and metabolic engineering) for application in integrated microbiome 
+studies; 
+• establish further synergies between existing infrastructures (for instance, ELIXIR, 
+MIRRI, BBMRI-ERIC, EOSC, etc.) to enhance their capacity to integrate and valorise 
+integrated microbiome data (integrating samples and associated (meta)-data from diverse 
+sources) as well as considering the integration of other environmental, agricultural, 
+nutritional or climate datasets; 
+• provide references strains and/or samples (e.g. for food safety or holobiont selection), 
+standard protocols, operating procedures and quality control measures through the 
+existing biobanks and data -repositories to support and facilitate further microbiome 
+studies.  
+Proposals must follow a multi -actor approach, engaging researchers, businesses (including 
+SMEs and startups), public authorities and policy makers, research infrastructures and civil 
+society to co-develop solutions. 
+ 

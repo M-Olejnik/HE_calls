@@ -1,0 +1,110 @@
+HORIZON-CL6-2027-01-BIODIV-01: Integrating Remote Sensing and in -situ 
+observations of Biodiversity, towards a fully interoperable observation and data 
+framework 
+Call: Call 01 - single stage (2027) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 10.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 112. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• advancing robust, policy -relevant ecosystem assessment, nature protection and 
+restoration planning activities, and biodiversity trend prediction based on fit for purpose 
+data, thus supporting EU biodiversity and climate objectives; 
+• strengthened capacity of researchers, practitioners and decision -makers to improve 
+biodiversity monitoring practices and address knowledge gaps via the integration of data 
+and observations across sensors and platforms, ranging from omics-based data (genomic, 
+transcriptomic, metabolomic), various in-situ to satellite-based Earth observation data; 
+• enhanced usability of in -situ datasets as training and validation resources for statistical, 
+machine learning and advanced AI -based approaches, in support of applications such as 
+habitat classification, ecosystem mapping and biodiversity trend prediction.  
+Scope: Achieving the goals of the EU biodiversity strategy for 2030 , the Kunming-Montreal 
+Global Biodiversity Framework, and assessing progress towards their defined targets, requires 
+coherent, integrated and long -term monitoring approaches, underpinned by FAIR (Findable, 
+Accessible, Interoperable and Re -usable) data systems. Many existing in -situ data collections 
+(i.e. genomic assessments, ground sampling, drone and airborne observations) were not 
+designed with Satellite Remote Sensing integration in mind (i.e. for validation and calibration, 
+integrated data products, or statistical scaling of information) and lack the structure, interface 
+and metadata required to support advanced analytics, including AI. FAIR data on species and 
+ecosystems will also help to ensure that biodiversity preservation is a mainstream feature of 
+other sectors, such as agriculture, transport, energy or the bioeconomy. There is a need for 
+systemic, harmonised or standardised biodiversity data at Earth’s surface in order to support 
+AI applications ranging from genome to space and to build up our knowledge on the status 
+and trends of habitats, species, ecosystems, and on the drivers of decline. 
+To address these challenges, proposals should: 
+• develop and validate fit -for-purpose multisensory biodiversity data integration systems, 
+to enable omics -based and in -situ data harmonization and integration with remote 
+sensing data from space or sub-orbital platforms, as well as socio-ecological and climatic 
+data for enhancing assessment of ecosystem condition and degradation, and the 
+predictive modelling of biodiversity trends at international, regional and European 
+scales; 
+ 
+• develop concrete technical capabilities able to answer to diverse use cases, across 
+terrestrial, freshwater and marine ecosystems in Member States and Associated 
+Countries. To this end, proposals should identify and prioritise critical biodiversity 
+knowledge gaps and their data needs, with a focus on predictive analytics and the use of 
+AI, and address them by designing data integration approaches that support scientific 
+and policy needs, including biodiversity protection, restoration, and sustainable use goals 
+and targets, as well as other related policy objectives; 
+• develop demonstration and verification cases focusing on specific ecosystems under the 
+EU ecosystem typology 113 and habitats, including ecotones 114, identified as those under 
+pressure or as restoration priorities. Proposals should take into account socio -economic 
+pressures and activities impacting ecosystems, including land and sea use and emissions 
+of pollutants (e.g. agriculture, aquaculture, urbanization, resource exploitation and 
+management practices). Demonstration cases should be relevant to EO applications, such 
+as AI-assisted ecosystem and habitat mapping, ensuring interoperability with European 
+and global frameworks such as the Global Ecosystem Typology as well as EUNIS, and 
+aligned with reporting requirements under the Habitats Directive, Birds Directive, 
+Marine Strategy Framework Directive and EU Nature Restoration Regulation; 
+• deliver FAIR data, harmonisation workflows and processing protocols supporting data 
+integration from genome to space and verify the use of generated datasets on identified 
+analysis needs. Proposals should link observation data to emerging socio -economic, 
+climate, agriculture, forestry, fisheries and environmental data and to relevant data 
+infrastructures, including, if applicable, the European Open Science Cloud (EOSC) and 
+the European Common Data Spaces and SAGE115; 
+• contribute to consensus and implementation of joint definitions of data collection, 
+metadata and processing protocols, data quality and harmonization of standards enabling 
+the integration of observations “from genomes to space”.  
+Proposals should earmark resources for cooperation with existing initiatives such as in -situ 
+data collection frameworks (e.g., GBIF, OBIS, LUCAS).The Joint Research Centre (JRC) 
+may join the selected consortium in relation to effective coordination with the EC Knowledge 
+Centre for Biodiversity (KCBD) and its Science Service, as well as incorporating the in -situ 
+data from European Commission steered biodiversity monitoring schemes such as LUCAS, 
+specifically  LUCAS grassland, and EMBAL (European Monitoring of Biodiversity in 
+ 
+Agricultural Landscapes). Proposals may consider services offered by European research 
+infrastructures116.  
+This topic is part of the Biodiversity cluster of the EC -ESA Earth System Science Initiative 
+(ESSI). Proposals should foresee sufficient mean for effective coordination with projects 
+selected under ESA’s FuturEO programme.

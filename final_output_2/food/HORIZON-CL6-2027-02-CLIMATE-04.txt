@@ -1,0 +1,101 @@
+HORIZON-CL6-2027-02-CLIMATE-04: Unlocking a safe operating space for 
+Antarctica and the Southern Ocean 
+Call: Call 02 - single stage (2027) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 11.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 22.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+All international organisations are exceptionally eligible for funding. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• improved multidisciplinary scientific understanding of the functioning of the Southern 
+Ocean and the Antarctic cryosphere and associated ecosystem dynamics, in the near term 
+(∼2030), mid -term (2050 –2060) and long -term (after ∼2060), including their mutual 
+interaction with, impact on and vulnerability to, current and future changes in the other 
+components of the regional and global climate systems; 
+• important contributions made to key ocean, cryosphere, climate and biodiversity 
+monitoring indicators that support international, regional and global assessments. 
+Fostered development of a regional approach to polar ocean, climate and biodiversity 
+observations, monitoring and reporting; 
+• informed policies for environmental conservation and climate resilience and enabled 
+evidence-based regional, European, and global decision –making on polar ocean 
+governance; sustained European leadership in ocean –climate–biodiversity-cryosphere 
+science; significant contributions made to global scientific assessments (e.g. IPCC, 
+IPBES and WOA), as well as to the UN Decades of Action of Ocean (2021 -2030) and 
+Cryospheric (2025-2034) Sciences, the Antarctica InSync programme (2027 and 2030), 
+the International Polar Year (2032 -2033), UN SDGs 13 and 14, and the European polar 
+science coordination efforts.  
+Scope: Proposals should: 
+• resolve uncertainties, improve projections and quantifications of the future of the region, 
+looking at changes in the near -, mid- and long-term (irreversible, abrupt and committed 
+changes), their likelihood, timing, rate, amplitude, and impacts on the Earth’s System 
+(decadal to millennial climate projections, global sea level, ocean circulation, global 
+carbon budget); 
+• advance understanding of the complex interactions and feedbacks between the ocean, the 
+atmosphere, sea ice, ice shelves, and land ice dynamics, considering multiple scales and 
+processes simultaneously, with focus on the Antarctic continental shelves where 
+conditions are or will change rapidly and on regions for bottom water formation; 
+• advance the knowledge of Southern Ocean dynamics and sea ice dynamics in the near -, 
+mid- and long -term. Better understand the distribution, underlying mechanisms and 
+impacts of changes in the Southern Ocean and sea ice to reduce uncertainties in 
+projected future changes of large-scale ocean circulation and transport, including abrupt, 
+irreversible change/tipping elements and thresholds, collapse of the overturning 
+circulations, regional and global climate and weather systems. This should include 
+extreme events and mid-latitude weather; fluxes between the ice sheet and the ocean; the 
+• explore the vulnerability of Southern Ocean ecosystems, including the impacts of 
+climate change, pollution and other anthropogenic activities on marine biodiversity and 
+ecosystem dynamics changes in the near (∼2030), mid (2050–2060) and long-term (after 
+∼2060). This includes improved control variables for the diversity of all life forms 
+incorporating also the microbiome and functions (functional diversity), as well as the 
+biocomplexity suitable for measuring biosphere integrity in different facets. Proposals 
+should also contribute to the development or strengthening of long -term, continuous 
+monitoring systems for Southern Ocean biodiversity and ecosystem functioning, in 
+synergy with existing observation infrastructures; 
+• develop mechanisms to distinguish human -induced environmental changes from natural 
+ones and develop strategies to protect the fragile environment of the Southern Ocean 
+from human activities and climate change, as well as comprehensively establish the 
+efficacy of Southern Ocean conservation measures for preserving evolutionary potential 
+and those properties that best anticipate change; 
+• further improve key ocean, cryosphere, climate and biodiversity monitoring indicators 
+that support international, regional and global assessments and foster the development of 
+a regional approach to polar ocean and climate observations, monitoring and reporting, 
+and further the representation of multi -scale interactions in Earth System Models 
+(ESMs) and regional coupled atmosphere –ocean–sea ice–land models representing key 
+physical, biogeochemical, and biological processes in the polar ocean regions; 
+• advance capabilities to provide evidence, tractable proposals and recommendations for 
+commensurate policy and protection, restoration and long -term sustainable management 
+responses to prevent the Southern Ocean and its ecosystems and cryosphere from 
+reaching a point of no return.  
+The actions should contribute to the evolution of the EU Digital Twin of the Ocean and 
+Destination Earth, and interface with the Southern Ocean Observing System (SOOS). All in -
+situ data collected through actions funded from this topic should follow INSPIRE principles 
+and be available through open access repositories supported by the European Commission 
+(Copernicus, and EMODnet). Concrete efforts should be made to ensure that the data 
+produced in the context of the funded projects is FAIR (Findable, Accessible, Interoperable 
+and Re-usable). Proposals are encouraged to consider, where relevant, the data, expertise and 
+services offered by European research infrastructures 313, as well as related projects in the 
+environment domain, such as POLARIN 314. International cooperation is strongly encouraged, 
+especially with All -Atlantic Ocean Research and Innovation Alliance (AAORIA) partner 
+countries315. This topic is part of a coordination initiative between ESA and the European 
+Commission on Earth System Science and should towards this end include sufficient means 
+and resources for effective coordination, with relevant ESA Polar Science Cluster projects, 
+ 
+including utilising novel satellite Earth Observation datasets and joint research actions. 
+Furthermore, this topic is supporting the European polar science coordination efforts, 
+including synergies with and support to the objectives and work plan of the European Polar 
+Coordination Office (EPCO).

@@ -1,0 +1,109 @@
+HORIZON-CL6-2027-01-BIODIV-04: Living Labs for the eradication and/or 
+management of invasive alien species 
+Call: Call 01 - single stage (2027) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+8.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 24.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility conditions The conditions are described in General Annex B. The following 
+exceptions apply: 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or 
+as an associated partner. The JRC will not participate in the 
+preparation and submission of the proposal - see General Annex B. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following 
+exceptions apply: 
+Beneficiaries may provide financial support to third parties. The 
+support to third parties can only be provided in the form of grants. The 
+maximum amount to be granted to each third party is EUR 60 000. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• the capacities and integrated governance of researchers, decision-makers, practitioners, 
+local communities and other stakeholders to effectively collaborate to prevent, eradicate 
+or manage invasive alien species (IAS) are enhanced; 
+• native ecosystems are better protected, leading to improved resilience and continuous 
+provision of ecosystem services including for climate mitigation and adaptation.  
+Scope: Invasive alien species are one of the five main direct drivers of biodiversity loss. 
+Besides inflicting major damage to nature and the economy, many invasive alien species also 
+facilitate the outbreak and spread of infectious diseases, posing a threat to humans and native 
+wildlife. The rate of new introductions of invasive alien species has increased in recent years. 
+Without effective control measures, risks to our nature and health will continue to rise. 
+Climate change and land -use changes facilitate the spread and establishment of many alien 
+species. 
+Proposals are expected to support the prevention, eradication and/or management of invasive 
+alien species by stakeholders, including adaptive management approaches. This topic is 
+related to target 12 the EU biodiversity strategy for 2030 (50% reduction in the number of 
+Red List species threatened by invasive alien species) and to target 6 of the Kunming -
+Montreal Global Biodiversity Framework: reduce the introduction of Invasive Alien Species 
+by 50% by 2030 and minimize their impact. Proposals should support the implementation of 
+the EU Nature Restoration Regulation, the EU regulation on invasive alien species and the 
+Marine Strategy Framework Directive. Proposals should seek to address some knowledge 
+gaps identified by the IPBES assessment on invasive alien species (2023) 119. All ecosystem 
+types (terrestrial, fresh and/or marine waters) may be addressed. 
+Living labs can empower the green transition by co -creating solutions and involving actors in 
+real life settings at territorial level to achieve large-scale impact. 
+Successful proposals should: 
+• set up at least three living labs, composed each of 10 to 20 experimental sites, following 
+the three main principles: (a) co -creation with a large set of stakeholders, (b) carried out 
+in real -life settings and (c) involving the end -users. Transboundary living labs are 
+encouraged and living labs are expected to be located in at least three different EU 
+Member States and/or Associated Countries; 
+• establish a detailed work plan of the activities to be undertaken in a transdisciplinary 
+way, ensuring the co -design, co-development, and co-implementation of locally adapted 
+innovative solutions. Where appropriate, activities should advance knowledge on 
+invasive alien species to support the development of solutions; 
+ 
+• conduct participatory and transdisciplinary research and innovation in living labs with 
+the objectives of:        
+ building on existing methods (including ensuring the integration of existing 
+solutions) or developing new ones for detecting and monitoring invasive alien 
+species, such as the use of citizen science, eDNA, remote sensing and machine 
+learning algorithms, and test them at scale. Proposals could build on pilots 
+developed by the European partnership Biodiversa+;    
+ designing and testing innovative eradication and management strategies and 
+methods which may include, for instance, physical removal and the use of 
+biological control or chemical control. Innovative tools such as bio -engineering 
+might be explored in conjunction with more traditional methods. Range shifts 
+induced by climate change should be considered;   
+• monitor and carry out an assessment of the innovative strategies, methods and tools and 
+their effectiveness. Measures to ensure the prevention of re -invasion should be 
+considered as well, to secure the continued effectiveness of the proposed solutions; 
+• disseminate the newly developed solutions, to facilitate their uptake by practitioners; 
+• provide data and experience usable for decision -makers, to assess socio -economic 
+impacts of invasive alien species, side -effects of the management, the cost of inaction 
+and the benefits of eradication or effective management, with effective contribution from 
+social sciences and humanities; 
+• address challenges with scaling up and transferability of solutions. A gender -sensitive 
+and inclusive approach should be integrated, examining how invasive alien species affect 
+individuals’ livelihoods and well-being differently.  
+This topic requires the effective contribution of SSH discipline to enhance the societal impact 
+of the research activities. 
+Concrete efforts should be made to ensure that the data produced in the context of the funded 
+projects is FAIR (Findable, Accessible, Interoperable and Re -usable), particularly for real -
+time data feeds, exploring workflows that can provide “FAIR-by-design” data, i.e., data that is 
+FAIR from its generation. Possibilities offered by the European Open Science Cloud (EOSC) 
+to store and give access to research data should be considered. A citizen science approach 
+could be appropriate for this action to produce, collect and analyse data. 
+Financial support to third parties (FSTP) to facilitate active involvement of small actors (e.g. 
+land managers, SMEs or civil society) in one or more of the living labs of a project, can be 
+provided through calls. A maximum of 30% of the EU funding should be allocated to this 
+purpose. 
+Proposals should cooperate with the Joint Research Centre to use the resources of and make 
+results available to, when relevant, the European Alien Species Information Network 
+(EASIN). 
+Proposals should ensure cooperation with relevant initiatives of the European partnership 
+Biodiversa+ and foresee appropriate resources to ensure close cooperation with the EC 
+Knowledge Centre for Biodiversity (KCBD) and its Science Service. 
+Proposals are encouraged to consider, where relevant, the data, expertise and services offered 
+by European research infrastructures120 as well as related projects in the environment domain. 
+International cooperation is encouraged.

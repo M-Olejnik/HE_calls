@@ -1,0 +1,90 @@
+HORIZON-CL6-2026-02-FARM2FORK-02: Tackling pesticide resistance: early 
+detection, management strategies, and foresight 
+Call: Call 02 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The following additional eligibility criteria apply: the proposals must 
+apply the multi -actor approach. See definition of the multi -actor 
+approach in this work programme part. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 143. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+ 
+• a holistic and science -based approach to tackling pesticide resistance is developed, 
+providing actionable recommendations to improve crop protection strategies and support 
+evidence-based decision-making at all levels; 
+• farmers, advisors, and practitioners are empowered with knowledge, tools, and 
+integrated strategies —including innovative environmentally friendly and sustainable 
+alternatives that promote agrobiodiversity —supported by data -driven approaches and 
+robust monitoring systems; 
+• foresight capacities are enhanced, enabling the anticipation of resistance trends and 
+supporting long -term planning to strengthen the resilience and sustainability of 
+agricultural systems.  
+Scope: Agriculture and forestry face a growing challenge from the dual threat of a shrinking 
+portfolio of active substances and increasing pests 144 resistance to treatments. Climate change 
+compounds this issue by enabling pests to survive milder winters, expand their ranges, and 
+increase their exposure to pesticides —accelerating the development of resistance. Addressing 
+this complex issue requires a comprehensive, science -based systemic approach that integrates 
+early detection, adaptive management, and long -term foresight to reduce resistance risks and 
+strengthen the sustainability and resilience of agriculture and forestry. It is also relevant to 
+acknowledge that while pesticides are important short -term solutions, the long -term solutions 
+require shifts in current agriculture or forestry practices and system -level transformations 
+within agri -food systems that would boost the resilience of these production environments, 
+while preserving biodiversity. 
+Proposals should: 
+• map resistance risks by assessing the current and projected emergence of pest resistance, 
+considering the declining number of available active substances 145 and the authorised 
+products for different crops; 
+• develop early detection methods and predictive modelling (including AI -driven 
+approaches) to anticipate and monitor the evolution of pesticide resistance, integrating 
+advanced measurements tools and risk assessment methodologies, notably when 
+products are used at farm level; 
+• design and evaluate innovative integrated pest and weed management (IPWM) strategies 
+that reduce resistance risks by expanding non -chemical preventive and curative options, 
+optimising the rotation and combination of (agroecological) farming practices, and 
+applying advanced technologies for precise and targeted pesticide use, while capitalising 
+on the results of previous and ongoing initiatives; 
+ 
+• innovate storage and handling practices to reduce resistance pressure during post -harvest 
+stages; 
+• support foresight activities to anticipate, mitigate and prevent resistance impacts by 
+exploring interactions among technological, environmental, and socio -economic drivers, 
+assessing planned resistance -management strategies against various future scenarios, 
+establishing long -term resistance monitoring, and integrating foresight outputs into 
+decision-making and adaptive management through collaboration across research, 
+farming and forestry sectors, industry, stakeholder networks, and policymakers; 
+• enhance capacity -building, stakeholder engagement and communication through 
+awareness-raising, sensitisation, education, and the co -creation of solutions with end -
+users.  
+Proposals must implement the multi -actor approach including a range of actors to ensure that 
+knowledge and needs from various sectors are brought together. 
+Proposals should capitalise on relevant research findings, knowledge, solutions and tools, 
+from past and ongoing projects and collaborate with ongoing initiatives. In addition, proposals 
+should consider the activities of international committees on pesticide resistance management. 
+The projects under this topic are relevant to the EU policies related to the objectives of the 
+common agricultural policy, the Sustainable Use of Pesticides Directive 146, and align with the 
+Vision for Agriculture and Food, and support the Commission Communication on: Building 
+the future with nature: Boosting Biotechnology and Biomanufacturing in the EU147.

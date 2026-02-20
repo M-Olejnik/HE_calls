@@ -1,0 +1,96 @@
+HORIZON-CL6-2026-03-GOVERNANCE-07: Interconnect Earth Observation 
+research for addressing environmental policies 
+Call: Call 03 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.40 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 5.40 million. 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Beneficiaries may provide financial support to third parties. The support 
+to third parties can only be provided in the form of grants. The 
+maximum amount to be granted to each third party is EUR 60 000337 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 338. 
+ 
+Expected Outcome : Successful proposals should contribute to the expected impact of this 
+Destination on competitiveness, sustainability and resilience of the economy enabled by more 
+accessible and interoperable environmental observations and improved Earth Intelligence. 
+Project results are expected to contribute to all of the following expected outcomes: 
+• a single -entry point linking European research and policymaking embedded in the 
+European Commission's Knowledge Centre on Earth Observation (KCEO) 339  as 
+‘scientific pillar’, with the objective to collect and organise knowledge resulting from 
+science that is relevant for European and international environmental policies and 
+conventions (notably those related to biodiversity), in particular knowledge generated 
+from EU-funded R&I projects, relevant infrastructures and platforms; 
+• a strengthened and structured EuroGEO EO Community building on the competences of 
+its Action Groups and the Member States’ uptake actions (e.g. as through the Copernicus 
+National Collaboration Programme) offering to its members services reflecting Europe’s 
+EO vision for Earth Intelligence in the post-2025 global GEO; 
+• the timely contribution to the update, under the guidance of the KCEO of a policy driven 
+Earth observation R&I Roadmap for the next Multiannual Financial Framework 
+(Strategic Research and Innovation Agenda).  
+Scope: Earth Observation (EO) research is interconnected across Europe, supporting and 
+enhancing the ambition of national, European and international policies and conventions. 
+Contributing to Europe’s competitiveness and the European Green Deal, the topic aims to 
+give support to the development and implementation of EU policies, including environmental 
+policies (notably those related to biodiversity) through knowledge generation, to guide 
+governance, and help implementing the simplification agenda. It supports the evolution of the 
+long-term strategic research agenda for earth observation by engaging with EO stakeholders. 
+ 
+This call topic provides an Earth Observation Science Service as a dedicated tool to 
+systematically insert the best EO science into EU climate and environmental policymaking 
+valorising last mile policy applications building on core services provided through 
+Copernicus. 
+To address those objectives, proposals under this topic should: 
+• build a consolidated and structured EuroGEO community able to provide competitive 
+services such as the setting up of a R&I observatory, linking past and present research 
+investments to policy needs for EO, and the support to the co -design of the necessary 
+tools and methods to create earth intelligence from EO data and services; 
+• engage community through annual fora bringing together the relevant EO communities 
+to take stock of the research and innovation priorities in support of uptake of EO in EU 
+climate and environmental policies; 
+• foresee cooperation with the KCEO; 
+• address cross-cutting policy issues such as the use of EO in support of policy obligation, 
+certification, official statistics, reporting simplification and compliance; 
+• demonstrate how Europe can test and lead the way on how Earth intelligence can help 
+developing innovative products and services addressing policy needs in Europe and 
+beyond.  
+Proposals may provide, when relevant, financial support to third parties (FSTP) to, for 
+instance, 
+• develop, test or validate EO intelligence creation approaches or 
+• collect and prepare data sets or 
+• provide other contributions to achieve the project objectives such as prototype last mile 
+policy applications, building on core services provided through Copernicus, addressing 
+the continued and critical gap in knowledge sharing and complementing other EU -
+funded initiatives.  
+A maximum of 30% of the EU funding should be allocated to this purpose. Consortia need to 
+define the selection process of organisations, for which financial support may be granted. 
+The Joint Research Centre (JRC) may join as member the consortium selected for funding, to 
+ensure a close collaboration with the KCEO.

@@ -1,0 +1,100 @@
+HORIZON-CL6-2026-02-FARM2FORK-06: Advanced innovative solutions for 
+improved competitiveness and sustainability in controlled environment agriculture 
+(CEA) 
+Call: Call 02 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The following additional eligibility criteria apply: the proposals must 
+apply the multi -actor approach. See definition of the multi -actor 
+ 
+approach in this work programme part. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -7 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 158. 
+Beneficiaries may provide financial support to third parties (FSTP). The 
+support to third parties can only be provided in the form of grants. The 
+maximum amount to be granted to each third party is EUR 60 000. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• farmers are supported in their transition into innovative controlled environment farming 
+techniques and decision support tools for sustainable growth optimisation strategies; 
+• the competitiveness and sustainability (including climate mitigation and adaptation) in 
+controlled environment agriculture are improved benefiting all relevant actors.  
+Scope: Controlled Environment Agriculture (CEA) refers to any form of agriculture that 
+controls and optimises environmental conditions such as temperature, humidity, carbon 
+dioxide, light or nutrient concentration. Examples of CEA include greenhouses, vertical 
+farms, grow rooms, building -integrated agriculture, hydroponics, aquaponics, aeroponics, as 
+well as other innovative farming practices - both off land and land based - where 
+technological advancements enable precise regulation of growing conditions farming. 
+By developing innovative farming techniques that integrate the latest technological 
+advancements including artificial intelligence (AI), this research should provide a competitive 
+and sustainable transformation in response to global food security and sustainability 
+challenges. Furthermore, it should also empower farmers and key stakeholders in the 
+agricultural primary sector by enabling them to adopt sustainable, efficient, profitable, 
+ 
+circular, and low-emission farming practices. By leveraging cutting -edge technology and AI -
+driven solutions, the activities should contribute to the overarching goals of climate neutrality 
+and climate resilience, reinforcing the EU’s commitment to a sustainable agricultural future. 
+Proposals should: 
+• develop and assess advanced cost -effective innovative and sustainable solutions 
+(including nature -based solutions) to address the key challenges (including climate 
+change related and environmental) for crop optimisation in CEA. The assessment should 
+address, among other, crop health and yield, energy efficiency, water use efficiency, 
+nutrient management, environmental conditions, cost -effectiveness, automation and 
+technology integration, sustainability and environmental impact, food safety, pest and 
+disease management, scalability and adaptability; 
+• develop data -driven decision -making smart automation and precision farming 
+techniques, as well as predictive analytics for plant growth optimisation (e.g. via AI 
+modelling); 
+• explore appropriate new business and cooperation models adapted to proposed solutions, 
+taking into account organisation and distribution concepts, and marketability of the 
+resulting products. Consider requirements from relevant EU regulatory frameworks 
+including where relevant needs for pre-market authorisation; 
+• foster knowledge sharing including by training to test and adopt the innovative solutions, 
+and informed advice for improved competitiveness and sustainability of CEA.  
+Proposals should develop innovative solutions in both conventional and organic production 
+systems. The projects under this topic are relevant to the EU policies related to the EU Vision 
+for Agriculture and Food, the Common Agricultural Policy, the EU Action Plan for the 
+Development of Organic Production 159 , the European Green Deal policies dealing with 
+environment protection and climate change, and the Apply AI Strategy. 
+Activities should fall under the concept of the multi -actor approach and allow for adequate 
+involvement of relevant actors including farmers, SMEs, start-ups, scientists and developers. 
+To effectively transition these innovations into the market, SMEs should actively be involved 
+in this process. Activities are expected to achieve Technological Readiness Levels (TRL) 6 -7 
+by the end of the project – see General Annex B. 
+Proposals may involve financial support to third parties, particularly for SMEs providing 
+and/or developing testing, or validating the proposed innovative technologies/solutions. A 
+maximum 30% of EU funding should be allocated to this purpose. 
+Proposals should capitalise on relevant research findings from past and ongoing research 
+projects and especially seek synergy with the other project to be selected under this topic and 
+ 
+with the project to be selected from the topic HORIZON -CL6-2025-02-FARM2FORK-08: 
+Exploring the potential of controlled environment agriculture (CEA).

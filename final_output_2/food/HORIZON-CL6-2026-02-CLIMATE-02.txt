@@ -1,0 +1,116 @@
+HORIZON-CL6-2026-02-CLIMATE-02: Towards the water infrastructures of the 
+future 
+Call: Call 02 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 10.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 304. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• water infrastructures are flexible enough to face changes in hydraulic flow and pollution 
+load from emerging or yet unknown contaminants to ensure that access to water and 
+sanitation is protected on a long -term, recovery of safe secondary resources is secured 
+and greenhouse gas emissions are reduced and ecosystems are protected; 
+• water infrastructures have integrated digital solutions (e.g., smart sensors, IoT, digital 
+twins and artificial intelligence) as well as citizen science to optimally operate in 
+changing conditions from climate or pollution pressures, facilitate appropriate water 
+pricing based on reliable monitoring of water consumption, favour recovery of material 
+and limit greenhouse gas emissions; 
+• water infrastructures have incorporated the necessary tools and protection to avoid cyber 
+and/or terrorist attacks to ensure their resilience against malicious behaviour; 
+ 
+• new or renewed water infrastructures are designed following ‘good practices’ to 
+maximise system resilience, build redundancy, and ensure ecological and social 
+sustainability; 
+• water infrastructures are better designed thanks to improved predictions, robust 
+assessment of impacts and implementation of appropriate mitigation measures due to 
+advances on the understanding of how, when and where floods and droughts occur.  
+Scope: Water infrastructures both for drinking water supply and wastewater collection and 
+treatment suffer from a lack of sufficient and continuous investment across Europe. Their 
+conditions are evolving differently depending on the investment capacity of local authorities 
+and/or water companies, as well as the climate and pollution conditions they are exposed to. 
+They are often not flexible enough to adapt to a changing and increasingly unpredictable 
+environment and lack of appropriate monitoring to properly understand their functioning in 
+various operating conditions. On the treatment side, the technological processes are not 
+always coping with pollution load variation or new contaminants threatening human health 
+and downstream ecosystems. They are also more and more exposed to the risk of malicious 
+attacks, being of human or cyber nature. 
+With the effect of climate change as well as the emergence of new threats from chemical, 
+biological, human and cyber origins, it is necessary to develop and test a set of tools to ensure 
+that water and sanitation provision is resilient now and for the future, building on the 
+solutions that emerged in the sector or adapted from other sectors. 
+To achieve the expected outcomes, proposals should address some or all the elements below: 
+• develop and integrate modular processes and tools to improve the adaptability of 
+drinking water and wastewater infrastructures to emerging pollutions and effects of 
+climate change; 
+• integrate Nature-based Solutions infrastructures to reduce the carbon footprint of water 
+infrastructure, better manage water flows and pollutants entering sewers, and support 
+biodiversity; 
+• enhance the use of digital solutions, new monitoring techniques, Earth observation tools, 
+digital twin technology and artificial intelligence, including for predictive analytics, 
+within drinking water and wastewater infrastructures to optimise their operation, 
+anticipate infrastructure challenges and pollution and improve their efficiency and 
+resilience, addressing leakages, infiltration, energy consumption, recovery of materials 
+and carbon footprint; 
+• develop robust data sharing framework to promote secure collaboration among 
+stakeholders and identify interdependencies with other critical infrastructures in a 
+resilience-based approach; 
+• develop tools, approaches and procedures to protect both the physical and digital water 
+infrastructures against malicious attacks.  
+Proposals are encouraged to explore the use of blockchain or other distributed ledger 
+technologies to ensure data integrity, enable smart -contract–based service automation, and 
+support novel financing or certification schemes for future water infrastructures. Given the 
+high degree of integration of the topic with existing infrastructures, proposals should target a 
+large variety of stakeholders ranging from universities, SMEs, water utilities, energy utilities, 
+etc. 
+Proposals should also seek to contribute to the further development of existing observing 
+platforms and initiatives, including to the evolution of Copernicus services and the future EU 
+Digital Twin on freshwater and Destination Earth. It should also contribute to define the bases 
+for a FAIR (Findable, Accessible, Interoperable and Re -usable) sharing of data in the water 
+sector in collaboration with the initiative conducted by the co -funded partnership Water 
+Security for the Planet (Water4All). 
+All in -situ data collected through actions funded from this call should follow INSPIRE 
+principles and be available through open access repositories (e.g. Copernicus). supported by 
+the European Commission. 
+Proposals should also build on the results of previous projects funded under previous 
+framework programmes, especially the projects related to the cluster ICT4Water. They should 
+also foster complementarities and avoid overlapping with projects funded under the Mission 
+Restore our Ocean and Waters by 2030 and the EU Mission on Adaptation to Climate 
+Change. Finally, it should also look for collaboration with projects from Horizon Europe 
+Cluster 3 in relation to security, where appropriate. The JRC may contribute with technical 
+analysis and research on digital technologies for water management and monitoring, including 
+real-world test cases. 
+International cooperation is strongly encouraged.

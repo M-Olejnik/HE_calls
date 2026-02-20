@@ -1,0 +1,98 @@
+HORIZON-CL6-2026-01-ZEROPOLLUTION-02: Bioremediation of Ukraine’s 
+ecosystems contaminated by conflicts 
+Call: Call 01 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+5.00 and 6.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 11.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B.  
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 283. 
+ 
+Expected Outcome : The actions funded under this topic should support communities, land 
+managers, local administrators, policy makers, and researchers to deploy solutions 
+ 
+contributing to the goals of the EU Nature Restoration Regulation and the new EU 
+bioeconomy strategy, through techniques aligned to the Strategy for European Life Sciences 
+and the EU Biotech Act. 
+Project results are expected to contribute to all of the following expected outcomes: 
+• innovative biotechnology and Nature -based Solutions (NbS) 284 are developed and made 
+available to communities, land managers, local administrators and policy makers in 
+Ukraine to progress towards the targets of biodiversity protection and the clean 
+environment and zero-pollution ambition; 
+• contribution to the reconstruction, recovery, circularity and upgrading of economy and 
+environment of Ukraine is provided through the remediation of severe ecosystems 
+pollution - due to conflicts - and restoration of ecosystem services.  
+Scope: The recent wars are causing severe environmental degradation across ecosystems – 
+besides the disruption of human lives and dignity - with concentrations of contaminants 
+affecting the quality of air, water, soil, that may be beyond the known levels. There is the 
+urgent need to advance in the knowledge of such extreme conditions, and to develop or adapt 
+bioremediation techniques suitable to restore the degradation of the affected environments. 
+Proposals should: 
+• assess the level of contamination of soils in Ukraine due to past and ongoing conflicts 
+and select the areas to be remediated within the actions funded. Include 
+improving/adapting testing techniques, applying Earth observations and advanced tools 
+(e.g., AI and autonomous systems) when applicable, aiming at the prioritisation and 
+monitoring of the areas in the scope of remediation activities; 
+• develop and test innovative cost -effective biotechnology and Nature -based Solutions - 
+including phytoremediation - for decontamination and bioremediation of soil pollution 
+on the land and at source (including air and/or water bodies) in the conditions of 
+contamination due to conflicts; 
+• demonstrate the developed techniques in Ukraine in the areas selected at the first point 
+and monitor the effectiveness of the activities in scope, including increased resilience of 
+the remediated ecosystems to climate change; 
+• evaluate potential (positive and negative) impacts on the population, especially on 
+groups in vulnerable situations, and ensure transparent engagement with and information 
+to stakeholders and civil society on solutions proposed; 
+ 
+• collect and provide recommendations to policymakers and EU and international relief 
+organisations, to develop any replication actions, including in the context of the possible 
+EU accession process, if relevant; 
+• deliver on EU international commitments and outreach, including actions directed at 
+future EU enlargement and EU international partnerships contributing to the EU global 
+commitments on biodiversity and climate change.  
+Proposals should involve consortia formed in the spirit of the multi -actor approach, including 
+land managers and administrators from Ukraine as well as researchers from local academia 
+and research institutions. The participation of SMEs in consortia is encouraged. 
+Proposals should make use of social sciences and humanities (SSH) to assess the impacts on 
+the population. 
+Proposals should collaborate with Mission Soil projects dealing with soil pollution285 and with 
+the project funded under the topic HORIZON -MISS-2026-05-SOIL-03: Enabling user -
+centred and open innovation initiatives to enhance soil health in Ukraine, as well as with the 
+Mission Soil knowledge repository SoilWise and with the EU Soil Observatory (EUSO). 
+Efforts should be made to ensure that the data produced in the context of this topic are FAIR 
+(Findable, Accessible, Interoperable and Re -usable) and compatible with the European Open 
+Science Cloud (EOSC). 
+International cooperation is strongly encouraged.

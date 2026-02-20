@@ -1,0 +1,101 @@
+HORIZON-CL6-2027-02-FARM2FORK-04: Improving understanding of the 
+contribution of the organic farming sector to sustainability 
+Call: Call 02 - single stage (2027) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 6.00 million. 
+Type of Action Coordination and Support Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The following additional eligibility criteria apply: the proposals must 
+apply the multi -actor approach. See definition of the multi -actor 
+approach in this work programme part. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 199. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+ 
+• improved and increased data collection on the environmental, economic and social 
+impacts of the EU organic sector, from farm to consumer levels, leading to improved 
+understanding of the overall impact of the organic sector on sustainability (including 
+climate change mitigation and biodiversity); 
+• improved capacities of organic supply chains and organic value chain actors, including 
+farmers, to collect and provide data on organic production to fulfil reporting 
+requirements; 
+• increased cooperation between public and private data providers in the organic sector 
+across the EU.  
+Scope: The Vision for Agriculture and Food recognises organic farming as an approach with 
+potential to ensure an attractive and predictable agri -food sector, while at the same time 
+delivering several ecosystem services beneficial for the environment, climate and 
+biodiversity. There is a dual need to, on one hand, better understand the contribution of 
+organic farming and of the organic sector as a whole to the three dimensions of sustainability, 
+and on the other, to improve methods for data collection in the organic sector, in a way that 
+reduces administrative burden on farmers and on other operators. There is potential for both 
+needs to be addressed in combination, and a role for research and innovation to support in 
+achieving this objective. 
+Proposals should address all the following activities: 
+• undertake an exhaustive mapping of existing tools, platforms and methods at EU, 
+national and local levels, that allow for the collection of relevant data on organic 
+production to comply with the various reporting requirements of the sector, including 
+under the Common Agricultural Policy and under the EU organic certification. This 
+exercise should include a mapping of the actors involved in the collection of data, as 
+well as an analysis of cost -effectiveness, best practices and challenges faced. It should 
+also include an assessment of the potential of existing tools to reduce administrative 
+burden on organic farmers and on other operators of the organic value chain, as well as 
+to streamline data exchange with relevant actors, including certification bodies and 
+supply chain actors; 
+• facilitate the exchange of experiences and best practices on data collection and reporting 
+on organic production across the EU. Identify concrete opportunities for the cross -
+fertilisation and transfer of solutions among countries/regions; 
+• assess the need, feasibility and cost-effectiveness of leveraging existing data collected by 
+organic certification bodies in a way that it can simultaneously be used to assess the 
+contribution of organic production to the three axes of sustainability (economic, 
+environmental, social). This should include an analysis of existing standards for the 
+interoperability of agricultural digital systems, and identification of opportunities and 
+challenges; 
+• develop recommendations, including in relation to governance, for the effective use of 
+current tools for data collection, considering differences across the EU Member States; 
+• organise and implement training activities targeted to organic farmers and other 
+operators of the organic value chains, to build their capacities to collect relevant data to 
+comply with the reporting obligations on organic production. This should include 
+networking activities to foster cooperation among actors in the organic agri -food supply 
+chains with a view to increasing overall efficiency of the organic sector for data 
+collection.  
+Proposals should address all EU Member States. Proposals under this topic should support the 
+implementation of the EU Action Plan for the Development of Organic Production 200 and of 
+the EU regulatory framework for organic farming, and contribute to the objectives of the 
+Vision for Agriculture and Food 201 , the Common Agricultural Policy, and the EU’s 
+biodiversity, zero pollution and climate policies. 
+Both crop and livestock production systems under organic production are in scope of this 
+topic. 
+Proposals must implement the multi -actor approach and ensure adequate involvement of the 
+main stakeholders involved in the organic sector, and including a range of actors to ensure 
+that different sources of knowledge and perspectives are brought together. The needs and 
+expertise of all relevant actors, including certification bodies, should be duly considered in the 
+activities. Proposals should capitalise on existing knowledge and tools, such as the Farm 
+Sustainability Data Network (FSDN) 202. Proposals should build on the results of relevant 
+past/ongoing EU-funded R&I projects relevant for the organic farming sector, as well as of 
+other relevant related work/studies, and on any relevant activities funded under the Digital 
+Europe Programme. Proposals should include a dedicated task, appropriate resources and a 
+plan on how they will collaborate with other relevant ongoing and upcoming EU -funded R&I 
+projects and initiatives, including the Horizon Europe Partnership ‘Agroecology’ and the 
+project that may follow from the topic “HORIZON -CL6-2024-GOVERNANCE-02-01: 
+European Partnership of Agriculture of Data”.

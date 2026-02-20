@@ -1,0 +1,114 @@
+HORIZON-CL6-2027-02-CLIMATE-01: Governance, sustainable development and 
+international politics of a future ice-free Arctic 
+Call: Call 02 - single stage (2027) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 8.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 16.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+All international organisations are exceptionally eligible for funding. 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation and 
+submission of the proposal - see General Annex B. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• improved knowledge of the processes, feedbacks and impacts of an ice -free Arctic, both 
+locally/regionally and globally, including advanced research on newly emerging aspects 
+of the future regime change in the Arctic. 
+• enhanced observations and monitoring capabilities of Arctic changes including ocean, 
+land, sea-ice and atmosphere processes and biodiversity in the Arctic, informing the key 
+components covered by the topic, i.e. governance, sustainable development and 
+international politics of an ice-free Arctic. 
+• knowledge-based recommendations for sustainable development (of ocean -based and 
+blue economy activities), environmental conservation, climate change adaptation and 
+resilience, better-informed planning of resources (with a focus on coastal communities 
+and activities) and enabled evidence -based regional, European, and global decision –
+making on Arctic Ocean Governance; sustained European leadership in ocean –climate–
+biodiversity-cryosphere science; significant contributions made to global scientific 
+assessments, such as the IPCC, IPBES, SWIPA (Snow, Water, Ice and Permafrost in the 
+Arctic) and WOA (World Ocean Assessments), as well as to the UN Decade of Ocean 
+Science for Sustainable Development (2021 – 2030) and Decade of Action for 
+Cryospheric Sciences (2025 -2034), Central Arctic Ocean Fisheries Agreement 
+(CAOFA), the International Polar Year 2032 -2033, UN SDGs 13 and 14, and the 
+European polar science coordination efforts.  
+Scope: Proposals should: 
+• better understand, project and reduce uncertainties linked to the impacts, timing and 
+consequences of an ice-free Arctic. This includes the underlying systems (such as ocean, 
+atmosphere, cryosphere, and biosphere) and processes, strengthening research on key or 
+main drivers of internal variability and their interconnectedness to the climate system, 
+under multi and cumulative and cascading impacts of anthropogenic activities (resource 
+extraction, climate change, shipping and industrial activities, pollution, introduction of 
+NIS, etc.), abrupt, irreversible change/tipping elements and thresholds, including their 
+reversibility. In particular, understanding the nuances of the impacts of occasional daily 
+ice-free conditions, versus frequent monthly ice -free conditions, versus ice -free 
+conditions that occur for several months a year, is needed to assess the true impact of a 
+new seasonal Arctic sea ice regime in a warming world, in particular in and for Europe. 
+• enhance regional models representing integrated key physical, biogeochemical, and 
+biological processes, especially to capture processes in the changing sea -ice regimes 
+(ecological and political) and the impacts of extremes, building on and further 
+developing the existing IPCC class climate models and making use of new technologies 
+for sustained monitoring of key climate indicators / shared Arctic variables and machine 
+learning techniques for the advanced interpretation of these data. 
+• identify transformative pathways and key leverage points for sustainable mitigation and 
+anticipatory adaptation approaches. This could include and are not limited to looking 
+into aspects of: community resilience and health, particularly Indigenous populations, in 
+adapting to cultural, political, economic and environmental changes, including 
+addressing food security, health impacts, and preserving cultural practices; explore novel 
+economic opportunities and challenges, evaluating the potential for shorter and new 
+shipping routes and other economic opportunities, explore sustainable energy solutions 
+for Arctic communities, including wind, solar, and geothermal energy potential, resource 
+exploration, and sustainable economic development while ensuring environmental 
+protection; explore elements of risk management and hazard mitigation preparing for 
+increased coastal erosion, increased extreme weather events, and the impacts of thawing 
+permafrost on infrastructures, greenhouse emissions, and increased risks of natural and 
+anthropogenic hazards; develop strategies to reduce greenhouse gas emissions and 
+enhance carbon sequestration in Arctic ecosystems (bearing in mind the precautionary 
+principle/approach, and the efficiency and effectiveness of Nature -based Solutions); 
+improve projections for Arctic’s “Last Ice Area” (LIA) — a vital habitat for ice -
+dependent species — and critical for Arctic habitats , and inform conservation policies 
+and measures; explore the power of enhancing cooperation among Arctic nations and 
+global partners to share data, resources, and expertise and identify issues of geopolitical 
+and strategic nature and assess the implications of a navigable Arctic for shipping and 
+other blue economy or coastal -linked activities, resource extraction, and international 
+relations, strongly considering sustainability and the precautionary principle/approach.  
+Actions should conduct trans - and multi -disciplinary research, include aspects of gender, 
+SSH, equality and inclusion, and intergenerational concerns, and strengthen the inclusion of 
+different knowledge systems (Indigenous Knowledge, Local Knowledge and Science) in 
+broadening our understanding the multifaceted governance, sustainable development and 
+international politics of an ice -free Arctic. International cooperation is strongly encouraged, 
+especially with the All -Atlantic Ocean Research and Innovation Alliance (AAORIA) partner 
+countries305. A strong linkage should be ensured with the ongoing activities under Polhavet 
+2050 – Arctic Ocean 2050. The actions should build on existing observing platforms and 
+initiatives, and/or contribute to the evolution of the EU Digital Twin of the Ocean and 
+Destination Earth. All in -situ data collected through actions funded from this call should 
+follow INSPIRE principles and be available through open access repositories supported by the 
+European Commission (Copernicus and EMODnet). Concrete efforts should be made to 
+ensure that the data produced in the context of the funded projects is FAIR (Findable, 
+Accessible, Interoperable and Re-usable). 
+This topic is part of a coordination initiative between ESA and the European Commission on 
+Earth System Science and should towards this end include sufficient means and resources for 
+effective coordination, with relevant ESA Polar Science Cluster projects, including utilising 
+novel satellite Earth Observation datasets and joint research actions. Furthermore, this topic is 
+supporting the European polar science coordination efforts, including synergies with the 
+objectives of the European Polar Coordination Office (EPCO) and through contributing to the 
+implementation of its work plan. Proposals are encouraged to consider, where relevant, the 
+data, expertise and services offered by European research infrastructures 306, as well as related 
+projects in the environment domain. 
+The Joint Research Centre (JRC) may participate as member of the consortium selected for 
+funding. The JRC may contribute with its expertise related to developing new methods to 
+forecast air pollution and to estimate methane emissions from thawing permafrost.

@@ -1,0 +1,115 @@
+HORIZON-CL6-2026-01-ZEROPOLLUTION-01-two-stage: Decontaminate and 
+bioremediate aquatic pollution 
+Call: Call 01 - two stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+7.00 and 8.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 23.00 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their first -
+stage application (see General Annex E). 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation and 
+submission of the proposal - see General Annex B. 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 4 -5 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+The first-stage proposals of this topic will be evaluated blindly. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• competent authorities and the water sector have access to effective solutions – 
+particularly based on life sciences and biotechnology – to bioremediate and 
+decontaminate aquatic (marine and freshwater, including groundwater) pollution and 
+improve the resilience of aquatic ecosystems to climate change and biodiversity decline; 
+• local authorities have improved monitoring and management tools for the protection of 
+marine, surface and groundwater ecosystems, against contaminants of emerging concern 
+(CEC), especially PFAS, antimicrobial substances and microplastics; 
+• the impact of CEC, especially PFAS, antimicrobial substances and microplastics on 
+marine, freshwater and groundwater ecosystems are better understood including the 
+interlinkages of these systems.  
+Scope: Chemical pollution of aquatic environments from contaminants and pollutants poses 
+risks for human and environmental health. As recent assessments of the Marine Strategy 
+Framework Directive and of the Water Framework Directive have shown, large parts of 
+Europe’s groundwater bodies, rivers, lakes, coastal, transitional and marine waters have not 
+reached good status and often exceed regulatory threshold levels set to avoid potential risk to 
+human health and the environment. Continued inflow of pollutants into the aquatic 
+environment, coupled with their ubiquity and persistent nature is increasing the risk of 
+accumulation and long -term exposure of organisms and human beings. While pollution 
+prevention is the most effective measure to tackle aquatic pollution, more effective action and 
+novel solutions are needed to bioremediate and decontaminate European waters from 
+particularly harmful and persistent substances. 
+Aquatic microorganisms and their communities have developed various molecular 
+mechanisms to adapt to changing environmental conditions enabling them to degrade a wide 
+range of pollutants. The kinetics of community evolution and their molecular mechanisms 
+must be considered. However, the complexity of contaminated marine and freshwater 
+environments including groundwater, where multiple pollutants often coexist as mixtures, 
+metabolites and transformation products are created with changing properties and toxicity 
+levels and interactions with the soil or seabed properties makes risk assessment and 
+remediation a significant challenge. Therefore, a better knowledge of CEC interaction with 
+the surrounding environment (mechanisms, parameters of influence, soil constituents 
+involved) is needed to develop optimised treatment. Recent advancements in nanotechnology 
+have created new opportunities for environmental cleaning, particularly when combined with 
+microbial remediation. As a result, aquatic pollutant -degrading microbes enhanced by 
+nanoparticles are becoming increasingly valuable for developing biotechnological tools that 
+can effectively clean up contaminated environments. 
+Proposals should: 
+• develop and demonstrate novel approaches, locally adaptable and site -specific solutions 
+for the bioremediation and decontamination of aquatic pollution at source, in rivers, 
+lakes, coastal and groundwaters and at sea, including removal processes, management of 
+degradation processes, ensuring the approaches do not harm the environment; 
+• develop and demonstrate new, effective and affordable technologies, considering 
+particularly solutions based on life sciences and biotechnology, including 
+microorganisms and/or microbial communities and/or nanoparticles biosynthesized by 
+microbial activity, for the removal of pollutants, such as persistent organic pollutants, 
+degrading pollutants (e.g. plastics, oil, hydrocarbons), marine mucilage, contaminants of 
+emerging concern and targeted micropollutants (PFAS, pharmaceuticals, antimicrobials, 
+pesticides and micro -and nano -plastics) from marine waters, wastewater and drinking 
+waters and the environment including groundwater and sediments. Recovery of the 
+biosynthesized nanoparticles will be an asset in proposals but not required; 
+• integrate environmental monitoring methods (including effect -based methods), building 
+on existing methodologies, and high-resolution methods for robust risk assessment of the 
+impact of CECs on aquatic ecosystems, as well as assessment of the improved resilience 
+of bioremediated aquatic ecosystems to climate change; 
+• demonstrate pathways and interlinkages of the pollutants in aquatic ecosystems, and to 
+develop understanding where management actions are most beneficial and needed; 
+• ensure transparent engagement with stakeholders and society on solutions proposed.  
+Proposals should bring together a wide range of relevant stakeholders, i.e., researchers, 
+technology providers, policy makers and local competent authorities to maximise impact. 
+Case-studies representing the regional specificities in term of climate conditions are 
+welcomed but not required. 
+Proposals should ensure complementarities and avoid overlaps with relevant projects funded 
+under Horizon Europe, including the ones funded under the Mission “Restore our Ocean and 
+Waters” and under the Partnership for the Assessment of Risks from Chemicals (PARC). 
+Projects should engage with and help build an emerging community on decontamination and 
+bioremediation, in particular the one envisaged through the related public private initiative in 
+the European Water Resilience Strategy. 
+The participation of SMEs and Start -ups in the consortia is encouraged. The JRC may 
+contribute with its expertise related to nanotechnology/nanoparticles and environmental 
+biotechnology particularly in metagenomics and to the effect -based methods for the chemical 
+pollutants' detection in water. 
+Projects under this topic are relevant to the European Ocean Pact, the Marine Strategy 
+Framework Directive, the Water Framework Directive, the Groundwater Directive, the 
+Environmental Quality Standards Directive, the European Water Resilience Strategy, the EU 
+zero pollution action plan, the Nature Restoration Regulation, the Commission 
+communication on Building the future with nature: Boosting Biotechnology and 
+Biomanufacturing in the EU, the Life Sciences Strategy and the EU Biotech Act.

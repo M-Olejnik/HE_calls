@@ -1,0 +1,84 @@
+HORIZON-CL6-2026-03-GOVERNANCE-01-two-stage: Open topic: Develop Earth 
+Intelligence solutions using environmental observations and state-of-the-art AI for 
+sustainable competitiveness and policy making 
+Call: Call 03 - two-stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+6.00 million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Research and Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their first-
+stage application (see General Annex E). 
+Eligibility The conditions are described in General Annex B. The following 
+ 
+conditions exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+The first-stage proposals of this topic will be evaluated blindly. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 352. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• AI-based demonstrators for Earth Intelligence tools integrating observations and socio -
+economic data, for evidence -based decision making. Whereby Earth Intelligence refers 
+to data-driven decision support tools with relevant research -based assessments, data, and 
+options; 
+• support to national, EU and international environmental policy making or 
+implementation (e.g. European Climate Law, Preparedness Union Strategy, Nature 
+Restoration Regulation, Paris Agreement, or Sustainable Development Goals).   
+Scope: Proposals should develop and demonstrate downstream applications for a range of use 
+cases (e.g. weather -, climate -related risks, environmental hazards, or biodiversity reporting) 
+using broadly and intensively Earth Observation and relevant datasets for supporting 
+sustainability and competitiveness through the provision of Earth Intelligence. The aim should 
+be the provision of AI-driven tools and insights to public or private actors, also in the frame of 
+GEO Work Programme Activities, providing observation -based evidence to include 
+preparedness, resilience, sustainability, competitiveness, biodiversity -friendliness or climate 
+neutrality in their operations, decision- or policymaking. 
+Towards this end, the actions funded under this topic should: 
+ 
+• engage in uptake of Earth Observation (EO) data, including output data from 
+Copernicus, operational European weather satellites, in -situ systems (incl. relevant 
+European Research Infrastructures data), as well as socio-economic and impact datasets; 
+• follow a user -tailored, co -design approach in the development of the use cases, to 
+provide innovative and competitive, fit -for-purpose information for decision and 
+planning; 
+• demonstrate explainability, robustness and replicability of the approach; 
+• convincingly demonstrate, test or validate the developed products and delineate the plans 
+to develop possible future uptake and upscaling at national and regional (incl. beyond 
+EU) level for possible next steps after the research project.  
+Proposals should build on most recent advances of AI approaches and models 
+trained/integrating information from Earth Observations, as well as digital twins, 
+developments in Destination Earth (e.g. including related projects funded under HORIZON -
+INFRA-2024-TECH-01-03: New digital twins for Destination Earth) and available EURO 
+HPC and EU AI Factory tools and facilities. 
+Applicants are also encouraged to identify start-up and scale-ups and seek to develop business 
+models and market opportunities for its products, potentially in cooperation with the project 
+funded under HORIZON-CL6-2026-03-GOVERNANCE-07. 
+This topic is part of the EC -ESA Earth System Science Initiative, projects should collaborate 
+with related projects funded by ESA’s FuturEO programme and should towards this end 
+include sufficient means and resources for effective coordination.

@@ -1,0 +1,80 @@
+HORIZON-CL6-2026-01-CIRCBIO-01: Improving circularity of multilayer flexible 
+plastic food contact packaging 
+Call: Call 01 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+The Commission estimates that an EU contribution of between EUR 
+5.00 and 6.00 million would allow these outcomes to be addressed 
+project appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 11.00 million. 
+Type of Action Innovation Actions 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B. Activities may start at any TRL. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 226. 
+ 
+Expected Outcome:   
+Project results are expected to contribute to all of the following expected outcomes: 
+• environment and society at large benefit from recyclable food packaging which can be 
+recycled and reused back into food packaging while keeping the quality, value and 
+extending the material lifetime; 
+• industrial value chains including primary and secondary raw material producers, 
+polymer suppliers, additives suppliers, converters, brand owners and retailers (SMEs and 
+large companies), agri -food suppliers, waste managers and recyclers introduce 
+sustainable food packaging on the market through enhanced design for recycling and 
+solutions for effective sorting and recycling on an industrial scale, in line with the safe -
+and-sustainable-by-design principles227; 
+• consumers and civil society are sufficiently informed about appropriate ways of disposal 
+of used food packaging to enable its circularity.   
+Scope: Plastic food packaging represents a significant part of all plastic packaging put on the 
+EU market. Flexible films composed of multiple layers are commonly difficult to recycle. 
+And to date, there is no market at scale for closing the loop and establish recycling systems 
+from food contact back to food contact application. Despite the advancement of several 
+solutions, there is a need to improve the efficiency of recycling solutions and reach as high as 
+ 
+possible yield of food contact compliant recycled plastic coming from post -consumer 
+packaging films. 
+Proposals should: 
+• advance marketable solutions towards mono -material multilayer flexible plastic food 
+contact packaging to enable its effective end-of-life collection, sorting and recycling into 
+food contact-compliant recycled plastic suitable for food packaging; 
+• Improve eco-design of multilayer plastic food packaging and demonstrate at large scale 
+digital solutions for circularity such as digital product passport; 
+• demonstrate individual and/or a combination of physical technologies and digital 
+solutions (for example, AI, watermarking, or others) to further improve sorting yield of 
+multilayer flexible packaging; 
+• test and demonstrate recycling technologies (separation, purification, decontamination, 
+etc.) enabling uptake of food contact compliant recycled plastic into food contact 
+packaging in line with the targets of the Packaging and Packaging Waste Regulation; 
+• demonstrate pathways to increase the recycled content of food contact compliant 
+recycled plastic in new food packaging products; 
+• demonstrate solutions on an industrial scale involving the whole value chain, while 
+ensuring compliance with relevant food contact regulations (Regulation 2022/1616 and 
+Regulation 1935/2004).  
+Proposals should also evaluate the feasibility, effectiveness and impact of the demonstrated 
+solutions using robust evaluation methods (including lifecycle assessments such as product 
+environmental footprint, where relevant) and present data and evidence about the economic, 
+environmental and social costs and benefits of the developed solutions. 
+Engagement of all relevant value chain stakeholders is expected, i.e. primary and secondary 
+raw material producers, polymer suppliers, additives suppliers, converters, agri -food 
+suppliers, brand owners and retailers (SMEs and large companies), waste managers and 
+recyclers. Clustering with other relevant Horizon Europe projects is encouraged. 
+The topic supports the European Green Deal, the Regulation on Packaging and Packaging 
+Waste, the Single Use Plastics Directive, the Waste Shipment Regulation, the Ecodesign for 
+Sustainable Products Regulation and its working plan, the Regulation for recycling of plastic 
+intended for contact with food, the Zero Pollution Action Plan, and the upcoming Circular 
+Economy Act and contributes to Europe’s efforts to develop a single market for sustainable 
+products. 

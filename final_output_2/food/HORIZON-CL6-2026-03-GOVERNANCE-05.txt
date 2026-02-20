@@ -1,0 +1,87 @@
+HORIZON-CL6-2026-03-GOVERNANCE-05: Coordinated European contribution to 
+the WMO Global Greenhouse Gas Watch and its international governance  
+Call: Call 03 - single stage (2026) 
+Specific conditions 
+ 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 7.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 7.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The following additional eligibility criteria apply: 
+International organisations with headquarters in a Member State or 
+Horizon Europe associated country are exceptionally eligible for 
+funding as this topic targets international cooperation in the frame of 
+initiatives related to the United Nations (UN). 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 334. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• EU strategic climate data autonomy and decision-making sovereignty; 
+• global benchmarking of EU Greenhouse Gas observations and monitoring; 
+ 
+• enhanced coordinated EU contribution and support to global GHG monitoring, reporting 
+and verification; 
+• effective EU climate policy implementation, as well as reporting and diplomacy on the 
+global scene; 
+• visibility of the EU climate action on the global scene.  
+Scope: The World Meteorological Organization (WMO) established in 2023 a new global 
+greenhouse gas monitoring initiative that aims to support WMO Members in climate change 
+mitigation actions undertaken to implement the Paris Agreement. The WMO Global 
+Greenhouse Gas Watch (G3W) will fill critical information gaps and provide an integrated, 
+operational framework that brings under one roof all space-based and surface-based observing 
+systems, as well as modelling and data assimilation capabilities in relation to greenhouse gas 
+monitoring. G3W plays a key supporting role to the UNFCCC and the Paris Agreement. 
+Proposals are expected to: 
+• consolidate the EU contributions to these global GHG monitoring efforts through 
+resilient and competitive environmental observing network capabilities, and to foster 
+international data exchange cooperation. 
+• develop innovative (including AI/ML -based) digital solutions, which can facilitate 
+inversions, automate monitoring, reporting and verification obligations, as well as the 
+overall operationalization of GHG monitoring. 
+• focus on new GHG data products on global, regional, national and local scales. These 
+should make use of all relevant existing and upcoming EO data including Copernicus 
+Sentinels and relevant contributing missions, as well as ground -based networks (e.g. 
+GAW, ICOS, TCCON, etc.) and socio-economic data as relevant. 
+• support international intercomparison and benchmarking (e.g. uncertainty 
+characterization) efforts. Use cases addressing hot spot emission monitoring are 
+particularly welcome. 
+• provide clear plans for global cooperation, transition into operational services, data 
+sharing and integration across sectors, policy uptake, knowledge exchange and capacity 
+building activities.  
+Additionally, the action should embrace all the relevant initiatives existing at the European 
+level and include a relevant panel of users and stakeholders at EU and national level. It should 
+support the EU in addressing its international commitments under the UNFCCC and the Paris 
+Agreement. 
+The European Commission’s Joint Research Centre (JRC) may join the consortium selected 
+for funding as a member, or participate in the project in another way, as the tools developed 
+under this action are relevant for JRC’s role as leader of the Copernicus CO2 Task force and 
+can facilitate EU level assessments of greenhouse gas emissions. 
+International cooperation is encouraged.

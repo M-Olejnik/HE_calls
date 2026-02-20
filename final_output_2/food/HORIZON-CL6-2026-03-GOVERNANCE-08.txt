@@ -1,0 +1,98 @@
+HORIZON-CL6-2026-03-GOVERNANCE-08: Boosting data availability and AI 
+solutions in food for consumers and food service professionals 
+Call: Call 03 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 7.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 15.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+In line with the “ restriction on control in innovation actions in critical 
+technology areas ” delineated in General Annex B of the General 
+Annexes, entities established in an eligible country but which are 
+directly or indirectly controlled by China or by a legal entity established 
+in China are not eligible to participate in the action. 
+The following additional eligibility criteria apply: The proposals must 
+apply the multi -actor approach. See definition of the multi -actor 
+approach in this work programme part. 
+Subject to restrictions for the protection of European communication 
+networks. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 340. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+ 
+• generative AI solutions for consumers and food service professionals have significantly 
+scaled-up and improved the productivity and sustainability (including for mitigation of 
+climate change) of food purchasing, preservation and preparation, and enabled dietary 
+health; 
+• high value and high quality digital datasets for food products, and data driven consumer 
+and food service applications are developed and contribute to increasing productivity, 
+sustainability and dietary health; 
+• data sovereignty is ensured, including for consumers and farmers.  
+Scope: The decisions taken by consumers and food service professionals when they purchase, 
+prepare and preserve food impact their productivity as well as the sustainability of food 
+systems, and dietary health. AI solutions offer opportunities to assist consumers and food 
+service professionals in these decisions. To maximise the impact of these AI solutions it is 
+necessary to increase their uptake as well as the availability and quality of the data on which 
+they rely. 
+Proposals should: 
+• develop and deploy human -centric, generative AI solutions for consumers and food 
+service professionals to support them in the processes of food purchasing, preservation 
+and preparation, with a view to increase dietary health, sustainability (lower greenhouse 
+gas emissions, energy & water footprint; lower food waste, and packaging waste) and 
+productivity. 
+• support innovators working on generative AI solutions in food. The support should 
+include: Encourage participation of SMEs and start -ups, such as through high -impact 
+innovation platforms (e.g. EU Digital Innovation Hubs, accelerators, incubators). Offer 
+innovation support packages that are tailored to innovative SMEs and start -ups and that 
+are effective in bringing solutions to market. Prioritize support based on end-users needs, 
+data availability and the likely impact potential on dietary health, sustainability and 
+productivity when solutions are scaled -up, including for reducing greenhouse gas 
+emissions; 
+• engage with a broad range of stakeholders (e.g. consumers, retailers, caterers, equipment 
+manufacturers) to ensure that the solutions developed are practical and widely adopted. 
+Include plans for providing training and ongoing support to end users to maximize the 
+effective and significant use of the AI solutions; 
+• advance the access to trustworthy digital product data in food. Improve the availability, 
+sovereignty and quality of data sets that are high value in view of end -users needs, and 
+the likely impact potential on dietary health, sustainability and productivity when 
+solutions are scaled-up, including for reducing greenhouse gas emissions; 
+• encourage businesses and other relevant actors (e.g. public authorities, certification 
+bodies) in the food system to enhance data capture, optimize data sharing, and promote 
+data reuse; 
+• ensure that sufficient and good quality data is mobilised from different relevant data 
+sources (e.g. in-situ data, model data, sensor data, device data, remote sensing, personal 
+data, government data) across the computing continuum, and from different parts of the 
+food system, from primary production, over food processing to consumption and 
+disposal.  
+Where appropriate, proposals should use, federate, optimise and complete tools, capacities 
+and infrastructures created under the Digital Europe Program (incl. European Data Spaces, 
+EDIHs) and under Horizon Europe projects and partnerships (incl. Partnerships Agriculture of 
+Data & FutureFoods). Proposals are encouraged to building on results from previous and 
+relevant calls and projects. Proposals should also comply with existing EU framework and 
+strategies and building upon the concepts and solutions developed in other Union initiatives 
+aimed to facilitate data sharing, such as the Common European Agricultural Data Space 
+(CEADS). 
+Proposals must implement the 'multi -actor approach’ and ensure adequate involvement of the 
+main stakeholders of food systems and the data economy. This topic should involve the 
+effective contribution of Social Sciences and Humanities (SSH) disciplines.

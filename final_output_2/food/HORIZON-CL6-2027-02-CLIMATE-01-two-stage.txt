@@ -1,0 +1,121 @@
+HORIZON-CL6-2027-02-CLIMATE-01-two-stage: Open topic: Innovative solutions for 
+the European Water Resilience Strategy 
+Call: Call 02 - two-stage (2027) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 
+5.50 million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 11.00 million. 
+Type of Action Innovation Actions 
+Admissibility 
+conditions 
+The conditions are described in General Annex A. The following 
+exceptions apply: 
+Applicants submitting a proposal for a blind evaluation (see General 
+Annex F) must not disclose their organisation names, acronyms, logos 
+nor names of personnel in the proposal abstract and Part B of their first-
+stage application (see General Annex E). 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+If projects use satellite -based earth observation, positioning, navigation 
+and/or related timing data and services, beneficiaries must make use of 
+Copernicus and/or Galileo/EGNOS (other data and services may 
+additionally be used). 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or 
+as an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+The following additional eligibility criteria apply: the proposals must 
+apply the multi -actor approach. See definition of the multi -actor 
+approach in this work programme part. 
+Procedure The procedure is described in General Annex F. The following 
+exceptions apply: 
+The first-stage proposals of this topic will be evaluated blindly. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 316. 
+ 
+Expected Outcome: Project results are expected to contribute to one or more of the following 
+expected outcomes corresponding to the European Water Resilience Strategy objectives: 
+• the water cycle is restored; 
+• the economy is following a water-smart path and the EU water industry is competitive; 
+• water is clean and affordable for all.  
+Scope: The European Commission adopted the European Water Resilience Strategy317, which 
+proposes actions to address the expected outcomes described in this Open Topic. With a view 
+of contributing with breakthrough innovation to this strategy, proposals are expected to 
+address creative or disruptive solutions to develop a set of means for its implementation. 
+Adapted to the nature, scope and type of proposed activities, proposals should convincingly 
+explain how they will plan and/or carry out demonstration, testing or validation of developed 
+tools and solutions. Proposals must implement the multi -actor approach and ensure adequate 
+involvement of appropriate stakeholders, including where relevant farmers, water intensive 
+industries, energy producers, land managers, water governance bodies and local authorities. 
+Proposals should also delineate the plans to develop possible future uptake and upscaling at 
+local, national and EU level for possible next steps after the project. In this topic the 
+integration of the gender and intersectional dimension (sex and gender analysis) in research 
+and innovation content should be addressed only if relevant in relation to the objectives of the 
+research effort. Proposals should consider and possibly expand on previous research of related 
+past national or EU-funded projects, avoiding duplication. 
+Proposals should address one or more of the following actions: 
+Restore the Water Cycle 
+• uptake of innovative solutions to help retain water in natural ecosystems at regional 
+level, including groundwater, to restore free flowing and renaturalising river shapes, to 
+ 
+promote water-efficient practices and optimised soil-water interactions, to implement the 
+source-to-sea approach and supporting biodiversity; 
+• increase preparedness against water scarcity, droughts and floods, and integrate global 
+change adaptation strategies, including climate -resilient water infrastructure, early 
+warning systems, and risk assessments to enhance the resilience of water systems to 
+future climate impacts; 
+• improve hydrological and ecological monitoring to better assess the impacts of various 
+water resources management actions and interventions, while facilitating cross -border 
+collaboration and open access to data.  
+Water smart economies 
+• in line with the water efficiency first principle, identify techniques or methodologies and 
+their advantages and develop indicators for water efficiency in various water consuming 
+sectors, e.g. agriculture; 
+• develop and propose water pricing systems and certification systems that rewards 
+sustainable land management practices and that promote the efficient provision of water 
+services and the efficient use of water; 
+• propose a set of innovative technological and digital solutions for the water (services) 
+sector and water user sectors, to promote a water -smart economy and to implement the 
+water efficiency first principle; 
+• develop and upscale innovative water reuse and recycling solutions, including potable 
+applications where appropriate, contributing to circular water use.  
+Ensuring clean and affordable water for all  
+• analyse the barriers that prevent public participation and engagement and developing 
+actions to increase public awareness and engagement in drinking water resource 
+protection and river basin management plans; 
+• develop cost effective measures to ensure equitable access to affordable water and 
+sanitation for groups in vulnerable situations such as women, children, elder people, 
+low-income communities, indigenous peoples, or persons with disabilities LGBTIQ 
+people, people with a racial or religious minority background; 
+• develop methodologies to improve the influence of water footprint over consumption 
+processes/patterns.  
+Proposals covering more than one action are not required to make links between the different 
+actions if there is not. However, they should convincingly explain how their proposed actions 
+are expected to contribute to the achievement of the expected outcomes they address. 
+Proposals should leverage relevant Copernicus elements and foster complementarities, 
+avoiding overlaps with projects funded under previous Framework Programmes, the 
+Partnership Water Security for the Planet (Water4All), the EU Missions 'Restore our Ocean 
+and Waters by 2030', 'Adaptation to Climate Change' and 'A Soil Deal for Europe'. Proposals 
+should include a task to ensure collaboration with the other projects funded under this topic. It 
+should reinforce the complementarities of approaches and methodologies developed and 
+maximise the outcome of the topic for the different actions foreseen. 
+JRC can support the awarded consortium with its expertise and work on current, emerging, 
+and future risks associated with water -related extremes such as droughts and floods, and with 
+its efforts to enhance the drought and flood components of the Copernicus Emergency 
+Management Service. 

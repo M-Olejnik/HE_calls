@@ -1,0 +1,70 @@
+HORIZON-CL6-2027-02-FARM2FORK-08: AI-powered foodome characterization  
+Call: Call 02 - single stage (2027) 
+Specific conditions 
+Expected EU 
+contribution per 
+The Commission estimates that an EU contribution of around EUR 
+7.80 million would allow these outcomes to be addressed 
+project appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 7.80 million. 
+Type of Action Innovation Actions 
+Eligibility conditions The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+Technology 
+Readiness Level 
+Activities are expected to start from TRL 5 in order to achieve TRL 7 
+by the end of the project – see General Annex B. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following 
+exceptions apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of 
+results, as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• an Artificial Intelligence (AI) tool able to accelerate the analysis of complex foodomics 
+data to speed up the identification, structural characterisation, and quantification of 
+chemicals present in food; 
+• improving capacity and synergies in foodomics research between academia, research 
+infrastructures and industry.  
+Scope: Through food and beverages, the population is exposed to an immense variety of 
+chemicals (as contaminants and as ingredients). The “foodome” is the complete set of 
+compounds present in a food sample at a given time; it includes both endogenous 
+biomolecules (produced through a species' metabolic processes) and exogenous compounds 
+(natural and synthetic substances from production, processing, handling, and packaging). The 
+current knowledge is largely confined to a narrow set of approximately 150 food c omponents 
+catalogued by traditional databases. These components represent only a very small fraction of 
+the total chemical complexity present in foods, while thousands (>100,000) of compounds 
+and contaminants remain largely unquantified and underexplored. Understanding this 
+“nutrient dark matter” would require identifying, cataloguing and quantifying the full 
+spectrum of substances present in our food and present in accessible, AI -ready databases. The 
+need for such information is today a bottleneck to make the nutrition field predictive and data 
+driven, and has the potential to make food processing more efficient in bringing new foods 
+items on the market. Efforts to create such datasets are underway but owing to the quantity of 
+samples (hundreds of thousands of compounds across thousands of foods), such databases 
+often rely on high -throughput experimental methods which do not allow a precise 
+characterisation of the molecules identified. 
+Proposals should address the following activities: 
+• develop and test validated AI algorithms capable of interpreting and annotating high -
+throughput foodomics data, for instance from untargeted mass -spectrometry or nuclear 
+magnetic resonance; 
+• the AI algorithms should be capable to predict or infer the presence and concentration of 
+compounds based on (incomplete) foodomics data via innovative approaches, for 
+instance by considering phylogenic relationships between species. Moreover, this should 
+help identify analytical methods and potential food safety hazards based on their 
+similarity to known compounds; 
+• develop a European research and innovation network between Member States and 
+Associated Countries in food exposome research to support the development, 
+standardization, valorisation and dissemination of the AI results and considering existing 
+initiatives such as the Centre for Excellence in the Periodic Table of Food Initiative from 
+Wageningen University.  
+The multi -actor approach is encouraged. Proposals should include industry in the consortia 
+and academia, startups, SMEs and international initiatives. Collaboration with international 
+partners is encouraged as well as with existing private companies in the EU/Associated 
+countries.

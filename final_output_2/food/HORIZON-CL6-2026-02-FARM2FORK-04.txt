@@ -1,0 +1,75 @@
+HORIZON-CL6-2026-02-FARM2FORK-04: Accelerating the development of breeding 
+tools for perennial crops, specifically fruits and nuts 
+Call: Call 02 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Research and Innovation Actions 
+Legal and financial The rules are described in General Annex G. The following exceptions 
+ 
+set-up of the Grant 
+Agreements 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 152. 
+Beneficiaries may provide financial support to third parties (FSTP). The 
+support to third parties can only be provided in the form of grants. The 
+maximum amount to be granted to each third party is EUR 60 000. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• cutting-edge, scalable and accessible tools and methods are available to accelerate the 
+breeding of productive, qualitative, climate -smart and environment -friendly perennial 
+crops, enhancing the competitiveness of the sector and fostering biodiversity; 
+• researchers and breeders have access to user-friendly and innovative plant breeding tools 
+that allow faster enhancement of sustainability traits, including pest and disease 
+resistance, stable yield and quality, water use efficiency and resistance to abiotic 
+stressors.  
+Scope: Despite the crucial role that woody perennial crops such as fruits and nuts play in our 
+diets, as well as their importance for global economies, biodiversity conservation and climate 
+change mitigation, traditional breeding methods for these crops remain slow and labour -
+intensive due to long gestation periods (juvenile phase) and complex genetics. This hinders 
+the timely development of perennial breeds to cope with challenges like climate change, pests 
+and diseases, impacting among others crop productivity. Developing user -friendly tools that 
+can be effectively transferred to breeders will boost the impact and efficiency of breeding 
+programs for perennial crops. 
+Proposals should: 
+• develop new and/or improved tools and methods aimed at shortening generation time 
+and overall breeding cycle in perennial crops, while enhancing sustainability traits such 
+as pest and disease resistance, yield stability, quality and adaptation to climate changes; 
+• assess the scalability and accessibility of the tools and methods and ensure the provision 
+of the required dataset and info for their effective implementation; 
+ 
+• implement genomic selection tools and models – taking into account interactions 
+between genotypes and environment - into actual breeding schemes for perennial crops 
+and study the empirical results of these models to determine their accuracy, reliability, 
+and applicability and improve their effectiveness for commercial settings; 
+• validate the tools across different species or breeding objectives to ensure reliability and 
+replicability and develop standardized protocols and guidelines for their use in 
+consultation with breeders to facilitate the effective adoption and utilisation of the 
+tools/methods; 
+• evaluate the newly developed tools and methods for potential trade -offs, unintended 
+outcomes and potential effects on the environment.  
+All breeding approaches are in the scope of this topic. Proposals should target fruit and/or nut 
+crops153. 
+Proposals may provide financial support to third parties (FSTP) to, for instance, cross -test the 
+tools developed in different species and facilitate the engagement of SMEs for testing in 
+commercial settings. 
+Proposals should build on the results of relevant projects funded under Horizon 2020 and 
+Horizon Europe and ensure collaboration with relevant ongoing projects. 
+Proposals are encouraged to consider, where relevant, the data, expertise and services offered 
+by European research infrastructure154 in the environment, biological and food domains. 
+The projects under this topic are relevant to the EU policies related to the EU Vision for 
+Agriculture and Food by promoting plant breeding innovations, including new genomic 
+techniques (NGTs), the Commission communication on: Building the future with nature: 
+Boosting Biotechnology and Biomanufacturing in the EU155 and the Life Sciences Strategy.

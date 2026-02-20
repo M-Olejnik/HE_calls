@@ -1,0 +1,78 @@
+HORIZON-CL6-2027-01-CIRCBIO-01: Enhancing ecodesign and circularity of 
+consumer electronics 
+Call: Call 01 - single stage (2027) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 10.00 million. 
+Type of Action Innovation Actions 
+ 
+Technology 
+Readiness Level 
+Activities are expected to achieve TRL 6 -8 by the end of the project – 
+see General Annex B. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 252. 
+ 
+Expected Outcome: Project results are expected to contribute to all of the following expected 
+outcomes: 
+• material and product manufacturers apply relevant ecodesign, including design for 
+circularity and design for recycling principles in developing and manufacturing products 
+that contribute significantly to EU climate and through reduction of emissions and 
+resource extraction to biodiversity goals, zero pollution, water resilience, circular 
+economy, as well as open strategic autonomy; 
+• consumers benefit from more sustainable and circular products, i.e. durable, reliable, 
+reusable, reparable, upgradable, recyclable products including increased recycled 
+content.   
+Scope: Electrical and electronic equipment continues to be one of the fastest growing waste 
+streams in the EU, with current annual growth rates of 2%. It is estimated that less than 40% 
+of electronic waste is collected in the EU. 253 Value is lost when fully or partially functional 
+products are discarded because they are not reparable, the battery cannot be replaced, the 
+software is no longer supported, or materials incorporated in devices are not recovered. 
+Increasing recovery of critical raw materials from waste electrical and electronic equipment is 
+a strategic priority to mitigate supply risks. Today, CRM recovery rates are generally low, 
+with increases requiring new recovery processes and interface optimisation with pre -
+processing to ensure appropriate material flows for efficient recovery are generated.254 
+Proposals should: 
+• develop, test and demonstrate new or improved ecodesign of consumer electronics, 
+including design for durability, reusability, reparability, disassembly, separability, 
+recyclability, uptake of recycled content. This may include design solutions for the reuse 
+ 
+of components and for easier dismantling leading to increased reparability, 
+remanufacturing or recycling with use of solutions and technologies such as active 
+disassembly/debonding materials and adhesives, and design solutions targeting critical 
+and strategic raw materials; 
+• assess and provide recommendations for mechanisms and incentives to address the 
+trade-offs with costs and innovation limitations and to reward design for circularity and 
+product durability – such as extended guarantees, “second” VAT reduction, or others –, 
+and test and demonstrate new business models such as leasing and product -service-
+systems, to the extent that they reinforce positive design changes.   
+Proposed solutions need to be aligned with chemical safety principles (SSbD) and in 
+compliance with relevant legislation such as RoHS. The environmental performance of the 
+proposed solutions in comparison to existing products should be evaluated from a lifecycle 
+perspective using product environmental footprint methodology wherever applicable. 
+Participation of partners from (associated) countries with actual electronics production is 
+encouraged. Participation of SMEs is encouraged. Consumer benefits are at the centre of this 
+topic, and it is vital that the consumer perspective is duly reflected in all activities. The topic 
+requires the effective contribution of SSH disciplines and involvement of SSH experts in 
+order to produce meaningful and significant effects enhancing the societal impact of the 
+related activities. 
+This topic supports the implementation of the European Green Deal, the Ecodesign for 
+Sustainable Products Regulation and its working plan, in particular with a view to the 
+reparability of small household appliances, the WEEE Directive, contribute to waste 
+prevention, higher circularity and uptake of recyclate, and Europe’s efforts to develop a single 
+market for sustainable products.
