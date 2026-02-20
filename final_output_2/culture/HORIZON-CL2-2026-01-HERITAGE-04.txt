@@ -1,0 +1,111 @@
+HORIZON-CL2-2026-01-HERITAGE-04: Towards a fair and transparent market for 
+cultural and creative content in the era of generative AI 
+Call: Culture, Creativity and Inclusive Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+3.00 and 4.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+ 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 98. 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Projects should contribute to all of the following expected outcomes: 
+• An in-depth analysis of the socio -economic dimensions and impacts of generative AI on 
+the cultural and creative sectors and related societal implications. Particular attention 
+should be paid to rights and remuneration of creators, diversity of cultural expression, 
+audience perception, consumption patterns, market dynamics, value chains, royalty 
+allocation and the effectiveness of copyright infrastructure. 
+• Scenarios, value chains, standards and robust, agile solutions to ensure transparency and 
+trust in the generative AI supply chain are developed, aiming for a fair and transparent 
+market for cultural and creative content. This includes: systems for content provenance 
+detection of AI-generated and manipulated creative content; tools and infrastructure that 
+reinforce rights management, creators’ consent, control, and fair compensation for the 
+use of their works in AI training and generation; measures supporting the findability and 
+discoverability of trustworthy cultural and creative content; mechanisms for the long -
+term preservation and stewardship of AI-generated creative works.  
+• Adaptive policy frameworks, recommendations, and solutions that embed cultural and 
+ethical considerations in AI development for/with CCSI. These should ensure a fair and 
+ethical market for cultural and creative content, products and services. Concrete 
+solutions to address identified challenges and ensure equitable and sustainable creative 
+economies, including agile mechanisms to ensure equitable value distribution, are 
+proposed.  
+• A systemic innovation framework for sustainable CCSI is developed and validated. It 
+enables agile experimentation, design, and testing of future -proof business models, that 
+support compliance with ethical standards, legal requirements, and resource -efficient 
+practices adaptable to market and technological changes.   
+Scope: The impact of generative AI on the CCSI and society is complex and multifaceted 99. 
+While it offers new possibilities, it also raises concerns, particularly regarding copyright, 
+revenue models, employment patterns, and audience engagement. Understanding these socio -
+economic impacts, including how AI shifts the way the arts and culture are understood, 
+created, practiced, and learnt, is crucial. 
+ 
+Generative AI can produce outputs potentially competing with human -created content. AI can 
+also facilitate the manipulation of creative works, potentially infringing copyright or 
+misleading users. Increasing transparency of AI generated or manipulated content may help to 
+distinguish between human-created and machine-generated content and inform new practices 
+for content dissemination and consumption. 
+Challenges related to the availability of quality data for AI applications and to the accuracy 
+and reliability of cultural content should be investigated and addressed. In particular, the 
+development of Generative AI technologies requires access to vast amounts of content that is 
+often still protected by copyright. One of the challenges in this context is linked to the 
+difficulty to identify copyrighted works, rightsholders and information on how their works 
+may be used. The purpose of the insights gained is to inform novel practices for managing AI-
+generated content in cultural and creative fields, including the preservation of valuable 
+outputs, such as artworks created by using AI, and to inform the establishment of adequate 
+policy and legal frameworks and infrastructures. 
+Proposals should primarily address the following dimensions: 
+• Investigate and identify emerging trends, including through scenario analysis, and 
+estimate the economic and social implications and impact of AI-generated outputs on the 
+creative content market and related services, and on different actors and sectors, with a 
+special focus on creators’ rights, earnings, allocation of royalties, as well as on diversity, 
+inclusion, consumption and user perception of cultural products and services. 
+• Examine and propose policy and legal frameworks to ensure a sustainable and 
+innovative creative sector in the age of AI. 
+• Propose standards and robust solutions to map the generative -AI supply chain, identify, 
+trace and find trusted content, and ensure authenticity; tools for strengthening consent, 
+control, rights management and compensation for the use of artistic and creative data in 
+AI; suggest other measures to ensure a fair and transparent market for cultural and 
+creative content, including solutions to increase the discoverability of trustworthy 
+cultural and creative content, including copyright protected content that could be used 
+for the AI training. 
+• Investigate new, efficient ways to redefine value creation and transformed business 
+models. This includes looking at uncovering opportunities that support human creation, 
+and increase profitability, while providing frameworks for the distribution of AI -
+generated and/or assisted creative content, and measures for long term preservation of 
+valuable works created with the use of AI. 
+• Systemic and agile innovation: propose a validated framework to experiment, design, 
+prototype and test new business models that can adapt to a rapidly evolving market, are 
+resource efficient, and comply with ethical and regulatory frameworks.   
+By integrating these findings and insights, risks associated with generative AI can be 
+mitigated and new positive prospects developed. Insights gained are expected to contribute to 
+the EU’s global leadership in creativity and innovation. 
+Proposals should consider relevant policy initiatives, such as the AI Continent Action Plan 
+and the envisaged AI dedicated strategy for the cultural and creative sectors100, and build upon 
+existing research and innovation outcomes. Proposals selected under this call should 
+collaborate and, if relevant, build upon the research developed by projects retained under call 
+HORIZON-CL2-2025-01-HERITAGE-04.

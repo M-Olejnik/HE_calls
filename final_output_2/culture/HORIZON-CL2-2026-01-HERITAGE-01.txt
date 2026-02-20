@@ -1,0 +1,134 @@
+HORIZON-CL2-2026-01-HERITAGE-01: “Artistic intelligence” : harnessing the power 
+of the arts to address complex challenges, enhance soft skills and boost innovation and 
+competitiveness 
+Call: Culture, Creativity and Inclusive Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+4.50 and 5.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 15.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or 
+as an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Subject to restrictions for the protection of European communication 
+networks. 
+Legal and The rules are described in General Annex G. The following exceptions 
+financial set-up of 
+the Grant 
+Agreements 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 82. 
+Beneficiaries may provide financial support to third parties. The support 
+to third parties can only be provided in the form of grants. The 
+maximum amount to be granted to each third party is EUR 60 000. 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Proposals should contribute to the first two expected outcomes, and either 
+the one listed under Focus 1, or the one listed under Focus 2. 
+• The potential of art -science and/or technology collaborations to address societal 
+challenges and drive innovation is better understood. Guidance, toolkits, and actionable 
+methodologies are developed to promote these collaborations, providing policymakers, 
+professionals, and training organisations with clarity on intervention scope, applicability 
+across various fields, and evaluation methods, metrics, or tools. 
+• New and existing national, European or international networks for art -science-
+technology collaborations are established or strengthened, expanding opportunities for 
+artists to engage with science and technology.   
+Focus 1 
+Approaches, methodologies and model interventions for integrating arts and creative practices 
+to enhance soft skills across public and private sectors are developed, tested and disseminated. 
+Focus 2 
+The effectiveness of critical artists’ engagement in interdisciplinary teams is demonstrated 
+alongside the assessment of the viability of research -intensive emerging technologies through 
+at least three low technology readiness level (TRL) pilot demonstrators. 
+Scope: Artistic research fosters inter -, multi -, and trans -disciplinary thinking, inspiring 
+innovative problem-solving and offering new avenues for innovation across policy areas, akin 
+ 
+to scientific research. EU initiatives such as SciArt and S+T+ARTS 83 show that art -science-
+technology collaborations enhance scientific and technological progress. Art acts as a catalyst 
+for innovation, developing creative solutions to complex challenges and brings fresh 
+perspectives to the scientific community. Artistic research is increasingly fostering mutual 
+fertilization between the arts and academia. Collaboration with artists leads academics to 
+adopt experimental practices, while artists increasingly engage with theoretical aspects of 
+their practice. Closer collaboration between artists and companies in emerging technologies 
+ensures that technological developments are guided by diverse, human -centred perspectives. 
+Artistic research offers cross -disciplinary insights that challenge conventional thinking, spark 
+innovation beyond technical efficiency, and address societal challenges holistically. 
+Furthermore, artistic intelligence84 makes complex concepts accessible and engages audiences 
+emotionally and culturally. Artistic expression facilitates the adoption of innovative concepts 
+and practices and catalyses social innovation, supporting sustainable and inclusive societal 
+transformations and the cultural uptake of socio -scientific issues. Now is the time to 
+consolidate understanding of the transformative potential of art -science-technology 
+collaborations, distil it for application across policy areas and levels, and develop methods to 
+evaluate their impact both quantitatively and qualitatively. Projects are expected to: 
+• Gather evidence on art -science-technology collaborations for addressing societal 
+challenges and spurring innovation in science and technology. 
+• Collect case studies, produce and disseminate guidance, toolkits, and methodologies 
+supporting policymakers in promoting these collaborations and strategies for cross -
+disciplinary innovation. Mechanisms, span of possible interventions, applicability to 
+diverse fields and contexts will be clarified and exemplified. 
+• Develop concrete use cases, such as (but not limited to): artists supporting ethical, 
+inclusive, human -centred AI; addressing societal challenges and complex 
+transformations through art -science-technology collaboration, advancing emotional 
+storytelling, experiential art and public engagement through AI and real -time data; 
+public sector roles in the art -science-technology uptake; role of artists in catalysing 
+innovation in policymaking; participatory art -science-technology initiatives and citizen 
+science. 
+• Develop and test qualitative and quantitative methodologies and key performance 
+indicators for evaluating such interventions, assessing their impacts, measuring their 
+medium to long-term benefits and identifying what constitutes success. 
+ 
+• Increase opportunities for artists to engage in art -science-technology collaborations, 
+through network establishment or consolidation, interdisciplinary initiatives or other 
+methods.   
+Project consortia should include artists and creatives/representatives of creative industries. 
+Through leveraging creativity, projects should boost EU productivity and competitiveness 
+while improving artists and creative professionals' employment conditions and preserving the 
+autonomy and freedom essential to artistic practice and democratic society. 
+Financial support to third parties of up to EUR 60.000 in the form of grants may be 
+considered, with the aim of actively engaging artists and creative professionals, for example 
+through residencies, to facilitate development of solutions and innovative experimentations. 
+In addition to the main focus area, proposals should choose between the following two 
+focuses: 
+Focus 1. Enhancing soft skills through creativity and the arts 
+Policies and strategies for introducing creative thinking and cross - and transdisciplinary 
+methods in education, research and the broader public and private sectors are needed. In the 
+workforce, engaging with creative practices and the arts enhances soft skills -such as 
+creativity, critical thinking, problem -solving, emotional intelligence - crucial for productivity 
+and competitiveness in an increasingly automated world 85 and to meet the demands of a 
+changing market. Supporting research and innovation in this area will help individuals and 
+institutions develop the skills and mindsets needed to thrive and increase creativity, 
+productivity and well -being, including mental health, in a complex, interconnected society. 
+Projects are expected to develop, experiment, and disseminate frameworks for using the arts 
+and creative practices to strengthen soft skills in various public and private sectors, including 
+education and lifelong learning, public administration and corporate environments, and 
+showcase best practices. Proposals may choose their own areas of application. 
+Focus 2. Pilots on emerging technologies 
+Proposals should develop at least 3 small scale pilots on emerging technologies in 
+interdisciplinary settings involving artists, to assess, demonstrate and streamline research -
+intensive technologies. Candidate technologies could include, among others, immersive arts, 
+grid sensing networks, multisensuality, ubiquitous XR, spatial computing, VLM/LLM and 
+historical data, crowd digitization or virtual reality. Pilots should demonstrate the 
+effectiveness of artists’ engagement. 
+Proposals should clearly indicate the focus they have selected. 
+Proposals should consider the involvement of the European Commission's Joint Research 
+Centre (JRC) based on its experience, in particular with the SciArt programme, and with 
+ 
+respect to the value it could bring in providing an effective interface between research 
+activities and policymaking.

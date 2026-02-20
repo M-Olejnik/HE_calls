@@ -1,0 +1,142 @@
+HORIZON-CL2-2027-01-DEMOCRACY-04: Addressing the impact of artificial 
+intelligence, cyberviolence, and deepfakes on equality, democracy and inclusive societies 
+Call: Culture, Creativity and Inclusive Society - 2027 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+3.50 and 4.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 20.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or 
+as an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Subject to restrictions for the protection of European communication 
+networks. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 56. 
+ 
+Expected Outcome: Projects should contribute to all of the following expected outcomes: 
+ 
+• Enhanced understanding of the impact of AI -driven technologies, including AI -
+generated deepfakes and automated content generation on equality, political 
+participation, democratic processes, public trust, and social cohesion, with evidence -
+based insights into their role in mitigating or exacerbating disparities. 
+• Uptake of evidence -based policy frameworks for responsible, trustworthy, and 
+transparent AI governance, integrating ethical, legal, and societal considerations to 
+safeguard fundamental rights, mitigate risks of disinformation, and ensure fair and safe 
+AI deployment, in line with the obligations set out in the EU Regulation on artificial 
+intelligence57. 
+• Increased public awareness and media literacy to empower citizens to identify and 
+critically assess disinformation, use of deepfakes for malicious purpose, and online 
+harm, alongside the uptake of evidence -based tools for preventing, detecting, and 
+mitigating these harms.  
+• Strengthened capacity of academic institutions to conduct societally relevant AI research 
+and drive the development of trustworthy, ethical AI models, enabled by increased 
+academia-industry collaboration and better access to e.g., computing infrastructure, high-
+quality datasets, collaborative tools, and funding.   
+Scope: The rapid development and deployment of AI technologies, along with their malicious 
+use such as the creation of artificially generated and manipulated content,, profoundly impacts 
+democracy, equality, social inclusion, and knowledge production, and contributes to the rise 
+of cyberviolence. Although AI can offer many opportunities, its misuse can facilitate/amplify 
+inequalities and power imbalances, spread misinformation and cyberviolence against women, 
+children and minorities, concentrate data control, and undermine democratic processes. 
+Hence, this topic addresses both the malicious use of AI (e.g. AI -generated disinformation, 
+deepfakes, cyberviolence) and its unintentional societal consequences (e.g. algorithmic 
+opacity, amplification of bias). 
+AI’s role in media influence and public trust demands urgent attention, as the rise of AI -
+generated or manipulated content, including deepfakes, threatens democratic processes and 
+epistemic rights. A key area of concern is how AI and artificially generated content is 
+impacting cyberviolence, and the effect it has on individuals or groups who distrust 
+democracy, particularly where this distrust intersects with far -left and far -right populism and 
+foreign interference. 
+Proposals should explore how AI -driven technologies and their use may either exacerbate or 
+mitigate58 inequalities and discriminations based on sex, gender, sexual orientation, racial or 
+ethnic background, religion or belief, age, and disability, particularly in access to information, 
+ 
+decision-making, and representation. A critical analysis is needed of how data - often 
+reflecting existing social biases - can reinforce or challenge dominant social structures and 
+safety, and how such technologies shape public perceptions and knowledge production. 
+The research should also explore the risks these technologies pose to democratic integrity, 
+particularly through the manipulation of public opinion, electoral processes, and governance 
+systems. Deepfakes and AI -generated misinformation and disinformation can distort facts, 
+spread false narratives, and undermine public trust. Addressing these concerns requires a 
+comprehensive understanding of how AI may be (mis)used to shape political campaigns, 
+media narratives, public engagement, and the spread and dissemination of (gendered) 
+disinformation. Proposals are encouraged to examine how AI-generated content across media, 
+including entertainment media, influence public opinion, social narratives, gender stereotypes 
+and norms, and civic engagement. 
+Furthermore, proposals should look into how cyberviolence, including online harassment, 
+cyberbullying, threats, and gender -based violence, is exacerbated by sharing manipulated 
+content like deepfakes, deep nudes and AI -driven sextortion on online platforms through 
+manipulated content like deepfakes, deep nudes and AI -driven sextortion. Research should 
+identify how AI may be used to amplify and upscale harm, what the nature of the AI -powered 
+output is, and which groups are disproportionately affected by it, looking particularly at 
+women and minorities, and explore interventions to prevent and mitigate these risks. This 
+includes analysing not only the unintended reproduction of cyberviolence through biased 
+outputs, but also the ways in which AI -powered platforms may be misused by users to 
+generate and/or spread harmful, discriminatory or violent content. A comprehensive 
+assessment of unregulated AI-induced risks of sexual exploitation, violence, and gender-based 
+harm is largely missing for effective regulation, oversight, and prosecution. A 
+multidisciplinary review is needed to evaluate AI -driven risks exposing children, young 
+people, women, older persons and LGBTIQ people to such violence online and offline. 
+Proposals should research on policy and concrete practices that can effectively address the 
+challenges posed by AI technologies, taking into consideration the EU Regulation on artificial 
+intelligence and subsequent guidance being developed to support its implementation. 
+Proposals should identify best practices and regulatory measures to ensure the ethical 
+deployment of AI and AI literacy while safeguarding equality and democratic integrity. A key 
+aspect of this research is recognising AI’s growing role in shaping policy and judicial 
+decisions. While its integration can improve efficiencies, concerns about bias and fairness 
+persist. Proposals are encouraged to explore AI’s influence on legal and policy outcomes, 
+including unintended consequences.  
+Additionally, proposals should consider AI’s use and impact on young people. Although AI is 
+not specifically designed for minors, youth are among its most active users. Biases within AI -
+generated or manipulated content, particularly related to sex gender, sexual orientation, ethnic 
+and racial background, can shape young users’ perceptions, perpetuate stereotypes, affect 
+engagement and mental and physical well-being. Research should investigate how AI systems 
+influence these aspects, and the opportunities and risks associated, including the potential 
+psychological effects of exposure to biased or harmful content. 
+A key focus should be interdisciplinary research on AI’s role in societal resilience, countering 
+misinformation and disinformation, enhancing civic engagement, and supporting marginalised 
+communities. Proposals should explore inclusive and innovative tools and methodologies for 
+detecting and mitigating deepfakes, disinformation, and cyberviolence facilitated through AI, 
+designed for broad adoption by policymakers, technology developers, media organisations, 
+and the general public. 
+Effectively addressing these multifaceted challenges demands to combine data -driven 
+analysis, drawing on expertise from a wide range of fields, including both academic 
+disciplines (e.g., computer science, and SSH disciplines such as communication and media 
+sciences, ethics, law, political science, sociology, psychology, and gender studies) and the 
+applied perspectives of those involved in shaping and steering AI technologies in practice. 
+This research should contribute to the EU’s broader AI strategy, supporting the 
+implementation of the Artificial Intelligence Act and aligning with the EU’s Political 
+Guidelines for 2024-2029. This research should also contribute to the implementation of other 
+EU legislative frameworks, such as the Directive on combating violence against women and 
+domestic violence, that criminalises various cyberviolence offences, including malicious 
+deepfakes, and the Digital Services Act, which addresses illegal content online, including 
+false or manipulated information inciting hate or discrimination. It should also inform global 
+discussions on ethical AI governance and responsible innovation. 
+Proposals are encouraged to identify other relevant EU -funded projects, and to explore 
+potential collaboration opportunities with them. 
+The projects selected for funding are encouraged to collaborate with the JRC to seek 
+synergies with its work on innovations in public governance59.

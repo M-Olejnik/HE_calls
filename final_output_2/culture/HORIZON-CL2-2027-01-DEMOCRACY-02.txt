@@ -1,0 +1,90 @@
+HORIZON-CL2-2027-01-DEMOCRACY-02: Women’s, LGBTIQ and minority rights 
+in a context of autocracy, conflict and geopolitical shifts 
+Call: Culture, Creativity and Inclusive Society - 2027 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+3.50 and 4.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Research and Innovation Actions 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 53. 
+ 
+ 
+Expected Outcome: Projects should contribute to all of the following expected outcomes: 
+• Policymakers, public administrations, human rights organisations, and civil society 
+actors have strengthened mechanisms to protect groups in a vulnerable situation (such as 
+women, LGBTIQ people, persons with disabilities and minorities) in contexts of 
+autocracy, conflict, and geopolitical instability. 
+• Researchers and data collection bodies benefit from robust methodologies to 
+systematically document and analyse the impact of democratic backsliding, conflict, and 
+geopolitical shifts on the rights of these specific groups in a vulnerable situation. 
+• Civil society organisations and grassroots movements have enhanced their resilience and 
+advocacy strategies, thanks to the identification of best practices and innovative 
+approaches to counter repression, expand civic space, and promote inclusive governance, 
+including in authoritarian or conflict settings.   
+Scope: Autocratic regimes, armed conflicts, and global geopolitical shifts pose significant 
+threats to fundamental rights. These challenges manifest in the rollback of legal protections, 
+increased political violence, shrinking civic space, and targeted discrimination, both offline 
+and online. In this context, a deeper understanding of the disproportionate impact of these 
+crises on different groups is key to developing more targeted and effective policies. 
+The proposed research should examine the intersection of age, gender, sex, sexual orientation, 
+minority status, or migratory background, in contexts of democratic erosion, authoritarian 
+governance, and geopolitical crises. It can focus on one or multiple groups in a vulnerable 
+situation, such as women, LGBTIQ people, ethnic and/or religious minorities, people with 
+disabilities, children or the elderly. Case studies could be selected to reflect a wide range of 
+geopolitical contexts, including regions undergoing democratic erosion, post -conflict 
+reconstruction, or consolidation of authoritarian rule.  
+The proposed research should analyse how legal and institutional frameworks are weaponised 
+and leveraged by authoritarian actors to restrict rights, the role of civil society in resisting 
+repression, and the impact of digital surveillance, algorithmic discrimination and online 
+disinformation in targeting specific groups in a vulnerable situation.  
+Particular attention should be given to the restricted access to sexual and reproductive health 
+rights during crises, armed conflicts, and geopolitical shifts, as well as the prevalence of 
+gender-based violence (GBV). In such contexts, GBV can be frequently used as a coercive 
+tactic, reinforcing discrimination and reversing progress on gender equality. Hate -motivated 
+violence can become even more complex when directed at women and groups in a vulnerable 
+situation, further limiting their access to humanitarian assistance and undermining their 
+fundamental rights. Therefore, the proposed research should develop prevention and response 
+strategies for public administration, law enforcement, and military bodies to combat GBV 
+effectively in crisis situations. 
+Proposals should take an interdisciplinary approach, combining SSH disciplines with insights 
+from computer science and data analytics. They should integrate a strong data -driven 
+approach and could explore aspects such as: 
+• Mapping and measuring the compounded effects of conflict, forced displacement, and 
+democratic backsliding on access to rights, services, and political participation. 
+• Developing new methodologies and indicators to assess the impact of shrinking civic 
+space and legal rollbacks on gender and minority rights. 
+• Creating data-driven tools or policy dashboards to monitor the evolving risks faced by 
+women, LGBTIQ people, and/or various minority groups in authoritarian and post -
+conflict settings.   
+Proposals should adopt a multi -scalar approach that connects grassroots -level experiences of 
+discrimination and exclusion with macro -level geopolitical, legal and policy frameworks. 
+Proposals could assess how international and European actors can effectively counter these 
+trends through diplomatic efforts, development cooperation, and targeted support for civil 
+society. Engaging with policymakers, human rights organisations, and affected communities 
+is essential.  
+Proposals are encouraged to identify other relevant EU -funded projects, notably in cluster 2 
+and 3, and to explore potential collaboration opportunities with them. In order to achieve the 
+topic’s expected outcomes, international cooperation is encouraged. 
+Where applicable, proposals should leverage the data and services available through European 
+Research Infrastructures federated under the European Open Science Cloud (EOSC), as well 
+as data from relevant Data Spaces. Particular efforts should be made to ensure that the data 
+produced in the context of this topic is FAIR (Findable, Accessible, Interoperable and Re -
+usable).

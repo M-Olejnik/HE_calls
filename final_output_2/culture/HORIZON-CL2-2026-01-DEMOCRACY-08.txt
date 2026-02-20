@@ -1,0 +1,112 @@
+HORIZON-CL2-2026-01-DEMOCRACY-08: Electoral integrity in the digital context  
+Call: Culture, Creativity and Inclusive Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+3.50 and 4.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or 
+as an associated partner. The JRC will not participate in the preparation 
+and submission of the proposal - see General Annex B. 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 37. 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+ 
+Expected Outcome: Projects should contribute to all of the following expected outcomes: 
+• EU, national and local policymakers possess the necessary knowledge to inform the 
+development of election regulations, standards and tools that address the use of digital 
+technologies in elections and political campaigns, ensuring their integrity, inclusiveness, 
+accessibility, fairness, transparency, and security. 
+• Organisations involved in electoral processes develop and implement guidelines for the 
+responsible use of digital technologies in elections and political campaigns, aligned with 
+EU and national regulations. 
+• Enhanced transparency and accountability in AI -powered political campaigns, achieved 
+through requirements for AI system audits, data disclosure, transparency regarding 
+algorithms and sources of Large Language Models (LLMs), and responsible AI 
+development.   
+Scope: The integrity of electoral processes in Europe is facing challenges in the digital age. 
+The digital transformation of democratic processes has created new avenues for citizen 
+engagement, but it also poses significant risks from disinformation to the integrity of electoral 
+and other democratic processes. Concerns about foreign interference, exemplified by Russia's 
+activities, but also other third countries, have underscored the need for robust measures to 
+safeguard the electoral processes, including enhancing cybersecurity and voter verification to 
+prevent perceived electoral manipulation. Social media platforms, in particular, have become 
+increasingly critical battlegrounds in the fight for public opinion, with AI-powered tools being 
+used to artificially amplify and spread disinformation, manipulate public discourse, and 
+influence voter behaviour. 
+To address these challenges, it is essential to examine the effects of digital technologies on 
+public opinion and governance, and investigate the development of ethical AI, transparent 
+political advertising, and tools to counter misinformation, disinformation and foreign 
+information manipulation and interference (FIMI). This includes exploring the potential of 
+digital technologies to transform and improve democratic processes, investigating multi -
+stakeholder approaches, with particular attention in fostering dialogue with online platforms, 
+media and political parties and movements, as well as strengthening the traditional and new 
+media and securing alternative platforms to enhance electoral resilience. 
+Proposals should also investigate the risks new technologies pose to democratic integrity, 
+particularly through the manipulation of public opinion and electoral processes, while also 
+exploring ways to leverage these new technologies to better understand and mitigate these 
+threats. Proposals are also encouraged to examine how AI -generated content across media, 
+including entertainment media, influence public opinion, social narratives, gender stereotypes 
+and norms, and civic engagement. Moreover, proposals may consider strategies for the 
+implementation of appropriate cryptographic measures, including the investigation of 
+approaches based on post-quantum cryptography. 
+The EU institutions have been actively engaged in addressing the key challenges for election 
+integrity, including the artificial amplification of disinformation, online platform 
+accountability, and the protection of democratic processes. Proposals should take into account 
+ongoing political and strategic initiatives, notably the Political Advertising Regulation, the AI 
+Act, the Digital Services Act (DSA) election guidelines 38  and the Commission’s 2023 
+Recommendation on inclusive and resilient elections, and Code of Conduct on 
+Disinformation39. 
+The ultimate goal is to understand how to create robust and resilient electoral systems that can 
+meet the challenges of the digital age, ensure the safety and integrity of electoral processes, 
+and promote free, fair, inclusive, accessible and transparent elections. This requires 
+investigating the risks of cyberattacks and foreign interference on electoral processes, 
+developing strategies to enhance voting system security and promote election transparency, 
+developing early warning systems, effective debunking strategies, and accountability 
+measures for platforms. 
+Research should have an interdisciplinary approach (including SSH disciplines), bringing 
+together a diverse range of stakeholders, including – but not limited to - electoral authorities 
+and other national authorities with responsibilities in electoral matters – notably those 
+represented in the European Cooperation Network on elections – civil society organisations, 
+new and traditional media and digital platforms. 
+Projects may also focus on how FIMI can influence political discourse via digital platforms, 
+particularly during electoral periods, including in ways that undermine the rights of women, 
+LGBTIQ people, persons with disabilities and other underrepresented groups. This also 
+involves examining the safety of electoral processes, protecting the integrity of elections, and 
+maintaining public trust in the democratic process, with a particular focus on ensuring the 
+safety and security of political candidates, especially women and LGBTIQ people and other 
+members of minority groups, from violence, intimidation, and harassment. Addressing these 
+concerns requires a comprehensive understanding of how AI shapes political campaigns, 
+media narratives, public engagement, and the spread of (gendered) disinformation. 
+Proposals are encouraged to identify other EU -funded projects related to electoral integrity 
+under the Horizon Europe programme (including but not limited to those in the fields of 
+cybersecurity and research and development of AI), and complementary funding schemes, 
+such as the Citizens, Equality, Rights and Values programme and the Digital Europe 
+Programme, and to explore potential collaboration opportunities with them. 
+Applicants may consider the participation of the Joint Research Centre (JRC) to leverage its 
+broad range of scientific and technical capabilities, including its expertise in digital 
+technologies, data science, and cybersecurity, to support the projects’ objectives and enhance 
+their overall impact. 
+ 

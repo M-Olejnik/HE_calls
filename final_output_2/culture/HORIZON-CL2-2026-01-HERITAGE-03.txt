@@ -1,0 +1,110 @@
+HORIZON-CL2-2026-01-HERITAGE-03: AI integration in CCSI work practice: 
+catalysing innovation and competitiveness 
+Call: Culture, Creativity and Inclusive Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+4.00 and 5.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 15.00 million. 
+Type of Action Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 95. 
+Beneficiaries may provide financial support to third parties. The support 
+to third parties can only be provided in the form of grants. The 
+ 
+maximum amount to be granted to each third party is EUR 60 000. 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Projects should contribute to all of the following expected outcomes: 
+• Insights, recommendations, strategies, guidelines, methods and tools supporting full AI 
+integration in CCSI practices become available to CCSI, policymakers, and stakeholders. 
+• Scenarios for co -created solutions tailored to CCSI needs, utilizing quality data and 
+federated data sources, along with digital infrastructures, and inclusive cooperation 
+processes, become available. 
+• Generally made available AI -powered and ethically designed solutions, tools and 
+services in several CCSI areas benefit creators, cultural professionals, and society, 
+including persons with disabilities and other specific needs, fostering innovative creative 
+expressions and improving creative business models while preserving and enhancing 
+cultural diversity, and inclusion. 
+• By mastering ethical and inclusive AI, CCSI are empowered drivers of culture, 
+innovation, competitiveness and societal wellbeing.   
+Scope: AI technologies are transformative, providing unprecedented opportunities for human 
+creativity, experimentations and co -creations. AI profoundly impacts cultural and creative 
+sectors and industries, changing practices, facilitating new ways of working and making 
+innovative services and products possible. Artists, industry players, and cultural organisations 
+increasingly use AI, for assistance in content creation, production, and management, to 
+predict trends, personalise market content, engage audiences, enhance cultural heritage 
+preservation and accessibility, and many more purposes. 
+Cultural and creative sectors and industries (CCSI) 96 need to fully harness AI's potential to 
+maintain relevance, expand their impact and value, increase competitiveness, and keep their 
+ 
+vibrant, inclusive nature. Embracing and co -creating ethical AI solutions tailored to CCSI 
+needs will, among other benefits, enable the automation of low -creativity tasks, allowing to 
+increase focus on high -value activities that enhance creativity and productivity, thus 
+unlocking unprecedented possibilities. Production times and costs can be reduced, market 
+reach expanded, preservation, interpretation and inclusive access to cultural heritage 
+enhanced, and new job categories could emerge. 
+Although several initiatives are on the ground, a comprehensive understanding of enabling 
+frameworks and factors and of what is still lacking in terms of data, standards, infrastructures, 
+computing power, tools, knowledge and capacity for the CCSI to fully embrace the 
+opportunities opened by AI is essential for effectively integrating AI technologies into CCSI 
+practices and workflows. Proposals should assess the current level of AI readiness in the 
+CCSI, investigate the specific barriers to AI adoption in the sectors, and highlight areas where 
+AI can offer the most benefits. In continuous engagement with the sectors, based on the 
+analysis of current practices and through concrete use cases, proposals should produce 
+strategic guidance to extensively and seamlessly integrate AI into CCSI operations, enhancing 
+efficiencies, averting risks, and facilitating cross -sector collaboration. Based on this analysis, 
+they should develop a set of tailored tools designed to address the specific gaps and leverage 
+the opportunities uncovered during the assessment. These tools should be strategically aligned 
+with the sector's needs, ensuring they provide targeted solutions to enhance AI adoption and 
+maximize its potential benefits. They should be scalable, affordable for smaller, less -
+resourced CCSI actors and accompanied by related documentation and training materials and 
+documentation. 
+Proposals should address one of the following two options, and are allowed to address both: 
+• Develop scalable pilots for innovative AI -enabled products and services across diverse 
+segments of sectoral value chains, in cooperation with CCSI. These pilots are expected 
+to address identified gaps in CCSI operations and prioritise solutions that catalyse 
+innovation in sectors whose business models are not yet taking full advantage of AI. 
+Applicants should have flexibility to select their preferred application areas. 
+• Design and pilot innovative, inclusive, ethically driven, transparent AI solutions to foster 
+cultural and linguistic diversity, and enhance accessibility, with a focus on engaging 
+individuals in vulnerable situations, particularly youth, older people, persons with 
+disabilities and individuals with special needs. Applicants should have the flexibility to 
+select their preferred application areas.  
+Pilots should aim at leveraging AI for facilitating new revenue streams for the CCSI, as well 
+as sustainable business models, and will highlight marketable solutions. 
+Financial support to third parties may be foreseen, with the aim of engaging entities external 
+to the consortium in the development of pilots. 
+Consortia should include representatives of the cultural and creative sectors and industries and 
+technology developers. 
+Proposals should consider relevant policy initiatives, such as the AI Continent Action Plan 97, 
+and build upon existing research and innovation outcomes, particularly insights and resources 
+from Horizon Europe -funded projects focused on digital transformation, innovation, or 
+competitiveness in the CCSI, and science -technology-art collaboration, and should liaise with 
+the EIT KIC Culture and Creativity. Whenever relevant, they might make use of existing 
+facilities and platforms such as the European High -Performance-Computing network, the 
+European Collaborative Cloud for Cultural Heritage (ECCCH), the Common European Data 
+Space for Cultural Heritage, ALT EDIC and other data spaces, European Digital Innovation 
+Hubs, AI Factories, and relevant research infrastructures.

@@ -1,0 +1,125 @@
+HORIZON-CL2-2026-01-DEMOCRACY-04: Sustainable paths to media viability 
+Call: Culture, Creativity and Inclusive Society 2026 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of between EUR 
+3.50 and 4.00 million would allow these outcomes to be addressed 
+appropriately. Nonetheless, this does not preclude submission and 
+selection of a proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 12.00 million. 
+Type of Action Innovation Actions 
+Eligibility The conditions are described in General Annex B. The following 
+ 
+conditions exceptions apply: 
+Subject to restrictions for the protection of European communication 
+networks. 
+In order to achieve the expected outcomes, consortia must include, as 
+beneficiaries or affiliated entities, at least one news media 
+organisation27. 
+Legal and 
+financial set-up of 
+the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 28. 
+The granting authority may, up to 4 years after the end of the action, 
+object to a transfer of ownership or to the exclusive licensing of results, 
+as set out in the specific provision of Annex 5. 
+ 
+Expected Outcome: Projects should contribute to all of the following expected outcomes: 
+• Reinforced digital transformation of the news media industry by facilitating the 
+development of new business models, contributing to a more resilient and inclusive 
+democracies. 
+• Citizens, particularly those facing systemic disadvantages, are empowered and better 
+equipped to make informed decisions, and news media’s role as contributor to a healthy, 
+reinvigorated and fair democracy is enhanced.  
+•  Stronger engagement with emerging media creators (such as influencers and other 
+online content producers) to promote transparency and accountability in their role in 
+sharing information, and to foster reliance on trustworthy media sources.  
+Scope: Democracies are at risk when reliable and independent journalism is at risk. Yet, in 
+order to be truly independent, media need sustainable financing models. At present, 
+journalistic newsrooms are under severe economic pressure. Social media forces them to 
+compete for citizens’ attention with other forms of infotainment, which sometimes entail 
+unverified opinions and low -quality or malicious sources. To promote a well -informed 
+ 
+democratic debate, citizens must be able to distinguish quality journalism abiding by 
+professional standards, from opinion pieces and other forms of content, as free speech can 
+thrive in ecosystems that enhance access to verified information and empower citizens to 
+recognise it. Such ecosystems need to help distinguish sources that apply journalistic 
+principles, including methods to ensure accuracy, independence, objectivity, impartiality, 
+inclusivity and plural viewpoints.  
+To compete in the digital age, European media need to embrace innovation. The 
+Commission’s 2023 European Media industry outlook 29 signalled that “an early adoption and 
+usage of new technologies is key to adapt and open new markets”. Thus, applicants are 
+invited to work together with news media organisations from the start to enhance innovation 
+across the news media sectors, including by designing industrial and user -driven applications, 
+on areas and aspects such as: 
+a) development and take up of methods to recognise content produced with journalistic 
+standards (e.g. through trust indicators, browser plugins, etc.), to categorise such content (e.g. 
+through industry-led crawlers, common taxonomies, metadata standards, etc.) and to promote 
+such content (e.g. through inclusive and transparent news -oriented algorithms, recommender 
+systems that show multiple views and prioritise quality information); 
+b) identification of AI models that can help media build attractive services (e.g. chat bots, 
+search tools, aggregators) and other relevant models which can generate revenues (e.g. 
+dynamic paywalls, advertising, copyright revenues, etc.); 
+c) innovative methods to ensure user -centric design and user engagement strategies, in 
+compliance with journalistic standards; 
+d) roll -out of these models and methods towards the development of truly pan -European 
+innovative platforms and/or interoperable standards within the project lifetime; 
+e) initiatives to federate media industries along a joint innovation agenda. 
+Innovation projects should focus on concrete ways to help journalistic content serve 
+democracy by addressing aspects such as: 
+• ensuring that journalistic content remains economically viable in AI -intermediated 
+information spaces; 
+• ensuring that journalistic content retains relevance and prominence in AI -driven search 
+tools and future information ecosystems in Europe; 
+• ensuring that algorithms based on journalistic standards (such as accuracy and inclusion) 
+are developed enhancing professional journalism and preserving a trustworthy 
+information ecosystem; 
+ 
+• making sure that citizens are presented with multiple views online to make well -
+informed decisions; 
+• development and integration of journalistic trust indicators in recommender systems, 
+browsers and/or European news aggregators; 
+• take-up of recommender systems that prioritise trusted sources and professional 
+journalism; 
+• development of better digital advertising business models for news producers, through 
+proprietary systems that offer more brand safety and sufficiently detailed feedback to 
+advertisers through joint metadata and audience measurement tools; 
+• development of EU -level business case studies, explaining their impact on creation of 
+advertising revenues, subscription revenues, etc.; 
+• development and adoption of prototypes for recommender systems, proprietary crawlers, 
+proprietary metadata generators, paywalls, advertising systems or other revenue -
+generating systems that can strengthen the economic viability of journalism.   
+Proposals are encouraged to investigate the behavioural dimensions of news consumption, 
+focusing on how reader habits, trust, and perceptions influence engagement with journalism. 
+This may include examining the role of behavioural science in designing interventions (such 
+as nudges, gamification, or educational tools) to counter misinformation and strengthen 
+critical thinking among audiences. Proposals are also encouraged to explore the evolving trust 
+dynamics between human -curated journalism and AI -driven news delivery, addressing how 
+public perceptions of reliability, bias, and transparency differ across these sources.  
+Where relevant, proposals are encouraged to investigate the need for transparency and 
+accountability mechanisms for influencers and content creators who rely on media content in 
+their work. This may entail advocating for clear disclosure of sources, partnerships, and 
+potential biases, as well as fostering collaboration between content creators and media actors, 
+to amplify the visibility and credibility of reliable information sources, ensuring audiences are 
+informed by fact-based, ethically produced content. 
+Projects are encouraged to involve the relevant parts of the news media ecosystems to ensure 
+take-up of the proposed models. All news media segments are eligible under this action 
+(public, private media, sectoral media, etc) and collaboration across segments and across 
+borders is encouraged. The participation in the consortia of research and academic actors from 
+relevant disciplines, such as information science and media studies, as well as tech companies 
+(e.g. ad-tech or other) to build workable prototypes, and SSH, is strongly encouraged. Where 
+applicable, applicants should leverage the data and services available through European 
+Research Infrastructures federated under the European Open Science Cloud (EOSC), as well 
+as data from relevant Data Spaces. 
+Clustering and cooperation among the selected projects under this topic are strongly 
+encouraged. 
