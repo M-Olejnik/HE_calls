@@ -1,0 +1,86 @@
+HORIZON-CL6-2026-01-BIODIV-05: Advancing integrated scenarios and prediction 
+models for informing transition to a nature positive society 
+Call: Call 01 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 10.00 million. 
+Type of Action Research and Innovation Actions 
+Legal and financial 
+set-up of the Grant 
+Agreements 
+The rules are described in General Annex G. The following exceptions 
+apply: 
+Eligible costs will take the form of a lump sum as defined in the 
+Decision of 7 July 2021 authorising the use of lump sum contributions 
+under the Horizon Europe Programme – the Framework Programme for 
+Research and Innovation (2021 -2027) – and in actions under the 
+Research and Training Programme of the European Atomic Energy 
+Community (2021-2025) 98. 
+ 
+Expected Outcome: Project results are expected to contribute to all the following expected 
+outcomes: 
+• advanced knowledge and understanding how ecosystems respond to multiple plausible 
+futures shaped by human -induced pressures, supporting the design of long -term, nature 
+positive and equitable policies; 
+• strengthened collaboration across bio -physical, socio-economic and humanities 
+disciplines, resulting in more integrated and robust scenario frameworks that capture 
+interactions, trade -offs and synergies across biodiversity, climate, food, water, air, 
+health, energy and economy; 
+• advancement of comprehensive ecosystem prediction models and scenario -based 
+assessments that integrate direct and indirect drivers of biodiversity loss, applicable 
+across terrestrial, freshwater and marine ecosystems; 
+• a consistent and transparent framework for model intercomparison and cross -scale 
+scenario building, improving the relevance and usability of modelling outputs for policy , 
+ 
+business and international assessments (e.g., IPBES, International Panel on Climate 
+Change - IPCC).  
+Scope: To address the objectives of the European Green Deal, the EU biodiversity strategy for 
+2030, the EU Nature Restoration Regulation and the Kunming -Montreal Global Biodiversity 
+Framework (GBF), as well as Sustainable Development Goals, actions funded under this topic 
+should support the scientific development of A) integrated scenarios, B) predictive models 
+and C) model intercomparison experiments for Member States and Associated Countries. 
+Developments should be verified in case studies covering at least 2 European biogeographic 
+regions99 and spanning key economic sectors to inform systemic policy transformations and 
+enable long-term planning for a nature positive society. Proposals should: 
+• design and develop components of a European integrated prediction and scenario 
+framework to forecast how natural ecosystems respond to a wide range of human -
+induced ecosystem interactions including climate change, pollution, socio -economic 
+transitions such as conflicts, pressures, and policy interventions. These frameworks 
+should link ecosystem functions with key economic sectors, such as agriculture and 
+fisheries, and test their resilience and tipping points under multiple plausible futures; 
+• make use of long-term monitoring data across biodiversity, land use, climate, and socio -
+economic variables to improve reliability and real -world relevance. They should also 
+quantify uncertainty in model projections and ensure scenarios incorporate dynamic 
+feedback loops between ecosystems and socio -economic systems, and identify risk 
+distributions relevant to frontline socio-ecological communities; 
+• test and assess the suitability of the IPBES Nature Futures Framework for European 
+application and align modelling approaches with international efforts and assessments 
+under IPBES and IPCC. Proposals should seek to address knowledge gaps identified by 
+the relevant IPBES assessments and if appropriate provide recommendations to 
+policymakers; 
+• advance model intercomparison capabilities to improve robustness, consistency and 
+transparency in scenario -based assessments. To this end, the suitability of remote 
+sensing data for scalability and intercomparison between different models and across 
+different regions should be assessed.  
+Proposals should include case studies that cover at least two European biogeographic regions 
+with global relevance to verify the developed scenarios, models and intercomparison 
+experiments. Case studies should consider different geographical scales and explore 
+ecosystem tele coupling across Europe and beyond. Scenario development should involve 
+relevant stakeholders —including public authorities, economic sectors, and civil society —in 
+co-creating narratives and ensuring policy applicability. Socio -economic transitions and 
+equity and justice considerations concerning trade -offs and distributional impacts across 
+regions and communities (i.e. across biodiversity, climate, food, water, air, health, energy and 
+ 
+the economy) should be explicitly addressed in scenario assessments. Proposals are 
+encouraged to address livelihood and distributional impacts linked to each nature -positive 
+pathway. Proposals are encouraged to broadly and publicly communicate developed scenarios 
+through interactive simulation interfaces (i.e. at the example of EN-ROADS100). 
+Proposals should create synergies with and build on existing knowledge and results of other 
+relevant EU-funded projects. Proposals should foresee appropriate resources to ensure close 
+cooperation with the EC Knowledge Centre for

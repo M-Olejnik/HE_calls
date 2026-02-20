@@ -1,0 +1,92 @@
+HORIZON-CL6-2026-01-BIODIV-02: Developing methods to assess the presence, 
+functions and sensitivity of groundwater ecosystems 
+Call: Call 01 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 5.00 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 10.00 million. 
+Type of Action Research and Innovation Actions 
+Eligibility 
+conditions 
+The conditions are described in General Annex B. The following 
+exceptions apply: 
+The Joint Research Centre (JRC) may participate as member of the 
+consortium selected for funding as a beneficiary with zero funding, or as 
+an associated partner. The JRC will not participate in the preparation and 
+submission of the proposal - see General Annex B. 
+ 
+Expected Outcome:   
+Project results are expected to contribute to all of the following expected outcomes: 
+ 
+• the knowledge of existing groundwater ecosystems 90  is improved, supporting 
+policymakers and technical experts in assessments of their presence, functions and 
+condition or status, and their role for climate change mitigation; 
+• society benefits from enhanced knowledge and awareness of pollution and 
+overexploitation risks to groundwater ecosystems and the ecosystem services provided 
+by them, including of possible implications for other related ecosystems (associated 
+aquatic and dependent terrestrial ecosystems) and for human health as well as for food 
+and water security, disaster risk reduction and resilience building; 
+• the EU water polices are supported with new scientific evidence and public authorities 
+are better equipped for setting effective measures for the protection of groundwater 
+biodiversity and their possible links to groundwater-dependent ecosystems.  
+Scope: The European Environment Agency (EEA)’s report on Europe's state of water 
+(2024)91 highlighted that 77% of groundwater, which supplies two thirds of the EU's drinking 
+water, is in good chemical status. For groundwater not reaching good chemical status, the 
+report identified nitrates, pesticides and pharmaceuticals among main issues. However, less is 
+known about contaminants of emerging concern, such as perfluorinated substances (e.g. 
+PFAS), microplastics and antimicrobial resistance. The Commission proposal 92 to revise the 
+lists of surface - and groundwater pollutants and their standards in the Water Framework 
+Directive, in the Groundwater Directive and in the Environmental Quality Standards Directive 
+aims to address these concerns. Although freshwater standards can serve as a benchmark, 
+standards that are protective for freshwater ecosystems may not be sufficiently protective for 
+groundwater ecosystems.93 Much stronger evidence on presence, functions and sensitivity of 
+groundwater ecosystems is required for a reliable hazard assessment. 
+Significant knowledge gaps exist regarding groundwater ecosystems and their biodiversity in 
+Europe, making it challenging to establish their effective protection. Proposals should address 
+such gaps, which would ultimately lead to better protection of our precious drinking water 
+resources, as well as groundwater biodiversity and geodiversity, but also groundwater (aquatic 
+and terrestrial)-dependent ecosystems and biodiversity. 
+More specifically proposals under this topic should include all of the following activities: 
+• improve and develop innovative methods, including by utilising sensors (e.g. biosensors, 
+remote sensors), for assessing and characterising groundwater ecosystems and their 
+ 
+sensitivity, and identifying the presence and functions of different taxonomic groups and 
+organisms; 
+• establish harmonised, validated, and ultimately standardised, methods and generate 
+reliable experimental data on acute and chronic effects for assessing ecotoxicity of 
+pollutants as regards groundwater ecosystems and in particular sensitive/ vulnerable 
+ecosystems, with the aim to prioritize substances and deriving groundwater standards to 
+protect them; 
+• identify a suite of biological and physico-chemical quality elements in view of a possible 
+future assessment and classification of groundwater ecological status for inclusion in EU 
+water legislation. This should include developing criteria and targets related to the 
+temporary or long-term impacts on groundwater ecosystems.   
+Where relevant, activities should build and expand on the results of past and ongoing EU -
+funded projects and initiatives, for example projects funded by the co -funded partnership 
+“Water4All”, with focus on groundwaters, to share experiences, reach synergies and avoid 
+duplication. 
+Proposals are encouraged to combine inter -disciplinary expertise and integrate perspectives 
+from different governance levels. 
+Concrete efforts should be made to ensure that the data produced in the context of the funded 
+project is FAIR (Findable, Accessible, Interoperable and Re -usable), exploring workflows 
+that can provide “FAIR -by-design” data, i.e., data that is FAIR from its generation. 
+Possibilities offered by the European Open Science Cloud (EOSC) and by relevant European 
+research infrastructures including the Catalogue of Life (COL), DiSSCo, LifeWatch ERIC, 
+eLTER and MIRRI -ERIC (and any other relevant research infrastructure prioritised by the 
+European Strategy Forum on Research Infrastructures (ESFRI) 94) to store and give access to 
+research data could be considered where relevant. 
+Proposals should foresee appropriate resources to ensure close cooperation with the EC 
+Knowledge Centre for Biodiversity (KCBD) and its Science Service. The research actions are 
+expected to yield valuable new insights and data, supporting and informing future assessments 
+by IPBES. 
+The JRC can provide estimates of groundwater recharge and contribution of groundwater to 
+streamflow, based on continental scale hydrological modelling, and consider testing the 
+methods developed in the project, for the purposes of continental scale assessment of 
+groundwater-dependent ecosystems.  
+International cooperation with Mediterranean countries is encouraged. 
+ 

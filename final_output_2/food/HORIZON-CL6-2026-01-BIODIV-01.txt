@@ -1,0 +1,77 @@
+HORIZON-CL6-2026-01-BIODIV-01: Understanding and tackling the decline of insects 
+Call: Call 01 - single stage (2026) 
+Specific conditions 
+Expected EU 
+contribution per 
+project 
+The Commission estimates that an EU contribution of around EUR 6.50 
+million would allow these outcomes to be addressed appropriately. 
+Nonetheless, this does not preclude submission and selection of a 
+proposal requesting different amounts. 
+Indicative budget The total indicative budget for the topic is EUR 13.00 million. 
+Type of Action Research and Innovation Actions 
+ 
+Expected Outcome:   
+Project results are expected to contribute to all of the following expected outcomes: 
+• researchers better understand the status and population trends of insect species and the 
+drivers of their decline; 
+• competent authorities in charge of biodiversity policies at all levels are capable of taking 
+informed decisions, based on better understanding and valuation of socioeconomic 
+benefits and ecological importance of insects, including for climate action; 
+• society and relevant land managers are better informed and equipped to tackle the 
+drivers of the decline of insects.  
+Scope: Insects play a vital role contributing to ecosystem functions in addition to pollination, 
+such as decomposition and nutrient cycles, soil formation (including carbon sequestration) 
+and pest control, control functions essential for maintaining ecosystem complexity, and are an 
+indispensable part of the food chain. Those functions are key for climate change mitigation 
+and allow the provision of ecosystem services which have economic benefits and support 
+human well-being. Additionally, insects play a key role in other socioeconomic areas such as 
+medical and pharmaceutical applications (e.g. antimicrobial peptides), forensic science or 
+biotechnology. 
+The dramatic decline of insects, estimated around 75% in the last three decades, is raising 
+increasing concern among scientists and in the public, since it could have far -reaching 
+implications. In order to be able to tackle this decline, there is a need to improve our 
+understanding of the drivers of loss and how they interplay. A better knowledge of insects 
+themselves is necessary. 
+With targets 4 and 5 of the EU biodiversity strategy for 2030, the EU took, among others, the 
+commitment that by 2030 habitats and species show no deterioration in conservation trend 
+and status, at least 30% reach favourable conservation status or at least show a positive trend, 
+and that the decline of pollinators is reversed. According to the EU Nature Restoration 
+Regulation, Member States shall put in place appropriate and effective measures to improve 
+pollinator diversity and reverse the decline of pollinators by 2030. This is reflected in target 4 
+of the Kunming -Montreal Global Biodiversity Framework. The European Climate Law 
+requires Member States to adopt and implement national adaptation strategies and plans in 
+which they should promote Nature -based Solutions and ecosystem -based adaptation. These 
+policies and legislations have reached the implementation stage in the EU and worldwide. 
+Successful proposals are expected to: 
+• improve understanding and identification of insects’ diversity, including through 
+genomic approaches; 
+• focus on less known insect groups. In particular a solid knowledge has already been 
+generated regarding pollination and pollinating insects through past and ongoing 
+projects, therefore they are not expected to be subject to new research under this topic; 
+• assess the status and trends of insects and analyse multiple drivers affecting them, as 
+well as the ecosystem services that insects provide, at different spatial scales. A 
+comprehensive integrative taxonomy approach should be adopted, incorporating a 
+multidisciplinary framework, including ecology and ecotoxicology, and integrating 
+methods that address the diverse needs of insects across their entire lifecycle, ensuring 
+the identification of essential habitat resources at each stage of development. To assess 
+the status and trends of insects and the effectiveness of strategies, proposals should 
+develop and test approaches for long -term monitoring schemes for insects, possibly 
+building on existing national or EU biodiversity monitoring schemes and pilots 
+developed by Biodiversa+; 
+• devise, test and promote effective strategies to mitigate the major drivers of insects’ 
+decline. Analyse the ecosystem functions underpinned by insects and undertake 
+qualitative and quantitative valuation of ecosystem services emanating from those functions; 
+• explore how to implement ecosystem protection and restoration practises and actions 
+that are beneficial for insects.  
+Concrete efforts should be made to ensure that the data produced in the context of the funded 
+project is FAIR (Findable, Accessible, Interoperable and Re -usable), exploring workflows 
+that can provide “FAIR -by-design” data, i.e., data that is FAIR from its generation. 
+Possibilities offered by the European Open Science Cloud (EOSC) and by relevant European 
+research infrastructures including the Catalogue of Life (COL), DiSSCo, LifeWatch ERIC, 
+EMBRC, eLTER and MIRRI -ERIC89  to store and give access to research data could be 
+considered where relevant. 
+Proposals should foresee appropriate resources to ensure close cooperation with the EC 
+Knowledge Centre for Biodiversity (KCBD) and its Science Service and with other projects 
+that work on understanding drivers of biodiversity decline. 
+International cooperation is encouraged.
