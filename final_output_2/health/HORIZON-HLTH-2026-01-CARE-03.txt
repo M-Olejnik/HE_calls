@@ -100,9 +100,7 @@ valuable.
 Research actions should address all the following objectives: 
 • Develop a deeper understanding of how low -value care can be identified and measured 
 throughout the healthcare process, including testing related indicators and producing 
- 
-https://health.ec.europa.eu/publications/identifying-measuring-and-reducing-low-value-care-context-
-health-system-performance-assessment_en 
+  
 evidence-based methodologies that enable the pursuit of improved efficiency and quality 
 of care. 
 • Identify instances of overuse, misuse, underuse and unwarranted variation in specific 
@@ -126,4 +124,5 @@ EU4Health Programme (2021 -2027)336  and under EU Research & Innovation Framewor
 Programmes, etc.) or other international initiatives (e.g. the 2017 OECD report mentioned 
 above) in this area. 
 Applicants envisaging337 to include clinical studies 338 should provide details of their clinical 
+
 studies in the dedicated annex using the template provided in the submission system.
