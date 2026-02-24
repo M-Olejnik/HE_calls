@@ -1,0 +1,170 @@
+Destination - Biodiversity and ecosystem services .............................................................. 46
+2026................................................................................................................................ 48 
+Consolidating biodiversity knowledge for nature and society .......................................48 
+HORIZON-CL6-2026-01-BIODIV-01: Understanding and tackling the decline of insects.....48 
+HORIZON-CL6-2026-01-BIODIV-02: Developing methods to assess the presence, functions and sensitivity of groundwater ecosystems.......................................................... 50 
+HORIZON-CL6-2026-01-BIODIV-03: Pushing the frontier of knowledge and conservation action for deep sea ecosystems............................................................................................. 53 
+Restoring ecosystems for resilient society and economy...................................... 55 
+HORIZON-CL6-2026-01-BIODIV-04: Ensuring continuous effectiveness of protected areas in conserving habitats and species while facing intensifying drivers of biodiversity loss.. 55 
+Transformative change towards a nature positive economy ......................................... 57 
+HORIZON-CL6-2026-01-BIODIV-05: Advancing integrated scenarios and prediction models for informing transition to a nature positive society................................................ 58
+Biodiversity friendly practices in agriculture...................................................................60 
+HORIZON-CL6-2026-01-BIODIV-06: Boosting agrobiodiversity for food security and sustainable competitiveness ................................................................................................. 60 
+Restoring ecosystems for resilient society and economy............................................. 63 
+HORIZON-CL6-2026-01-BIODIV-01-two-stage: Living labs for co-creating solutions for the restoration of ecosystems ............................................................................................... 63 
+HORIZON-CL6-2026-01-BIODIV-02-two-stage: Open topic: Uncovering the causes of specific species’ rapid decline and exploring actionable solutions...................................... 66 
+HORIZON-CL6-2026-01-BIODIV-03-two-stage: Unlocking the potential of citizen action for nature protection and restoration .................................................................................... 68 
+Transformative change towards a nature positive economy ......................................... 70 
+HORIZON-CL6-2026-01-BIODIV-04-two-stage: Mainstreaming and scaling-up evidence-based Nature-Based Solutions towards a nature positive and climate-resilient economy ... 70 
+2027............................................................................................................................... 73 
+Consolidating biodiversity knowledge for nature and society ....................................... 73 
+HORIZON-CL6-2027-01-BIODIV-01: Integrating Remote Sensing and in-situ observations of Biodiversity, towards a fully interoperable observation and data framework .....73 
+HORIZON-CL6-2027-01-BIODIV-02: Science-policy support to the implementation of EU and global biodiversity policies and strategies .............................................................. 76 
+Restoring ecosystems for resilient society and economy.............................................. 79 
+HORIZON-CL6-2027-01-BIODIV-03: Technical innovation to protect ecosystems and to scale up their restoration ...................................................................................................... 79 
+HORIZON-CL6-2027-01-BIODIV-04: Living Labs for the eradication and/or management of invasive alien species....................................................................................................... 81 
+Transformative change towards a nature positive economy ........................................ 84 
+HORIZON-CL6-2027-01-BIODIV-05: Accelerating the transition to a nature positive economy: Integrating biodiversity into the private sector.................................................... 84 
+HORIZON-CL6-2027-01-BIODIV-06: Living labs driving transformative change via knowledge integration and inclusive governance ................................................................ 87 
+HORIZON-CL6-2027-01-BIODIV-07: Health of ecosystems and wild species, predictions and impacts on human health, in the face of existing and emerging stressors, from a One Health approach.................................................................................................................... 90 
+Biodiversity friendly practices in agriculture................................................................. 92 
+HORIZON-CL6-2027-01-BIODIV-08: Fostering common farmland birds and mammals for resilient food production systems................................................................................... 92 
+HORIZON-CL6-2027-01-BIODIV-09: Enhancing the competitiveness of organic crop breeding: focus on intercropping adapted varieties.............................................................. 95 
+
+Destination - Fair, healthy and environment-friendly food systems from primary production to consumption.................................................................................................... 98 
+2026............................................................................................................................... 99 
+Enabling sustainable farming systems ......................................................................... 99 
+HORIZON-CL6-2026-02-FARM2FORK-01: Developing innovative phytosanitary treatments for regulated plant pests to support safe international trade ............................... 99 
+HORIZON-CL6-2026-02-FARM2FORK-02: Tackling pesticide resistance: early detection, management strategies, and foresight ................................................................................ 102 
+HORIZON-CL6-2026-02-FARM2FORK-03: Boosting the competitiveness of protein crops in Europe................................................................................................................... 104 
+HORIZON-CL6-2026-02-FARM2FORK-04: Accelerating the development of breeding tools for perennial crops, specifically fruits and nuts......................................................... 107 
+HORIZON-CL6-2026-02-FARM2FORK-05: Boosting circularity and diversification strategies of terrestrial livestock production systems......................................................... 109 
+HORIZON-CL6-2026-02-FARM2FORK-06: Advanced innovative solutions for improved competitiveness and sustainability in controlled environment agriculture (CEA)............. 112 
+HORIZON-CL6-2026-02-FARM2FORK-07: Strengthening the EU plant protection ecosystem for a future-proof agriculture ............................................................................ 115 
+Enabling sustainable fisheries and aquaculture........................................................... 117 
+HORIZON-CL6-2026-02-FARM2FORK-08: Advancing basic knowledge and developing tools for sustainable management of key migratory fish species....................................... 117 
+Transforming food systems for health, sustainability and inclusion............................. 119 
+HORIZON-CL6-2026-02-FARM2FORK-09: Sustainable and healthy diets for cardiovascular diseases prevention with the support of digital applications ..................... 119 
+HORIZON-CL6-2026-02-FARM2FORK-10: Sustainable and healthy diets based on health status and socio-economic risk factors of ageing population....................................... 121 
+HORIZON-CL6-2026-02-FARM2FORK-11: Integrating a holistic perspective in microbiome research for resilient, competitive and sustainable food systems .................. 123 
+HORIZON-CL6-2026-02-FARM2FORK-12: Leveraging R&I knowledge on microbiome ............................................................................................................................................ 126 
+Targeted international cooperation.............................................................................. 127 
+HORIZON-CL6-2026-02-FARM2FORK-13: Boosting plant health and reducing losses on farm and during storage for sustainable growth in Africa (FNSSA) ................................. 127 
+HORIZON-CL6-2026-02-FARM2FORK-14: Green Transition Food Processing Africa 130 
+Enabling sustainable farming systems ....................................................................... 132 
+HORIZON-CL6-2026-02-FARM2FORK-01-two-stage: Open topic: Improving the competitiveness of the agricultural sector by enhancing the efficient and sustainable use of agricultural production factors ........................................................................................... 132 
+HORIZON-CL6-2026-02-FARM2FORK-02-two-stage: Open topic: Boosting organic farming for a competitive, sustainable and resilient farming sector .................................. 135 
+2027............................................................................................................................. 138 
+Enabling sustainable farming systems ........................................................................ 138 
+HORIZON-CL6-2027-02-FARM2FORK-01: Increasing the resilience of agriculture in water and nutrient-scarce environments through digital innovations ................................ 138 
+HORIZON-CL6-2027-02-FARM2FORK-02: Increasing mitigation of GHG emissions and feed efficiency through feed additives ............................................................................... 141 
+HORIZON-CL6-2027-02-FARM2FORK-03: Microbiome for terrestrial livestock sustainability and health within a One Health approach .................................................... 144 
+HORIZON-CL6-2027-02-FARM2FORK-04: Improving understanding of the contribution of the organic farming sector to sustainability ................................................................... 146 
+HORIZON-CL6-2027-02-FARM2FORK-05: Enhancing farmer's profitability and resilience through innovations for diversified crops and value chains .............................. 148 
+Enabling sustainable fisheries and aquaculture........................................................... 151 
+HORIZON-CL6-2027-02-FARM2FORK-06: Unleashing the potential of sustainable smallscale aquatic food production and recreational fisheries for prosperous local communities ............................................................................................................................................ 151 
+Transforming food systems for health, sustainability and inclusion............................. 153 
+HORIZON-CL6-2027-02-FARM2FORK-07: Towards commercialization of food systems microbiome solutions......................................................................................................... 153 
+HORIZON-CL6-2027-02-FARM2FORK-08: AI-powered foodome characterization..... 154 
+Targeted international cooperation..................................................................................... 156 
+HORIZON-CL6-2027-02-FARM2FORK-09: African Union – European Union Partnership on Food and Nutrition Security and Sustainable Agriculture (FNSSA) ............................ 156 
+Enabling sustainable farming systems ........................................................................ 158 
+HORIZON-CL6-2027-02-FARM2FORK-01-two-stage: Strengthening plant health: addressing emerging plant pest risks.................................................................................. 159 
+Targeted international cooperation.............................................................................. 161 
+HORIZON-CL6-2027-02-FARM2FORK-02-two-stage: Optimising the water-nutrientenergy nexus for sustainable and climate smart agriculture in Africa (FNSSA)..161 
+
+Destination - Circular economy and bioeconomy sectors................................................. 165 
+2026............................................................................................................................. 166 
+Enabling a circular economy transition.........................................................................166 
+HORIZON-CL6-2026-01-CIRCBIO-01: Improving circularity of multilayer flexible plastic food contact packaging....................................................................................................... 166
+HORIZON-CL6-2026-01-CIRCBIO-02: Advancing recycling technologies for mixed postconsumer textiles waste from blended products .............................................................. 169 
+HORIZON-CL6-2026-01-CIRCBIO-03: Advanced recovery of critical raw materials from Waste from Electrical and Electronic Equipment (WEEE) ............................................... 171
+HORIZON-CL6-2026-01-CIRCBIO-04: Demonstrating and deploying innovative collection, sorting-for-reuse and repair systems for textiles at city/region level (Circular Cities and Regions Initiative topic).................................................................................... 173 
+Innovating for sustainable bio-based systems, biotechnology and the bioeconomy.... 175 
+HORIZON-CL6-2026-01-CIRCBIO-05: Understanding biomass flows in Europe...... 175 
+HORIZON-CL6-2026-01-CIRCBIO-06: Bioeconomy policy support hub for Member States, regions and sectors.................................................................................................. 178 
+HORIZON-CL6-2026-01-CIRCBIO-07: Advancing the European bio-based innovation enabled by biotechnology and biomanufacturing concepts ............................................... 180 
+HORIZON-CL6-2026-01-CIRCBIO-08: Supporting pre-normative research for standardization of the bio-based products.......................................................................... 183 
+HORIZON-CL6-2026-01-CIRCBIO-09: Balancing food security, bioeconomy, climate and biodiversity objectives to unlock sustainable value chains................................................ 185 
+HORIZON-CL6-2026-01-CIRCBIO-10: Bio-based innovation in society: supporting the sustainable way of living.................................................................................................... 188 
+Innovating for blue bioeconomy and biotechnology value chains................................ 190
+HORIZON-CL6-2026-01-CIRCBIO-11: Harnessing the unique properties of marine organisms to deliver sustainable blue bio-based products ................................................. 190 
+Enabling a circular economy transition........................................................................ 192 
+HORIZON-CL6-2026-01-CIRCBIO-01-two-stage: Deploying circular systemic solutions through living labs in cities and regions (Circular Cities and Regions Initiative topic) .... 192 
+HORIZON-CL6-2026-01-CIRCBIO-02-two-stage: Open topic: Using the Circular Cities and Regions Initiative to strengthen urban manufacturing in support of the Clean Industrial Deal .................................................................................................................................... 195 
+2027............................................................................................................................. 197 
+Enabling a circular economy transition........................................................................ 197 
+HORIZON-CL6-2027-01-CIRCBIO-01: Enhancing ecodesign and circularity of consumer electronics........................................................................................................................... 197 
+HORIZON-CL6-2027-01-CIRCBIO-02: Enhancing ecodesign and circularity of construction products ......................................................................................................... 199 
+HORIZON-CL6-2027-01-CIRCBIO-03: Developing novel recycling technologies for complex plastic materials applying biotech solutions........................................................ 201 
+HORIZON-CL6-2027-01-CIRCBIO-04: Capacity building for extending product lifecycles through repair and refurbishment....................................................................................... 203 
+HORIZON-CL6-2027-01-CIRCBIO-05: Innovative circular solutions for end-of-life footwear through collection, sorting and recycling............................................................ 205 
+Innovating for sustainable bio-based systems, biotechnology and the bioeconomy..... 207 
+HORIZON-CL6-2027-01-CIRCBIO-06: Towards a Europe of Bioeconomy Places..... 207 
+HORIZON-CL6-2027-01-CIRCBIO-07: Improving biomass flows for a sustainable and circular bioeconomy........................................................................................................... 210
+HORIZON-CL6-2027-01-CIRCBIO-08: Biotechnology application for CCU................. 212
+HORIZON-CL6-2027-01-CIRCBIO-09: Increasing the circularity of bio-based sector: upcycling and recycling for higher value and environmental benefits .............................. 214 
+Safeguarding and sustainably innovating the multiple functions of EU forests ........... 216 
+HORIZON-CL6-2027-01-CIRCBIO-10: Strengthening forest research for the support of Ukraine ............................................................................................................................... 216 
+Enabling a circular economy transition........................................................................ 219 
+HORIZON-CL6-2027-01-CIRCBIO-01-two-stage: Deploying circular systemic solutions through living labs in cities and regions (Circular Cities and Regions Initiative topic) .... 219 
+HORIZON-CL6-2027-01-CIRCBIO-02-two-stage: Open topic: Using the Circular Cities and Regions Initiative to strengthen urban manufacturing in support of the Clean Industrial Deal .................................................................................................................................... 222 
+Destination - Clean environment and zero pollution ................................................... 224 
+2026.............................................................................................................................. 225 
+HORIZON-CL6-2026-01-ZEROPOLLUTION-01: Toward a comprehensive assessment of the disturbance of marine ecosystems by anthropogenic underwater noise....................... 225 
+HORIZON-CL6-2026-01-ZEROPOLLUTION-02: Bioremediation of Ukraine’s ecosystems contaminated by conflicts ............................................................................... 227 
+HORIZON-CL6-2026-01-ZEROPOLLUTION-03: Developing managed aquifer recharge techniques (MAR) in a rural context.................................................................................. 229 
+HORIZON-CL6-2026-01-ZEROPOLLUTION-01-two-stage: Decontaminate and bioremediate aquatic pollution ........................................................................................... 232 
+2027.............................................................................................................................. 234 
+HORIZON-CL6-2027-01-ZEROPOLLUTION-01: Replacing hazardous substances in biocidal products................................................................................................................ 234 
+HORIZON-CL6-2027-01-ZEROPOLLUTION-02: Developing effective air quality planning strategies through innovative multi-scale modelling .......................................... 237 
+HORIZON-CL6-2027-01-ZEROPOLLUTION-03: Improve the capacity to monitor and reduce air pollution from agriculture ................................................................................. 240 
+HORIZON-CL6-2027-01-ZEROPOLLUTION-04: Europe-wide environmental benchmarking system of the industrial bioeconomy sectors.............................................. 242 
+Destination - Land, ocean and water for climate action............................................... 245 
+2026.............................................................................................................................. 246 
+HORIZON-CL6-2026-02-CLIMATE-01: Towards more effective, fair and coherent policies for climate change mitigation and adaptation in agriculture and forestry ............ 246 
+HORIZON-CL6-2026-02-CLIMATE-02: Towards the water infrastructures of the future ................................................................................................................................ 248 
+2027.............................................................................................................................. 251 
+HORIZON-CL6-2027-02-CLIMATE-01: Governance, sustainable development and international politics of a future ice-free Arctic ................................................................. 251
+HORIZON-CL6-2027-02-CLIMATE-02: Strengthening evidence-based policies for the resilience of European agriculture and forestry and related supply chains against crises and systemic risks ..................................................................................................................... 254 
+HORIZON-CL6-2027-02-CLIMATE-03: Carbon farming innovation and scale-up........ 257 
+HORIZON-CL6-2027-02-CLIMATE-04: Unlocking a safe operating space for Antarctica and the Southern Ocean...................................................................................................... 260 
+HORIZON-CL6-2027-02-CLIMATE-01-two-stage: Open topic: Innovative solutions for the European Water Resilience Strategy............................................................................ 263 
+Destination - Resilient, inclusive, healthy and green rural, coastal and urban communities.......................................................................................................................... 267 
+2026..............................................................................................................................268 
+HORIZON-CL6-2026-02-COMMUNITIES-01: Boosting sustainable competitiveness in rural areas through innovation............................................................................................ 268
+2027.................................................................................................................................... 270 
+HORIZON-CL6-2027-02-COMMUNITIES-01: Strengthening rural communities' resilience to shocks............................................................................................................. 270 
+HORIZON-CL6-2027-02-COMMUNITIES-02: Empowering local urban food systems entrepreneurship and innovation ........................................................................................ 272 
+Destination - Innovative governance, environmental observations and digital solutions in support of the Green Deal ................................................................................................... 275 
+2026............................................................................................................................. 276 
+Innovating with governance models and supporting policies....................................... 276 
+HORIZON-CL6-2026-03-GOVERNANCE-01: Additional activities for the Sustainable Blue Economy Partnership (SBEP).................................................................................... 277 
+HORIZON-CL6-2026-03-GOVERNANCE-02: Improving analytical capacity and understanding of social drivers in agriculture to better assess social sustainability in the sector .................................................................................................................................. 280 
+HORIZON-CL6-2026-03-GOVERNANCE-03: Empowering the UN Decade of Ocean Science for Sustainable Development................................................................................ 283 
+HORIZON-CL6-2026-03-GOVERNANCE-04: Supporting All-Atlantic Ocean Research and Innovation Alliance ..................................................................................................... 284 
+Deploying and adding value to environmental observations ....................................... 287 
+HORIZON-CL6-2026-03-GOVERNANCE-05: Coordinated European contribution to the WMO Global Greenhouse Gas Watch and its international governance........................... 287 
+HORIZON-CL6-2026-03-GOVERNANCE-06: A services and business incubator for geospatial open-source developments................................................................................ 290 
+HORIZON-CL6-2026-03-GOVERNANCE-07: Interconnect Earth Observation research for addressing environmental policies................................................................................ 292 
+Digital and data technologies as key enablers............................................................. 294 
+HORIZON-CL6-2026-03-GOVERNANCE-08: Boosting data availability and AI solutions in food for consumers and food service professionals....................................................... 295 
+Strengthening agricultural knowledge and innovation systems (AKIS)....................... 297 
+HORIZON-CL6-2026-03-GOVERNANCE-09: Increasing knowledge flows to practice within AKIS via EU thematic knowledge hubs ................................................................. 297 
+HORIZON-CL6-2026-03-GOVERNANCE-10: Embracing innovation in agriculture by peer-to-peer learning via on farm-demonstrations and cost-benefit analysis..................... 300 
+Deploying and adding value to environmental observations ....................................... 303 
+HORIZON-CL6-2026-03-GOVERNANCE-01-two-stage: Open topic: Develop Earth Intelligence solutions using environmental observations and state-of-the-art AI for sustainable competitiveness and policy making................................................................. 303 
+Innovating with governance models and supporting policies........................................ 305 
+HORIZON-CL6-2026-04-GOVERNANCE-01: Additional activities for the European Partnership of Agriculture of Data ..................................................................................... 305
+2027............................................................................................................................. 308
+Innovating with governance models and supporting policies....................................... 308 
+HORIZON-CL6-2027-03-GOVERNANCE-01: Strengthening the resilience of European farmers through improved capacity in coping with risks and crises.................................. 308 
+HORIZON-CL6-2027-03-GOVERNANCE-02: Improving analytical capacity for sustainable competitiveness of the agricultural sector ....................................................... 311 
+HORIZON-CL6-2027-03-GOVERNANCE-03: International dimension of the circular biobased economy: seeking win-win opportunities ................................................................ 314 
+Digital and data technologies as key enablers............................................................ 316 
+HORIZON-CL6-2027-03-GOVERNANCE-04: AI supporting informed advice for farmers and foresters to improve competitiveness and sustainability ............................................. 316
+Strengthening agricultural knowledge and innovation systems (AKIS).........................319 
+HORIZON-CL6-2027-03-GOVERNANCE-05: Increasing knowledge flows to practice within AKIS via EU thematic knowledge hubs ................................................................. 319 
+HORIZON-CL6-2027-03-GOVERNANCE-06: Fostering generational renewal in agriculture via EU advisory network ................................................................................. 323 
+HORIZON-CL6-2027-03-GOVERNANCE-07: Strengthening strategic advice and synergies between EU and national Research and Innovation agendas and investments.. 325
+Other Actions not subject to calls of proposals............................................ 327

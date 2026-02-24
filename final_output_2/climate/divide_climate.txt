@@ -1,0 +1,117 @@
+Climate sciences and responses for the transformation towards climate neutrality ....... 50 
+HORIZON-CL5-2026-07-D1-01: Next generation climate monitoring and related capabilities............................................................................................................................ 51 
+HORIZON-CL5-2026-07-D1-02: Advancing European climate risk assessments......... 53 
+HORIZON-CL5-2026-07-D1-03: Economics of climate change and cost of inaction .... 56 
+HORIZON-CL5-2026-07-D1-04: Fighting disinformation and effectively communicating on climate change................................................................................................................. 59 
+HORIZON-CL5-2026-07-D1-05: Improving climate and weather models for Africa..... 61 
+HORIZON-CL5-2026-08-Two-Stage-D1-06: Closing knowledge gaps on Earth system science in support of global and regional assessments and climate policy .......................... 64 
+HORIZON-CL5-2027-01-D1-07: Advancing understanding, modelling and prediction of extreme events in a changing climate .................................................................................. 66 
+HORIZON-CL5-2027-01-D1-08: Palaeoclimate science for a better understanding of Earth system dynamics ............................................................................................................. 68 
+HORIZON-CL5-2027-01-D1-09: Assessing the performance of policy instruments to inform climate change mitigation action.............................................................................. 70 
+HORIZON-CL5-2027-01-D1-10: Understanding and avoiding maladaptation to climate change................................................................................................................................... 73 
+HORIZON-CL5-2027-01-D1-11: Africa-EU CO-FUND action on climate....................... 75 
+HORIZON-CL5-2027-01-D1-12: Better understanding and attribution of land and ocean carbon sources and sinks...................................................................................................... 78 
+HORIZON-CL5-2027-01-D1-13: Next generation scenarios for informing climate and sustainability transitions....................................................................................................... 81 
+Cross-sectoral solutions for the climate transition..........................................................85 
+Batteries....................................................................................................................... 85 
+HORIZON-CL5-2026-09-D2-01: Producing battery-grade materials for electrodes through sustainable processing and refining of raw materials or developing bio-based materials (BATT4EU Partnership) ...................................................................................................... 85 
+HORIZON-CL5-2026-03-D2-02: Development of direct recycling processes (BATT4EU Partnership) .......................................................................................................................... 88 
+HORIZON-CL5-2026-10-D2-03: Integrated Production and Product Development for Next-Generation Lithium-based Batteries for Mobility (BATT4EU and Made in Europe Partnerships)......................................................................................................................... 90 
+HORIZON-CL5-2026-09-D2-04: Coordinated topic with India on recycling of EV batteries .............................................................................................................................................. 93 
+HORIZON-CL5-2027-02-D2-05: Improvement of Adaptability, Flexibility and Efficiency of Existing Recycling Processes (BATT4EU Partnership).................................................. 96 
+HORIZON-CL5-2027-02-D2-06: Sustainable and Competitive Cell Production Techniques for Lithium-ion And Sodium-ion Batteries (BATT4EU Partnership) ................................. 98 
+HORIZON-CL5-2027-04-Two-Stage-D2-07: Novel approaches towards next-generation battery concepts, leveraging the enabling role of innovative advanced materials (BATT4EU and IAM4EU Partnerships)................................................................................................ 101 
+HORIZON-CL5-2027-05-D2-08: Demonstration for Long-duration Battery Energy Storage Systems (BATT4EU Partnership)................................................................................ 104 
+Sustainable, secure and competitive energy supply ................................................... 108 
+Global leadership in renewable energy ....................................................................... 110 
+HORIZON-CL5-2026-03-D3-01: Targeting key value chain components for increasing the competitiveness of renewable energy technologies in Europe........................................... 110 
+HORIZON-CL5-2026-04-Two-Stage-D3-02: Next generation of renewable energy technologies........................................................................................................................ 111 
+HORIZON-CL5-2026-09-D3-03: Innovative technologies and solutions to improve wind energy systems supporting the Strategic Energy Technology (SET) Plan on wind........... 114 
+HORIZON-CL5-2026-11-D3-04: De-risking renewable fuel technologies through transnational pre-commercial procurement of renewable fuel industrial value chains...... 121 
+HORIZON-CL5-2026-11-D3-05: Demonstration of solid biofuel supply and conversion to high efficiency CHP from fully sustainable regional value chains.................................... 123 
+HORIZON-CL5-2026-11-D3-06: Resource assessment for deep sedimentary and basement reservoirs.............................................................................................................. 126 
+HORIZON-CL5-2027-02-D3-07: Concentrated solar thermal systems for decarbonising industrial processes ............................................................................................................ 128 
+HORIZON-CL5-2027-02-D3-08: Co-funding Strategic Energy Technology (SET) Plan renewable fuel value chains at EU, national, regional, and local level.............................. 130 
+HORIZON-CL5-2027-02-D3-09: Innovative technologies and solutions to improve wave and tidal energy systems .................................................................................................... 134 
+HORIZON-CL5-2027-02-D3-10: Renewable Energy Valleys in Africa to increase energy security and energy access in Africa .................................................................................. 140 
+HORIZON-CL5-2027-07-D3-11: Demonstration of hydropower technologies for efficient and forward-looking refurbishment of existing hydropower plants................................... 143 
+HORIZON-CL5-2026-03-D3-12: Long-lifetime and optimised use of materials in recyclable Ag and In-free Si PV modules (EUPI-PV Partnership).................................... 145 
+HORIZON-CL5-2026-03-D3-13: Industrial scale up and circularity pathway for IPV technologies (EUPI-PV Partnership) ................................................................................. 147 
+HORIZON-CL5-2026-11-D3-14: Improved system design for innovative PV applications (EUPI-PV Partnership)....................................................................................................... 148 
+HORIZON-CL5-2027-02-D3-15: Production technologies for solar photovoltaics beyond the state-of-the-art (EUPI-PV Partnership)........................................................................ 151 
+HORIZON-CL5-2027-07-D3-16: Industrial processes and equipment for innovative, reliable and scalable tandem technologies (EUPI-PV Partnership)................................... 153 
+HORIZON-CL5-2027-07-D3-17: PV based electrification of the economy: Designing & optimising PV systems supporting industrial electrification and promoting participation in electricity markets (EUPI-PV Partnership)........................................................................ 154 
+Energy systems, grids & storage ................................................................................ 157 
+HORIZON-CL5-2026-03-D3-18: Grid-forming capabilities for more resilient and RESbased electricity grids..................................................................................................... 157 
+HORIZON-CL5-2026-03-D3-19: Affordable and sustainable primary equipment for Future-Ready multi-terminal HVDC Systems................................................................... 159 
+HORIZON-CL5-2026-03-D3-20: Hybrid AI-Control Framework for a next-generation grid-scale energy storage and system integration............................................................... 161 
+HORIZON-CL5-2026-03-D3-21: Novel solutions for off-grid storage of renewable energy for critical infrastructures................................................................................................... 163 
+HORIZON-CL5-2026-03-D3-22: AI-driven forecasting algorithms for Grid and Consumer friendly Energy Sharing – Societal Readiness pilot........................................................... 165 
+HORIZON-CL5-2026-11-D3-23: Data sharing to support the training and development of AI foundation models in the energy sector ........................................................................ 167 
+HORIZON-CL5-2027-02-D3-24: Large scale operational validation and upscaling of stateof-the-art (Generative) AI tools and models powering a next generation digital energy system................................................................................................................................. 169 
+HORIZON-CL5-2027-07-D3-25: Advanced TSO control rooms to enhance grid observability, stability and resilience ................................................................................. 171 
+HORIZON-CL5-2027-07-D3-26: Advanced Distribution Management Systems (ADSM) for more efficient and flexible distribution grids............................................................... 173 
+HORIZON-CL5-2027-07-D3-27: Integrated Approaches for Retrofitting Infrastructures with Innovative Energy Storage Technologies .................................................................. 175 
+HORIZON-CL5-2027-07-D3-28: Community of practice - Data-Driven Decision-Making in 
+Energy ......................................................................................................................... 177 
+Carbon Capture, Utilisation and Storage (CCUS) .......................................................179 
+HORIZON-CL5-2026-03-D3-29: Pre-commercial appraisal for CO2 aquifer storage .. 179 
+HORIZON-CL5-2027-02-D3-30: Advancements in Direct Air Capture ...................... 181 
+HORIZON-CL5-2027-02-D3-31: Support to the implementation of an EU policy framework for CO2 transport and storage infrastructure ................................................... 182 
+HORIZON-CL5-2027-07-D3-32: Delivery of industrial CCUS clusters – Societal 
+Readiness pilot ........................................................................................................... 184 
+Efficient, sustainable and inclusive energy use........................................................... 187 
+Highly energy-efficient and climate neutral European building stock........................... 187 
+HORIZON-CL5-2026-09-D4-01: Researching the technical, social & economic factors impacting the energy performance of Smart Buildings (Built4People Partnership).......... 188 
+HORIZON-CL5-2026-09-D4-02: Low disturbance prefabrication approaches for deep renovation of multi-storey buildings (Built4People Partnership) ...................................... 190
+HORIZON-CL5-2026-09-D4-03: Advanced data platforms to integrate whole life carbon in building information tools, assessments, and certification (Built4People Partnership)..... 192 
+HORIZON-CL5-2026-09-D4-04: Validating policies and business models for affordable and sustainable housing (Built4People Partnership).......................................................... 194 
+HORIZON-CL5-2027-05-D4-05: On-site robotic and automated techniques for building renovation and new construction........................................................................................ 196 
+HORIZON-CL5-2027-05-D4-06: Thermal energy optimisation and waste heat recovery of high energy demand IT rooms in buildings or small edge data centres............................. 198 
+HORIZON-CL5-2027-05-D4-07: Integrating circularity in LCA-based modelling frameworks for renovation of buildings (Built4People Partnership)................................. 200 
+Industry........................................................................................................................ 202 
+HORIZON-CL5-2026-09-D4-08: Full-scale demonstration of heat upgrade solutions in industrial processes ............................................................................................................ 202 
+HORIZON-CL5-2027-05-D4-09: Demonstration of industrial excess/waste heat conversion to mechanical or electrical power......................................................................... 204 
+Clean and competitive solutions for all transport modes............................................. 207 
+Zero-emission road transport ...................................................................................... 208 
+HORIZON-CL5-2026-05-D5-01: Large-scale demonstration of Heavy-Duty Battery Electric Vehicles (HD BEV) towards long-haul logistics operations (2ZERO Partnership) .....208 
+HORIZON-CL5-2026-05-D5-02: Energy-efficient software-defined EVs (2ZERO Partnership) ........................................................................................................................ 211 
+HORIZON-CL5-2027-03-D5-03: Data-driven circular economy for e-mobility ecosystem (2ZERO Partnership).......................................................................................................... 214 
+HORIZON-CL5-2027-03-D5-04: Demonstration of zero emission coaches and buses in long distance operations (2ZERO Partnership).................................................................. 218 
+HORIZON-CL5-2027-03-D5-05: Higher Voltage, Megawatt Charging System compatible, modular powertrain for Heavy Duty Vehicles (HDV) (2ZERO Partnership).................... 220 
+HORIZON-CL5-2027-03-D5-06: Fire prevention and mitigation for EVs in confined areas (2ZERO Partnership).......................................................................................................... 222 
+Aviation........................................................................................................................ 225 
+HORIZON-CL5-2026-05-D5-07: AI-assisted digital aircraft design, manufacturing and MRO, towards a competitive aviation................................................................................ 225 
+HORIZON-CL5-2027-03-D5-08: Sustainable aircraft circular design and additive manufacturing, towards a climate neutral aviation ............................................................ 226 
+HORIZON-CL5-2027-04-Two-Stage-D5-09: Noise reduction breakthroughs for new ultraefficient aircraft........................................................................................................... 228 
+Waterborne transport....................................................................................................229 
+HORIZON-CL5-2026-06-Two-Stage-D5-10: Disruptive Technologies and Innovative Concepts for Energy Saving Onboard of long-distance ships (ZEWT Partnership).......... 229 
+HORIZON-CL5-2026-05-D5-11: Ports of the future (ZEWT Partnership) ................... 232 
+HORIZON-CL5-2026-05-D5-12: Shipyards of the future (ZEWT Partnership) ........... 236 
+HORIZON-CL5-2026-05-D5-13: Safety of renewable low and zero-carbon waterborne fuels in port areas: risk assessment, regulatory framework, and guidelines for safe bunkering, handling and storage (ZEWT partnership)....................................................... 239 
+HORIZON-CL5-2027-03-D5-14: Onboard renewable energy solutions and energy saving measures to reduce the fuel consumption of ships by at least 55% (ZEWT Partnership) . 242 
+HORIZON-CL5-2027-03-D5-15: Prospective evaluation of nuclear power potential for shipping (ZEWT Partnership)............................................................................................ 245 
+HORIZON-CL5-2027-03-D5-16: Autonomous vessels in short sea shipping and inland waterways........................................................................................................................... 248 
+HORIZON-CL5-2027-03-D5-17: Innovative Solutions for mitigating the environmental impact of waterborne transport in marine and aquatic Ecosystems (ZEWT Partnership). 251 
+HORIZON-CL5-2027-03-D5-18: Enhanced electric operation and battery durability (ZEWT Partnership)........................................................................................................... 254 
+Transport-related health and environment .................................................................. 257 
+HORIZON-CL5-2026-06-Two-Stage-D5-19: Non-exhaust emissions in road and railway transport.............................................................................................................................. 257 
+HORIZON-CL5-2027-03-D5-20: Assessing the effect of airport operations on air quality and noise in nearby communities....................................................................................... 260 
+Safe, Resilient Transport and Smart Mobility services for passengers and goods...... 263 
+Connected, Cooperative and Automated Mobility (CCAM) ......................................... 264 
+HORIZON-CL5-2026-10-D6-01: Flagship-pilot: large-scale demonstrations of CCAM (CCAM Partnership) .......................................................................................................... 264 
+HORIZON-CL5-2026-10-D6-02: Geopolitical competition and socioeconomic resilience in CCAM: an innovation and policy roadmap for EU leadership (CCAM Partnership) ....... 268 
+HORIZON-CL5-2026-10-D6-03: Generative AI for smarter CCAM: enhancing perception, decision-making, and validation (CCAM Partnership)...................................................... 272 
+HORIZON-CL5-2027-06-D6-04: Holistic solutions for CCAM integration in critical scenarios (CCAM Partnership) .......................................................................................... 275 
+HORIZON-CL5-2027-06-D6-05: European CCAM knowledge hub and tools for safe and scalable deployment (CCAM Partnership) ........................................................................ 279 
+Multimodal transport, infrastructure and logistics.........................................................281 
+HORIZON-CL5-2026-10-D6-06: Increasing competitiveness and resilience of multimodal freight transport and logistics for competitive supply chains............................................. 281 
+HORIZON-CL5-2026-10-D6-07: Supporting sustainable and smart urban mobility in Europe (CIVITAS)............................................................................................................. 284 
+HORIZON-CL5-2027-06-D6-08: Enhancing Mobility for All: affordable, reliable, and accessible multimodal transport for inclusive rural and urban connectivity – Societal Readiness pilot ................................................................................................................... 287 
+Safety and resilience.................................................................................................... 291 
+HORIZON-CL5-2026-10-D6-09: Road Safety and resilience of rural areas................. 291 
+HORIZON-CL5-2026-10-D6-10: Enhanced resilience in multimodal passenger transport through digital technologies and generative and discriminative AI................................... 294 
+HORIZON-CL5-2027-06-D6-11: Enhancing Resilience and Accuracy in Positioning, Navigation, and Timing (PNT) Systems and e-conspicuity solutions............................... 296 
+Cross-cutting issues..................................................................................................... 298 
+HORIZON-CL5-2027-06-D6-12: Support for dissemination events in the field of Transport Research ................................................................................................................ 298
+Other Actions................................................................................................... 302

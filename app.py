@@ -1,17 +1,3 @@
-"""
-app.py (updated)
-
-Streamlit app for labeling files from final_output_2.
-Files are organized by cluster and can be labeled with multiple categories.
-
-Labels: nlp, wudap, ethics, enviro, operations
-
-CSV output has columns: CallID, nlp, wudap, ethics, enviro, operations
-
-Usage:
-    streamlit run app.py
-"""
-
 import streamlit as st
 import os
 import glob
@@ -25,6 +11,40 @@ FINAL_OUTPUT_DIR = os.path.join(ROOT, "final_output_2")
 CLUSTERS = ["health", "civil", "climate", "culture", "digital", "food"]
 LABEL_COLS = ["NLP", "WUDAP", "ETHICS", "ENVIRO", "OPERATIONS", "none"]
 
+def get_full_call_names(divide_file_path):
+    """Parse divide_cluster file to map call_ids to their full names (with description)."""
+    call_name_map = {}
+    try:
+        with open(divide_file_path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line.startswith("HORIZON-"):
+                    # Extract call_id and full name (everything before the last sequence of dots and a number)
+                    match = re.match(r'^(HORIZON-[^:]+):\s*(.*?)(?:\.+\s+\d+)?\s*$', line)
+                    if match:
+                        call_id = match.group(1)
+                        desc = match.group(2).rstrip('. ').strip()
+                        call_name_map[call_id] = f"{call_id}: {desc}" if desc else call_id
+    except Exception:
+        pass
+    return call_name_map
+
+def extract_after_expected_outcome_for_file(file_path):
+    """Extract text after 'Expected Outcome' (including the line) from a single file."""
+    try:
+        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+            found = False
+            lines = []
+            for line in f:
+                if not found and 'Expected Outcome' in line:
+                    found = True
+                    lines.append(line)  # Include the line itself
+                    continue
+                if found:
+                    lines.append(line)
+        return ''.join(lines)
+    except Exception as e:
+        return f"[Error extracting content: {e}]"
 
 def get_user_csv_path(username):
     """Get user-specific CSV path"""
@@ -133,8 +153,6 @@ def main():
     
     csv_path = get_user_csv_path(username)
 
-    st.title("Final Output Labeler")
-
     # Initialize session state
     if "labels_dict" not in st.session_state:
         st.session_state.labels_dict = load_labels(csv_path)
@@ -158,10 +176,10 @@ def main():
     # Get all txt files in the cluster, sorted by page number from divide file
     txt_files = get_sorted_files(cluster_dir, selected_cluster, ROOT)
     
-    # Load destination mapping for this cluster
-    divide_file_path = os.path.join(ROOT, selected_cluster, f"divide_{selected_cluster}.txt")
+    # Load destination mapping and full call names for this cluster
+    divide_file_path = os.path.join(FINAL_OUTPUT_DIR, selected_cluster, f"divide_{selected_cluster}.txt")
     st.session_state.destination_map = get_destination_mapping(divide_file_path)
-    
+    call_name_map = get_full_call_names(divide_file_path)
     if not txt_files:
         st.warning(f"No txt files found in {selected_cluster}/")
         st.stop()
@@ -210,24 +228,18 @@ def main():
     st.session_state.viewed_calls.add(call_id)
     st.session_state.last_call_id = call_id
 
-    # Get destination for this call
+    # Get full call name for this call_id
+    full_call_name = call_name_map.get(call_id, call_id)
+    st.header(full_call_name)  # Show full call name as main header
+
+    # Get destination for this call_id and display as subheader if available
     destination = st.session_state.destination_map.get(call_id, "")
     if destination:
-        st.header(destination)
-    else:
-        st.header(f"{selected_cluster}")
-    
-    st.subheader(call_id)
+        st.subheader(f"Destination: {destination}")
 
-    # Load file content
-    try:
-        with open(current_path, "r", encoding="utf-8") as f:
-            content = f.read()
-    except Exception as e:
-        content = f"[Error reading file: {e}]"
-
-    # Display content
-    st.text_area("File Content", content, height=600, disabled=True)
+    # Load only the text after 'Expected Outcome' from the file
+    content = extract_after_expected_outcome_for_file(current_path)
+    st.text_area("File Content (after 'Expected Outcome')", content, height=600, disabled=True)
 
     # Labeling section
     st.divider()

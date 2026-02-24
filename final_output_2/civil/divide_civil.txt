@@ -1,0 +1,46 @@
+Destination - Better protect the EU and its citizens against Crime and Terrorism......... 20
+HORIZON-CL3-2026-01-FCT-01: Improving capabilities of law enforcement to counter climate-related challenges.................................................................................................... 23 
+HORIZON-CL3-2026-01-FCT-02: Open topic on preventing and countering the misuse of emerging technologies for criminal purposes, including issues related to lawful access to data ....................................................................................................................................... 26 
+HORIZON-CL3-2026-01-FCT-03: Missing persons: prevention and investigation......... 29 
+HORIZON-CL3-2026-01-FCT-04: Crime prevention approaches, online and off-line, tackling the nexus between addictions and crime ................................................................ 32 
+HORIZON-CL3-2026-01-FCT-05: Enhancing the security of citizens against terrorism and lone-actor violence in confined spaces such as schools......................................................34 
+HORIZON-CL3-2026-01-FCT-06: Prevention and mitigation of misuse of synthetic biology for bioterrorism purposes........................................................................................ 37 
+HORIZON-CL3-2027-01-FCT-01: Online harms detection and investigation tools using a short development cycle model............................................................................................ 39 
+HORIZON-CL3-2027-01-FCT-02: Community policing in diverse societies in Europe . 42 
+HORIZON-CL3-2027-01-FCT-03: Open topic on enhanced prevention, detection and deterrence of societal issues related to various forms of crime............................................ 44 
+HORIZON-CL3-2027-01-FCT-04: Open topic on increasing security of citizens against terrorism, including in public spaces.................................................................................... 47 
+HORIZON-CL3-2027-01-FCT-05: Effective and evidence-based responses to the increased availability and use of synthetic drugs and stimulants in Europe ............................. 50 
+Destination - Effective management of EU external borders............................................. 54 
+HORIZON-CL3-2026-01-BM-01: Advanced border surveillance and situational awareness .......................................................................................................................... 58 
+HORIZON-CL3-2026-01-BM-02: Accessible and available travel facilitation................ 61 
+HORIZON-CL3-2026-01-BM-03: Reliability of age assessment methods in the context of security and border management.......................................................................................... 64 
+HORIZON-CL3-2027-01-BM-01: Open topic on research and innovation for effective management of EU external borders that promotes fundamental rights and EU values...... 67 
+HORIZON-CL3-2027-01-BM-02: Trusted, secure, quality future digital travel credentials .............................................................................................................................................. 69 
+HORIZON-CL3-2027-01-BM-03: Detection and characterisation of threats or illegal/ smuggled goods in cargo...................................................................................................... 71 
+
+Destination - Resilient Infrastructure .................................................................................. 76
+HORIZON-CL3-2026-01-INFRA-01: Tools and processes to support stress tests of critical infrastructure ................................................................................................................. 78 
+HORIZON-CL3-2026-01-INFRA-02: Security challenges of the green transition in urban und peri urban areas ............................................................................................................. 81 
+HORIZON-CL3-2026-01-INFRA-03: Targeted innovative capabilities for the resilience of critical entities to natural and human-induced disasters, including hybrid scenarios.......... 84 
+HORIZON-CL3-2027-01-INFRA-01: Enhancing physical protection of critical infrastructures....................................................................................................................... 87 
+HORIZON-CL3-2027-01-INFRA-02: Impact of malicious use of Open-Source Intelligence on critical infrastructure business continuity........................................................................ 90
+Destination - Cybersecurity................................................................................................... 93 Destination - Disaster-Resilient Society for Europe............................................................ 94
+HORIZON-CL3-2026-01-DRS-01: Designing new ways of risk awareness and enhanced disaster preparedness............................................................................................................ 99 
+HORIZON-CL3-2026-01-DRS-02: Multi-hazard approach and cumulative / cascading impacts ............................................................................................................................... 102 
+HORIZON-CL3-2026-01-DRS-03: Development of innovative tools, processes, equipment and technologies through responses to disasters and emergencies for search and rescue in hazardous conditions........................................................................................... 106 
+HORIZON-CL3-2026-01-DRS-04: Open topic on driving innovation uptake of disaster risk solutions ...................................................................................................................... 109 
+HORIZON-CL3-2026-01-DRS-05: Climate security and civil preparedness – new ways to develop pre- and post-crisis climate-change related scenarios for a more resilient Europe ............................................................................................................................................ 112 
+HORIZON-CL3-2027-01-DRS-01: Open Topic on advanced protective gear optimized for CBRN-E (Chemical, Biological, Radiological, Nuclear, Explosives) environments and new generation of smart protective equipment for disaster responders..................................... 115 
+HORIZON-CL3-2027-01-DRS-02: Societal resilience, engagement of the younger generations and digital innovation for disaster resilience .................................................. 118 
+HORIZON-CL3-2027-01-DRS-03: Enhancing decision support system for disaster crises: leveraging emerging technologies for improved civil preparedness and crisis management ..................................................................................................................... 121 
+HORIZON-CL3-2027-01-DRS-04: Enhancing preparedness for large-scale cross-border disasters.............................................................................................................................. 124 
+
+Destination - Strengthened Security Research and Innovation ....................................... 128 
+HORIZON-CL3-2026-01-SSRI-01: Open topic on supporting disruptive technological innovations for civil security.............................................................................................. 130 
+HORIZON-CL3-2026-01-SSRI-02: Demand-led innovation in security....................... 132 
+HORIZON-CL3-2026-01-SSRI-03: Public procurement of innovation for security .......137 
+HORIZON-CL3-2026-01-SSRI-04: Development of ecosystem and next-generation capabilities for a secured European Critical Communication System in civil security ..... 139 
+HORIZON-CL3-2027-01-SSRI-01: Accelerating uptake through open proposals for advanced SME innovation ................................................................................................. 142 
+HORIZON-CL3-2027-01-SSRI-02: Open grounds for future pre-commercial procurement of innovative security technologies.................................................................................... 146 
+HORIZON-CL3-2027-01-SSRI-03: Demand-led innovation in security....................... 149
+Other actions not subject to calls for proposals ........................................... 154

@@ -1,0 +1,50 @@
+ Destination - Staying healthy in a rapidly changing society............................................... 27
+HORIZON-HLTH-2026-01-STAYHLTH-02: Behavioural interventions as primary prevention for Non-Communicable Diseases (NCDs) among young people ...................... 29
+HORIZON-HLTH-2026-01-STAYHLTH-03: Building public trust and outreach in the life sciences................................................................................................................................. 32
+HORIZON-HLTH-2027-01-STAYHLTH-01: Addressing disabilities through the life course to support independent living and inclusion ............................................................. 36 
+
+Destination - Living and working in a health-promoting environment............................ 41 
+HORIZON-HLTH-2026-01-ENVHLTH-01: Towards a better understanding and anticipation of the impacts of climate change on health ...................................................... 43 
+HORIZON-HLTH-2026-01-ENVHLTH-04: Towards climate resilient, prepared and carbon neutral populations and healthcare systems ............................................................. 47 
+HORIZON-HLTH-2026-01-ENVHLTH-05: Support for a multilateral initiative on climate change and health research................................................................................................... 52 
+HORIZON-HLTH-2027-01-ENVHLTH-02: Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change................. 54 
+HORIZON-HLTH-2027-01-ENVHLTH-MISSCLIMA-03: Tools and technologies to support health adaptation to climate change ........................................................................ 59 
+
+Destination - Tackling diseases and reducing disease burden ........................................... 63 
+HORIZON-HLTH-2026-01-DISEASE-02: Innovative interventions to prevent the harmful effects of using digital technologies on the mental health of children and young adults .... 66 
+HORIZON-HLTH-2026-01-DISEASE-03: Advancing research on the prevention, diagnosis, and management of post-infection long-term conditions.................................... 69 
+HORIZON-HLTH-2026-01-DISEASE-04: Development of novel vaccines for viral pathogens with epidemic potential....................................................................................... 73 
+HORIZON-HLTH-2026-01-DISEASE-09: Multisectoral approach to tackle chronic noncommunicable diseases: implementation research maximising collaboration and coordination with sectors and in settings beyond the healthcare system (GACD) .............. 76 
+HORIZON-HLTH-2026-01-DISEASE-11: Understanding of sex and/or gender-specific mechanisms of cardiovascular diseases: determinants, risk factors and pathways.............. 81 
+HORIZON-HLTH-2026-02-DISEASE-12: European Partnership on Rare Diseases (ERDERA) (Phase 2) ........................................................................................................... 85 
+HORIZON-HLTH-2026-03-DISEASE-13: European Partnership for Pandemic Preparedness (Phase 2)......................................................................................................... 90 
+HORIZON-HLTH-2026-01-DISEASE-15: Scaling up innovation in cardiovascular health .............................................................................................................................................. 96 
+HORIZON-HLTH-2027-02-DISEASE-01-two-stage: Innovative healthcare interventions for non-communicable diseases ........................................................................................... 99 
+HORIZON-HLTH-2027-01-DISEASE-05: Development of novel small molecule antiviral therapeutics for pathogens with epidemic potential........................................................... 104 
+HORIZON-HLTH-2027-01-DISEASE-06: Development of monoclonal antibodies to prevent and treat infections from Flaviviruses................................................................... 107 
+HORIZON-HLTH-2027-01-DISEASE-07: Development of monoclonal antibodies to prevent and treat infections from Filo-, Nairo-, Phenui-, Picorna- and Toga viruses........ 110 
+HORIZON-HLTH-2027-01-DISEASE-08: Development of innovative antimicrobials against pathogens resistant to antimicrobials..................................................................... 113 
+HORIZON-HLTH-2027-01-DISEASE-10: Prevention and management of chronic noncommunicable diseases in children and young people (GACD)........................................ 116 
+HORIZON-HLTH-2027-02-DISEASE-14-two-stage: Clinical trials for advancing innovative interventions for neurodegenerative diseases................................................... 121 
+
+Destination - Ensuring equal access to innovative, sustainable, and high-quality healthcare.............................................................................................................................. 126
+HORIZON-HLTH-2026-01-CARE-01: Public procurement of innovative solutions for improving citizens' access to healthcare through integrated or personalised approaches.. 129 
+HORIZON-HLTH-2026-01-CARE-03: Identifying and addressing low-value care in health and care systems................................................................................................................. 133 
+HORIZON-HLTH-2026-04-CARE-04: Enhancing and enlarging the European Partnership on Personalised Medicine (EP PerMEd) (Top-up) ..........................................136 
+HORIZON-HLTH-2027-01-CARE-02: Personalised approaches to reduce risks from Adverse Drug Reactions due to administration of multiple medications........................... 140 
+
+Destination - Developing and using new tools, technologies and digital solutions for a healthy society....................................................................................................................... 145
+HORIZON-HLTH-2026-01-TOOL-03: Integrating New Approach Methodologies (NAMs) to advance biomedical research and regulatory testing...................................................... 148 
+HORIZON-HLTH-2026-01-TOOL-05: Pilot actions for follow-on funding: Leveraging EU-funded collaborative research in regenerative medicine ............................................. 152 
+HORIZON-HLTH-2026-01-TOOL-06: Support to European Research Area (ERA) action on accelerating New Approach Methodologies (NAMs) to advance biomedical research and testing of medicinal products and medical devices..................................................... 155 
+HORIZON-HLTH-2026-01-TOOL-07: Establishing a European network of Centres of Excellence (CoEs) for Advanced Therapies Medicinal Products (ATMPs)...................... 158 
+HORIZON-HLTH-2027-02-TOOL-01-two-stage: Development of predictive biomarkers of disease progression and treatment response by using AI methodologies for chronic noncommunicable diseases ....................................................................................................162 
+HORIZON-HLTH-2027-03-TOOL-02: Advancing bio-printing of living cells for regenerative medicine ........................................................................................................ 166 
+HORIZON-HLTH-2027-03-TOOL-04: Virtual Human Twins (VHTs) for integrated clinical decision support in prevention and diagnosis........................................................ 169 
+HORIZON-HLTH-2027-03-TOOL-08: Towards Artificial General Intelligence (AGI) for healthcare ........................................................................................................................... 173
+
+Destination - Maintaining an innovative, sustainable, and competitive EU health industry ..... 178 
+HORIZON-HLTH-2026-01-IND-03: Regulatory science to support translational development of patient-centred health technologies.......................................................... 180 
+HORIZON-HLTH-2027-01-IND-01: Development of cell-free protein synthesis platforms for discovery and/or production of biologicals .................................................................. 184 
+HORIZON-HLTH-2027-02-IND-02-two-stage: Portable and versatile Point-of-care diagnostics.......................................................................................................................... 187
+Other Actions not subject to calls for proposals .......................................... 191

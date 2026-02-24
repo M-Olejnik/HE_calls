@@ -1,0 +1,118 @@
+Destination: Leadership in materials and production for Europe .................................... 34 
+Sustainable Advanced Materials, Raw Materials and Chemicals.................................. 36 
+
+HORIZON-CL4-2026-02-MAT-PROD-21-two-stage: Development of safe and sustainable alternatives to substances of concern (IA) ........................................................... 36 
+HORIZON-CL4-2027-01-MAT-PROD-22: Innovative advanced materials and new production processes – reducing dependencies on Critical and Strategic Raw Materials (IA) (Innovative Advanced Materials for the EU and Processes4Planet partnerships)............... 39 
+HORIZON-CL4-2026-01-MAT-PROD-23: Accelerating the discovery and development of chemicals and innovative advanced materials through digitalisation and artificial intelligence (IA) (Innovative Advanced Materials for the EU partnership) ........................ 42 
+HORIZON-CL4-2026-01-MAT-PROD-24: Cooperation on innovative advanced materials with Japan (CSA) ................................................................................................................. 44 
+Fast-tracking Circularity ...................................................................................................... 45 
+HORIZON-CL4-2026-01-MAT-PROD-01: Advanced manufacturing for key products (IA) (Made in Europe partnership) .............................................................................................. 46 
+HORIZON-CL4-2027-01-MAT-PROD-02: Advanced manufacturing for key products (IA) (Made in Europe partnership) .............................................................................................. 48 
+HORIZON-CL4-2027-01-MAT-PROD-03: Factory processes and automation for de- and re-manufacturing (RIA) (Made in Europe partnership) ....................................................... 50 
+HORIZON-CL4-2026-01-MAT-PROD-04: Optimise the usage of resources in a circular economy (RIA) (Processes4Planet and Clean Steel partnerships)....................................... 52 
+HORIZON-CL4-2026-01-MAT-PROD-05: Circular innovative advanced materials: facilitating the transition from design to markets (RIA) (Innovative Advanced Materials for the EU and Made in Europe partnerships) ........................................................................... 55 
+HORIZON-CL4-2027-01-MAT-PROD-06: Circular innovative advanced materials: facilitating the transition from design to markets (RIA) (Innovative Advanced Materials for the EU and Made in Europe partnerships) ........................................................................... 57 
+HORIZON-CL4-2027-01-MAT-PROD-08: Textile circularity through advanced processing and manufacturing technologies and system approaches (IA) (Textiles for the Future partnership)........................................................................................................................... 60 
+Disruptive technologies for carbon capture and clean energy use ............................. 63 
+HORIZON-CL4-2026-01-MAT-PROD-31: Efficient capture / purification / utilisation of CO2 for the production of competitive products (RIA) (Processes4Planet partnership)..... 63 
+HORIZON-CL4-2027-02-MAT-PROD-32-two-stage: Efficient energy input from renewable sources and energy management in the process industries (IA) (Processes4Planet and Innovative Advanced Materials for the EU partnerships)............................................. 65 
+Technology infrastructure, knowledge valorisation and support for scaleups and startups..... 68 
+HORIZON-CL4-2026-01-MAT-PROD-41: Enhancing industry-academia knowledge exchange in Social Sciences and Humanities (SSH) (CSA)................................................ 68 
+HORIZON-CL4-2027-01-MAT-PROD-42: Unlocking the potential of academic intellectual assets for industry, SMEs and startups (CSA)................................................... 70 
+HORIZON-CL4-2027-01-MAT-PROD-61: Fast Track to Research and Innovation for breakthroughs in industrial technologies (Research and Innovation Action) ...................... 71 
+HORIZON-CL4-2027-01-MAT-PROD-62: Fast Track to Innovation for breakthroughs in the Chemical Industry Action Plan (Research and Innovation Action).............................. 73 
+HORIZON-CL4-2026-01-MAT-PROD-44: Attracting management talent for capacity building for Technology Infrastructures staff members (CSA) ........................................... 74 
+HORIZON-CL4-2026-01-MAT-PROD-45: Pilot access schemes to Technology Infrastructures for European startups, scaleups and innovative SMEs (CSA)..................... 76 
+HORIZON-CL4-2026-01-MAT-PROD-46: Mapping and service finder for Technology Infrastructures (CSA) ........................................................................................................... 78 
+HORIZON-CL4-2027-01-MAT-PROD-47: Pilot access schemes to Technology Infrastructures for European startups, scaleups and innovative SMEs (CSA)..................... 80 
+HORIZON-CL4-2026-01-MAT-PROD-48: ‘Proof of market’ to improve valorisation and commercialisation of Horizon generated R&I results (IA).................................................. 82 
+HORIZON-CL4-2027-01-MAT-PROD-49: ‘Proof of market’ to improve valorisation and commercialisation of Horizon generated R&I results (IA).................................................. 84 
+Raw Materials ............................................................................................................... 86 
+HORIZON-CL4-2026-01-MAT-PROD-11: Innovative technologies and tools for exploration and data modelling of raw materials (RIA) ...................................................... 86 
+HORIZON-CL4-2026-01-MAT-PROD-12: Technologies for innovative extraction of critical raw materials (RIA).................................................................................................. 89 
+HORIZON-CL4-2026-01-MAT-PROD-13: Monitoring of secondary raw materials (CSA) .............................................................................................................................................. 92 
+HORIZON-CL4-2026-01-MAT-PROD-14: Improving availability of secondary raw materials through recycling (IA).......................................................................................... 94 
+HORIZON-CL4-2027-01-MAT-PROD-16: Technologies for innovative processing of raw materials (IA) ....................................................................................................................... 97 
+HORIZON-CL4-2027-01-MAT-PROD-17: Expert network on Critical raw materials (CSA) ................................................................................................................................. 100
+Innovative Advanced Materials-based Technologies....................................................102
+HORIZON-CL4-2026-05-MAT-PROD-25: New or enhanced Innovative Advanced Materials (IAM) enabled sensing functionality (RIA)....................................................... 103 
+
+Destination: Developing an agile and secure single market and infrastructure for dataservices and trustworthy artificial intelligence services ................................................... 106 
+Telco-Edge-Cloud continuum/ 3C Network (Connected Collaborative Computing) and Open Internet Stack............................................................................................................ 106 
+HORIZON-CL4-2027-04-DATA-08: Demand-side 3C pilot demonstrators on converged Telco Edge Cloud Infrastructure (IA) ................................................................................ 106 
+HORIZON-CL4-2026-04-DATA-02: Open Internet Stack Sovereign Solutions (RIA)... 110 
+HORIZON-CL4-2026-04-DATA-03: Open Internet Stack Support for Scale (CSA) ....113 
+Achieving the end-to-end AI compute continuum........................................................ 115 
+HORIZON-CL4-2027-04-DATA-03: New approaches for decentralized, federated and sustainable AI data processing (RIA)................................................................................. 115 
+HORIZON-CL4-2027-04-DATA-09: Energy efficiency and sustainability of AI data processing in Data Centres (IA)......................................................................................... 117
+Data (under AI, Data and Robotics partnership).......................................................... 120 
+HORIZON-CL4-2026-04-DATA-06: Efficient and compliant access to and use of data (IA) (AI, Data and Robotics partnership) .................................................................................. 120 
+
+Destination: Achieving open strategic autonomy in digital and emerging enabling technologies........................................................................................................................... 124 
+AI Continent................................................................................................................ 124 
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-01: Apply AI: Pilot of the “Science for AI” Pillar of RAISE (“Resource for AI science in Europe”) (RIA) .................................. 124 
+HORIZON-CL4-2027-04-DIGITAL-EMERGING-11: EU Frontier AI Initiative: Developing frontier AI solutions that are safe and computationally efficient within Apply AI (RIA) ............................................................................................................................. 127 
+HORIZON-CL4-2026-05-DIGITAL-EMERGING-02: Next-Generation AI Agents for Real-World Applications in the Apply AI sectors (RIA) (Partnership in AI, Data and Robotics) ............................................................................................................................ 130 
+HORIZON-CL4-2027-04-DIGITAL-EMERGING-04: Apply AI: Challenge-Driven AI Innovation Booster in Apply AI prioritised sectors (RIA) (Partnership in AI, Data and Robotics) ............................................................................................................................ 133 
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-19: Challenge-Driven GenAI4EU Booster in Apply AI prioritised sectors (RIA) (AI/Data/Robotics Partnership)................ 139 
+HORIZON-CL4-2026-05-DIGITAL-EMERGING-03: Apply AI: Next-Generation Agile and Intelligent Robotics Platforms for Industrial and Service Applications (Partnership in AI, Data and Robotics) (RIA) ............................................................................................ 145 
+HORIZON-CL4-2027-04-DIGITAL-EMERGING-05: Apply AI: AI-Driven Robotics for Industry: Enabling System Integration and Adoption (IA) (Partnership in AI, Data and Robotics) ............................................................................................................................ 148 
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-08: Apply AI: Robotics for Manufacturing: Advancing Core Skills through Technical Challenges (RIA) (Partnership in AI, Data and Robotics)....................................................................................................... 151 
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-09: Advanced Local Digital Twins using AI for Early Warning and Preparedness (IA)........................................................... 156 
+HORIZON-CL4-2027-04-DIGITAL-EMERGING-06: International cooperation in AI (IA) ............................................................................................................................................ 159 
+Quantum...................................................................................................................... 161 
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-11: Grand Challenge on Quantum Sensors for Inertial Navigation .......................................................................................... 161 
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-12: Standards for Quantum Technologies – Coordination and Support Action (CSA) ................................................. 165 
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-18: Large-Scale Photonic Quantum 
+Computing Platform Technologies (RIA)..................................................................... 168 
+Photonics..................................................................................................................... 171 
+HORIZON-CL4-2027-05-DIGITAL-EMERGING-03: Advanced integrated photonic devices for extended features and ultra-low power consumption (RIA) (Photonics Partnership) ........................................................................................................................ 171 
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-14: Networking and Future Photonics Strategy (CSA) (Photonics Partnership) ........................................................................... 173 
+Semiconductors........................................................................................................... 174
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-15: Strengthening the cooperation of semiconductor-intensive EU regions (CSA)...................................................................... 174 
+Other emerging technologies ............................................................................................. 176 
+HORIZON-CL4-2027-04-DIGITAL-EMERGING-10: Horizon scanning and foresight in future enabling digital technologies (CSA)........................................................................ 176 
+HORIZON-CL4-2026-04-DIGITAL-EMERGING-17: Fostering 2-Dimensional Materials (2DM) based emerging and enabling technologies (CSA) ................................................ 178 
+AI for manufacturing and energy-intensive industries.................................................. 179 
+HORIZON-CL4-2026-02-DIGITAL-EMERGING-51-two-stage: AI improved advanced manufacturing and production processes in factories (RIA) (Made in Europe and AI, Data and Robotics partnerships)................................................................................................. 179 
+HORIZON-CL4-2027-02-DIGITAL-EMERGING-52-two-stage: New approaches for Human/AI collaboration for the workforce of the future (RIA) (Made in Europe and AI, Data and Robotics partnerships) ........................................................................................ 182 
+HORIZON-CL4-2026-02-DIGITAL-EMERGING-53-two-stage: Innovative AI methods and technologies for the process industries (RIA) (Processes4Planet and AI, Data and Robotics partnerships)........................................................................................................ 184
+
+Destination: Open Strategic Autonomy in Developing, Deploying and Using Global Space-Based Infrastructure, Services, Applications and Data ........................................ 187
+Heading 1 - Accessing Space ..................................................................................... 192 
+HORIZON-CL4-2026-SPACE-03-11: Reinforcing EU autonomous access to space through EU-based spaceports......................................................................................... 192 
+HORIZON-CL4-2027-SPACE-03-12: Digital solutions for autonomy for space transportation systems, design and simulation tools - Digital enablers and building blocks (Space Partnership) ............................................................................................................ 195 
+Heading 2 - Acting in Space ........................................................................................ 198 
+HORIZON-CL4-2027-SPACE-03-21: ISOS4I Pilot Mission Integrated Ground Test and consolidation of space-compatible USI solutions.............................................................. 198 
+Heading 3 - Using Space on Earth - Telecommunications........................................... 202 
+Headings 3&4 - Using Space on Earth - Telecommunications and Earth Observation.202 
+HORIZON-CL4-2026-SPACE-03-31: Digital enablers and building-blocks for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership).... 202 
+HORIZON-CL4-2026-SPACE-03-32: Preparing demonstration missions for Earth Observation and Satellite telecommunication for Space solutions (Space Partnership).... 206 
+HORIZON-CL4-2027-SPACE-03-33: Digital enablers and building blocks for collaborative Earth Observation and Satellite telecommunications for Space solutions (Space Partnership) ............................................................................................................ 210 
+HORIZON-CL4-2027-SPACE-03-34: Preparing demonstration missions for collaborative Earth Observation and Satellite telecommunication for Space solutions (Space Partnership) ............................................................................................................................................ 213 
+Heading 5 - Using Space on Earth - Satellite navigation............................................. 216 
+Heading 6 - Space sciences and exploration ...........................................................216 
+HORIZON-CL4-2026-SPACE-03-61: Scientific analysis and exploitation of space data.....217 
+Heading 7 - Monitoring Space .................................................................................... 219 
+Heading 8 - Boosting Space through EU non-dependence for critical space technologies.................................................................................... 219 
+HORIZON-CL4-2026-SPACE-03-81: Space critical EEE components for EU nondependence – Radiation Hard FPGA on 7nm ................................................................. 219 
+HORIZON-CL4-2026-SPACE-03-82: Space critical EEE components for EU nondependence – GaN MMICs mm-Wave Foundations (Phase A): Development and Industrialization of Semi-insulating SiC Substrate Capabilities........................................ 223 
+HORIZON-CL4-2026-SPACE-03-85: Critical Facilities Serving Space EEE components for EU non-dependence – High and Very High Energy Irradiation Test Facility Market Deployment ........................................................................................................................ 227 
+HORIZON-CL4-2026-SPACE-03-86: Space critical Equipment for EU non-dependence – Space Refuelling Interface ................................................................................................. 231 
+HORIZON-CL4-2027-SPACE-03-83: Space critical EEE components for EU nondependence .......................................................................................................................235 
+HORIZON-CL4-2027-SPACE-03-84: Space critical equipment for EU non-dependence.................................................................................... 237 
+Heading 9 - Boosting Space through innovative space technologies........................... 240 
+HORIZON-CL4-2027-SPACE-03-71: Quantum Space Gravimetry topic..................... 240 
+Heading 10 - Boosting Space through IOD/IOV opportunities..................................... 244 
+Heading 11 - Boosting Space through support to entrepreneurship............................ 244 
+Heading 12 : Boosting Space through support to the Space Act and cybersecurity ... 244 
+
+Destination: Digital and industrial technologies driving human-centric innovation..... 245 
+Virtual Worlds – Web 4.0 (Partnership) ....................................................................... 245 
+HORIZON-CL4-2026-04-HUMAN-01: Developing and demonstrating core technologies for Virtual Worlds and Web 4.0 (IA) (Virtual worlds Partnership)................................... 245 
+HORIZON-CL4-2026-04-HUMAN-02: Web 4.0 architectural framework and Open Internet Stack applications for virtual worlds (RIA).......................................................... 248 
+HORIZON-CL4-2027-04-HUMAN-01: Advanced and Innovative hardware components for Virtual Worlds (RIA) (Virtual Worlds Partnership)..................................................... 251 
+HORIZON-CL4-2027-04-HUMAN-02: Create a thriving and competitive Virtual Worlds and Web 4.0 ecosystem (CSA) (Virtual Worlds Partnership) ........................................... 253 
+STANDARDISATION – INTERNATIONAL.................................................................. 255 
+HORIZON-CL4-2027-04-HUMAN-07: Facilitate the engagement of European stakeholders in international digital standardisation (CSA)............................................... 255
+Other actions not subject to calls for proposals ........................................... 258
