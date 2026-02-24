@@ -82,13 +82,13 @@ def extract_page_number(divide_file_path, call_id):
     """Extract page number for a call_id from the divide file"""
     try:
         with open(divide_file_path, "r", encoding="utf-8") as f:
-            text = f.read()
-        # Look for lines containing the call_id and extract the page number
-        # Format: CALL_ID: ... page_number
-        pattern = rf"{re.escape(call_id)}:.*?\.+\s*(\d+)"
-        match = re.search(pattern, text)
-        if match:
-            return int(match.group(1))
+            for line in f:
+                line = line.strip()
+                if line.startswith(call_id):
+                    # Extract page number at the end of the line
+                    match = re.search(r'(\d+)$', line)
+                    if match:
+                        return int(match.group(1))
     except Exception:
         pass
     return 10**9  # Return large number if not found
@@ -119,24 +119,22 @@ def get_destination_mapping(divide_file_path):
     try:
         with open(divide_file_path, "r", encoding="utf-8") as f:
             lines = f.readlines()
-        
-        current_destination = None
+        last_non_horizon = None
         for line in lines:
             stripped = line.strip()
-            # Check if this is a destination header line (contains "Destination")
-            if stripped.startswith("Destination"):
-                # Extract destination text (remove page number at the end if present)
-                current_destination = re.sub(r'\.+\s*\d+\s*$', '', stripped).replace("Destination ", "").strip()
-            # Check if this is a call_id line
-            elif stripped.startswith("HORIZON-"):
-                # Extract call_id (everything before the colon)
+            if not stripped:
+                continue
+            if stripped.startswith("HORIZON-"):
                 match = re.match(r'^(HORIZON-[^:]+):', stripped)
-                if match and current_destination:
+                if match and last_non_horizon:
                     call_id = match.group(1)
-                    destination_map[call_id] = current_destination
+                    # Remove trailing dots and page numbers
+                    dest = re.sub(r'\.+\s*\d+$', '', last_non_horizon).strip()
+                    destination_map[call_id] = dest
+            else:
+                last_non_horizon = stripped
     except Exception:
         pass
-    
     return destination_map
 
 
@@ -174,7 +172,7 @@ def main():
         st.stop()
     
     # Get all txt files in the cluster, sorted by page number from divide file
-    txt_files = get_sorted_files(cluster_dir, selected_cluster, ROOT)
+    txt_files = get_sorted_files(cluster_dir, selected_cluster, FINAL_OUTPUT_DIR)
     
     # Load destination mapping and full call names for this cluster
     divide_file_path = os.path.join(FINAL_OUTPUT_DIR, selected_cluster, f"divide_{selected_cluster}.txt")
