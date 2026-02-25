@@ -235,9 +235,23 @@ def main():
     if destination:
         st.subheader(f"Destination: {destination}")
 
-    # Load only the text after 'Expected Outcome' from the file
-    content = extract_after_expected_outcome_for_file(current_path)
-    st.text_area("File Content (after 'Expected Outcome')", content, height=600, disabled=True)
+    # Load text after and before 'Expected Outcome' from the file
+    content_after = extract_after_expected_outcome_for_file(current_path)
+    def extract_before_expected_outcome_for_file(file_path):
+        try:
+            with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                lines = []
+                for line in f:
+                    if 'Expected Outcome' in line:
+                        break
+                    lines.append(line)
+            return ''.join(lines)
+        except Exception as e:
+            return f"[Error extracting content: {e}]"
+    content_before = extract_before_expected_outcome_for_file(current_path)
+    col1, col2 = st.columns(2)
+    col1.text_area("File Content (after 'Expected Outcome')", content_after, height=600, disabled=True)
+    col2.text_area("File Content (before 'Expected Outcome')", content_before, height=600, disabled=True)
 
     # Labeling section
     st.divider()
